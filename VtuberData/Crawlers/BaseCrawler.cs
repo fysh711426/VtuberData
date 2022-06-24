@@ -16,6 +16,7 @@ namespace VtuberData.Crawlers
         public BaseCrawler()
         {
             _httpClient = Http.Client;
+            _httpClient.DefaultRequestHeaders.ConnectionClose = true;
             _httpClient.DefaultRequestHeaders.Add("User-Agent", userAgent);
         }
 
