@@ -12,7 +12,7 @@ namespace VtuberData
                 Directory.CreateDirectory(dataDir);
             var filePath = Path.Combine(dataDir, "Vtubers.csv");
             var vtuberCrawler = new VtuberCrawler();
-            vtuberCrawler.Load(filePath);
+            await vtuberCrawler.Load(filePath);
             await vtuberCrawler.CreateOrUpdateVtubersTw();
             await vtuberCrawler.CreateOrUpdateVtubersJp();
             await vtuberCrawler.Save();

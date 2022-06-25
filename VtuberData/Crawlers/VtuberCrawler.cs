@@ -26,7 +26,7 @@ namespace VtuberData.Crawlers
             ShouldQuote = (args) => true
         };
 
-        public void Load(string path)
+        public async Task Load(string path)
         {
             _id = 1;
             _now = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
@@ -38,7 +38,8 @@ namespace VtuberData.Crawlers
                 using (var reader = new StreamReader(_path, new UTF8Encoding(true)))
                 using (var csv = new CsvReader(reader, _configuration))
                 {
-                    _recordDict = csv.GetRecords<Vtuber>()
+                    var records = await csv.GetRecordsExAsync<Vtuber>();
+                    _recordDict = records
                         .ToDictionary(it => it.ChannelUrl);
                 }
             }
