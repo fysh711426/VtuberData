@@ -26,5 +26,9 @@ namespace VtuberData.Crawlers
             var num = _random.Next(min, max);
             await Task.Delay(num);
         }
+        protected static async Task SleepRandom()
+        {
+            await SleepRandom(200, 500);
+        }
     }
 }

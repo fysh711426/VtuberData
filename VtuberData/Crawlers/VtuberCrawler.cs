@@ -22,7 +22,6 @@ namespace VtuberData.Crawlers
         private Dictionary<string, Vtuber> _recordDict = new Dictionary<string, Vtuber>();
         private CsvConfiguration _configuration = new CsvConfiguration(CultureInfo.InvariantCulture)
         {
-            Encoding = Encoding.UTF8,
             HasHeaderRecord = true,
             ShouldQuote = (args) => true
         };
@@ -36,7 +35,7 @@ namespace VtuberData.Crawlers
 
             if (File.Exists(_path))
             {
-                using (var reader = new StreamReader(_path))
+                using (var reader = new StreamReader(_path, new UTF8Encoding(true)))
                 using (var csv = new CsvReader(reader, _configuration))
                 {
                     _recordDict = csv.GetRecords<Vtuber>()
@@ -47,7 +46,7 @@ namespace VtuberData.Crawlers
 
         public async Task Save()
         {
-            using (var writer = new StreamWriter(_path))
+            using (var writer = new StreamWriter(_path, false, new UTF8Encoding(true)))
             using (var csv = new CsvWriter(writer, _configuration))
             {
                 csv.WriteHeader<Vtuber>();
@@ -58,7 +57,10 @@ namespace VtuberData.Crawlers
                     var order = _recordDict
                         .Select(it => it.Value)
                         .ToList();
-                    var maxId = order.Count;
+                    var maxId = order
+                        .Where(it => it.Id > 0)
+                        .OrderByDescending(it => it.Id)
+                        .FirstOrDefault()?.Id ?? 0;
                     foreach (var item in order)
                     {
                         if (item.Id < 0)
@@ -69,7 +71,9 @@ namespace VtuberData.Crawlers
                 }
             }
             var _time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-            Console.WriteLine($"[{_time}] Save data success.");
+            var ts = DateTime.Parse(_time) - DateTime.Parse(_now);
+            var str = (ts.Hours.ToString("00") == "00" ? "" : ts.Hours.ToString("00") + "h") + ts.Minutes.ToString("00") + "m" + ts.Seconds.ToString("00") + "s";
+            Console.WriteLine($"[{_time}] Save data success. @ {str}");
         }
 
         public async Task CreateOrUpdateVtubersTw()
@@ -129,7 +133,7 @@ namespace VtuberData.Crawlers
                     {
                         Console.WriteLine($"[Error] {channelId}");
                         Console.WriteLine(ex.Message);
-                        await SleepRandom(500, 1500);
+                        await SleepRandom();
                         continue;
                     }
                     var model = null as Vtuber;
@@ -164,7 +168,7 @@ namespace VtuberData.Crawlers
                             Console.WriteLine($"[{time}] Update vtuber {model.Name}");
                         }
                     }
-                    await SleepRandom(500, 1500);
+                    await SleepRandom();
                 }
             }
 
@@ -202,8 +206,11 @@ namespace VtuberData.Crawlers
             }
         }
 
+        private Dictionary<string, string> _cacheChannelUrl = new Dictionary<string, string>();
         public async Task CreateOrUpdateVtubersJp()
         {
+            _cacheChannelUrl = new Dictionary<string, string>();
+
             IEnumerable<(string userId, string name, string group)>
                 MapVtuber(string html)
             {
@@ -245,6 +252,7 @@ namespace VtuberData.Crawlers
                             .Groups[1].Value.Trim();
                         if (youtubeUrl == "")
                             continue;
+                        _cacheChannelUrl[item.userId] = youtubeUrl;
 
                         var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                         var channelId = youtubeUrl.Replace("https://www.youtube.com/channel/", "");
@@ -258,7 +266,7 @@ namespace VtuberData.Crawlers
                         {
                             Console.WriteLine($"[Error] {channelId}");
                             Console.WriteLine(ex.Message);
-                            await SleepRandom(500, 1500);
+                            await SleepRandom();
                             continue;
                         }
                         var model = null as Vtuber;
@@ -289,7 +297,7 @@ namespace VtuberData.Crawlers
                                 Console.WriteLine($"[{time}] Update vtuber {model.Name}");
                             }
                         }
-                        await SleepRandom(500, 1500);
+                        await SleepRandom();
                     }
                 }
             }
@@ -319,14 +327,9 @@ namespace VtuberData.Crawlers
 
                     foreach (var item in vtubers)
                     {
-                        var _url = $"https://virtual-youtuber.userlocal.jp/schedules/new?youtube={item.userId}";
-                        using var _response = await clinet.GetAsync(_url);
-                        var _html = await _response.Content.ReadAsStringAsync();
-
-                        var youtubeUrl = Regex.Match(_html, @"<input size=""64.*?value=""(https:\/\/www\.youtube\.com\/channel\/.*?)"" name=""live_schedule")
-                            .Groups[1].Value.Trim();
-                        if (youtubeUrl == "")
+                        if (!_cacheChannelUrl.ContainsKey(item.userId))
                             continue;
+                        var youtubeUrl = _cacheChannelUrl[item.userId];
                         if (!_recordDict.ContainsKey(youtubeUrl))
                             continue;
 
@@ -339,7 +342,7 @@ namespace VtuberData.Crawlers
                                 var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                                 Console.WriteLine($"[{time}] Update area {model.Name}");
                             }
-                        await SleepRandom(500, 1500);
+                        await SleepRandom();
                     }
                 }
 
@@ -379,14 +382,9 @@ namespace VtuberData.Crawlers
 
                         foreach (var item in vtubers)
                         {
-                            var _url = $"https://virtual-youtuber.userlocal.jp/schedules/new?youtube={item.userId}";
-                            using var _response = await clinet.GetAsync(_url);
-                            var _html = await _response.Content.ReadAsStringAsync();
-
-                            var youtubeUrl = Regex.Match(_html, @"<input size=""64.*?value=""(https:\/\/www\.youtube\.com\/channel\/.*?)"" name=""live_schedule")
-                                .Groups[1].Value.Trim();
-                            if (youtubeUrl == "")
+                            if (!_cacheChannelUrl.ContainsKey(item.userId))
                                 continue;
+                            var youtubeUrl = _cacheChannelUrl[item.userId];
                             if (!_recordDict.ContainsKey(youtubeUrl))
                                 continue;
 
@@ -399,7 +397,7 @@ namespace VtuberData.Crawlers
                                     var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                                     Console.WriteLine($"[{time}] Update area {model.Name}");
                                 }
-                            await SleepRandom(500, 1500);
+                            await SleepRandom();
                         }
                     }
                 }
