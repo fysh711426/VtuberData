@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace VtuberData.Extensions
 {
-    internal static class PipeExtensions
+    internal static class PipeExtension
     {
         internal static TResult Pipe<TSource, TResult>(this TSource source, Func<TSource, TResult> selector)
         {

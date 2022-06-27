@@ -9,7 +9,7 @@ namespace VtuberData.Extensions
 {
     internal static class CsvHelperExtension
     {
-        internal static Task<IEnumerable<T>> GetRecordsExAsync<T>(this CsvReader reader)
+        internal static Task<IEnumerable<T>> GetAllRecordsAsync<T>(this CsvReader reader)
         {
             var tcs = new TaskCompletionSource<IEnumerable<T>>();
             Task.Run(() =>

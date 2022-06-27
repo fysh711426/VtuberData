@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using VtuberData.Extensions;
 using VtuberData.Models;
 using YoutubeParser;
+using YoutubeParser.Channels;
 using YoutubeParser.Models;
 
 namespace VtuberData.Crawlers
@@ -18,8 +19,7 @@ namespace VtuberData.Crawlers
     {
         private int _id = 1;
         private string _now = "";
-        private string _path = "";
-        private Dictionary<string, Vtuber> _recordDict = new Dictionary<string, Vtuber>();
+        private Dictionary<string, Vtuber> _vtuberDict = new Dictionary<string, Vtuber>();
         private CsvConfiguration _configuration = new CsvConfiguration(CultureInfo.InvariantCulture)
         {
             HasHeaderRecord = true,
@@ -30,32 +30,31 @@ namespace VtuberData.Crawlers
         {
             _id = 1;
             _now = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-            _path = path;
-            _recordDict = new Dictionary<string, Vtuber>();
+            _vtuberDict = new Dictionary<string, Vtuber>();
 
-            if (File.Exists(_path))
+            if (File.Exists(path))
             {
-                using (var reader = new StreamReader(_path, new UTF8Encoding(true)))
+                using (var reader = new StreamReader(path, new UTF8Encoding(true)))
                 using (var csv = new CsvReader(reader, _configuration))
                 {
-                    var records = await csv.GetRecordsExAsync<Vtuber>();
-                    _recordDict = records
+                    var records = await csv.GetAllRecordsAsync<Vtuber>();
+                    _vtuberDict = records
                         .ToDictionary(it => it.ChannelUrl);
                 }
             }
         }
 
-        public async Task Save()
+        public async Task Save(string path)
         {
-            using (var writer = new StreamWriter(_path, false, new UTF8Encoding(true)))
+            using (var writer = new StreamWriter(path, false, new UTF8Encoding(true)))
             using (var csv = new CsvWriter(writer, _configuration))
             {
                 csv.WriteHeader<Vtuber>();
                 csv.NextRecord();
 
-                if (_recordDict.Count > 0)
+                if (_vtuberDict.Count > 0)
                 {
-                    var order = _recordDict
+                    var order = _vtuberDict
                         .Select(it => it.Value)
                         .ToList();
                     var maxId = order
@@ -74,7 +73,7 @@ namespace VtuberData.Crawlers
             var _time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
             var ts = DateTime.Parse(_time) - DateTime.Parse(_now);
             var str = (ts.Hours.ToString("00") == "00" ? "" : ts.Hours.ToString("00") + "h") + ts.Minutes.ToString("00") + "m" + ts.Seconds.ToString("00") + "s";
-            Console.WriteLine($"[{_time}] Save data success. @ {str}");
+            Console.WriteLine($"[{_time}] Save vtubers success. @ {str}");
         }
 
         public async Task CreateOrUpdateVtubersTw()
@@ -106,7 +105,7 @@ namespace VtuberData.Crawlers
                 var url = "https://vt.cdein.cc/list/?a=a&o=D";
                 using var response = await clinet.GetAsync(url);
                 var html = await response.Content.ReadAsStringAsync();
-                var vtubers = MapVtuber(html);
+                var vtubers = MapVtuber(html).ToList();
 
                 Status getStatus(string status)
                 {
@@ -117,18 +116,27 @@ namespace VtuberData.Crawlers
                     return Status.Activity;
                 }
 
+                var index = 0;
+                var count = vtubers.Count;
                 foreach (var item in vtubers)
                 {
+                    index++;
                     if (item.youtubeUrl == "")
+                        continue;
+
+                    var model = _vtuberDict.ContainsKey(item.youtubeUrl)
+                        ? _vtuberDict[item.youtubeUrl] : null;
+                    if (model?.Status != Status.Prepare &&
+                        model?.Status != Status.Activity)
                         continue;
 
                     var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                     var channelId = item.youtubeUrl.Replace("https://www.youtube.com/channel/", "");
-                    var youtubeChannel = new YoutubeChannel(channelId);
-                    var info = null as Info;
+                    var youtube = new YoutubeClient();
+                    var info = null as Channel;
                     try
                     {
-                        info = await youtubeChannel.GetInfoAsync();
+                        info = await youtube.Channel.GetAsync(channelId);
                     }
                     catch (Exception ex)
                     {
@@ -137,9 +145,10 @@ namespace VtuberData.Crawlers
                         await SleepRandom();
                         continue;
                     }
-                    var model = null as Vtuber;
                     var status = getStatus(item.status);
-                    if (!_recordDict.ContainsKey(item.youtubeUrl))
+                    if (info.Title == "")
+                        status = Status.Graduate;
+                    if (model == null)
                     {
                         model = new Vtuber();
                         model.Id = (_id++) * -1;
@@ -150,14 +159,17 @@ namespace VtuberData.Crawlers
                         model.CreateTime = _now;
                         model.ChannelName = info.Title;
                         model.Thumbnail = info.Thumbnails.LastOrDefault()?.Url ?? "";
-                        _recordDict.Add(item.youtubeUrl, model);
-                        Console.WriteLine($"[{time}] Create vtuber {model.Name}");
+                        _vtuberDict.Add(item.youtubeUrl, model);
+                        Console.WriteLine($"[{time}][{index}/{count}] Create tw vtuber {model.Name}");
                     }
                     else
                     {
-                        model = _recordDict[item.youtubeUrl];
-                        if (model.Status != Status.Closure)
+                        if (model.Status == Status.Prepare ||
+                            model.Status == Status.Activity)
                         {
+                            // If the status changed from prepare to activity, update the time.
+                            if (status == Status.Activity && model.Status == Status.Prepare)
+                                model.CreateTime = _now;
                             //if (item.name != "")
                             //    model.Name = item.name;
                             if (info.Title != "")
@@ -166,7 +178,7 @@ namespace VtuberData.Crawlers
                                 model.Thumbnail = info.Thumbnails.LastOrDefault()?.Url ?? "";
                             model.Area = "TW";
                             model.Status = status;
-                            Console.WriteLine($"[{time}] Update vtuber {model.Name}");
+                            Console.WriteLine($"[{time}][{index}/{count}] Update tw vtuber {model.Name}");
                         }
                     }
                     await SleepRandom();
@@ -191,17 +203,16 @@ namespace VtuberData.Crawlers
                     {
                         if (item.youtubeUrl == "")
                             continue;
-                        if (!_recordDict.ContainsKey(item.youtubeUrl))
+                        if (!_vtuberDict.ContainsKey(item.youtubeUrl))
                             continue;
 
-                        var model = _recordDict[item.youtubeUrl];
+                        var model = _vtuberDict[item.youtubeUrl];
                         if (model.Id < 0)
-                            if (model.Status != Status.Closure)
-                            {
-                                model.Area = tag.area;
-                                var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                                Console.WriteLine($"[{time}] Update area {model.Name}");
-                            }
+                        {
+                            model.Area = tag.area;
+                            var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                            Console.WriteLine($"[{time}] Update area {model.Name}");
+                        }
                     }
                 }
             }
@@ -228,6 +239,8 @@ namespace VtuberData.Crawlers
 
             // Update Vtuber Data JP
             {
+                var index = 0;
+                var count = 2000;
                 for (var i = 0; i < 40; i++)
                 {
                     var clinet = _httpClient;
@@ -245,6 +258,8 @@ namespace VtuberData.Crawlers
 
                     foreach (var item in vtubers)
                     {
+                        index++;
+
                         var _url = $"https://virtual-youtuber.userlocal.jp/schedules/new?youtube={item.userId}";
                         using var _response = await clinet.GetAsync(_url);
                         var _html = await _response.Content.ReadAsStringAsync();
@@ -253,41 +268,48 @@ namespace VtuberData.Crawlers
                             .Groups[1].Value.Trim();
                         if (youtubeUrl == "")
                             continue;
+                        var model = _vtuberDict.ContainsKey(youtubeUrl)
+                            ? _vtuberDict[youtubeUrl] : null;
+                        if (model?.Status != Status.Prepare &&
+                            model?.Status != Status.Activity)
+                            continue;
                         _cacheChannelUrl[item.userId] = youtubeUrl;
 
                         var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                         var channelId = youtubeUrl.Replace("https://www.youtube.com/channel/", "");
-                        var youtubeChannel = new YoutubeChannel(channelId);
-                        var info = null as Info;
+                        var youtube = new YoutubeClient();
+                        var info = null as Channel;
                         try
                         {
-                            info = await youtubeChannel.GetInfoAsync();
+                            info = await youtube.Channel.GetAsync(channelId);
                         }
-                        catch(Exception ex)
+                        catch (Exception ex)
                         {
                             Console.WriteLine($"[Error] {channelId}");
                             Console.WriteLine(ex.Message);
                             await SleepRandom();
                             continue;
                         }
-                        var model = null as Vtuber;
-                        if (!_recordDict.ContainsKey(youtubeUrl))
+                        var status = Status.Activity;
+                        if (info.Title == "")
+                            status = Status.Graduate;
+                        if (model == null)
                         {
                             model = new Vtuber();
                             model.Id = (_id++) * -1;
                             model.ChannelUrl = youtubeUrl;
                             model.Name = item.name;
-                            model.Status = Status.Activity;
+                            model.Status = status;
                             model.CreateTime = _now;
                             model.ChannelName = info.Title;
                             model.Thumbnail = info.Thumbnails.LastOrDefault()?.Url ?? "";
-                            _recordDict.Add(youtubeUrl, model);
-                            Console.WriteLine($"[{time}] Create vtuber {model.Name}");
+                            _vtuberDict.Add(youtubeUrl, model);
+                            Console.WriteLine($"[{time}][{index}/{count}] Create jp vtuber {model.Name}");
                         }
                         else
                         {
-                            model = _recordDict[youtubeUrl];
-                            if (model.Status != Status.Closure)
+                            if (model.Status == Status.Prepare ||
+                                model.Status == Status.Activity)
                             {
                                 //if (item.name != "")
                                 //    model.Name = item.name;
@@ -295,7 +317,7 @@ namespace VtuberData.Crawlers
                                     model.ChannelName = info.Title;
                                 if (info.Thumbnails.Count > 0)
                                     model.Thumbnail = info.Thumbnails.LastOrDefault()?.Url ?? "";
-                                Console.WriteLine($"[{time}] Update vtuber {model.Name}");
+                                Console.WriteLine($"[{time}][{index}/{count}] Update jp vtuber {model.Name}");
                             }
                         }
                         await SleepRandom();
@@ -331,18 +353,17 @@ namespace VtuberData.Crawlers
                         if (!_cacheChannelUrl.ContainsKey(item.userId))
                             continue;
                         var youtubeUrl = _cacheChannelUrl[item.userId];
-                        if (!_recordDict.ContainsKey(youtubeUrl))
+                        if (!_vtuberDict.ContainsKey(youtubeUrl))
                             continue;
 
-                        var model = _recordDict[youtubeUrl];
+                        var model = _vtuberDict[youtubeUrl];
                         if (model.Id < 0)
-                            if (model.Status != Status.Closure)
-                            {
-                                model.Company = "Hololive";
-                                model.Group = getGroup(item.group);
-                                var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                                Console.WriteLine($"[{time}] Update area {model.Name}");
-                            }
+                        {
+                            model.Company = "Hololive";
+                            model.Group = getGroup(item.group);
+                            var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                            Console.WriteLine($"[{time}] Update company {model.Name}");
+                        }
                         await SleepRandom();
                     }
                 }
@@ -386,18 +407,17 @@ namespace VtuberData.Crawlers
                             if (!_cacheChannelUrl.ContainsKey(item.userId))
                                 continue;
                             var youtubeUrl = _cacheChannelUrl[item.userId];
-                            if (!_recordDict.ContainsKey(youtubeUrl))
+                            if (!_vtuberDict.ContainsKey(youtubeUrl))
                                 continue;
 
-                            var model = _recordDict[youtubeUrl];
+                            var model = _vtuberDict[youtubeUrl];
                             if (model.Id < 0)
-                                if (model.Status != Status.Closure)
-                                {
-                                    model.Company = "彩虹社";
-                                    model.Group = getGroup(item.group);
-                                    var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                                    Console.WriteLine($"[{time}] Update area {model.Name}");
-                                }
+                            {
+                                model.Company = "彩虹社";
+                                model.Group = getGroup(item.group);
+                                var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                                Console.WriteLine($"[{time}] Update company {model.Name}");
+                            }
                             await SleepRandom();
                         }
                     }

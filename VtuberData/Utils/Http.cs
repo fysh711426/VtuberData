@@ -6,7 +6,7 @@ namespace YoutubeParser.Utils
 {
     internal static class Http
     {
-        private static readonly Lazy<HttpClient> HttpClientLazy = new Lazy<HttpClient>(() =>
+        private static readonly Lazy<HttpClient> HttpClientLazy = new(() =>
         {
             var handler = new HttpClientHandler
             {
