@@ -28,7 +28,7 @@ namespace VtuberData.Crawlers
         }
         protected static async Task SleepRandom()
         {
-            await SleepRandom(200, 700);
+            await SleepRandom(1000, 1500);
         }
     }
 }

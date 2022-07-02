@@ -10,12 +10,7 @@
   <ItemGroup>
     <PackageReference Include="CsvHelper" Version="27.2.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="YoutubeParser">
-      <HintPath>..\..\YoutubeParser\YoutubeParser\bin\Debug\net6.0\YoutubeParser.dll</HintPath>
-    </Reference>
+    <PackageReference Include="YoutubeParser" Version="1.0.2" />
   </ItemGroup>
 
 </Project>

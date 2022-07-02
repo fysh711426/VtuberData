@@ -1,4 +1,6 @@
 ﻿using VtuberData.Crawlers;
+using VtuberData.Models;
+using VtuberData.Storages;
 
 namespace VtuberData
 {
@@ -20,6 +22,7 @@ namespace VtuberData
             else
             {
                 action = args[0];
+                waitfor = true;
             }
 
             try
@@ -28,29 +31,44 @@ namespace VtuberData
                 var dataDir = Path.Combine(workDir, "Data");
                 if (!Directory.Exists(dataDir))
                     Directory.CreateDirectory(dataDir);
-                var vtuberFilePath = Path.Combine(dataDir, "Vtubers.csv");
+                var vtuberPath = Path.Combine(dataDir, "Vtubers.csv");
+
+                var now = DateTime.Now;
+                var month = now.ToString("yyyy-MM");
+                var time = now.ToString("yyyy-MM-dd_HH-mm-ss");
+                var monthDir = Path.Combine(dataDir, month);
+                if (!Directory.Exists(monthDir))
+                    Directory.CreateDirectory(monthDir);
+                var dataPath = Path.Combine(monthDir, $"Data_{time}.csv");
+
+                var db = new DbContext();
+                db.Vtubers = new(vtuberPath, it => it.ChannelUrl);
+                db.Datas = new(dataPath, it => it.ChannelUrl);
+
+                var vtuberCrawler = new VtuberCrawler(now, db);
+                await vtuberCrawler.Load();
 
                 if (action == "vtuber")
                 {
-                    var vtuberCrawler = new VtuberCrawler();
-                    await vtuberCrawler.Load(vtuberFilePath);
                     await vtuberCrawler.CreateOrUpdateVtubersTw();
                     await vtuberCrawler.CreateOrUpdateVtubersJp();
-                    await vtuberCrawler.Save(vtuberFilePath);
+                    await vtuberCrawler.Save();
+
+                    var _time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                    var ts = DateTime.Parse(_time) - now;
+                    var str = (ts.Hours.ToString("00") == "00" ? "" : ts.Hours.ToString("00") + "h") + ts.Minutes.ToString("00") + "m" + ts.Seconds.ToString("00") + "s";
+                    Console.WriteLine($"[{_time}] Save vtubers success. @ {str}");
                 }
-                else if (action == "data")
+                if (action == "vtuber" || action == "data")
                 {
-                    var now = DateTime.Now;
-                    var month = now.ToString("yyyy-MM");
-                    var time = now.ToString("yyyy-MM-dd_HH-mm-ss");
-                    var monthDir = Path.Combine(dataDir, month);
-                    if (!Directory.Exists(monthDir))
-                        Directory.CreateDirectory(monthDir);
-                    var dataFilePath = Path.Combine(monthDir, $"Data_{time}.csv");
-                    var dataCrawler = new DataCrawler();
-                    await dataCrawler.Load(vtuberFilePath);
+                    var dataCrawler = new DataCrawler(now, db);
                     await dataCrawler.CreateAndCalcData();
-                    await dataCrawler.Save(dataFilePath);
+                    await dataCrawler.Save();
+
+                    var _time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                    var ts = DateTime.Parse(_time) - now;
+                    var str = (ts.Hours.ToString("00") == "00" ? "" : ts.Hours.ToString("00") + "h") + ts.Minutes.ToString("00") + "m" + ts.Seconds.ToString("00") + "s";
+                    Console.WriteLine($"[{_time}] Save data success. @ {str}");
                 }
                 else
                 {

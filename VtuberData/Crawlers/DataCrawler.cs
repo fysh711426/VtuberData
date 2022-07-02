@@ -8,76 +8,58 @@ using System.Text;
 using System.Threading.Tasks;
 using VtuberData.Extensions;
 using VtuberData.Models;
+using VtuberData.Storages;
 using YoutubeParser;
 using YoutubeParser.Channels;
-using YoutubeParser.Models;
+using YoutubeParser.ChannelVideos;
+using YoutubeParser.Commons;
 using YoutubeParser.Utils;
 
 namespace VtuberData.Crawlers
 {
     public class DataCrawler : BaseCrawler
     {
-        private string _now = "";
-        private List<Data> _dataList = new List<Data>();
-        private List<Vtuber> _vtuberList = new List<Vtuber>();
-        private CsvConfiguration _configuration = new CsvConfiguration(CultureInfo.InvariantCulture)
+        private DateTime _now;
+        private DbContext _db;
+        public DataCrawler(DateTime now, DbContext db)
         {
-            HasHeaderRecord = true,
-            ShouldQuote = (args) => true
-        };
-
-        public async Task Load(string path)
-        {
-            _now = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-            _vtuberList = new List<Vtuber>();
-
-            if (File.Exists(path))
-            {
-                using (var reader = new StreamReader(path, new UTF8Encoding(true)))
-                using (var csv = new CsvReader(reader, _configuration))
-                {
-                    var records = await csv.GetAllRecordsAsync<Vtuber>();
-                    _vtuberList = records.ToList();
-                }
-            }
+            _now = now;
+            _db = db;
         }
 
-        public async Task Save(string path)
+        public async Task Save()
         {
-            using (var writer = new StreamWriter(path, false, new UTF8Encoding(true)))
-            using (var csv = new CsvWriter(writer, _configuration))
-            {
-                csv.WriteHeader<Data>();
-                csv.NextRecord();
-
-                if (_dataList.Count > 0)
-                {
-                    await csv.WriteRecordsAsync(_dataList);
-                }
-            }
-            var _time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-            var ts = DateTime.Parse(_time) - DateTime.Parse(_now);
-            var str = (ts.Hours.ToString("00") == "00" ? "" : ts.Hours.ToString("00") + "h") + ts.Minutes.ToString("00") + "m" + ts.Seconds.ToString("00") + "s";
-            Console.WriteLine($"[{_time}] Save data success. @ {str}");
+            await _db.Datas.Save(list => list.OrderBy(it => it.Id));
         }
 
         public async Task CreateAndCalcData()
         {
-            _dataList = new List<Data>();
-
             var index = 0;
-            var count = _vtuberList.Count;
-            foreach (var vtuber in _vtuberList)
+            var vtubers = _db.Vtubers?.GetAll() ?? new List<Vtuber>();
+            var count = vtubers.Count;
+            foreach (var vtuber in vtubers)
             {
                 index++;
                 if (vtuber.Status != Status.Activity)
                     continue;
-                var channelId = vtuber.ChannelUrl.Replace("https://www.youtube.com/channel/", "");
+
                 var youtube = new YoutubeClient();
-                var channel = await youtube.Channel.GetAsync(channelId);
-                var videos = youtube.Channel.GetVideosAsync(channelId);
+                var data = _db.Datas.Get(vtuber.ChannelUrl);
+                if (data == null)
+                {
+                    var channel = await youtube.Channel.GetAsync(vtuber.ChannelUrl);
+                    data = new Data
+                    {
+                        ChannelUrl = vtuber.ChannelUrl,
+                        SubscriberCount = channel.SubscriberCount,
+                        ViewCount = channel.ViewCount
+                    };
+                }
+
                 var videosByDay7 = new List<ChannelVideo>();
                 var videosByDay30 = new List<ChannelVideo>();
+
+                var videos = youtube.Channel.GetVideosAsync(vtuber.ChannelUrl);
                 await foreach (var item in videos)
                 {
                     if (item.IsShorts)
@@ -103,13 +85,13 @@ namespace VtuberData.Crawlers
                     .OrderByDescending(it => it.ViewCount)
                     .FirstOrDefault();
 
-                var data = new Data
+                data = new Data
                 {
                     Id = vtuber.Id,
                     ChannelUrl = vtuber.ChannelUrl,
                     Name = vtuber.Name,
-                    SubscriberCount = channel.SubscriberCount,
-                    ViewCount = channel.ViewCount,
+                    SubscriberCount = data.SubscriberCount,
+                    ViewCount = data.ViewCount,
                     MedianViewCountDay7 = medianViewCountDay7,
                     HighestViewCountDay7 = highestDay7?.ViewCount ?? 0,
                     HighestViewVideoUrlDay7 = highestDay7?.ShortUrl ?? "",
@@ -123,7 +105,7 @@ namespace VtuberData.Crawlers
                     HighestViewVideoThumbnailDay30 = highestDay30?.Thumbnails?.LastOrDefault()?.Url ?? "",
                     HighestViewVideoRichThumbnailDay30 = highestDay30?.RichThumbnail?.Url ?? ""
                 };
-                _dataList.Add(data);
+                _db.Datas.Create(data);
 
                 var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                 Console.WriteLine($"[{time}][{index}/{count}] Create data {vtuber.Name}");
