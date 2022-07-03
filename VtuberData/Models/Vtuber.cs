@@ -10,6 +10,7 @@ namespace VtuberData.Models
     {
         Prepare,
         Activity,
+        NotActivity,
         Graduate,
         Closure
     }

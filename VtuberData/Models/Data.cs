@@ -18,12 +18,10 @@ namespace VtuberData.Models
         public string HighestViewVideoUrlDay7 { get; set; } = "";
         public string HighestViewVideoTitleDay7 { get; set; } = "";
         public string HighestViewVideoThumbnailDay7 { get; set; } = "";
-        public string HighestViewVideoRichThumbnailDay7 { get; set; } = "";
         public long MedianViewCountDay30 { get; set; }
         public long HighestViewCountDay30 { get; set; }
         public string HighestViewVideoUrlDay30 { get; set; } = "";
         public string HighestViewVideoTitleDay30 { get; set; } = "";
         public string HighestViewVideoThumbnailDay30 { get; set; } = "";
-        public string HighestViewVideoRichThumbnailDay30 { get; set; } = "";
     }
 }

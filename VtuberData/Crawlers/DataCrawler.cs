@@ -60,8 +60,16 @@ namespace VtuberData.Crawlers
                 var videosByDay30 = new List<ChannelVideo>();
 
                 var videos = youtube.Channel.GetVideosAsync(vtuber.ChannelUrl);
+
+                var first = null as ChannelVideo;
+                var second = null as ChannelVideo;
                 await foreach (var item in videos)
                 {
+                    if (first == null)
+                        first = item;
+                    if (first != null && second == null)
+                        second = item;
+
                     if (item.IsShorts)
                         continue;
                     if (item.VideoStatus != VideoStatus.Default)
@@ -72,6 +80,16 @@ namespace VtuberData.Crawlers
                     if (seconds < TimeSeconds.Week)
                         videosByDay7.Add(item);
                     videosByDay30.Add(item);
+                }
+
+                if (first?.PublishedTimeSeconds >= TimeSeconds.Month * 3 &&
+                    second?.PublishedTimeSeconds >= TimeSeconds.Month * 3)
+                {
+                    vtuber.Status = Status.NotActivity;
+                    var _time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                    Console.WriteLine($"[{_time}][{index}/{count}] Update vtuber not activity {vtuber.Name}");
+                    await SleepRandom();
+                    continue;
                 }
 
                 var medianViewCountDay7 = videosByDay7
@@ -97,13 +115,11 @@ namespace VtuberData.Crawlers
                     HighestViewVideoUrlDay7 = highestDay7?.ShortUrl ?? "",
                     HighestViewVideoTitleDay7 = highestDay7?.Title ?? "",
                     HighestViewVideoThumbnailDay7 = highestDay7?.Thumbnails?.LastOrDefault()?.Url ?? "",
-                    HighestViewVideoRichThumbnailDay7 = highestDay7?.RichThumbnail?.Url ?? "",
                     MedianViewCountDay30 = medianViewCountDay30,
                     HighestViewCountDay30 = highestDay30?.ViewCount ?? 0,
                     HighestViewVideoUrlDay30 = highestDay30?.ShortUrl ?? "",
                     HighestViewVideoTitleDay30 = highestDay30?.Title ?? "",
-                    HighestViewVideoThumbnailDay30 = highestDay30?.Thumbnails?.LastOrDefault()?.Url ?? "",
-                    HighestViewVideoRichThumbnailDay30 = highestDay30?.RichThumbnail?.Url ?? ""
+                    HighestViewVideoThumbnailDay30 = highestDay30?.Thumbnails?.LastOrDefault()?.Url ?? ""
                 };
                 _db.Datas.Create(data);
 

@@ -64,6 +64,7 @@ namespace VtuberData
                     var dataCrawler = new DataCrawler(now, db);
                     await dataCrawler.CreateAndCalcData();
                     await dataCrawler.Save();
+                    await vtuberCrawler.Save();
 
                     var _time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                     var ts = DateTime.Parse(_time) - now;
