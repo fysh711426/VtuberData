@@ -1,4 +1,5 @@
-﻿using VtuberData.Crawlers;
+﻿using System.Diagnostics;
+using VtuberData.Crawlers;
 using VtuberData.Storages;
 
 namespace VtuberData
@@ -20,8 +21,13 @@ namespace VtuberData
             }
             else
             {
-                action = args[0];
-                waitfor = true;
+                if ( args[0] == "auto")
+                {
+                    action = "data";
+                    if (DateTime.Now.DayOfWeek == DayOfWeek.Monday)
+                        action = "vtuber";
+                }
+                waitfor = false;
             }
 
             try
@@ -74,12 +80,21 @@ namespace VtuberData
                 {
                     throw new Exception("Wrong action.");
                 }
+
+                var info = new ProcessStartInfo(
+                    Path.Combine(workDir, "auto_commit.bat"));
+                info.WorkingDirectory = workDir;
+                info.CreateNoWindow = false;
+                info.UseShellExecute = false;
+                var process = Process.Start(info);
+                process?.WaitForExit();
             }
             catch (Exception ex)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($" > {ex.Message}");
                 Console.ResetColor();
+                waitfor = true;
             }
 
             if (waitfor)

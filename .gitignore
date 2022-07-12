@@ -1,3 +1,8 @@
 /VtuberData/.vs
 /VtuberData/bin
 /VtuberData/obj
+/VtuberData/Properties/PublishProfiles/*.pubxml
+/VtuberData/Properties/PublishProfiles/*.user
+/VtuberData/*.user
+/VtuberData.exe
+/VtuberData.pdb
