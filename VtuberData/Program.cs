@@ -1,5 +1,4 @@
 ﻿using VtuberData.Crawlers;
-using VtuberData.Models;
 using VtuberData.Storages;
 
 namespace VtuberData

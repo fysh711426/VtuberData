@@ -1,19 +1,9 @@
-﻿using CsvHelper;
-using CsvHelper.Configuration;
-using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using VtuberData.Extensions;
+﻿using VtuberData.Extensions;
 using VtuberData.Models;
 using VtuberData.Storages;
 using YoutubeParser;
-using YoutubeParser.Channels;
 using YoutubeParser.ChannelVideos;
-using YoutubeParser.Commons;
-using YoutubeParser.Utils;
+using YoutubeParser.Shares;
 
 namespace VtuberData.Crawlers
 {
@@ -35,7 +25,7 @@ namespace VtuberData.Crawlers
         public async Task CreateAndCalcData()
         {
             var index = 0;
-            var vtubers = _db.Vtubers?.GetAll() ?? new List<Vtuber>();
+            var vtubers = _db.Vtubers.GetAll();
             var count = vtubers.Count;
             foreach (var vtuber in vtubers)
             {
@@ -77,6 +67,7 @@ namespace VtuberData.Crawlers
                     var seconds = item.PublishedTimeSeconds;
                     if (seconds >= TimeSeconds.Month)
                         break;
+
                     if (seconds < TimeSeconds.Week)
                         videosByDay7.Add(item);
                     videosByDay30.Add(item);

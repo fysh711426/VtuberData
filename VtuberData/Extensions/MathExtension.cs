@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text.RegularExpressions;
-
-namespace VtuberData.Extensions
+﻿namespace VtuberData.Extensions
 {
     internal static class MathExtension
     {
