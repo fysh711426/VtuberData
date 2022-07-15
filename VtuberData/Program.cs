@@ -21,7 +21,7 @@ namespace VtuberData
             }
             else
             {
-                if ( args[0] == "auto")
+                if (args[0] == "auto")
                 {
                     action = "data";
                     if (DateTime.Now.DayOfWeek == DayOfWeek.Monday)

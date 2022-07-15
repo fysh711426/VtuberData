@@ -67,9 +67,12 @@ namespace VtuberData.Crawlers
 
             // Update Vtuber Data
             {
-                var clinet = _httpClient;
-                var url = "https://vt.cdein.cc/list/?a=a&o=D";
-                using var response = await clinet.GetAsync(url);
+                using var response = await Retry(() =>
+                {
+                    var clinet = _httpClient;
+                    var url = "https://vt.cdein.cc/list/?a=a&o=D";
+                    return clinet.GetAsync(url);
+                });
                 var html = await response.Content.ReadAsStringAsync();
                 var vtubers = MapVtuber(html).ToList();
 
@@ -101,11 +104,12 @@ namespace VtuberData.Crawlers
                         continue;
 
                     var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                    var youtube = new YoutubeClient();
+                    var youtube = new YoutubeClient(() => DelayRandom());
                     var info = null as Channel;
                     try
                     {
-                        info = await youtube.Channel.GetAsync(item.youtubeUrl);
+                        info = await Retry(() =>
+                            youtube.Channel.GetAsync(item.youtubeUrl));
                     }
                     catch (Exception ex)
                     {
@@ -171,11 +175,15 @@ namespace VtuberData.Crawlers
                 };
                 foreach (var tag in tags)
                 {
-                    var clinet = _httpClient;
-                    var url = $"https://vt.cdein.cc/tag/{tag.name}";
-                    using var response = await clinet.GetAsync(url);
+                    using var response = await Retry(() =>
+                    {
+                        var clinet = _httpClient;
+                        var url = $"https://vt.cdein.cc/tag/{tag.name}";
+                        return clinet.GetAsync(url);
+                    });
                     var html = await response.Content.ReadAsStringAsync();
                     var vtubers = MapVtuber(html);
+
                     foreach (var item in vtubers)
                     {
                         if (item.youtubeUrl == "")
@@ -222,9 +230,12 @@ namespace VtuberData.Crawlers
                 var page = 40;
                 for (var i = 0; i < page; i++)
                 {
-                    var clinet = _httpClient;
-                    var url = $"https://virtual-youtuber.userlocal.jp/document/ranking?page={i + 1}";
-                    using var response = await clinet.GetAsync(url);
+                    using var response = await Retry(() =>
+                    {
+                        var clinet = _httpClient;
+                        var url = $"https://virtual-youtuber.userlocal.jp/document/ranking?page={i + 1}";
+                        return clinet.GetAsync(url);
+                    });
                     var html = await response.Content.ReadAsStringAsync();
                     var vtubers = html
                         .Pipe(it => Regex.Match(it, @"<table([\s\S]*?)<script>"))
@@ -239,8 +250,12 @@ namespace VtuberData.Crawlers
                     {
                         index++;
 
-                        var _url = $"https://virtual-youtuber.userlocal.jp/schedules/new?youtube={item.userId}";
-                        using var _response = await clinet.GetAsync(_url);
+                        using var _response = await Retry(() =>
+                        {
+                            var clinet = _httpClient;
+                            var url = $"https://virtual-youtuber.userlocal.jp/schedules/new?youtube={item.userId}";
+                            return clinet.GetAsync(url);
+                        });
                         var _html = await _response.Content.ReadAsStringAsync();
 
                         var youtubeUrl = Regex.Match(_html, @"<input size=""64.*?value=""(https:\/\/www\.youtube\.com\/channel\/.*?)"" name=""live_schedule")
@@ -261,11 +276,12 @@ namespace VtuberData.Crawlers
                         _cacheChannelUrl[item.userId] = youtubeUrl;
 
                         var time = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                        var youtube = new YoutubeClient();
+                        var youtube = new YoutubeClient(() => DelayRandom());
                         var info = null as Channel;
                         try
                         {
-                            info = await youtube.Channel.GetAsync(youtubeUrl);
+                            info = await Retry(() =>
+                                youtube.Channel.GetAsync(youtubeUrl));
                         }
                         catch (Exception ex)
                         {
@@ -321,9 +337,12 @@ namespace VtuberData.Crawlers
             {
                 // Hololive
                 {
-                    var clinet = _httpClient;
-                    var url = $"https://virtual-youtuber.userlocal.jp/office/hololive_all";
-                    using var response = await clinet.GetAsync(url);
+                    using var response = await Retry(() =>
+                    {
+                        var clinet = _httpClient;
+                        var url = $"https://virtual-youtuber.userlocal.jp/office/hololive_all";
+                        return clinet.GetAsync(url);
+                    });
                     var html = await response.Content.ReadAsStringAsync();
                     var vtubers = MapVtuber(html);
 
@@ -391,8 +410,11 @@ namespace VtuberData.Crawlers
 
                     foreach (var url in urls)
                     {
-                        var clinet = _httpClient;
-                        using var response = await clinet.GetAsync(url);
+                        using var response = await Retry(() =>
+                        {
+                            var clinet = _httpClient;
+                            return clinet.GetAsync(url);
+                        });
                         var html = await response.Content.ReadAsStringAsync();
                         var vtubers = MapVtuber(html);
 

@@ -3,6 +3,7 @@ using VtuberData.Models;
 using VtuberData.Storages;
 using YoutubeParser;
 using YoutubeParser.ChannelVideos;
+using YoutubeParser.Extensions;
 using YoutubeParser.Shares;
 
 namespace VtuberData.Crawlers
@@ -33,11 +34,12 @@ namespace VtuberData.Crawlers
                 if (vtuber.Status != Status.Activity)
                     continue;
 
-                var youtube = new YoutubeClient();
+                var youtube = new YoutubeClient(() => DelayRandom());
                 var data = _db.Datas.Get(vtuber.ChannelUrl);
                 if (data == null)
                 {
-                    var channel = await youtube.Channel.GetAsync(vtuber.ChannelUrl);
+                    var channel = await Retry(() => 
+                        youtube.Channel.GetAsync(vtuber.ChannelUrl));
                     data = new Data
                     {
                         ChannelUrl = vtuber.ChannelUrl,
@@ -49,11 +51,14 @@ namespace VtuberData.Crawlers
                 var videosByDay7 = new List<ChannelVideo>();
                 var videosByDay30 = new List<ChannelVideo>();
 
-                var videos = youtube.Channel.GetVideosAsync(vtuber.ChannelUrl);
+                var videos = await Retry(() =>
+                    youtube.Channel.GetVideosAsync(vtuber.ChannelUrl)
+                        .BreakOn(it => it.PublishedTimeSeconds >= TimeSeconds.Month)
+                        .ToListAsync().AsTask());
 
                 var first = null as ChannelVideo;
                 var second = null as ChannelVideo;
-                await foreach (var item in videos)
+                foreach (var item in videos)
                 {
                     if (first == null)
                         first = item;
@@ -64,11 +69,8 @@ namespace VtuberData.Crawlers
                         continue;
                     if (item.VideoStatus != VideoStatus.Default)
                         continue;
-                    var seconds = item.PublishedTimeSeconds;
-                    if (seconds >= TimeSeconds.Month)
-                        break;
 
-                    if (seconds < TimeSeconds.Week)
+                    if (item.PublishedTimeSeconds < TimeSeconds.Week)
                         videosByDay7.Add(item);
                     videosByDay30.Add(item);
                 }
@@ -93,6 +95,18 @@ namespace VtuberData.Crawlers
                 var highestDay30 = videosByDay30
                     .OrderByDescending(it => it.ViewCount)
                     .FirstOrDefault();
+                var highestSingingDay7 = videosByDay7
+                    .Where(it => 
+                        it.Title.Contains("歌回") ||
+                        it.Title.Contains("歌枠"))
+                    .OrderByDescending(it => it.ViewCount)
+                    .FirstOrDefault();
+                var highestSingingDay30 = videosByDay30
+                    .Where(it =>
+                        it.Title.Contains("歌回") ||
+                        it.Title.Contains("歌枠"))
+                    .OrderByDescending(it => it.ViewCount)
+                    .FirstOrDefault();
 
                 data = new Data
                 {
@@ -106,11 +120,19 @@ namespace VtuberData.Crawlers
                     HighestViewVideoUrlDay7 = highestDay7?.ShortUrl ?? "",
                     HighestViewVideoTitleDay7 = highestDay7?.Title ?? "",
                     HighestViewVideoThumbnailDay7 = highestDay7?.Thumbnails?.LastOrDefault()?.Url ?? "",
+                    HighestSingingViewCountDay7 = highestSingingDay7?.ViewCount ?? 0,
+                    HighestViewSingingVideoUrlDay7 = highestSingingDay7?.ShortUrl ?? "",
+                    HighestViewSingingVideoTitleDay7 = highestSingingDay7?.Title ?? "",
+                    HighestViewSingingVideoThumbnailDay7 = highestSingingDay7?.Thumbnails?.LastOrDefault()?.Url ?? "",
                     MedianViewCountDay30 = medianViewCountDay30,
                     HighestViewCountDay30 = highestDay30?.ViewCount ?? 0,
                     HighestViewVideoUrlDay30 = highestDay30?.ShortUrl ?? "",
                     HighestViewVideoTitleDay30 = highestDay30?.Title ?? "",
-                    HighestViewVideoThumbnailDay30 = highestDay30?.Thumbnails?.LastOrDefault()?.Url ?? ""
+                    HighestViewVideoThumbnailDay30 = highestDay30?.Thumbnails?.LastOrDefault()?.Url ?? "",
+                    HighestSingingViewCountDay30 = highestSingingDay30?.ViewCount ?? 0,
+                    HighestViewSingingVideoUrlDay30 = highestSingingDay30?.ShortUrl ?? "",
+                    HighestViewSingingVideoTitleDay30 = highestSingingDay30?.Title ?? "",
+                    HighestViewSingingVideoThumbnailDay30 = highestSingingDay30?.Thumbnails?.LastOrDefault()?.Url ?? "",
                 };
                 _db.Datas.Create(data);
 
