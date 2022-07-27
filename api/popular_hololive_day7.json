@@ -114,7 +114,7 @@
     "videoThumbnail": "https://i.ytimg.com/vi/Xg09Qsf5xsE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUn26lIIq05mPeCjk39A7wvnHnUg",
     "videoUrl": "http://youtu.be/Xg09Qsf5xsE",
     "rank": 2,
-    "rankVar": 0
+    "rankVar": null
   },
   {
     "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -192,7 +192,7 @@
     "videoThumbnail": "https://i.ytimg.com/vi/O-uTAorom3M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAULbwEARXc5Rj_PX5YFp93yjsIkg",
     "videoUrl": "http://youtu.be/O-uTAorom3M",
     "rank": 2,
-    "rankVar": 0
+    "rankVar": null
   },
   {
     "channelUrl": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
@@ -906,97 +906,6 @@
     "videoViewCount": "9790",
     "videoThumbnail": "https://i.ytimg.com/vi/mQ75YbJ2fQc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt3iZpaeOBqukQI7ic6DJAabY_WA",
     "videoUrl": "http://youtu.be/mQ75YbJ2fQc",
-    "rank": 2,
-    "rankVar": 0
-  },
-  {
-    "channelUrl": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-    "name": "湊阿庫婭",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLT8eMK0R-4YoVFyKUt3r6jqZA4uq9cHf1hyVv-Oyg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "165萬",
-    "score": "0",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 2,
-    "rankVar": 0
-  },
-  {
-    "channelUrl": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-    "name": "百鬼綾目",
-    "thumbnail": "https://yt3.ggpht.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "129萬",
-    "score": "0",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 2,
-    "rankVar": 0
-  },
-  {
-    "channelUrl": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-    "name": "天音彼方",
-    "thumbnail": "https://yt3.ggpht.com/TlH8nz5O9UYo5JZ_5fo4JfXdT18N0Ck27wWrulni-c1g5bwes0tVmFiSKICzI1SW7itaTkk9GA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "122萬",
-    "score": "0",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 2,
-    "rankVar": 0
-  },
-  {
-    "channelUrl": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-    "name": "桃鈴音音",
-    "thumbnail": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "95萬",
-    "score": "0",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 2,
-    "rankVar": 0
-  },
-  {
-    "channelUrl": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-    "name": "沙花叉クロヱ(さかまたくろえ)",
-    "thumbnail": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "88萬",
-    "score": "0",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 2,
-    "rankVar": 0
-  },
-  {
-    "channelUrl": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-    "name": "AZKi",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLRQRw-0zclxstcQV7QI-5AKt8YwC-MbWRvX8MYXqA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "65萬",
-    "score": "0",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 2,
-    "rankVar": 0
-  },
-  {
-    "channelUrl": "https://www.youtube.com/channel/UCfrWoRGlawPQDQxxeIDRP0Q",
-    "name": "ホロライブID公式",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQMVO-nqdgHS1Fht9IRSWPC99g-EYsGum8tSVmDFQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "33萬",
-    "score": "0",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
     "rank": 2,
     "rankVar": 0
   }
