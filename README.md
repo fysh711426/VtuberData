@@ -1,6 +1,6 @@
 # Vtuber Data  
 
-此 repo 用於下列網站的資料儲存。  
+這個 repo 用於此網站的資料來源。  
 
 [https://fysh711426.github.io/vtuber/index.html](https://fysh711426.github.io/vtuber/index.html)  
 
@@ -125,3 +125,5 @@ rankVar | 排名變化
 更多專案細節請參考。  
 
 [https://github.com/fysh711426/VtuberWeb](https://github.com/fysh711426/VtuberWeb)  
+
+如果有幫助到你記得給我一顆星星，感謝大家。  
