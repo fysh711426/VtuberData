@@ -2,7 +2,21 @@
 
 這個 repo 用於提供此網站的資料儲存。  
 
-[https://fysh711426.github.io/vtuber/index.html](https://fysh711426.github.io/vtuber/index.html)  
+[https://github.com/fysh711426/VtuberWeb](https://github.com/fysh711426/VtuberWeb)  
+
+---  
+
+### 資料來源  
+
+Vtuber 資料來源於下列網站。  
+
+* [https://vt.cdein.cc/list](https://vt.cdein.cc/list)  
+* [https://taiwanvtuberdata.github.io](https://taiwanvtuberdata.github.io)  
+* [https://virtual-youtuber.userlocal.jp](https://virtual-youtuber.userlocal.jp)  
+
+統計資料來源於 Youtube，使用 YoutubeParser 定期取得。  
+
+[https://github.com/fysh711426/YoutubeParser](https://github.com/fysh711426/YoutubeParser)  
 
 ---  
 
@@ -119,10 +133,4 @@ rankVar | 排名變化
 
 ---  
 
-### 專案細節  
-
-更多專案細節請參考。  
-
-[https://github.com/fysh711426/VtuberWeb](https://github.com/fysh711426/VtuberWeb)  
-
-如果有幫助到你記得給我一顆星星，感謝大家。  
+如果這個專案有幫助到你，請記得給我一顆星星，感謝大家。  
