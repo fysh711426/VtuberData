@@ -1,6 +1,6 @@
 # Vtuber Data  
 
-這個 repo 用於此網站的資料來源。  
+此 repo 用於下列網站的資料提供。  
 
 [https://fysh711426.github.io/vtuber/index.html](https://fysh711426.github.io/vtuber/index.html)  
 
@@ -23,6 +23,7 @@
 ### 使用方式  
 
 首先使用 api 取得最新 commit 編號。  
+
 [https://api.github.com/repos/fysh711426/VtuberData/commits/master](https://api.github.com/repos/fysh711426/VtuberData/commits/master)  
 
 ```json
@@ -34,8 +35,6 @@
 ```html
 https://cdn.statically.io/gh/{user}/{repo}/{commit}/{filepath}
 ```
-
-* 範例  
 
 ```html
 https://cdn.statically.io/gh/fysh711426/VtuberData/c09c9bda8f83a939f5bd62d96030f175608554dc/api/subscribe_tw.json
