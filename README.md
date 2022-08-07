@@ -22,7 +22,7 @@ Vtuber 資料來源於下列網站。
 
 ### 資料架構  
 
-* Vtubers.csv：包含所有 Vtuber 的列表清單。  
+* Vtubers.csv：所有 Vtuber 的列表清單。  
 * Data_{{datetime}}.csv：每日統計資訊按日期分類。  
 * api：各分類的排名結果，只列前 100 名用於網站呈現。  
 
