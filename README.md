@@ -1,6 +1,6 @@
 # Vtuber Data  
 
-此 repo 用於下列網站的資料提供。  
+這個 repo 用於提供此網站的資料儲存。  
 
 [https://fysh711426.github.io/vtuber/index.html](https://fysh711426.github.io/vtuber/index.html)  
 
