@@ -14,20 +14,6 @@
     "rankVar": null
   },
   {
-    "id": 4615,
-    "channelUrl": "https://www.youtube.com/channel/UChq9kXujPrU4j50D7QNbBWw",
-    "name": "Aruzeya",
-    "thumbnail": "https://yt3.ggpht.com/0aH474NZ9waQC3LYQR0Kv9DpZXvMvG8vBl1EN1BpXgpx_WepgvkjQjelSGW8KRABk1JMMhwk2w=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.77萬",
-    "score": "27,700",
-    "videoTitle": "Dra Aru",
-    "videoViewCount": "1336",
-    "videoThumbnail": "https://i.ytimg.com/vi/iebnsjRiydI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYmuROCIdHKgL3X9e77_tw3abEjQ",
-    "videoUrl": "http://youtu.be/iebnsjRiydI",
-    "rank": 2,
-    "rankVar": null
-  },
-  {
     "id": 4571,
     "channelUrl": "https://www.youtube.com/channel/UCCFKPSdEikqXe-3aiD7-hpg",
     "name": "筱星朔光",
@@ -38,7 +24,7 @@
     "videoViewCount": "81",
     "videoThumbnail": "https://i.ytimg.com/vi/QFxTVJXjl8g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEj2j8EMDQ1Oe9D_jIXJYkjgl7Gw",
     "videoUrl": "http://youtu.be/QFxTVJXjl8g",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -52,7 +38,7 @@
     "videoViewCount": "40",
     "videoThumbnail": "https://i.ytimg.com/vi/MII_GaEqe6E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpyMOL5PmM6-G6L1WOlkARW3qdow",
     "videoUrl": "http://youtu.be/MII_GaEqe6E",
-    "rank": 4,
+    "rank": 3,
     "rankVar": null
   }
 ]
