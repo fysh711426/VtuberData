@@ -322,20 +322,6 @@
     "rankVar": 111
   },
   {
-    "id": 2810,
-    "channelUrl": "https://www.youtube.com/channel/UCPAo2nvyymfIrbirWiZZ53Q",
-    "name": "バーチャルのメディア ( MEDIA OF VIRTUAL )",
-    "thumbnail": "https://yt3.ggpht.com/5tT1fT6r6kXgYvAwy83LrS19t0gRv5gjHccyYtk5XDHDZLnWY8imA2OQZGk1fUfpXaHBQEBh=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.8萬",
-    "score": "7.78",
-    "videoTitle": "マル・マル・モリ・モリ ／ 薫と友樹、たまにムック。【Covered by ぽんぽこ & ピーナッツくん & でびでび・でびる】【カラオケ採点】【歌ってみた】抜き打ち【ぽこピー】【にじさんじ】バチャメ",
-    "videoViewCount": "5.38萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/L_pVl2S4svU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPnaHkIOPQ9hlW0RDFp7YDO3dwJg",
-    "videoUrl": "http://youtu.be/L_pVl2S4svU",
-    "rank": 24,
-    "rankVar": 97
-  },
-  {
     "id": 2352,
     "channelUrl": "https://www.youtube.com/channel/UCWQGiZK_rAMpnl4awiUrqqg",
     "name": "ラティオ・ユィリス【Project:YuiRes】",
@@ -346,8 +332,8 @@
     "videoViewCount": "1.26萬",
     "videoThumbnail": "https://i.ytimg.com/vi/pwQmEI-Dig4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABmbrYtuzd3IuyWvTMvXeVrw-YNg",
     "videoUrl": "http://youtu.be/pwQmEI-Dig4",
-    "rank": 25,
-    "rankVar": -23
+    "rank": 24,
+    "rankVar": -22
   },
   {
     "id": 4668,
@@ -360,7 +346,7 @@
     "videoViewCount": "9.51萬",
     "videoThumbnail": "https://i.ytimg.com/vi/h1fbuLNkS9I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBFBSrR-4zOy98r5HkRBp0x8Hc9_w",
     "videoUrl": "http://youtu.be/h1fbuLNkS9I",
-    "rank": 26,
+    "rank": 25,
     "rankVar": null
   },
   {
@@ -374,8 +360,8 @@
     "videoViewCount": "78",
     "videoThumbnail": "https://i.ytimg.com/vi/RDyY0tU5Y88/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBefU2gEkSdc0Q6vR5jpB-s0wVKhQ",
     "videoUrl": "http://youtu.be/RDyY0tU5Y88",
-    "rank": 27,
-    "rankVar": -23
+    "rank": 26,
+    "rankVar": -22
   },
   {
     "id": 2732,
@@ -388,8 +374,8 @@
     "videoViewCount": "34.29萬",
     "videoThumbnail": "https://i.ytimg.com/vi/I6MYXt0VaH0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7OiBr0mum29YKujT4MxW2DUfJOg",
     "videoUrl": "http://youtu.be/I6MYXt0VaH0",
-    "rank": 28,
-    "rankVar": -17
+    "rank": 27,
+    "rankVar": -16
   },
   {
     "id": 3415,
@@ -402,8 +388,8 @@
     "videoViewCount": "290",
     "videoThumbnail": "https://i.ytimg.com/vi/35UAsYVifyk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBkBFhOSkQLEPfiXXDwPwUkmTRbA",
     "videoUrl": "http://youtu.be/35UAsYVifyk",
-    "rank": 29,
-    "rankVar": 16
+    "rank": 28,
+    "rankVar": 17
   },
   {
     "id": 3329,
@@ -416,7 +402,7 @@
     "videoViewCount": "120",
     "videoThumbnail": "https://i.ytimg.com/vi/m3SN3U2y0sQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoOpuRoj9qv-2DKU8hf29qI7Tq2w",
     "videoUrl": "http://youtu.be/m3SN3U2y0sQ",
-    "rank": 30,
+    "rank": 29,
     "rankVar": null
   },
   {
@@ -430,8 +416,8 @@
     "videoViewCount": "284",
     "videoThumbnail": "https://i.ytimg.com/vi/rqrcMS06ABE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSAf5kOSPf5FMAgZx0LZMBl9Vbiw",
     "videoUrl": "http://youtu.be/rqrcMS06ABE",
-    "rank": 31,
-    "rankVar": -11
+    "rank": 30,
+    "rankVar": -10
   },
   {
     "id": 680,
@@ -444,8 +430,8 @@
     "videoViewCount": "255",
     "videoThumbnail": "https://i.ytimg.com/vi/4g4yAgAVbsA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoBn6cyWyFoxxhObqz9D7Zxp4WZw",
     "videoUrl": "http://youtu.be/4g4yAgAVbsA",
-    "rank": 32,
-    "rankVar": 211
+    "rank": 31,
+    "rankVar": 212
   },
   {
     "id": 4359,
@@ -458,8 +444,8 @@
     "videoViewCount": "80",
     "videoThumbnail": "https://i.ytimg.com/vi/JT8iXrXv0ik/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp5930Rw3Q8WIIIMK5yCxyGKAxlg",
     "videoUrl": "http://youtu.be/JT8iXrXv0ik",
-    "rank": 33,
-    "rankVar": 44
+    "rank": 32,
+    "rankVar": 45
   },
   {
     "id": 4424,
@@ -472,7 +458,7 @@
     "videoViewCount": "26",
     "videoThumbnail": "https://i.ytimg.com/vi/JwxGmyqjy-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtj7nWGMCU_-vALpuDboEjo-sl2A",
     "videoUrl": "http://youtu.be/JwxGmyqjy-U",
-    "rank": 34,
+    "rank": 33,
     "rankVar": null
   },
   {
@@ -486,8 +472,8 @@
     "videoViewCount": "734",
     "videoThumbnail": "https://i.ytimg.com/vi/XEx0W5tNkKc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoUEvID8OSJ9tauvSZSrryD8DeYg",
     "videoUrl": "http://youtu.be/XEx0W5tNkKc",
-    "rank": 35,
-    "rankVar": -20
+    "rank": 34,
+    "rankVar": -19
   },
   {
     "id": 3280,
@@ -500,8 +486,8 @@
     "videoViewCount": "184",
     "videoThumbnail": "https://i.ytimg.com/vi/OqAQaDYCiRs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbgSyErSTHvA6OTCPCl0AyY06pKA",
     "videoUrl": "http://youtu.be/OqAQaDYCiRs",
-    "rank": 36,
-    "rankVar": -14
+    "rank": 35,
+    "rankVar": -13
   },
   {
     "id": 4664,
@@ -514,7 +500,7 @@
     "videoViewCount": "8073",
     "videoThumbnail": "https://i.ytimg.com/vi/_Xn2Eh3Hwcg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDescFMcGY6q5czThLrCy-QRROa9w",
     "videoUrl": "http://youtu.be/_Xn2Eh3Hwcg",
-    "rank": 37,
+    "rank": 36,
     "rankVar": null
   },
   {
@@ -528,8 +514,8 @@
     "videoViewCount": "526",
     "videoThumbnail": "https://i.ytimg.com/vi/kLB0rlWv94Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV3QuC1rWyWHo3xgDnfMUV3UE3Ng",
     "videoUrl": "http://youtu.be/kLB0rlWv94Q",
-    "rank": 38,
-    "rankVar": 19
+    "rank": 37,
+    "rankVar": 20
   },
   {
     "id": 3113,
@@ -542,8 +528,8 @@
     "videoViewCount": "1.88萬",
     "videoThumbnail": "https://i.ytimg.com/vi/tVvZdX5h7Sw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC05ew0Astqm63qzpNroCChbRadjQ",
     "videoUrl": "http://youtu.be/tVvZdX5h7Sw",
-    "rank": 39,
-    "rankVar": 114
+    "rank": 38,
+    "rankVar": 115
   },
   {
     "id": 3352,
@@ -556,8 +542,8 @@
     "videoViewCount": "143",
     "videoThumbnail": "https://i.ytimg.com/vi/_bTJ5RETC_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHBZyEIUkF7JCEhmbSHTgrglugWg",
     "videoUrl": "http://youtu.be/_bTJ5RETC_c",
-    "rank": 40,
-    "rankVar": -4
+    "rank": 39,
+    "rankVar": -3
   },
   {
     "id": 4625,
@@ -570,8 +556,8 @@
     "videoViewCount": "5.67萬",
     "videoThumbnail": "https://i.ytimg.com/vi/M5b_Phk_HZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaF7WV0KS80Yf_V4zHoe0sj_K2AQ",
     "videoUrl": "http://youtu.be/M5b_Phk_HZE",
-    "rank": 41,
-    "rankVar": -23
+    "rank": 40,
+    "rankVar": -22
   },
   {
     "id": 4227,
@@ -584,8 +570,8 @@
     "videoViewCount": "314",
     "videoThumbnail": "https://i.ytimg.com/vi/BnXSsFY4LKU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXi4pKQD-eZdNBREy8szNi30z9gA",
     "videoUrl": "http://youtu.be/BnXSsFY4LKU",
-    "rank": 42,
-    "rankVar": 191
+    "rank": 41,
+    "rankVar": 192
   },
   {
     "id": 3362,
@@ -598,8 +584,8 @@
     "videoViewCount": "2409",
     "videoThumbnail": "https://i.ytimg.com/vi/-9ua3NE-PxI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDj7HHLh3TIl3dQyb01QUylGuhBQ",
     "videoUrl": "http://youtu.be/-9ua3NE-PxI",
-    "rank": 43,
-    "rankVar": 16
+    "rank": 42,
+    "rankVar": 17
   },
   {
     "id": 3862,
@@ -612,8 +598,8 @@
     "videoViewCount": "605",
     "videoThumbnail": "https://i.ytimg.com/vi/6zwpsgdlfeI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb08PdmnZQo4_RzQbuz_mHX_DRjA",
     "videoUrl": "http://youtu.be/6zwpsgdlfeI",
-    "rank": 44,
-    "rankVar": 7
+    "rank": 43,
+    "rankVar": 8
   },
   {
     "id": 3059,
@@ -626,8 +612,8 @@
     "videoViewCount": "2.54萬",
     "videoThumbnail": "https://i.ytimg.com/vi/iZQ0B3Gt1hQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ6bYcP-zDG944meYSyA4CBLYwyA",
     "videoUrl": "http://youtu.be/iZQ0B3Gt1hQ",
-    "rank": 45,
-    "rankVar": 373
+    "rank": 44,
+    "rankVar": 374
   },
   {
     "id": 1072,
@@ -640,8 +626,8 @@
     "videoViewCount": "458",
     "videoThumbnail": "https://i.ytimg.com/vi/BAJvpSDcHl0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjvuk91YfQx5HaUsuv5zou8X7CCQ",
     "videoUrl": "http://youtu.be/BAJvpSDcHl0",
-    "rank": 46,
-    "rankVar": 459
+    "rank": 45,
+    "rankVar": 460
   },
   {
     "id": 3330,
@@ -654,8 +640,8 @@
     "videoViewCount": "223",
     "videoThumbnail": "https://i.ytimg.com/vi/ztsbXcJ3vmU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDur36nfJsQ4EmQhNDCJkOWxMbPXQ",
     "videoUrl": "http://youtu.be/ztsbXcJ3vmU",
-    "rank": 47,
-    "rankVar": 18
+    "rank": 46,
+    "rankVar": 19
   },
   {
     "id": 2591,
@@ -668,8 +654,8 @@
     "videoViewCount": "11.31萬",
     "videoThumbnail": "https://i.ytimg.com/vi/vNlmiAhkTXg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfKfHTxUigv9-ZO83QSUsFd8qt5A",
     "videoUrl": "http://youtu.be/vNlmiAhkTXg",
-    "rank": 48,
-    "rankVar": -15
+    "rank": 47,
+    "rankVar": -14
   },
   {
     "id": 3985,
@@ -682,8 +668,8 @@
     "videoViewCount": "733",
     "videoThumbnail": "https://i.ytimg.com/vi/42MX9s6U7VE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClERM5cg-SEOXGqpLbkt6Jiapf_g",
     "videoUrl": "http://youtu.be/42MX9s6U7VE",
-    "rank": 49,
-    "rankVar": -9
+    "rank": 48,
+    "rankVar": -8
   },
   {
     "id": 3297,
@@ -696,8 +682,8 @@
     "videoViewCount": "557",
     "videoThumbnail": "https://i.ytimg.com/vi/WdGbqy7D-zY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEnXU5g4Rqj7A-x3gKJMOISSXVWg",
     "videoUrl": "http://youtu.be/WdGbqy7D-zY",
-    "rank": 50,
-    "rankVar": -40
+    "rank": 49,
+    "rankVar": -39
   },
   {
     "id": 3049,
@@ -710,8 +696,8 @@
     "videoViewCount": "3.51萬",
     "videoThumbnail": "https://i.ytimg.com/vi/M58OnkzA1X8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFN1Q9zwhl7b86OhYNncK5JAuzcw",
     "videoUrl": "http://youtu.be/M58OnkzA1X8",
-    "rank": 51,
-    "rankVar": -32
+    "rank": 50,
+    "rankVar": -31
   },
   {
     "id": 4197,
@@ -724,22 +710,8 @@
     "videoViewCount": "7005",
     "videoThumbnail": "https://i.ytimg.com/vi/NORcCOOL3Xk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARqQDUetKyoNFM93oex6icO85Y8g",
     "videoUrl": "http://youtu.be/NORcCOOL3Xk",
-    "rank": 52,
+    "rank": 51,
     "rankVar": null
-  },
-  {
-    "id": 3126,
-    "channelUrl": "https://www.youtube.com/channel/UCZNaneAIkQ_clzvZ2DYuKyQ",
-    "name": "el_XoX",
-    "thumbnail": "https://yt3.ggpht.com/72lOobb8QoRLbWTSA_bNJx9J6bo7rhHtKLYNn_t-qZtHPESv2nfmOfO5XZB8XPKS8WxI5btxbQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.41萬",
-    "score": "4.44",
-    "videoTitle": "🔴LIVE  13K Subscriber & Membership Unlock Celebration LIVESTREAM!",
-    "videoViewCount": "4813",
-    "videoThumbnail": "https://i.ytimg.com/vi/Fd7ytz1riKM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP4L2usXb5WJsihKNa0YUm0Nzl8w",
-    "videoUrl": "http://youtu.be/Fd7ytz1riKM",
-    "rank": 53,
-    "rankVar": 45
   },
   {
     "id": 4261,
@@ -752,7 +724,7 @@
     "videoViewCount": "53",
     "videoThumbnail": "https://i.ytimg.com/vi/py20QlAFpTQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnfaSImv13o1TKV-ytxNOOJCyLsQ",
     "videoUrl": "http://youtu.be/py20QlAFpTQ",
-    "rank": 53,
+    "rank": 52,
     "rankVar": null
   },
   {
@@ -766,7 +738,7 @@
     "videoViewCount": "202",
     "videoThumbnail": "https://i.ytimg.com/vi/tR8-KJTL56Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM2KupsfRO_BYmGFDqJXpDj-EmWg",
     "videoUrl": "http://youtu.be/tR8-KJTL56Y",
-    "rank": 55,
+    "rank": 53,
     "rankVar": null
   },
   {
@@ -780,8 +752,8 @@
     "videoViewCount": "7.94萬",
     "videoThumbnail": "https://i.ytimg.com/vi/NrDGWdbsy0A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmtd1BhkHhXRsS6fNE5Zvdkym3hA",
     "videoUrl": "http://youtu.be/NrDGWdbsy0A",
-    "rank": 56,
-    "rankVar": 87
+    "rank": 54,
+    "rankVar": 89
   },
   {
     "id": 1551,
@@ -794,8 +766,8 @@
     "videoViewCount": "29.62萬",
     "videoThumbnail": "https://i.ytimg.com/vi/8-qbRQlw3cc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3RWI2tPhlw1nmtzwvvK9k75lZyQ",
     "videoUrl": "http://youtu.be/8-qbRQlw3cc",
-    "rank": 57,
-    "rankVar": 116
+    "rank": 55,
+    "rankVar": 118
   },
   {
     "id": 3485,
@@ -808,8 +780,8 @@
     "videoViewCount": "1.28萬",
     "videoThumbnail": "https://i.ytimg.com/vi/mAol0ux5CzY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPeg-T_GFell4cLCuczq5qDvTfdA",
     "videoUrl": "http://youtu.be/mAol0ux5CzY",
-    "rank": 58,
-    "rankVar": 51
+    "rank": 56,
+    "rankVar": 53
   },
   {
     "id": 267,
@@ -822,8 +794,8 @@
     "videoViewCount": "536",
     "videoThumbnail": "https://i.ytimg.com/vi/Izvl6my1UwA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD89TT6kogDgyEz1yV2UKuB-OHLHA",
     "videoUrl": "http://youtu.be/Izvl6my1UwA",
-    "rank": 59,
-    "rankVar": 56
+    "rank": 57,
+    "rankVar": 58
   },
   {
     "id": 4649,
@@ -836,7 +808,7 @@
     "videoViewCount": "3.9萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Y4XTXWQO4ig/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCifGN-ZK6lk-73brMe-I-6ExSE4w",
     "videoUrl": "http://youtu.be/Y4XTXWQO4ig",
-    "rank": 60,
+    "rank": 58,
     "rankVar": null
   },
   {
@@ -850,8 +822,8 @@
     "videoViewCount": "8.13萬",
     "videoThumbnail": "https://i.ytimg.com/vi/l9Ip1eaZRX4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFXEBLyfwEX-_kc4wzKIDxbTVhpA",
     "videoUrl": "http://youtu.be/l9Ip1eaZRX4",
-    "rank": 61,
-    "rankVar": -45
+    "rank": 59,
+    "rankVar": -43
   },
   {
     "id": 2980,
@@ -864,22 +836,8 @@
     "videoViewCount": "2.61萬",
     "videoThumbnail": "https://i.ytimg.com/vi/k3iL6lB7Owg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgd_CuGYoYCweSC1mSIHqWXU2UBQ",
     "videoUrl": "http://youtu.be/k3iL6lB7Owg",
-    "rank": 62,
-    "rankVar": 20
-  },
-  {
-    "id": 3051,
-    "channelUrl": "https://www.youtube.com/channel/UCJEpkwwDiTKS5lxwFttEbIQ",
-    "name": "ななし公式チャンネル【774inc.】",
-    "thumbnail": "https://yt3.ggpht.com/mTvIX12DNjTW9IoPPgFYuNTuCxximsC-cWcpkA0zOYU9V7AF86leKOt9kx1ApTjGSIowYONWfQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.35萬",
-    "score": "3.85",
-    "videoTitle": "【目指せ100万円】本格バラエティ！ななしぱーく！第4回はあにまーれ vs ハニスト！【774inc. /風見くく/西園寺メアリ/瀬島るい/大浦るかこ/島村シャルロット/堰代ミコ】",
-    "videoViewCount": "2.51萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/loViwjP5dTE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7B8yc74YcNEWCsiucH0Y-F1dHCA",
-    "videoUrl": "http://youtu.be/loViwjP5dTE",
-    "rank": 62,
-    "rankVar": 379
+    "rank": 60,
+    "rankVar": 22
   },
   {
     "id": 4126,
@@ -892,7 +850,7 @@
     "videoViewCount": "63",
     "videoThumbnail": "https://i.ytimg.com/vi/zH290m6_M74/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOXQ8OOc4PSW4a9yRzKIyOUoozfw",
     "videoUrl": "http://youtu.be/zH290m6_M74",
-    "rank": 62,
+    "rank": 60,
     "rankVar": null
   },
   {
@@ -906,7 +864,7 @@
     "videoViewCount": "35",
     "videoThumbnail": "https://i.ytimg.com/vi/4lMUFrsYDxE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtgEYyWYROzlZeGRKaJa6ZVgiLFw",
     "videoUrl": "http://youtu.be/4lMUFrsYDxE",
-    "rank": 62,
+    "rank": 60,
     "rankVar": null
   },
   {
@@ -920,8 +878,8 @@
     "videoViewCount": "25.71萬",
     "videoThumbnail": "https://i.ytimg.com/vi/kZBL0xVMFeY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBx4TZ54tDc1kxwzmG3Hokjo-bhQ",
     "videoUrl": "http://youtu.be/kZBL0xVMFeY",
-    "rank": 66,
-    "rankVar": 13
+    "rank": 63,
+    "rankVar": 16
   },
   {
     "id": 690,
@@ -934,7 +892,7 @@
     "videoViewCount": "293",
     "videoThumbnail": "https://i.ytimg.com/vi/6KARcI-Uj7g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK1n8TdlvtV38n3HsY4AixO3z19A",
     "videoUrl": "http://youtu.be/6KARcI-Uj7g",
-    "rank": 67,
+    "rank": 64,
     "rankVar": null
   },
   {
@@ -948,8 +906,8 @@
     "videoViewCount": "822",
     "videoThumbnail": "https://i.ytimg.com/vi/ZAyiOjHSuqw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMJ75EKO2I6HQM0Z5YaY6bUUa-Vg",
     "videoUrl": "http://youtu.be/ZAyiOjHSuqw",
-    "rank": 68,
-    "rankVar": 87
+    "rank": 65,
+    "rankVar": 90
   },
   {
     "id": 4376,
@@ -962,7 +920,7 @@
     "videoViewCount": "86",
     "videoThumbnail": "https://i.ytimg.com/vi/dX7iOQPAANA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2l_ID2bH7DY_OLWuAJ73HdoSr6Q",
     "videoUrl": "http://youtu.be/dX7iOQPAANA",
-    "rank": 69,
+    "rank": 66,
     "rankVar": null
   },
   {
@@ -976,8 +934,8 @@
     "videoViewCount": "15.44萬",
     "videoThumbnail": "https://i.ytimg.com/vi/IEzOJ6HM6TY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAYvHL_GLPKS1WXICO6jwaHSgCgg",
     "videoUrl": "http://youtu.be/IEzOJ6HM6TY",
-    "rank": 70,
-    "rankVar": -33
+    "rank": 67,
+    "rankVar": -30
   },
   {
     "id": 2019,
@@ -990,8 +948,8 @@
     "videoViewCount": "2.76萬",
     "videoThumbnail": "https://i.ytimg.com/vi/vaOkR90qVDI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfHqVbNs1WFnZTTbEoiPZs0k4sLA",
     "videoUrl": "http://youtu.be/vaOkR90qVDI",
-    "rank": 71,
-    "rankVar": 16
+    "rank": 68,
+    "rankVar": 19
   },
   {
     "id": 1678,
@@ -1004,8 +962,8 @@
     "videoViewCount": "17.25萬",
     "videoThumbnail": "https://i.ytimg.com/vi/WKbFIdaqExc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfcTwas22hUEJ72GC7FJODyTveFA",
     "videoUrl": "http://youtu.be/WKbFIdaqExc",
-    "rank": 72,
-    "rankVar": 392
+    "rank": 69,
+    "rankVar": 395
   },
   {
     "id": 2192,
@@ -1018,8 +976,8 @@
     "videoViewCount": "2.33萬",
     "videoThumbnail": "https://i.ytimg.com/vi/x_px8HO5bXI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFPb7X8X32sCwotaeg34AskJ5iLA",
     "videoUrl": "http://youtu.be/x_px8HO5bXI",
-    "rank": 73,
-    "rankVar": 7
+    "rank": 70,
+    "rankVar": 10
   },
   {
     "id": 4099,
@@ -1032,8 +990,8 @@
     "videoViewCount": "201",
     "videoThumbnail": "https://i.ytimg.com/vi/ihiPLmzebDc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDK2P9WSfnamy7b30jJ08dU-wSpFA",
     "videoUrl": "http://youtu.be/ihiPLmzebDc",
-    "rank": 73,
-    "rankVar": 22
+    "rank": 70,
+    "rankVar": 25
   },
   {
     "id": 2146,
@@ -1046,8 +1004,8 @@
     "videoViewCount": "13.92萬",
     "videoThumbnail": "https://i.ytimg.com/vi/K9CPuvHNVVQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj4aNvHAVW7b6Cl2Lg4n-c_RfDcA",
     "videoUrl": "http://youtu.be/K9CPuvHNVVQ",
-    "rank": 75,
-    "rankVar": -45
+    "rank": 72,
+    "rankVar": -42
   },
   {
     "id": 2803,
@@ -1060,8 +1018,8 @@
     "videoViewCount": "1.36萬",
     "videoThumbnail": "https://i.ytimg.com/vi/eDC3yp3_vgA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRlqqsQB4UQMSQ0ritcFnSo-cZCQ",
     "videoUrl": "http://youtu.be/eDC3yp3_vgA",
-    "rank": 76,
-    "rankVar": 69
+    "rank": 73,
+    "rankVar": 72
   },
   {
     "id": 2889,
@@ -1074,7 +1032,7 @@
     "videoViewCount": "5506",
     "videoThumbnail": "https://i.ytimg.com/vi/sw8JtdPK23g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCK9QSDbDWeo1e9RuYoJOJhrDOgmQ",
     "videoUrl": "http://youtu.be/sw8JtdPK23g",
-    "rank": 77,
+    "rank": 74,
     "rankVar": null
   },
   {
@@ -1088,8 +1046,8 @@
     "videoViewCount": "44",
     "videoThumbnail": "https://i.ytimg.com/vi/E3Rv7Mrvxn0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcymxBRInBMeHNU2xFu5K8vRGcWg",
     "videoUrl": "http://youtu.be/E3Rv7Mrvxn0",
-    "rank": 78,
-    "rankVar": 309
+    "rank": 75,
+    "rankVar": 312
   },
   {
     "id": 2208,
@@ -1102,8 +1060,8 @@
     "videoViewCount": "3.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/l8Gqe374wfQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmltznc0L2zWeGgwXBHE9KFR7NBw",
     "videoUrl": "http://youtu.be/l8Gqe374wfQ",
-    "rank": 79,
-    "rankVar": -41
+    "rank": 76,
+    "rankVar": -38
   },
   {
     "id": 3188,
@@ -1116,8 +1074,8 @@
     "videoViewCount": "374",
     "videoThumbnail": "https://i.ytimg.com/vi/QW2lgJ2gxxQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1O_7fdxqcKWQ2-_dyG5BXDTKwIQ",
     "videoUrl": "http://youtu.be/QW2lgJ2gxxQ",
-    "rank": 80,
-    "rankVar": 129
+    "rank": 77,
+    "rankVar": 132
   },
   {
     "id": 1004,
@@ -1130,8 +1088,8 @@
     "videoViewCount": "1.56萬",
     "videoThumbnail": "https://i.ytimg.com/vi/jrfB-cQ06LI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUAuj22Rs4BE2FMcdDB6dQOd6tJg",
     "videoUrl": "http://youtu.be/jrfB-cQ06LI",
-    "rank": 81,
-    "rankVar": 42
+    "rank": 78,
+    "rankVar": 45
   },
   {
     "id": 3013,
@@ -1144,7 +1102,7 @@
     "videoViewCount": "1164",
     "videoThumbnail": "https://i.ytimg.com/vi/ySbpfSYztkU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfnjgNT01zbuJdTsnpLceLljBiFA",
     "videoUrl": "http://youtu.be/ySbpfSYztkU",
-    "rank": 82,
+    "rank": 79,
     "rankVar": null
   },
   {
@@ -1158,8 +1116,8 @@
     "videoViewCount": "19.07萬",
     "videoThumbnail": "https://i.ytimg.com/vi/41QdZzifx3Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8J0kUr9aetwNaMZ6QpbAOW9jPrg",
     "videoUrl": "http://youtu.be/41QdZzifx3Y",
-    "rank": 83,
-    "rankVar": -36
+    "rank": 80,
+    "rankVar": -33
   },
   {
     "id": 3262,
@@ -1172,8 +1130,8 @@
     "videoViewCount": "1395",
     "videoThumbnail": "https://i.ytimg.com/vi/KCNryjn33OM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3kt6QnsrR1GF89Bfzkrv6TVKMTw",
     "videoUrl": "http://youtu.be/KCNryjn33OM",
-    "rank": 84,
-    "rankVar": 95
+    "rank": 81,
+    "rankVar": 98
   },
   {
     "id": 3132,
@@ -1186,8 +1144,8 @@
     "videoViewCount": "2.86萬",
     "videoThumbnail": "https://i.ytimg.com/vi/NnxVtUfFsJc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZZzwsUEfrDms5tPd5DTJehWKGdQ",
     "videoUrl": "http://youtu.be/NnxVtUfFsJc",
-    "rank": 85,
-    "rankVar": -41
+    "rank": 82,
+    "rankVar": -38
   },
   {
     "id": 3317,
@@ -1200,8 +1158,8 @@
     "videoViewCount": "222",
     "videoThumbnail": "https://i.ytimg.com/vi/-ig5KN-Dju8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEimVUAlky1-OlvFLfei-ZguBoSw",
     "videoUrl": "http://youtu.be/-ig5KN-Dju8",
-    "rank": 85,
-    "rankVar": 543
+    "rank": 82,
+    "rankVar": 546
   },
   {
     "id": 2893,
@@ -1214,8 +1172,8 @@
     "videoViewCount": "1.43萬",
     "videoThumbnail": "https://i.ytimg.com/vi/GSoiCQrcgDI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRmxFDzo5Mjl1mW7qxKa-pKXeZmw",
     "videoUrl": "http://youtu.be/GSoiCQrcgDI",
-    "rank": 87,
-    "rankVar": 8
+    "rank": 84,
+    "rankVar": 11
   },
   {
     "id": 3211,
@@ -1228,8 +1186,8 @@
     "videoViewCount": "214",
     "videoThumbnail": "https://i.ytimg.com/vi/4JPE6aMnq2Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFh0ck7v_8xE1NYqOKpBmDCGnVtA",
     "videoUrl": "http://youtu.be/4JPE6aMnq2Q",
-    "rank": 88,
-    "rankVar": 220
+    "rank": 85,
+    "rankVar": 223
   },
   {
     "id": 3148,
@@ -1242,8 +1200,8 @@
     "videoViewCount": "981",
     "videoThumbnail": "https://i.ytimg.com/vi/B8gK8BFRdzg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-NJ6LM4GeaJMhQAhlzHnzE1HUzw",
     "videoUrl": "http://youtu.be/B8gK8BFRdzg",
-    "rank": 89,
-    "rankVar": 45
+    "rank": 86,
+    "rankVar": 48
   },
   {
     "id": 3498,
@@ -1256,8 +1214,8 @@
     "videoViewCount": "7134",
     "videoThumbnail": "https://i.ytimg.com/vi/z1zNZuzEjPg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQbT5QHNcHzc2QBYXUpnU-mcr7UA",
     "videoUrl": "http://youtu.be/z1zNZuzEjPg",
-    "rank": 90,
-    "rankVar": 10
+    "rank": 87,
+    "rankVar": 13
   },
   {
     "id": 2425,
@@ -1270,8 +1228,8 @@
     "videoViewCount": "1165",
     "videoThumbnail": "https://i.ytimg.com/vi/MH8DuMCYaN0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFUvDscX4MgBOWppAI9BeHHMdbTQ",
     "videoUrl": "http://youtu.be/MH8DuMCYaN0",
-    "rank": 91,
-    "rankVar": 636
+    "rank": 88,
+    "rankVar": 639
   },
   {
     "id": 3182,
@@ -1284,8 +1242,8 @@
     "videoViewCount": "187",
     "videoThumbnail": "https://i.ytimg.com/vi/U2X5BD4-pU4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgF-uACJPxkp67mo4lqXHinv4fOw",
     "videoUrl": "http://youtu.be/U2X5BD4-pU4",
-    "rank": 92,
-    "rankVar": -67
+    "rank": 89,
+    "rankVar": -64
   },
   {
     "id": 2600,
@@ -1298,7 +1256,7 @@
     "videoViewCount": "5796",
     "videoThumbnail": "https://i.ytimg.com/vi/_vIuvb5PAyY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5ksnqMu59hEpj9Avs6L8rSDHMeg",
     "videoUrl": "http://youtu.be/_vIuvb5PAyY",
-    "rank": 93,
+    "rank": 90,
     "rankVar": null
   },
   {
@@ -1312,8 +1270,8 @@
     "videoViewCount": "19.92萬",
     "videoThumbnail": "https://i.ytimg.com/vi/hpqCVr1sWZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ3GQnRxZifT7ap_f8xWeGJacaBg",
     "videoUrl": "http://youtu.be/hpqCVr1sWZE",
-    "rank": 94,
-    "rankVar": 37
+    "rank": 91,
+    "rankVar": 40
   },
   {
     "id": 158,
@@ -1326,22 +1284,8 @@
     "videoViewCount": "1044",
     "videoThumbnail": "https://i.ytimg.com/vi/Cp8_bqw4FYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdAwjszJUyTtGUsJjwAa7MJAINow",
     "videoUrl": "http://youtu.be/Cp8_bqw4FYk",
-    "rank": 95,
-    "rankVar": 259
-  },
-  {
-    "id": 2202,
-    "channelUrl": "https://www.youtube.com/channel/UCrPWiqy4AmzFruDvWONex6w",
-    "name": "ChuuyMine",
-    "thumbnail": "https://yt3.ggpht.com/NFM2i6KZVg1d6OSpsUQU_AXhAfe202ILET1XaasafwqpK6voA71-J1BRuI4_mevwHCxk0_F1_A=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4.41萬",
-    "score": "2.8",
-    "videoTitle": "JUEGOS De CELULAR en ROBLOX 😳",
-    "videoViewCount": "2.33萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/Yb8khxld_1o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtCxC_viS4--6B3nmUJ98_gBSd-w",
-    "videoUrl": "http://youtu.be/Yb8khxld_1o",
-    "rank": 96,
-    "rankVar": 110
+    "rank": 92,
+    "rankVar": 262
   },
   {
     "id": 1637,
@@ -1354,8 +1298,8 @@
     "videoViewCount": "28.98萬",
     "videoThumbnail": "https://i.ytimg.com/vi/V9YUPH9SzDk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsH1z8RBJRAWCr2EzG2G9mFhdwEw",
     "videoUrl": "http://youtu.be/V9YUPH9SzDk",
-    "rank": 97,
-    "rankVar": 27
+    "rank": 93,
+    "rankVar": 31
   },
   {
     "id": 2516,
@@ -1368,8 +1312,8 @@
     "videoViewCount": "1.93萬",
     "videoThumbnail": "https://i.ytimg.com/vi/oc2kPsV0qyI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6e13UdJFoAkDB5Sl2vdj5BQraKQ",
     "videoUrl": "http://youtu.be/oc2kPsV0qyI",
-    "rank": 98,
-    "rankVar": 115
+    "rank": 94,
+    "rankVar": 119
   },
   {
     "id": 2676,
@@ -1382,8 +1326,8 @@
     "videoViewCount": "7553",
     "videoThumbnail": "https://i.ytimg.com/vi/hljaMnRFIB8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-91IwaoogC4jPp9nOUuw3sbiCKw",
     "videoUrl": "http://youtu.be/hljaMnRFIB8",
-    "rank": 99,
-    "rankVar": -46
+    "rank": 95,
+    "rankVar": -42
   },
   {
     "id": 3818,
@@ -1396,7 +1340,63 @@
     "videoViewCount": "322",
     "videoThumbnail": "https://i.ytimg.com/vi/mXKaDKT3R-g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaiVHtON5JNl-V72wBdMeHS0soWQ",
     "videoUrl": "http://youtu.be/mXKaDKT3R-g",
+    "rank": 96,
+    "rankVar": 268
+  },
+  {
+    "id": 2414,
+    "channelUrl": "https://www.youtube.com/channel/UC5Kgc_HNzx4GJ-w4QMeeKiQ",
+    "name": "Pythonプログラミング VTuber サプー",
+    "thumbnail": "https://yt3.ggpht.com/jR1MUsEl_2S4ivGkG8zaHK131UEzWQldnO2uEiMa7qqvGg7ffZWdJ7RtjBzC8XnAZ-G4tw70vQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "3.44萬",
+    "score": "2.69",
+    "videoTitle": "【Pythonプログラミング入門】メモ化で高速化！cacheデコレータを使ってみよう！〜初心者向け〜",
+    "videoViewCount": "7474",
+    "videoThumbnail": "https://i.ytimg.com/vi/lRaSMlHY3aY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMIesoOXwlhnTV3YVwzYsSDPxCTA",
+    "videoUrl": "http://youtu.be/lRaSMlHY3aY",
+    "rank": 97,
+    "rankVar": -4
+  },
+  {
+    "id": 1755,
+    "channelUrl": "https://www.youtube.com/channel/UCgTzsBI0DIRopMylJEDqnog",
+    "name": "小雀とと / Toto Kogara",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8d2VlTlgwSnPyUgUcjtUGE6SnmP0RzsR-DoYPU=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "11.5萬",
+    "score": "2.68",
+    "videoTitle": "【 Apex 】すーちゃんとあそぶ！【 ぶいすぽ / 小雀とと 】",
+    "videoViewCount": "4.1萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/k1bF-xPSvTU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhU0aYolAmkUf_mlcVLS3liUPjQA",
+    "videoUrl": "http://youtu.be/k1bF-xPSvTU",
+    "rank": 98,
+    "rankVar": 83
+  },
+  {
+    "id": 2007,
+    "channelUrl": "https://www.youtube.com/channel/UCOp2E63vw8m2ChLdvZ_fYYw",
+    "name": "かかげ",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-DY_W-05jR9TfMzzewLbcS65rtrf-PjKJ1GKK6bg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "6.56萬",
+    "score": "2.66",
+    "videoTitle": "３時間でイラスト描けば一日３枚は描けるやろ　その①",
+    "videoViewCount": "12.54萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/abuALuemqLo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIo_X4Yr0t-3b6eWF7y0j2qGIjPA",
+    "videoUrl": "http://youtu.be/abuALuemqLo",
+    "rank": 99,
+    "rankVar": -35
+  },
+  {
+    "id": 4371,
+    "channelUrl": "https://www.youtube.com/channel/UChsV0fApwoRbwsmGoJalPrw",
+    "name": "ChihaOlivia",
+    "thumbnail": "https://yt3.ggpht.com/HBquQsTtrsA8XuS6svPScavJW3OKRdV9ScNeJmXWtpqscbSlaCYqOX3nOclVCOEGjwPR7MeIQQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "116",
+    "score": "2.65",
+    "videoTitle": "Hide and seek with Krasue?【Eyes the Horror】BM/EN/ID",
+    "videoViewCount": "1980",
+    "videoThumbnail": "https://i.ytimg.com/vi/LJ16nZeRMq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCS0Qifb_g-hy2SPbZON0hzlKtDSw",
+    "videoUrl": "http://youtu.be/LJ16nZeRMq4",
     "rank": 100,
-    "rankVar": 264
+    "rankVar": null
   }
 ]
