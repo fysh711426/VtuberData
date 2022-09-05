@@ -1,19 +1,5 @@
 [
   {
-    "id": 4753,
-    "channelUrl": "https://www.youtube.com/channel/UC0WITgHjfhzMumm6iAd1xBg",
-    "name": "I Keep It Taco",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu965YivfK8R-SpTpSzx5kdPkq3oOofqrCLWY1kUUg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "33萬",
-    "score": "330,000",
-    "videoTitle": "Riot released a Melee ADC Dommy Mommy that Speedruns to level 18",
-    "videoViewCount": "19.45萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/9t_BBRfwGOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaqjczS1iRDjsBtAHZ7BSvEaWD2A",
-    "videoUrl": "http://youtu.be/9t_BBRfwGOs",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 4649,
     "channelUrl": "https://www.youtube.com/channel/UCcpgDsHDYHO1UyfpwjyNx1g",
     "name": "Kiichan Ch. 狐井アキラ",
@@ -24,7 +10,7 @@
     "videoViewCount": "2.84萬",
     "videoThumbnail": "https://i.ytimg.com/vi/sDxt8c5pr3w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAq78SIX7sF5p9jh-cZsAp2qfUx_Q",
     "videoUrl": "http://youtu.be/sDxt8c5pr3w",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -38,7 +24,7 @@
     "videoViewCount": "24.73萬",
     "videoThumbnail": "https://i.ytimg.com/vi/M6b008SPxwI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBv5y7pl8zrU8bTZTKjo9-m1qwFXg",
     "videoUrl": "http://youtu.be/M6b008SPxwI",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -52,35 +38,7 @@
     "videoViewCount": "24.59萬",
     "videoThumbnail": "https://i.ytimg.com/vi/8LUJ66yLwcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANmhBpSnc4Uuv-_ivwEQsu8gS7og",
     "videoUrl": "http://youtu.be/8LUJ66yLwcs",
-    "rank": 3,
-    "rankVar": null
-  },
-  {
-    "id": 4754,
-    "channelUrl": "https://www.youtube.com/channel/UC6P8LKLrksKSy1pBTCOxUvA",
-    "name": "Andrew Arcade",
-    "thumbnail": "https://yt3.ggpht.com/5urTjEnG7xiVGEHeyVu4NQxro4jygDJEloNFaIpcuQaxqvEkURjEARPkPC4W_FcPlaDku9X8fQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "14.1萬",
-    "score": "141,000",
-    "videoTitle": "Playing TS3 with a camera mod that mimics The Sims 1",
-    "videoViewCount": "4879",
-    "videoThumbnail": "https://i.ytimg.com/vi/TAMl9_SGojY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwyP9NE7ydYyEunss8WbJ06FYH-g",
-    "videoUrl": "http://youtu.be/TAMl9_SGojY",
-    "rank": 5,
-    "rankVar": null
-  },
-  {
-    "id": 4755,
-    "channelUrl": "https://www.youtube.com/channel/UC92fbaZ2jMoKLkDSbW2KXGw",
-    "name": "ARUUU",
-    "thumbnail": "https://yt3.ggpht.com/ptVJ8pL_x0dXWr3JfifpEVilHGxySLKxcKti8aF8HKhaJnZjv-4s2PAgftGVfGTdqk6H8n3x_w=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "12.2萬",
-    "score": "122,000",
-    "videoTitle": "ARUUU IS A VTUBER?!?! Come meet UUURA!!! | VTUBER DEBUT!!!!!",
-    "videoViewCount": "2963",
-    "videoThumbnail": "https://i.ytimg.com/vi/r1W_ImHwCFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApaB-RVMLU1Cpgq_hlySMwec_9bQ",
-    "videoUrl": "http://youtu.be/r1W_ImHwCFk",
-    "rank": 6,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -94,7 +52,7 @@
     "videoViewCount": "2.83萬",
     "videoThumbnail": "https://i.ytimg.com/vi/b0BhVvP5Ybs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmXZkTOFs6QHYQ-ZBGeaZ7s7iZFg",
     "videoUrl": "http://youtu.be/b0BhVvP5Ybs",
-    "rank": 7,
+    "rank": 4,
     "rankVar": null
   },
   {
@@ -108,49 +66,7 @@
     "videoViewCount": "66.59萬",
     "videoThumbnail": "https://i.ytimg.com/vi/mQAhby98UXg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8OA1cjb-5bxl_44Rv3m8XFBIoww",
     "videoUrl": "http://youtu.be/mQAhby98UXg",
-    "rank": 8,
-    "rankVar": null
-  },
-  {
-    "id": 4756,
-    "channelUrl": "https://www.youtube.com/channel/UCeOY0JF2so8f67ZLyGeS6xQ",
-    "name": "MissShadowLovely",
-    "thumbnail": "https://yt3.ggpht.com/EaShT9oqau4TZ4HqsHNv-01shiyMaWM_HDD7tGPhxqggXkKtLsbjk_7uIQxVyu9_BLSIO5jk=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "9.75萬",
-    "score": "97,500",
-    "videoTitle": "House of Ashes - Part 1: These People Are Terrible ✨ VTuber ✨",
-    "videoViewCount": "517",
-    "videoThumbnail": "https://i.ytimg.com/vi/dKLvQLcBF10/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkFPzFw8cYLj6ipKrbxBOBjD0VtQ",
-    "videoUrl": "http://youtu.be/dKLvQLcBF10",
-    "rank": 9,
-    "rankVar": null
-  },
-  {
-    "id": 4757,
-    "channelUrl": "https://www.youtube.com/channel/UCex9UT-uTPs734gEZLf0I1g",
-    "name": "【公式】SANYOチャンネル",
-    "thumbnail": "https://yt3.ggpht.com/z80wsVlKVngaqJHYKgxLRbIi0dGsK8QvzmdfMNndq9VFkKU6lGFd9MQvfSMwbjwTw0CsK05DPAU=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "8.67萬",
-    "score": "86,700",
-    "videoTitle": "【CM】PA新海物語 15秒ver.",
-    "videoViewCount": "140.55萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/ZjLDrYC9Edw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQXyVYaGpWf4i1lDJ2aiYT8N_2JA",
-    "videoUrl": "http://youtu.be/ZjLDrYC9Edw",
-    "rank": 10,
-    "rankVar": null
-  },
-  {
-    "id": 4758,
-    "channelUrl": "https://www.youtube.com/channel/UC-QDZIHLPWms9nRfYllDkXA",
-    "name": "iilluminaughtea",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_W9PtvysQQtvZkVXMW-4u8e8wAebv1MMSFRJnE=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "6.97萬",
-    "score": "69,700",
-    "videoTitle": "Shopping on the My Pillow Website",
-    "videoViewCount": "6292",
-    "videoThumbnail": "https://i.ytimg.com/vi/Sz5J5Qnip0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIIuSt2NSSOBd5BN14Z0c31dGLeA",
-    "videoUrl": "http://youtu.be/Sz5J5Qnip0U",
-    "rank": 11,
+    "rank": 5,
     "rankVar": null
   },
   {
@@ -164,7 +80,7 @@
     "videoViewCount": "8208",
     "videoThumbnail": "https://i.ytimg.com/vi/2zE2vCEg54E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ3lVqeOYziMSQPt9Xwy34CQUnTg",
     "videoUrl": "http://youtu.be/2zE2vCEg54E",
-    "rank": 12,
+    "rank": 6,
     "rankVar": null
   },
   {
@@ -178,21 +94,7 @@
     "videoViewCount": "1.77萬",
     "videoThumbnail": "https://i.ytimg.com/vi/scdT5H-aIe8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC99ZO7Dwbkhj34bbeYwf8UzDVGMA",
     "videoUrl": "http://youtu.be/scdT5H-aIe8",
-    "rank": 13,
-    "rankVar": null
-  },
-  {
-    "id": 4759,
-    "channelUrl": "https://www.youtube.com/channel/UChVDW1K_F72sQ2NI3rz5-2w",
-    "name": "Blep 35",
-    "thumbnail": "https://yt3.ggpht.com/XyS8DV8BYYiSIlaG3JpqLzjSpSqbVtSR7jmACTn2almg1Mgc9i0IFGFaywjMmEl7hZtCm8Oy6UY=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4.01萬",
-    "score": "40,100",
-    "videoTitle": "I Made a 3D VTuber model for FREE in 2 weeks",
-    "videoViewCount": "22.62萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/69SUwY7SCJk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo_cREa0sqSPze-HI5oQsL2m5XZQ",
-    "videoUrl": "http://youtu.be/69SUwY7SCJk",
-    "rank": 14,
+    "rank": 7,
     "rankVar": null
   },
   {
@@ -206,7 +108,7 @@
     "videoViewCount": "1.22萬",
     "videoThumbnail": "https://i.ytimg.com/vi/oMoT98sDbUM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD6wTJnImFKE4WGo_eKVJBs1Xip6g",
     "videoUrl": "http://youtu.be/oMoT98sDbUM",
-    "rank": 15,
+    "rank": 8,
     "rankVar": null
   },
   {
@@ -220,21 +122,7 @@
     "videoViewCount": "722",
     "videoThumbnail": "https://i.ytimg.com/vi/mxCnjRh8AJg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACTQhhFIuHsJmFMPIp8VEDdpljjg",
     "videoUrl": "http://youtu.be/mxCnjRh8AJg",
-    "rank": 16,
-    "rankVar": null
-  },
-  {
-    "id": 4760,
-    "channelUrl": "https://www.youtube.com/channel/UCk_yrKoKi74gKCCWVRyvwYw",
-    "name": "World of Io - Ioverse",
-    "thumbnail": "https://yt3.ggpht.com/k_ltiGQvSCGGATvb8uabAt-yr8iCdR4i83w7Gy62O9MliYMolmZ4RNWBk89NfvkTBF1uSo-NIw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.6萬",
-    "score": "26,000",
-    "videoTitle": "Dungeons and Dragons: Pipe Dreamers Season 2 Session 7 (World of Io/Ioverse)",
-    "videoViewCount": "1.07萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/VRHpWmz2txk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAROz2KEcRcDrZg0HQQOLcUJkd8uw",
-    "videoUrl": "http://youtu.be/VRHpWmz2txk",
-    "rank": 17,
+    "rank": 9,
     "rankVar": null
   },
   {
@@ -248,21 +136,7 @@
     "videoViewCount": "3.14萬",
     "videoThumbnail": "https://i.ytimg.com/vi/CtkpVS16OiA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMyK89JjzxalXXcGay-rbbBWsSXw",
     "videoUrl": "http://youtu.be/CtkpVS16OiA",
-    "rank": 18,
-    "rankVar": null
-  },
-  {
-    "id": 4761,
-    "channelUrl": "https://www.youtube.com/channel/UCGQquYipd94yKgp6wcr-WiA",
-    "name": "uguubear",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9llU08JOnaWzh25ldH4fFt-S-Stx-64ai6qJjStw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.85萬",
-    "score": "18,500",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 19,
+    "rank": 10,
     "rankVar": null
   },
   {
@@ -276,7 +150,7 @@
     "videoViewCount": "12.98萬",
     "videoThumbnail": "https://i.ytimg.com/vi/rxfGCvRKFV4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF-XIE_J1OzUo2lJmrYklD9BTNHw",
     "videoUrl": "http://youtu.be/rxfGCvRKFV4",
-    "rank": 20,
+    "rank": 11,
     "rankVar": null
   },
   {
@@ -290,7 +164,7 @@
     "videoViewCount": "882",
     "videoThumbnail": "https://i.ytimg.com/vi/EBz-9dGZoTY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXWryNK1EJtzVz_FusCMFCegz7Ew",
     "videoUrl": "http://youtu.be/EBz-9dGZoTY",
-    "rank": 21,
+    "rank": 12,
     "rankVar": null
   },
   {
@@ -304,7 +178,7 @@
     "videoViewCount": "4萬",
     "videoThumbnail": "https://i.ytimg.com/vi/QVzRxQiTWkI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2dUAZasXybajyxUH9IfsMp4do3g",
     "videoUrl": "http://youtu.be/QVzRxQiTWkI",
-    "rank": 22,
+    "rank": 13,
     "rankVar": null
   },
   {
@@ -318,7 +192,7 @@
     "videoViewCount": "1.73萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_uKGxp4uoR0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Xtce95pCnUPqH8YHxeZ0l0RvfA",
     "videoUrl": "http://youtu.be/_uKGxp4uoR0",
-    "rank": 23,
+    "rank": 14,
     "rankVar": null
   },
   {
@@ -332,7 +206,7 @@
     "videoViewCount": "1.75萬",
     "videoThumbnail": "https://i.ytimg.com/vi/u3GpYBwTLHE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMIA-JQU9drxs0omeY4LkJW-Bs7w",
     "videoUrl": "http://youtu.be/u3GpYBwTLHE",
-    "rank": 24,
+    "rank": 15,
     "rankVar": null
   },
   {
@@ -346,7 +220,7 @@
     "videoViewCount": "3.78萬",
     "videoThumbnail": "https://i.ytimg.com/vi/5m-yMtkg7vk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqN4agm3UQWMLt2RCDbkfNXgUkFg",
     "videoUrl": "http://youtu.be/5m-yMtkg7vk",
-    "rank": 25,
+    "rank": 16,
     "rankVar": null
   },
   {
@@ -360,21 +234,7 @@
     "videoViewCount": "4371",
     "videoThumbnail": "https://i.ytimg.com/vi/B9UiUWag9M8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3BsbPgzfMVHJFec_I2bVb9v8VDw",
     "videoUrl": "http://youtu.be/B9UiUWag9M8",
-    "rank": 26,
-    "rankVar": null
-  },
-  {
-    "id": 4763,
-    "channelUrl": "https://www.youtube.com/channel/UCSkSQ0jfHKDvsUQk2GQ3x1A",
-    "name": "gateoo",
-    "thumbnail": "https://yt3.ggpht.com/ppHlg8ojQ7SY9xOJLe_nHf42MMJIedzuPPpVAStbcx8d6qEscviy7UH5mMi8saVUOYH7CDeGFm8=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.5萬",
-    "score": "15,000",
-    "videoTitle": "TRIPLE Your Damage With RELICS! Invest In the Right Relics for End Game in Tower of Fantasy",
-    "videoViewCount": "17.05萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/AOc09cf9FIQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDPL22JCpEopqBkPczfblwO8LzBw",
-    "videoUrl": "http://youtu.be/AOc09cf9FIQ",
-    "rank": 26,
+    "rank": 17,
     "rankVar": null
   },
   {
@@ -388,7 +248,7 @@
     "videoViewCount": "2.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/dc90r7fb4ZU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRG6XF1ZErl5PZkwfKj18Esw3Y5Q",
     "videoUrl": "http://youtu.be/dc90r7fb4ZU",
-    "rank": 28,
+    "rank": 18,
     "rankVar": null
   },
   {
@@ -402,21 +262,7 @@
     "videoViewCount": "2897",
     "videoThumbnail": "https://i.ytimg.com/vi/ugMkudH6mA8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClkOleFUgPexTPcUrps0EvGj6A5Q",
     "videoUrl": "http://youtu.be/ugMkudH6mA8",
-    "rank": 29,
-    "rankVar": null
-  },
-  {
-    "id": 4765,
-    "channelUrl": "https://www.youtube.com/channel/UCT68xhKCuLZd9rQQ9cJZlNw",
-    "name": "AlanKui",
-    "thumbnail": "https://yt3.ggpht.com/UW_gafO_aszjurd0f4qo06HTRuiBSs2EvCgQpWtzwHE7NJdyjA6YFbdiGHo08PuZXMu9W3kAMBw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.35萬",
-    "score": "13,500",
-    "videoTitle": "Me peleo con ElMariana, Milly, AldoGeo, RocioDTA 🤬",
-    "videoViewCount": "5045",
-    "videoThumbnail": "https://i.ytimg.com/vi/c8C5hScdwr8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBLzNygYpDOr8q68vj2Fmtv91iXw",
-    "videoUrl": "http://youtu.be/c8C5hScdwr8",
-    "rank": 30,
+    "rank": 19,
     "rankVar": null
   },
   {
@@ -430,7 +276,7 @@
     "videoViewCount": "8717",
     "videoThumbnail": "https://i.ytimg.com/vi/Ub5BDoHP6uc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfrhGZ3xRJRy1q261xLltWb7azYw",
     "videoUrl": "http://youtu.be/Ub5BDoHP6uc",
-    "rank": 31,
+    "rank": 20,
     "rankVar": null
   },
   {
@@ -444,7 +290,7 @@
     "videoViewCount": "1727",
     "videoThumbnail": "https://i.ytimg.com/vi/3HlQ20yXIVQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEscoxG-lp4u507W7KvXH7TZ8DyA",
     "videoUrl": "http://youtu.be/3HlQ20yXIVQ",
-    "rank": 32,
+    "rank": 21,
     "rankVar": null
   },
   {
@@ -458,7 +304,7 @@
     "videoViewCount": "2560",
     "videoThumbnail": "https://i.ytimg.com/vi/apvIA1_XqRY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANPGGxjj-EL_IxOtnRCiKTgdUO2A",
     "videoUrl": "http://youtu.be/apvIA1_XqRY",
-    "rank": 33,
+    "rank": 22,
     "rankVar": null
   },
   {
@@ -472,7 +318,7 @@
     "videoViewCount": "691",
     "videoThumbnail": "https://i.ytimg.com/vi/mgvrF5_PiF0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgBBpBFrPYqJu93GxCSmKALSYepQ",
     "videoUrl": "http://youtu.be/mgvrF5_PiF0",
-    "rank": 34,
+    "rank": 23,
     "rankVar": null
   },
   {
@@ -486,7 +332,7 @@
     "videoViewCount": "894",
     "videoThumbnail": "https://i.ytimg.com/vi/GFbF08cXOrU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv0pvj_tU2Tk0YbvXM0o2lqb89bg",
     "videoUrl": "http://youtu.be/GFbF08cXOrU",
-    "rank": 35,
+    "rank": 24,
     "rankVar": null
   },
   {
@@ -500,7 +346,7 @@
     "videoViewCount": "586",
     "videoThumbnail": "https://i.ytimg.com/vi/HJzFEetuE10/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnFVaQMpa7v579kkX6PuQ1ZinLsg",
     "videoUrl": "http://youtu.be/HJzFEetuE10",
-    "rank": 36,
+    "rank": 25,
     "rankVar": null
   },
   {
@@ -514,7 +360,7 @@
     "videoViewCount": "104",
     "videoThumbnail": "https://i.ytimg.com/vi/ZjGDDgP_HgQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIWOgSKZ3z4X6-Rll8wqjCOYoX7A",
     "videoUrl": "http://youtu.be/ZjGDDgP_HgQ",
-    "rank": 37,
+    "rank": 26,
     "rankVar": null
   },
   {
@@ -528,7 +374,7 @@
     "videoViewCount": "287",
     "videoThumbnail": "https://i.ytimg.com/vi/U3SO136ZgU4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNWQl5MuBdXWuiz32tej9C9ITimg",
     "videoUrl": "http://youtu.be/U3SO136ZgU4",
-    "rank": 38,
+    "rank": 27,
     "rankVar": null
   },
   {
@@ -542,7 +388,7 @@
     "videoViewCount": "80",
     "videoThumbnail": "https://i.ytimg.com/vi/RDyY0tU5Y88/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBefU2gEkSdc0Q6vR5jpB-s0wVKhQ",
     "videoUrl": "http://youtu.be/RDyY0tU5Y88",
-    "rank": 39,
+    "rank": 28,
     "rankVar": null
   },
   {
@@ -556,7 +402,7 @@
     "videoViewCount": "69",
     "videoThumbnail": "https://i.ytimg.com/vi/ZNuPPjsqij0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCq-vll5-7Y9i5Am_8C5c9AQGzmjg",
     "videoUrl": "http://youtu.be/ZNuPPjsqij0",
-    "rank": 40,
+    "rank": 29,
     "rankVar": null
   }
 ]
