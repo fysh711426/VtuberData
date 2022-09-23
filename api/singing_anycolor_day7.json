@@ -1,16 +1,30 @@
 [
   {
+    "id": 3442,
+    "channelUrl": "https://www.youtube.com/channel/UC4l9gz3q65lTBFfFtW5LLeA",
+    "name": "渡会雲雀(わたらいひばり)",
+    "thumbnail": "https://yt3.ggpht.com/kZtdFR_LiHQ30BB0wnlvg5Z0GeyICgNzveWS5KlrXyxhSEo9ROasbXeGGeJPJTDqwIY-Wjd1NA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "17.8萬",
+    "score": "178,095",
+    "videoTitle": "【歌枠】誕生日記念歌枠【渡会雲雀/にじさんじ】",
+    "videoViewCount": "17.81萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/_2D1Fw28iJk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzsAqyt66fG4-KTFruxfBCaLql1g",
+    "videoUrl": "http://youtu.be/_2D1Fw28iJk",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
     "id": 1394,
     "channelUrl": "https://www.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA",
     "name": "週央珊瑚",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-W8Mx7tc_EvgbLdFoYuGoUkX83rpatfnRlVJRM=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "40.4萬",
-    "score": "125,117",
+    "score": "139,273",
     "videoTitle": "【 ＃いちさんごラジオ 出張編】おかあさんといっしょ縛り歌枠【ジョー・力一、周央サンゴ】",
-    "videoViewCount": "12.51萬",
+    "videoViewCount": "13.93萬",
     "videoThumbnail": "https://i.ytimg.com/vi/bI8b-bi61qA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAh1z7wEK2XVeTAr-V3b7tXt07bBQ",
     "videoUrl": "http://youtu.be/bI8b-bi61qA",
-    "rank": 1,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -19,12 +33,12 @@
     "name": "GAON",
     "thumbnail": "https://yt3.ggpht.com/nt93BUDwRGz68y1qE9klz3rNpHsUqQPniggUngnQqqIwaxmaIAKeDkLh5tBrahfz2n_8YarUQw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "3.8萬",
-    "score": "5,328",
+    "score": "5,450",
     "videoTitle": "【歌枠】 노래 【SING】",
-    "videoViewCount": "5328",
+    "videoViewCount": "5450",
     "videoThumbnail": "https://i.ytimg.com/vi/mW1_Q4pjmsA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxiNpdiLx-7lP3bmXfp9KuMDJQAw",
     "videoUrl": "http://youtu.be/mW1_Q4pjmsA",
-    "rank": 2,
+    "rank": 3,
     "rankVar": null
   }
 ]
