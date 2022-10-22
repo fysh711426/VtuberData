@@ -1,30 +1,16 @@
 [
   {
-    "id": 3505,
-    "channelUrl": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
-    "name": "マリアマリネット",
-    "thumbnail": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "33.9萬",
-    "score": "106,743",
-    "videoTitle": "【SINGING 歌枠】IDOL SONGS ONLY【NIJISANJI EN | Maria Marionette】",
-    "videoViewCount": "10.67萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/cefz72Us9XA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAORo451snv-md9wIa0Wjl3IlNlfQ",
-    "videoUrl": "http://youtu.be/cefz72Us9XA",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1340,
     "channelUrl": "https://www.youtube.com/channel/UCPvGypSgfDkVe7JG2KygK7A",
     "name": "龍膽尊",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu89FQWmYPgWbEI37qahaNwWBZV-KKlo1siWGRHg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "51.9萬",
-    "score": "57,236",
+    "score": "61,492",
     "videoTitle": "【 歌枠┆SINGING 】誕生日だし歌っちゃうぞ 💜  ̖́-‬【 竜胆 尊┆にじさんじ 】",
-    "videoViewCount": "5.72萬",
+    "videoViewCount": "6.15萬",
     "videoThumbnail": "https://i.ytimg.com/vi/xPNCBqmyqlc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTsku-JqMaxnzsw9iAuuUn8btr2w",
     "videoUrl": "http://youtu.be/xPNCBqmyqlc",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -33,12 +19,12 @@
     "name": "Seffyna",
     "thumbnail": "https://yt3.ggpht.com/jtKEMnqzW7TsuiGNbD3cAR4e8F9_Yc7xcKrx5UVFEi9wTFuDHV3wDW0JKKc3wXZ3mOLdXoMOZQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "14.5萬",
-    "score": "33,303",
+    "score": "33,948",
     "videoTitle": "【歌枠】 14万人ありがとうございます！ 【にじさんじ | セフィナ】",
-    "videoViewCount": "3.33萬",
+    "videoViewCount": "3.39萬",
     "videoThumbnail": "https://i.ytimg.com/vi/dfOQfgbZop4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOAeQe8r4vin8bJ6ZSZ-odwv1EhA",
     "videoUrl": "http://youtu.be/dfOQfgbZop4",
-    "rank": 3,
-    "rankVar": -1
+    "rank": 2,
+    "rankVar": null
   }
 ]
