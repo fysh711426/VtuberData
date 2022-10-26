@@ -1,44 +1,16 @@
 [
   {
-    "id": 1334,
-    "channelUrl": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-    "name": "鷹嶺ルイ(たかねるい)",
-    "thumbnail": "https://yt3.ggpht.com/R_IzGiw1xDQp0y9zVvGkF9e8Gj8wtr2_551Ez3X6gOMIj3e6jra1I1suuK_jH9FqigBj8ywg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "63.3萬",
-    "score": "271,093",
-    "videoTitle": "【お知らせあり歌枠‼】みんなお待たせ！あれが遂に…。／ KARAOKE＆NEW HAIR #鷹嶺ルイ新髪型【鷹嶺ルイ/ホロライブ】",
-    "videoViewCount": "27.11萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/OtQIemx_Fqs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6am_xC7vZNMixyYbFX4OlO9mN_w",
-    "videoUrl": "http://youtu.be/OtQIemx_Fqs",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1225,
     "channelUrl": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
     "name": "白上吹雪",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9yXgE7uEDk-7i1Gphyxd34NeopLClxUujOg-0OlQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "200萬",
-    "score": "255,471",
+    "score": "285,813",
     "videoTitle": "【歌枠】２００万人耐久というやつでございます。/　#白上フブキ200万人耐久【ホロライブ/白上フブキ】",
-    "videoViewCount": "25.55萬",
+    "videoViewCount": "28.58萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Y-LP-O8LQIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD46cYQVXKg745qCkJhjPvuUAQR2g",
     "videoUrl": "http://youtu.be/Y-LP-O8LQIs",
-    "rank": 2,
-    "rankVar": null
-  },
-  {
-    "id": 1280,
-    "channelUrl": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-    "name": "ラプラス・ダークネス",
-    "thumbnail": "https://yt3.ggpht.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "85.9萬",
-    "score": "147,754",
-    "videoTitle": "【歌枠│SINGING】ゆうがたLIVE！リクエストぼしゅ～！【ラプラス・ダークネス/ホロライブ】",
-    "videoViewCount": "14.78萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/XRrIEqC28is/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU7W-q9ATz_f1CcbDF7KRpZfoETA",
-    "videoUrl": "http://youtu.be/XRrIEqC28is",
-    "rank": 3,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -47,13 +19,27 @@
     "name": "角卷綿芽",
     "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "130萬",
-    "score": "147,080",
+    "score": "149,432",
     "videoTitle": "【歌枠】第９５回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "14.71萬",
+    "videoViewCount": "14.94萬",
     "videoThumbnail": "https://i.ytimg.com/vi/XJOLnRWFL8I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvxcnzxsd5UsHObhwgYULegCoLgw",
     "videoUrl": "http://youtu.be/XJOLnRWFL8I",
-    "rank": 4,
-    "rankVar": 0
+    "rank": 2,
+    "rankVar": 3
+  },
+  {
+    "id": 1280,
+    "channelUrl": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+    "name": "ラプラス・ダークネス",
+    "thumbnail": "https://yt3.ggpht.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "85.9萬",
+    "score": "148,911",
+    "videoTitle": "【歌枠│SINGING】ゆうがたLIVE！リクエストぼしゅ～！【ラプラス・ダークネス/ホロライブ】",
+    "videoViewCount": "14.89萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/XRrIEqC28is/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBU7W-q9ATz_f1CcbDF7KRpZfoETA",
+    "videoUrl": "http://youtu.be/XRrIEqC28is",
+    "rank": 3,
+    "rankVar": null
   },
   {
     "id": 1268,
@@ -61,12 +47,12 @@
     "name": "不知火芙蕾雅",
     "thumbnail": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "93萬",
-    "score": "83,373",
+    "score": "85,127",
     "videoTitle": "【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】",
-    "videoViewCount": "8.34萬",
+    "videoViewCount": "8.51萬",
     "videoThumbnail": "https://i.ytimg.com/vi/qjB_KcQ4u7s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd7IB4dT18ykSJ0WutIBC29VxnAQ",
     "videoUrl": "http://youtu.be/qjB_KcQ4u7s",
-    "rank": 5,
+    "rank": 4,
     "rankVar": null
   },
   {
@@ -75,26 +61,12 @@
     "name": "大神澪",
     "thumbnail": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "104萬",
-    "score": "78,346",
+    "score": "84,018",
     "videoTitle": "【歌枠】懐メロを歌いたい～～～！！！！！【ホロライブ/大神ミオ】",
-    "videoViewCount": "7.83萬",
+    "videoViewCount": "8.4萬",
     "videoThumbnail": "https://i.ytimg.com/vi/wgN36Zc19qQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpTuU33V__Ldp1Fspw6g6rqVdlJg",
     "videoUrl": "http://youtu.be/wgN36Zc19qQ",
-    "rank": 6,
-    "rankVar": null
-  },
-  {
-    "id": 1260,
-    "channelUrl": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-    "name": "尾丸波爾卡",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_n6Fs3YybTJz_o9D1tIRojgZwCgqm9SmbB1Bngnw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "103萬",
-    "score": "52,274",
-    "videoTitle": "【歌枠/Singing】1hだけよ【尾丸ポルカ/ホロライブ】",
-    "videoViewCount": "5.23萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/ozuzys8pXH8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxIMi500Vtgm4aLbPEawujAMUnrA",
-    "videoUrl": "http://youtu.be/ozuzys8pXH8",
-    "rank": 7,
+    "rank": 5,
     "rankVar": null
   },
   {
@@ -103,12 +75,12 @@
     "name": "亞綺·羅森塔爾",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_qlJmoLYrHrNR3wUIw0YfcSGS-ivagX_u7zIZbAQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "71.3萬",
-    "score": "20,671",
+    "score": "25,051",
     "videoTitle": "【歌謡曲縛り歌枠】第9夜 | スナックアキロゼの #火曜に歌謡曲 /Japanese old CITY POP【Aki Rosenthal/ホロライブ】",
-    "videoViewCount": "2.07萬",
+    "videoViewCount": "2.51萬",
     "videoThumbnail": "https://i.ytimg.com/vi/mzwlU09tCbQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArGO0LM2V7796_kxXeSgXZkOGUJQ",
     "videoUrl": "http://youtu.be/mzwlU09tCbQ",
-    "rank": 8,
-    "rankVar": 0
+    "rank": 6,
+    "rankVar": 3
   }
 ]
