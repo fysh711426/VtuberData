@@ -4,14 +4,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCkT1u65YS49ca_LsFwcTakw",
     "name": "緋崎ガンマ",
     "thumbnail": "https://yt3.ggpht.com/JsoYuC0s3Qt763erntvZpmadxIhgmi6IGYxi1636heIf8SS6_DEBfU17epYL5WmGSdynEy1T=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "9.76萬",
-    "score": "1.46",
+    "subscribe": "9.77萬",
+    "score": "1.56",
     "videoTitle": "【歌ってみた】イケナイ太陽 / ORANGE RANGE 【#夜十神封魔 / #羽継烏有 / #緋崎ガンマ /#ホロスターズ 】",
-    "videoViewCount": "16.45萬",
+    "videoViewCount": "16.54萬",
     "videoThumbnail": "https://i.ytimg.com/vi/MRLLownLhuU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0WcLwYwKy3mMFt6sFbmijIJwexQ",
     "videoUrl": "http://youtu.be/MRLLownLhuU",
     "rank": 1,
-    "rankVar": 3
+    "rankVar": 4
   },
   {
     "id": 3504,
@@ -21,10 +21,24 @@
     "subscribe": "20.6萬",
     "score": "0.98",
     "videoTitle": "WHEEL OF TEMPUS",
-    "videoViewCount": "14.12萬",
+    "videoViewCount": "14.14萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Nj16KF0oI2I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBNVpUeBNX79W7iVSjOoZ6OQ1OJtw",
     "videoUrl": "http://youtu.be/Nj16KF0oI2I",
     "rank": 2,
+    "rankVar": 0
+  },
+  {
+    "id": 1365,
+    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+    "name": "ベスティア・ゼータ",
+    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "62.4萬",
+    "score": "0.97",
+    "videoTitle": "【Birthday Call-In】With my friends!! uwee #ZETANISM2022",
+    "videoViewCount": "22.18萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/VODThBGv_XA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-kxhDHZ-rh75YUur4xGNfSIH1mQ",
+    "videoUrl": "http://youtu.be/VODThBGv_XA",
+    "rank": 3,
     "rankVar": 1
   },
   {
@@ -35,39 +49,11 @@
     "subscribe": "69.2萬",
     "score": "0.87",
     "videoTitle": "【#AZKi新ビジュアルお披露目】4th Anniversary Live \"Pages\" 活動4周年記念ライブ【ホロライブ/AZKi】",
-    "videoViewCount": "38.16萬",
+    "videoViewCount": "39.6萬",
     "videoThumbnail": "https://i.ytimg.com/vi/SrUT9pCLlcY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3sSvy81eZepBHUWfUCLuM_NIGKg",
     "videoUrl": "http://youtu.be/SrUT9pCLlcY",
-    "rank": 3,
-    "rankVar": 26
-  },
-  {
-    "id": 1365,
-    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-    "name": "ベスティア・ゼータ",
-    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "62.3萬",
-    "score": "0.81",
-    "videoTitle": "【Birthday Call-In】With my friends!! uwee #ZETANISM2022",
-    "videoViewCount": "22.11萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/VODThBGv_XA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-kxhDHZ-rh75YUur4xGNfSIH1mQ",
-    "videoUrl": "http://youtu.be/VODThBGv_XA",
     "rank": 4,
-    "rankVar": 1
-  },
-  {
-    "id": 1249,
-    "channelUrl": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-    "name": "獅白牡丹",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-DWVTmOl_sIEgYjNGsAJOZoAycESBNZQTTvSjAxg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "127萬",
-    "score": "0.79",
-    "videoTitle": "Newbie【獅白ぼたん/ホロライブ】",
-    "videoViewCount": "57.34萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/cLz8lZgtp2w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1Gl9FgCa9KMtqvPLaGql16ugcFg",
-    "videoUrl": "http://youtu.be/cLz8lZgtp2w",
-    "rank": 5,
-    "rankVar": null
+    "rankVar": 24
   },
   {
     "id": 1688,
@@ -77,11 +63,39 @@
     "subscribe": "13.4萬",
     "score": "0.75",
     "videoTitle": "【#ホロスタ秋冬新衣装】秋の新衣装お披露目!!みやびさんの私服だよ～～～～!!🍁🍁🍁【花咲みやび/ホロスターズ】",
-    "videoViewCount": "2.04萬",
+    "videoViewCount": "2.11萬",
     "videoThumbnail": "https://i.ytimg.com/vi/5FJZfn5bq4o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQIeHaHITIZOL4LyCfpqpRvpbe8w",
     "videoUrl": "http://youtu.be/5FJZfn5bq4o",
-    "rank": 6,
+    "rank": 5,
     "rankVar": null
+  },
+  {
+    "id": 1966,
+    "channelUrl": "https://www.youtube.com/channel/UCc88OV45ICgHbn3ZqLLb52w",
+    "name": "夜十神封魔(やとがみふうま)",
+    "thumbnail": "https://yt3.ggpht.com/HGqJ7mPwkE1frsJ1Gf0jFWAigC1mLGYEpj2N1L8CdD6QFTxCC7aNyuf1frR8AwSa_MJh58TioQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "9.16萬",
+    "score": "0.66",
+    "videoTitle": "【歌ってみた】ブラザービート / Snow Man - cover by UPROAR!!【#夜十神封魔 / #羽継烏有 / #緋崎ガンマ /#水無世燐央 /#ホロスターズ 】",
+    "videoViewCount": "10.41萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/61jEGUJFcLQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5_u-W49dlruureG7icvNgSHtemQ",
+    "videoUrl": "http://youtu.be/61jEGUJFcLQ",
+    "rank": 6,
+    "rankVar": 0
+  },
+  {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "63.6萬",
+    "score": "0.63",
+    "videoTitle": "アンドロイドガール - DECO*27 / Covered 風真いろは×AZKi",
+    "videoViewCount": "46.11萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/_NC_pqMt5rY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIEUoZTAP&rs=AOn4CLD3WaNI_U8-W4MEyGkZ-OWFYQ07SA",
+    "videoUrl": "http://youtu.be/_NC_pqMt5rY",
+    "rank": 7,
+    "rankVar": 10
   },
   {
     "id": 1230,
@@ -91,11 +105,11 @@
     "subscribe": "164萬",
     "score": "0.61",
     "videoTitle": "【3DLIVE】遂に復帰‼重大告知ライブ【#星街すいせい重大告知】",
-    "videoViewCount": "117.49萬",
+    "videoViewCount": "117.99萬",
     "videoThumbnail": "https://i.ytimg.com/vi/CPUYPXa7D7s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApvGEAjLIcT8EALkmf_nk6nN5-8Q",
     "videoUrl": "http://youtu.be/CPUYPXa7D7s",
-    "rank": 7,
-    "rankVar": 2
+    "rank": 8,
+    "rankVar": 0
   },
   {
     "id": 3509,
@@ -105,11 +119,11 @@
     "subscribe": "17.2萬",
     "score": "0.58",
     "videoTitle": "【MV】Bad ∞ End ∞ Night【HoloPro EN/ID】",
-    "videoViewCount": "54.96萬",
+    "videoViewCount": "55.69萬",
     "videoThumbnail": "https://i.ytimg.com/vi/wFTSE4h4SSs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9czjwSDKGzIDEl5owF7CugYneRw",
     "videoUrl": "http://youtu.be/wFTSE4h4SSs",
-    "rank": 8,
-    "rankVar": -7
+    "rank": 9,
+    "rankVar": -6
   },
   {
     "id": 1435,
@@ -119,11 +133,11 @@
     "subscribe": "51.8萬",
     "score": "0.58",
     "videoTitle": "Phoenix (League of Legends) - Kaela Kovalskia「Cover」",
-    "videoViewCount": "33.55萬",
+    "videoViewCount": "33.62萬",
     "videoThumbnail": "https://i.ytimg.com/vi/MRg1OuBU_i8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDnQRnM9e87vs-zGZCVpGqH1BIPxA",
     "videoUrl": "http://youtu.be/MRg1OuBU_i8",
-    "rank": 9,
-    "rankVar": 2
+    "rank": 10,
+    "rankVar": 0
   },
   {
     "id": 3506,
@@ -133,25 +147,11 @@
     "subscribe": "17.9萬",
     "score": "0.56",
     "videoTitle": "【MV】Escape From The City - Sonic The Hedgehog || Magni Dezmond COVER",
-    "videoViewCount": "21.79萬",
+    "videoViewCount": "21.91萬",
     "videoThumbnail": "https://i.ytimg.com/vi/yhz2uQJDY30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF_nHFwcmNBX_eCceTg1Yi2FNj1w",
     "videoUrl": "http://youtu.be/yhz2uQJDY30",
-    "rank": 10,
-    "rankVar": -4
-  },
-  {
-    "id": 1966,
-    "channelUrl": "https://www.youtube.com/channel/UCc88OV45ICgHbn3ZqLLb52w",
-    "name": "夜十神封魔(やとがみふうま)",
-    "thumbnail": "https://yt3.ggpht.com/HGqJ7mPwkE1frsJ1Gf0jFWAigC1mLGYEpj2N1L8CdD6QFTxCC7aNyuf1frR8AwSa_MJh58TioQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "9.15萬",
-    "score": "0.55",
-    "videoTitle": "【歌ってみた】ブラザービート / Snow Man - cover by UPROAR!!【#夜十神封魔 / #羽継烏有 / #緋崎ガンマ /#水無世燐央 /#ホロスターズ 】",
-    "videoViewCount": "10.32萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/61jEGUJFcLQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5_u-W49dlruureG7icvNgSHtemQ",
-    "videoUrl": "http://youtu.be/61jEGUJFcLQ",
     "rank": 11,
-    "rankVar": -4
+    "rankVar": 1
   },
   {
     "id": 1306,
@@ -161,11 +161,11 @@
     "subscribe": "75.5萬",
     "score": "0.53",
     "videoTitle": "YOASOBI「怪物」/スターアニマル (ときのそら・星街すいせい・大空スバル・尾丸ポルカ・博衣こより・沙花叉クロヱ) cover",
-    "videoViewCount": "543.24萬",
+    "videoViewCount": "546.37萬",
     "videoThumbnail": "https://i.ytimg.com/vi/YFnkzhUyz18/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0cRy4O1LaPzQOSqU2yHnzv_ZZfQ",
     "videoUrl": "http://youtu.be/YFnkzhUyz18",
     "rank": 12,
-    "rankVar": 1
+    "rankVar": 4
   },
   {
     "id": 3510,
@@ -175,11 +175,11 @@
     "subscribe": "18.9萬",
     "score": "0.53",
     "videoTitle": "【 D&D 5e 】Vtubers playing Dungeons & Dragons for the first time, what could go wrong?",
-    "videoViewCount": "15.44萬",
+    "videoViewCount": "15.56萬",
     "videoThumbnail": "https://i.ytimg.com/vi/zvFYoS3q7YQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLlggeuxdmgcHaFp78-Lb0jbpDDA",
     "videoUrl": "http://youtu.be/zvFYoS3q7YQ",
     "rank": 13,
-    "rankVar": -11
+    "rankVar": -12
   },
   {
     "id": 1562,
@@ -189,11 +189,11 @@
     "subscribe": "20.3萬",
     "score": "0.5",
     "videoTitle": "【Cover】迷宮ラブソング(嵐) / 奏手イヅル 律可 アステル 影山シエン 水無世燐央",
-    "videoViewCount": "4.35萬",
+    "videoViewCount": "4.51萬",
     "videoThumbnail": "https://i.ytimg.com/vi/T-DRhuYOBZc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCid-sZgR6bjuv-cyr78PkBb6I_ag",
     "videoUrl": "http://youtu.be/T-DRhuYOBZc",
     "rank": 14,
-    "rankVar": 1
+    "rankVar": 0
   },
   {
     "id": 1223,
@@ -203,25 +203,11 @@
     "subscribe": "210萬",
     "score": "0.48",
     "videoTitle": "【FGO】モルガンPUガチャきｔらああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ！！！ぺこ！【ホロライブ/兎田ぺこら】",
-    "videoViewCount": "83.13萬",
+    "videoViewCount": "83.28萬",
     "videoThumbnail": "https://i.ytimg.com/vi/nlGgyUCDfco/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUfUwn0uBeVXoeV9vdy8jwwKnTPA",
     "videoUrl": "http://youtu.be/nlGgyUCDfco",
     "rank": 15,
     "rankVar": null
-  },
-  {
-    "id": 1326,
-    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-    "name": "風真いろは(かざまいろは)",
-    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "63.5萬",
-    "score": "0.47",
-    "videoTitle": "アンドロイドガール - DECO*27 / Covered 風真いろは×AZKi",
-    "videoViewCount": "45.62萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/_NC_pqMt5rY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIEUoZTAP&rs=AOn4CLD3WaNI_U8-W4MEyGkZ-OWFYQ07SA",
-    "videoUrl": "http://youtu.be/_NC_pqMt5rY",
-    "rank": 16,
-    "rankVar": 0
   },
   {
     "id": 1542,
@@ -231,10 +217,10 @@
     "subscribe": "21.2萬",
     "score": "0.47",
     "videoTitle": "BEGINNING/影山シエン【オリジナルMV】",
-    "videoViewCount": "3.42萬",
+    "videoViewCount": "3.44萬",
     "videoThumbnail": "https://i.ytimg.com/vi/JFE_Uu-1ZPo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVFQfFcRyUQEi65Cny89NooeokQQ",
     "videoUrl": "http://youtu.be/JFE_Uu-1ZPo",
-    "rank": 17,
+    "rank": 16,
     "rankVar": null
   },
   {
@@ -245,11 +231,25 @@
     "subscribe": "64萬",
     "score": "0.47",
     "videoTitle": "ジャックポットサッドガール / holoX (cover)",
-    "videoViewCount": "59.93萬",
+    "videoViewCount": "61.76萬",
     "videoThumbnail": "https://i.ytimg.com/vi/QNSttxcjTAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3154xFMG7s-7Rz4vYOA6VzDxT_A",
     "videoUrl": "http://youtu.be/QNSttxcjTAE",
+    "rank": 17,
+    "rankVar": 1
+  },
+  {
+    "id": 1330,
+    "channelUrl": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+    "name": "Ceres Fauna",
+    "thumbnail": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "65.6萬",
+    "score": "0.46",
+    "videoTitle": "【ASMR】 C'mere! Let me test new ASMR triggers on you~",
+    "videoViewCount": "35.54萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/JkzIfK7Tmtk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAr7yucGf3NbbQ87U2xrGq4PWr-ow",
+    "videoUrl": "http://youtu.be/JkzIfK7Tmtk",
     "rank": 18,
-    "rankVar": 3
+    "rankVar": 2
   },
   {
     "id": 1287,
@@ -259,11 +259,11 @@
     "subscribe": "77.9萬",
     "score": "0.39",
     "videoTitle": "【ホロライブ / 3DLIVE】ハロウィンのお姫様 -Halloween Princess-【#夜空メル爆誕2022】",
-    "videoViewCount": "39.64萬",
+    "videoViewCount": "39.78萬",
     "videoThumbnail": "https://i.ytimg.com/vi/rgcMtpgvk_s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5fpW9wIrZeEERulcwnoniaRc7Tw",
     "videoUrl": "http://youtu.be/rgcMtpgvk_s",
     "rank": 19,
-    "rankVar": 0
+    "rankVar": 3
   },
   {
     "id": 1474,
@@ -273,25 +273,39 @@
     "subscribe": "27.6萬",
     "score": "0.36",
     "videoTitle": "【#ロベルないとめあ】『Keep Talking and Nobody Explodes』で爆弾解体を試みる我々【夕刻ロベル/神楽めあ】",
-    "videoViewCount": "3.78萬",
+    "videoViewCount": "3.86萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_cB4yDgfwjk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtmTKxiuF4cuSeojkrq9aVZ41_-Q",
     "videoUrl": "http://youtu.be/_cB4yDgfwjk",
     "rank": 20,
     "rankVar": null
   },
   {
-    "id": 1330,
-    "channelUrl": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-    "name": "Ceres Fauna",
-    "thumbnail": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "65.5萬",
-    "score": "0.31",
-    "videoTitle": "【ASMR】 C'mere! Let me test new ASMR triggers on you~",
-    "videoViewCount": "34.98萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/JkzIfK7Tmtk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAr7yucGf3NbbQ87U2xrGq4PWr-ow",
-    "videoUrl": "http://youtu.be/JkzIfK7Tmtk",
+    "id": 1273,
+    "channelUrl": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+    "name": "沙花叉クロヱ(さかまたくろえ)",
+    "thumbnail": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "93.7萬",
+    "score": "0.32",
+    "videoTitle": "ゾンビ/沙花叉クロヱ(cover)",
+    "videoViewCount": "53.43萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/OCALS7xgtVI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuZqepoEXbA_CMx7YFn5QHQxrSug",
+    "videoUrl": "http://youtu.be/OCALS7xgtVI",
     "rank": 21,
-    "rankVar": 2
+    "rankVar": 4
+  },
+  {
+    "id": 1323,
+    "channelUrl": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+    "name": "Airani Iofifteen",
+    "thumbnail": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "65.7萬",
+    "score": "0.31",
+    "videoTitle": "【 #holoIDNewCostume 】This is Me, Airani iofifteen【 iofi / ホロライブ 】",
+    "videoViewCount": "18.02萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/qm3kimnyFAY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcQbxxCctaVOLG-3vWeKW6l-HoZQ",
+    "videoUrl": "http://youtu.be/qm3kimnyFAY",
+    "rank": 22,
+    "rankVar": 5
   },
   {
     "id": 1301,
@@ -301,11 +315,11 @@
     "subscribe": "75.4萬",
     "score": "0.27",
     "videoTitle": "Dan Dan Don Don",
-    "videoViewCount": "197.6萬",
+    "videoViewCount": "198.29萬",
     "videoThumbnail": "https://i.ytimg.com/vi/RRq4-uktHiI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABpA_CTPJcN1M5Tj7FRnzovFvqNg",
     "videoUrl": "http://youtu.be/RRq4-uktHiI",
-    "rank": 22,
-    "rankVar": 9
+    "rank": 23,
+    "rankVar": 7
   },
   {
     "id": 1295,
@@ -315,11 +329,25 @@
     "subscribe": "77.3萬",
     "score": "0.26",
     "videoTitle": "#RisuNNN  NANI ?!?!?!? #NNN",
-    "videoViewCount": "31.45萬",
+    "videoViewCount": "31.48萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UCeqCwv4MSs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAxkEoJMcNyCx9oMqk0MUfk2vyEg",
     "videoUrl": "http://youtu.be/UCeqCwv4MSs",
-    "rank": 23,
-    "rankVar": -5
+    "rank": 24,
+    "rankVar": -3
+  },
+  {
+    "id": 1286,
+    "channelUrl": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+    "name": "Ouro Kronii",
+    "thumbnail": "https://yt3.ggpht.com/ntCVYU9_M3j3G_lYEKTaBsIRmB2ZA1W6uu3n7bHCwaT2HvzqL1t5ABhGaZ3ucfm1yP3-9hFQuw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "82.1萬",
+    "score": "0.24",
+    "videoTitle": "【Cover】MAFIA / マフィア - Ouro Kronii",
+    "videoViewCount": "112.03萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/iEr1aBephZ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-QtE_9h3LC8HZNpDPU2cIbA7pgw",
+    "videoUrl": "http://youtu.be/iEr1aBephZ8",
+    "rank": 25,
+    "rankVar": 6
   },
   {
     "id": 1220,
@@ -329,25 +357,25 @@
     "subscribe": "424萬",
     "score": "0.24",
     "videoTitle": "[ORIGINAL ANIMATION] Gawr Gura - Shark'd 🦈 #GawrGura",
-    "videoViewCount": "340.89萬",
+    "videoViewCount": "342.02萬",
     "videoThumbnail": "https://i.ytimg.com/vi/kJGsWORSg-4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ40c2pPL78KN1C9cDSh7sm3zh5Q",
     "videoUrl": "http://youtu.be/kJGsWORSg-4",
-    "rank": 24,
+    "rank": 26,
     "rankVar": null
   },
   {
-    "id": 1273,
-    "channelUrl": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-    "name": "沙花叉クロヱ(さかまたくろえ)",
-    "thumbnail": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "93.6萬",
-    "score": "0.21",
-    "videoTitle": "ゾンビ/沙花叉クロヱ(cover)",
-    "videoViewCount": "52.82萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/OCALS7xgtVI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuZqepoEXbA_CMx7YFn5QHQxrSug",
-    "videoUrl": "http://youtu.be/OCALS7xgtVI",
-    "rank": 25,
-    "rankVar": -5
+    "id": 1264,
+    "channelUrl": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+    "name": "桃鈴音音",
+    "thumbnail": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "99.5萬",
+    "score": "0.2",
+    "videoTitle": "【 #桃鈴ねね２周年 】✨3DLIVE ✨３年目もよろしくね！いっぱい告知あり🍑【 桃鈴ねね / ホロライブ 】",
+    "videoViewCount": "47.83萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/MwooDDEEHWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmvVHE6QdIjmd38FSjYLWk40FlaQ",
+    "videoUrl": "http://youtu.be/MwooDDEEHWw",
+    "rank": 27,
+    "rankVar": -1
   },
   {
     "id": 1328,
@@ -357,25 +385,11 @@
     "subscribe": "65.2萬",
     "score": "0.15",
     "videoTitle": "【MV】アニマル  || preYdator COVER",
-    "videoViewCount": "60.4萬",
+    "videoViewCount": "60.61萬",
     "videoThumbnail": "https://i.ytimg.com/vi/G4upepd3jAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWfajIDDbjmoctJwnAljaTrOT9Mw",
     "videoUrl": "http://youtu.be/G4upepd3jAU",
-    "rank": 26,
-    "rankVar": -4
-  },
-  {
-    "id": 1323,
-    "channelUrl": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-    "name": "Airani Iofifteen",
-    "thumbnail": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "65.6萬",
-    "score": "0.15",
-    "videoTitle": "【 #holoIDNewCostume 】This is Me, Airani iofifteen【 iofi / ホロライブ 】",
-    "videoViewCount": "18.01萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/qm3kimnyFAY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcQbxxCctaVOLG-3vWeKW6l-HoZQ",
-    "videoUrl": "http://youtu.be/qm3kimnyFAY",
-    "rank": 27,
-    "rankVar": 1
+    "rank": 28,
+    "rankVar": -9
   },
   {
     "id": 1305,
@@ -385,25 +399,11 @@
     "subscribe": "71.7萬",
     "score": "0.14",
     "videoTitle": "【Cover】愛言葉Ⅳ (Ai Kotoba IV) / Pavolia Reine × Kobo Kanaeru",
-    "videoViewCount": "28.6萬",
+    "videoViewCount": "29.18萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Ina1fe-sssg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFsoWjAP&rs=AOn4CLC0emwZ3aggqPT8Hd1e7qSCs9Tk3g",
     "videoUrl": "http://youtu.be/Ina1fe-sssg",
-    "rank": 28,
-    "rankVar": 2
-  },
-  {
-    "id": 1286,
-    "channelUrl": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-    "name": "Ouro Kronii",
-    "thumbnail": "https://yt3.ggpht.com/ntCVYU9_M3j3G_lYEKTaBsIRmB2ZA1W6uu3n7bHCwaT2HvzqL1t5ABhGaZ3ucfm1yP3-9hFQuw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "82萬",
-    "score": "0.12",
-    "videoTitle": "【Cover】MAFIA / マフィア - Ouro Kronii",
-    "videoViewCount": "111.67萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/iEr1aBephZ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-QtE_9h3LC8HZNpDPU2cIbA7pgw",
-    "videoUrl": "http://youtu.be/iEr1aBephZ8",
     "rank": 29,
-    "rankVar": -5
+    "rankVar": 0
   },
   {
     "id": 1280,
@@ -413,11 +413,25 @@
     "subscribe": "86.4萬",
     "score": "0.12",
     "videoTitle": "QUEEN / ラプラス・ダークネス cover",
-    "videoViewCount": "66.83萬",
+    "videoViewCount": "67.81萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Y6RkFM3G9V4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6kSAcJy8L_3eicGLcTFTppDKdSQ",
     "videoUrl": "http://youtu.be/Y6RkFM3G9V4",
     "rank": 30,
-    "rankVar": -5
+    "rankVar": -7
+  },
+  {
+    "id": 1276,
+    "channelUrl": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+    "name": "蘿蔔子",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9eatjMyR1RptrFkX_4gBPw_579Iz1Q15gsvE2tFA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "88萬",
+    "score": "0.11",
+    "videoTitle": "⚙original song 『リルビ-little bit-』/ロボ子さん",
+    "videoViewCount": "49.19萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/K8n-pGOrpzc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB_DBYo1UJZ8FSwJKjGVboL4PJ-Q",
+    "videoUrl": "http://youtu.be/K8n-pGOrpzc",
+    "rank": 31,
+    "rankVar": 1
   },
   {
     "id": 1277,
@@ -427,10 +441,10 @@
     "subscribe": "88.7萬",
     "score": "0.11",
     "videoTitle": "【MV】One Step at a Time / IRyS【Original Song】",
-    "videoViewCount": "23.65萬",
+    "videoViewCount": "23.8萬",
     "videoThumbnail": "https://i.ytimg.com/vi/HY6OVi3q9F8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZYxcIjg8xyUIleLf1GfH32kSAfQ",
     "videoUrl": "http://youtu.be/HY6OVi3q9F8",
-    "rank": 31,
+    "rank": 32,
     "rankVar": null
   },
   {
@@ -441,24 +455,10 @@
     "subscribe": "92.4萬",
     "score": "0.11",
     "videoTitle": "【#ちょこっとクッキング】悪魔飯⚡ぺこら様おもてなしする！【ホロライブ/癒月ちょこ/兎田ぺこら】",
-    "videoViewCount": "28.56萬",
+    "videoViewCount": "28.63萬",
     "videoThumbnail": "https://i.ytimg.com/vi/pjG1qrkZy6M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB78RGksn30MhUtkyf_oZJD4I1MqQ",
     "videoUrl": "http://youtu.be/pjG1qrkZy6M",
-    "rank": 32,
-    "rankVar": -6
-  },
-  {
-    "id": 1264,
-    "channelUrl": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-    "name": "桃鈴音音",
-    "thumbnail": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "99.4萬",
-    "score": "0.1",
-    "videoTitle": "【 #桃鈴ねね２周年 】✨3DLIVE ✨３年目もよろしくね！いっぱい告知あり🍑【 桃鈴ねね / ホロライブ 】",
-    "videoViewCount": "47.7萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/MwooDDEEHWw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmvVHE6QdIjmd38FSjYLWk40FlaQ",
-    "videoUrl": "http://youtu.be/MwooDDEEHWw",
     "rank": 33,
-    "rankVar": -6
+    "rankVar": -9
   }
 ]
