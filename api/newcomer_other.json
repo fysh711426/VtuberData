@@ -4,13 +4,27 @@
     "channelUrl": "https://www.youtube.com/channel/UCScnwd670CaNG_OlRr3EvJA",
     "name": "花崎あやめ",
     "thumbnail": "https://yt3.googleusercontent.com/2CLEiwdAVfGC1QI3Phrj5c2-Tdv-ZV8VE6ODaCrFD08A3Kr-LIZ0uEBH8E5uibv_YWWmfLcJ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "136",
-    "score": "136",
+    "subscribe": "137",
+    "score": "137",
     "videoTitle": "【Ayame Ch. 花崎あやめ】跨年台+不正經年度總結大會",
-    "videoViewCount": "46",
+    "videoViewCount": "47",
     "videoThumbnail": "https://i.ytimg.com/vi/hjzQxmt5s9E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtWsrGBYRS0L2oei439Lo6nRD6Qw",
     "videoUrl": "http://youtu.be/hjzQxmt5s9E",
     "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 4945,
+    "channelUrl": "https://www.youtube.com/channel/UCnrWyEqtETII8J4mgZwryXA",
+    "name": "赭赤",
+    "thumbnail": "https://yt3.googleusercontent.com/7AsVRx5_owr-4a_uE45a361s-YbH5gBAWIgWubTyXIJX44CCqD_iRn4pFpiOc-GfnN12b1C8Mg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "80",
+    "score": "80",
+    "videoTitle": "【MMD】New State Style 【懶貓子】",
+    "videoViewCount": "568",
+    "videoThumbnail": "https://i.ytimg.com/vi/RAz4wEwPbj0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFMoUjAP&rs=AOn4CLBh83W1x-onS_-_aPtjKd2NPlPRVQ",
+    "videoUrl": "http://youtu.be/RAz4wEwPbj0",
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -21,10 +35,10 @@
     "subscribe": "47",
     "score": "47",
     "videoTitle": "【初配信】你不來看一下嗎？",
-    "videoViewCount": "204",
+    "videoViewCount": "210",
     "videoThumbnail": "https://i.ytimg.com/vi/_Ut2ZsbjoFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACDHN0dGJ1ZDrdUyxCuEEh82r7tw",
     "videoUrl": "http://youtu.be/_Ut2ZsbjoFk",
-    "rank": 2,
+    "rank": 3,
     "rankVar": null
   }
 ]
