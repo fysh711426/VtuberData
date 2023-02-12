@@ -1,15 +1,15 @@
 [
   {
-    "id": 1442,
-    "channelUrl": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
-    "name": "長尾景",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_TOPZT9GmdmXkUwpCWw-R83yEPT7mOt7rgR4T5=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "37.2萬",
-    "score": "64,620",
-    "videoTitle": "【歌枠】けいせいちょうちゅう【長尾景/にじさんじ】",
-    "videoViewCount": "6.46萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/JqZyxHyqPAI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATh15_Mxn9VUISgnIvogRkFhW_-A",
-    "videoUrl": "http://youtu.be/JqZyxHyqPAI",
+    "id": 3505,
+    "channelUrl": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
+    "name": "マリアマリネット",
+    "thumbnail": "https://yt3.googleusercontent.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "38.2萬",
+    "score": "35,014",
+    "videoTitle": "【SINGING 歌枠】VALENTINES KARAOKE~【NIJISANJI  EN | Maria Marionette】",
+    "videoViewCount": "3.5萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/WnIN4kfFTb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzOI1BWb75plBzjrrz8cfjcJVdgQ",
+    "videoUrl": "http://youtu.be/WnIN4kfFTb0",
     "rank": 1,
     "rankVar": null
   },
@@ -19,12 +19,26 @@
     "name": "利維·艾莉法",
     "thumbnail": "https://yt3.ggpht.com/R34-5nSYLFeR3Ms-9_Q1OpF78KmXQZmz4U-jz_RmICTCnCOqERbzotpm0aaEK0IW5qw8odJzx9E=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "30.9萬",
-    "score": "9,391",
+    "score": "12,167",
     "videoTitle": "【#土レヴィ歌枠】最近ボクがよく聴く歌枠！【にじさんじ/レヴィ・エリファ】",
-    "videoViewCount": "9391",
+    "videoViewCount": "1.22萬",
     "videoThumbnail": "https://i.ytimg.com/vi/gQ6Q35bV29Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABxvOorACDvpl44XGjEyL2cYPziw",
     "videoUrl": "http://youtu.be/gQ6Q35bV29Y",
     "rank": 2,
-    "rankVar": 0
+    "rankVar": 1
+  },
+  {
+    "id": 2334,
+    "channelUrl": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
+    "name": "GAON",
+    "thumbnail": "https://yt3.ggpht.com/nt93BUDwRGz68y1qE9klz3rNpHsUqQPniggUngnQqqIwaxmaIAKeDkLh5tBrahfz2n_8YarUQw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "4.3萬",
+    "score": "2,651",
+    "videoTitle": "【歌枠】 2월의 노래 【SING】",
+    "videoViewCount": "2651",
+    "videoThumbnail": "https://i.ytimg.com/vi/1p3RzxO5znI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfUy4yL3bUIql1tdYGdfa3EGVRcA",
+    "videoUrl": "http://youtu.be/1p3RzxO5znI",
+    "rank": 3,
+    "rankVar": null
   }
 ]
