@@ -1,16 +1,30 @@
 [
   {
+    "id": 1273,
+    "channelUrl": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+    "name": "沙花叉クロヱ(さかまたくろえ)",
+    "thumbnail": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "100萬",
+    "score": "380,044",
+    "videoTitle": "【重大告知あり】100万人まで耐久歌枠！一緒にお祝いしてほしいな…！【沙花叉クロヱ/ホロライブ】",
+    "videoViewCount": "38萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/_AqzB06-HQI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAHHz3bElw76tRLFTvSp2CCi_TiA",
+    "videoUrl": "http://youtu.be/_AqzB06-HQI",
+    "rank": 1,
+    "rankVar": 0
+  },
+  {
     "id": 1246,
     "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
     "name": "角卷綿芽",
     "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "133萬",
-    "score": "111,142",
+    "score": "112,620",
     "videoTitle": "【歌枠】第１０１回！Valentine's わためぇ Night Fever!!【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "11.11萬",
+    "videoViewCount": "11.26萬",
     "videoThumbnail": "https://i.ytimg.com/vi/dj7JMi1xHe8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUIojZKRP_MG_OMmKpe1LCXw9TEQ",
     "videoUrl": "http://youtu.be/dj7JMi1xHe8",
-    "rank": 1,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -19,12 +33,12 @@
     "name": "大神澪",
     "thumbnail": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "107萬",
-    "score": "75,435",
+    "score": "83,075",
     "videoTitle": "【歌枠】お久しぶりです【 ホロライブ / 大神ミオ 】",
-    "videoViewCount": "7.54萬",
+    "videoViewCount": "8.31萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_oHdyqru-5c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSKkBTglTmemUnpzSD0mCkGJXg9A",
     "videoUrl": "http://youtu.be/_oHdyqru-5c",
-    "rank": 2,
+    "rank": 3,
     "rankVar": null
   },
   {
@@ -32,13 +46,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
     "name": "鷹嶺ルイ(たかねるい)",
     "thumbnail": "https://yt3.ggpht.com/R_IzGiw1xDQp0y9zVvGkF9e8Gj8wtr2_551Ez3X6gOMIj3e6jra1I1suuK_jH9FqigBj8ywg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "68.4萬",
-    "score": "42,481",
+    "subscribe": "68.5萬",
+    "score": "42,901",
     "videoTitle": "【歌枠/singing】重大告知あり‼バレンタインらしくバラードを歌っていく♡【鷹嶺ルイ/ホロライブ】",
-    "videoViewCount": "4.25萬",
+    "videoViewCount": "4.29萬",
     "videoThumbnail": "https://i.ytimg.com/vi/XieMgaDgA4c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQ5qodHKBI-oCaqGCRUl0ZWCkcbQ",
     "videoUrl": "http://youtu.be/XieMgaDgA4c",
-    "rank": 3,
+    "rank": 4,
     "rankVar": null
   },
   {
@@ -47,12 +61,26 @@
     "name": "夜空梅露",
     "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "80.4萬",
-    "score": "36,144",
+    "score": "36,780",
     "videoTitle": "【歌枠】甘々ラブソング縛り♡いっぱい歌うよ！Sing a song【ホロライブ/夜空メル】",
-    "videoViewCount": "3.61萬",
+    "videoViewCount": "3.68萬",
     "videoThumbnail": "https://i.ytimg.com/vi/t8-QHc-X7aU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgDMPTlbv8iWmMvPY_dj2QObXP6A",
     "videoUrl": "http://youtu.be/t8-QHc-X7aU",
-    "rank": 4,
+    "rank": 5,
+    "rankVar": null
+  },
+  {
+    "id": 1276,
+    "channelUrl": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+    "name": "蘿蔔子",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9eatjMyR1RptrFkX_4gBPw_579Iz1Q15gsvE2tFA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "90.3萬",
+    "score": "35,016",
+    "videoTitle": "【歌】総額OOO万円！NEW機材で音質が一気に変わった歌枠🎙【 #ロボ子生放送 /ホロライブ】",
+    "videoViewCount": "3.5萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/7v-5bEx1oNM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaMP_rWCnAwn9kyxtb27UqXGHLUw",
+    "videoUrl": "http://youtu.be/7v-5bEx1oNM",
+    "rank": 6,
     "rankVar": null
   },
   {
@@ -61,12 +89,12 @@
     "name": "律可",
     "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "22.6萬",
-    "score": "6,455",
+    "score": "6,627",
     "videoTitle": "【LOVESONG限定弾き語り歌枠】をやるよ！【律可/ホロスターズ】#りつすた",
-    "videoViewCount": "6455",
+    "videoViewCount": "6627",
     "videoThumbnail": "https://i.ytimg.com/vi/b7oxVsYR6wI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBH4Mtx3-ZG6ycodIhNwK58sGQUiQ",
     "videoUrl": "http://youtu.be/b7oxVsYR6wI",
-    "rank": 5,
+    "rank": 7,
     "rankVar": null
   }
 ]
