@@ -4,13 +4,27 @@
     "channelUrl": "https://www.youtube.com/channel/UCnrWyEqtETII8J4mgZwryXA",
     "name": "赭赤",
     "thumbnail": "https://yt3.googleusercontent.com/7AsVRx5_owr-4a_uE45a361s-YbH5gBAWIgWubTyXIJX44CCqD_iRn4pFpiOc-GfnN12b1C8Mg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "111",
-    "score": "111",
+    "subscribe": "112",
+    "score": "112",
     "videoTitle": "【MMD】ダーリンダンス-〖haku〗",
-    "videoViewCount": "998",
+    "videoViewCount": "1063",
     "videoThumbnail": "https://i.ytimg.com/vi/4rEM6c7UBs4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFUoSDAP&rs=AOn4CLCoc9vhkzxB957xS4F-Cyg6yoSsSA",
     "videoUrl": "http://youtu.be/4rEM6c7UBs4",
     "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 5163,
+    "channelUrl": "https://www.youtube.com/channel/UCoPt1m-JGuyizQqPA3FPvTQ",
+    "name": "鈴悉",
+    "thumbnail": "https://yt3.googleusercontent.com/7SyGZGTrdy1UiJpP0ZkagYwQ5Anr6qt0gn9-vZSqOwg0G6wzKDpW3XFFaHiga8fh859fa6cK1Q=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "78",
+    "score": "78",
+    "videoTitle": "【初配信】衝向人類的文明世界！【鈴悉】 #鈴悉初配信",
+    "videoViewCount": "265",
+    "videoThumbnail": "https://i.ytimg.com/vi/fSzr7D3qRYo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoT1KlnQDimMvn291g9LAxP0hpJg",
+    "videoUrl": "http://youtu.be/fSzr7D3qRYo",
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -18,13 +32,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCi_xYa2pov9m8fcDSaJ5pXg",
     "name": "森原雫",
     "thumbnail": "https://yt3.googleusercontent.com/g7_q7ctqhnbT7752Rx3zdcpQnFXeZ5B1H7HSs_vxqvVjIjcdfJxUdhIQq0SWY7m2np_coz1WKA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "76",
-    "score": "76",
+    "subscribe": "77",
+    "score": "77",
     "videoTitle": "【#森原雫初配信】各位老闆！愛的Mori，開始囉~【StRineOffice /森原雫】",
-    "videoViewCount": "306",
+    "videoViewCount": "307",
     "videoThumbnail": "https://i.ytimg.com/vi/RTpMrXx9Xb0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqFNv9VjjQaTXeS1LCGbOlHlyY6Q",
     "videoUrl": "http://youtu.be/RTpMrXx9Xb0",
-    "rank": 2,
+    "rank": 3,
     "rankVar": null
   }
 ]
