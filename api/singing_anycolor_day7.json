@@ -1,30 +1,16 @@
 [
   {
-    "id": 1281,
-    "channelUrl": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w",
-    "name": "星川莎拉",
-    "thumbnail": "https://yt3.googleusercontent.com/ytc/AMLnZu95eN3SZNKfxICWpibQe1er_SW3lWn1vvXq7WDj=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "90.3萬",
-    "score": "71,523",
-    "videoTitle": "【歌枠】わ～いボカロ🎶世界1可愛いおうた～！- ̗̀ ♡ ̖́-【にじさんじ/星川サラ】",
-    "videoViewCount": "7.15萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/Yjhpy-tbhJw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBaGRuIGn5L5o836NwFVRUIBuDzyA",
-    "videoUrl": "http://youtu.be/Yjhpy-tbhJw",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1718,
     "channelUrl": "https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A",
     "name": "東堂琥珀",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-LphbVqRjBoNyYM-w-r1UF6DhfsQyhEj83vt5B=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "12.5萬",
-    "score": "26,605",
+    "subscribe": "12.6萬",
+    "score": "26,775",
     "videoTitle": "【歌枠】レイパタちゃんとハロプロ祭り💕✨【supported by DAM】【にじさんじ/東堂コハク/レイン・パターソン】",
-    "videoViewCount": "2.66萬",
+    "videoViewCount": "2.68萬",
     "videoThumbnail": "https://i.ytimg.com/vi/5DK-TTefF3w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI9fq1XzfYy7Z88ZaViYzdKf_oBA",
     "videoUrl": "http://youtu.be/5DK-TTefF3w",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -33,12 +19,12 @@
     "name": "利維·艾莉法",
     "thumbnail": "https://yt3.ggpht.com/R34-5nSYLFeR3Ms-9_Q1OpF78KmXQZmz4U-jz_RmICTCnCOqERbzotpm0aaEK0IW5qw8odJzx9E=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "31.1萬",
-    "score": "23,601",
+    "score": "24,473",
     "videoTitle": "【#土レヴィ歌枠】J-POP歌っちゃオ！！【にじさんじ/レヴィ・エリファ】",
-    "videoViewCount": "2.36萬",
+    "videoViewCount": "2.45萬",
     "videoThumbnail": "https://i.ytimg.com/vi/79qZcD6skvs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHk8y-IPUW-by5bb7xJGJVEntLlg",
     "videoUrl": "http://youtu.be/79qZcD6skvs",
-    "rank": 3,
-    "rankVar": 1
+    "rank": 2,
+    "rankVar": 2
   }
 ]
