@@ -1,29 +1,29 @@
 [
   {
-    "id": 1246,
-    "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-    "name": "角卷綿芽",
-    "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "134萬",
-    "score": "128,332",
-    "videoTitle": "【歌枠】第１０２回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "12.83萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/xGV0H_DTWVk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPLBDrmlbnjFNioN8D9QzwXlBm7A",
-    "videoUrl": "http://youtu.be/xGV0H_DTWVk",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1261,
     "channelUrl": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
     "name": "時乃空",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "107萬",
-    "score": "52,714",
+    "score": "53,884",
     "videoTitle": "【Sing/歌枠】ノリノリな曲を歌っていこう♪【#ときのそら生放送 】",
-    "videoViewCount": "5.27萬",
+    "videoViewCount": "5.39萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ZuVjmTdOwPE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeHzC2bbZdcTY0cvd0PzXGm3aNQQ",
     "videoUrl": "http://youtu.be/ZuVjmTdOwPE",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 1527,
+    "channelUrl": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+    "name": "律可",
+    "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "22.7萬",
+    "score": "3,950",
+    "videoTitle": "【弾き語り歌枠】昼活ってま？【律可/ホロスターズ】#りつすた",
+    "videoViewCount": "3950",
+    "videoThumbnail": "https://i.ytimg.com/vi/pkAdUAoUHFY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVpQAPSwsHFbk3zKc0K1lfUccrog",
+    "videoUrl": "http://youtu.be/pkAdUAoUHFY",
     "rank": 2,
     "rankVar": null
   }
