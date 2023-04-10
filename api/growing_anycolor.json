@@ -4,10 +4,10 @@
     "channelUrl": "https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A",
     "name": "樋口楓",
     "thumbnail": "https://yt3.ggpht.com/xGQ_-9VQMpoWBMSPlhx6zdQnOTH6ThIVDD5astbuhC49itMZHVqS6fBh3p4a87TioLBsNeftbA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "68萬",
-    "score": "1.49",
+    "subscribe": "68.1萬",
+    "score": "1.34",
     "videoTitle": "【同時視聴】WBC準決勝！侍ジャパンvsメキシコ代表【にじさんじ / 樋口楓】",
-    "videoViewCount": "23.96萬",
+    "videoViewCount": "23.99萬",
     "videoThumbnail": "https://i.ytimg.com/vi/6nedyeHKU_g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByKIuKmjfeY7D5TMcH1u5BQSkmDA",
     "videoUrl": "http://youtu.be/6nedyeHKU_g",
     "rank": 1,
@@ -18,10 +18,10 @@
     "channelUrl": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg",
     "name": "四季凪アキラ(しきなぎあきら)",
     "thumbnail": "https://yt3.ggpht.com/fPcz-rWxhT5YfD6C4gRFMCXqK-mkk2ew1Qq9tijCZQ20cE-Rd2DMoE4SOVT0TNEgRLep-tcyEg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "25.5萬",
+    "subscribe": "25.6萬",
     "score": "1.19",
     "videoTitle": "BAR『Arc-en-SeiLa』へようこそ♡【SeiLa/にじさんじ】",
-    "videoViewCount": "12.67萬",
+    "videoViewCount": "12.7萬",
     "videoThumbnail": "https://i.ytimg.com/vi/sSaSafvRJQs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMIPyznYL01vQREPObPrNsVQzSBQ",
     "videoUrl": "http://youtu.be/sSaSafvRJQs",
     "rank": 2,
@@ -32,14 +32,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
     "name": "マリアマリネット",
     "thumbnail": "https://yt3.googleusercontent.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "39.6萬",
+    "subscribe": "39.7萬",
     "score": "1.02",
-    "videoTitle": "【Identity | アイデンティティ 】 Cover ♡ NIJISANJI EN ♡",
-    "videoViewCount": "63.18萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/w63uDAHhJm0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIDkofzAP&rs=AOn4CLDEO2Mnj09Jua0Mt5AUR73RhrI-1Q",
-    "videoUrl": "http://youtu.be/w63uDAHhJm0",
+    "videoTitle": "【Inkya Impulse | インキャインパルス】Cover by Maria Marionette ft. Ike Eveland♡ NIJISANJI EN ♡",
+    "videoViewCount": "63.82萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/9Jwl0hIMhFU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKBT8swwsKGphc9xUS13mKqf1aAQ",
+    "videoUrl": "http://youtu.be/9Jwl0hIMhFU",
     "rank": 3,
-    "rankVar": 3
+    "rankVar": 0
   },
   {
     "id": 3444,
@@ -49,11 +49,25 @@
     "subscribe": "20萬",
     "score": "1.01",
     "videoTitle": "心予報 / Eve（Covered by セラフ・ダズルガーデン）",
-    "videoViewCount": "53.62萬",
+    "videoViewCount": "54.02萬",
     "videoThumbnail": "https://i.ytimg.com/vi/AK9NhDPp-qc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqgTnFw2hPObMw_jYD__pfaXsq8w",
     "videoUrl": "http://youtu.be/AK9NhDPp-qc",
     "rank": 4,
-    "rankVar": -1
+    "rankVar": 0
+  },
+  {
+    "id": 1778,
+    "channelUrl": "https://www.youtube.com/channel/UCA3WE2WRSpoIvtnoVGq4VAw",
+    "name": "ZEA Cornelia",
+    "thumbnail": "https://yt3.ggpht.com/N2nmnvCeQJmLh2MP_akTut5HvwdXnTkbT5AK0yp1i56OhpdfY9Axi3J0CgPotauKOEUNFJPfcg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "10.5萬",
+    "score": "0.96",
+    "videoTitle": "into reality (Japanese Ver.)【NIJISANJI ex-ID】",
+    "videoViewCount": "8.37萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/giQBn5xVyqE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTBbLb9uPADdDWUOjYIQfzZR2zTg",
+    "videoUrl": "http://youtu.be/giQBn5xVyqE",
+    "rank": 5,
+    "rankVar": null
   },
   {
     "id": 1269,
@@ -63,10 +77,10 @@
     "subscribe": "108萬",
     "score": "0.93",
     "videoTitle": "Around The World / MONKEY MAJIK【月ノ美兎 (cover)】",
-    "videoViewCount": "163.72萬",
+    "videoViewCount": "185.96萬",
     "videoThumbnail": "https://i.ytimg.com/vi/PvCfdTJGVcw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5B54igIVssUYaAdMQK80roU_h4Q",
     "videoUrl": "http://youtu.be/PvCfdTJGVcw",
-    "rank": 5,
+    "rank": 6,
     "rankVar": -1
   },
   {
@@ -77,39 +91,39 @@
     "subscribe": "32.4萬",
     "score": "0.93",
     "videoTitle": "GETCHA! - Giga & KIRA【 Mika Melatika & Ayunda Risu - Cover/ 歌ってみた】",
-    "videoViewCount": "8.89萬",
+    "videoViewCount": "9.22萬",
     "videoThumbnail": "https://i.ytimg.com/vi/IAyJwHN1MZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFIl4lYTlVVk2vaPEXbge8t4jqow",
     "videoUrl": "http://youtu.be/IAyJwHN1MZE",
-    "rank": 5,
-    "rankVar": 13
-  },
-  {
-    "id": 1718,
-    "channelUrl": "https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A",
-    "name": "東堂琥珀",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-LphbVqRjBoNyYM-w-r1UF6DhfsQyhEj83vt5B=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "12.7萬",
-    "score": "0.79",
-    "videoTitle": "【歌ってみた】Mela! -3Dお披露目 ver-【にじさんじ/東堂コハク】",
-    "videoViewCount": "3.21萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/mVXTKcK6zqY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp_1y4ex2nIwwYL8OUBBGq2SZ6fA",
-    "videoUrl": "http://youtu.be/mVXTKcK6zqY",
-    "rank": 7,
-    "rankVar": null
+    "rank": 6,
+    "rankVar": 14
   },
   {
     "id": 1338,
     "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
     "name": "クロノワール(叶 葛葉)",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "69.5萬",
-    "score": "0.72",
+    "subscribe": "69.6萬",
+    "score": "0.87",
     "videoTitle": "【時代は変わった】小学生のランキング当てやったら難問すぎた #くろなん",
-    "videoViewCount": "38.52萬",
+    "videoViewCount": "39.56萬",
     "videoThumbnail": "https://i.ytimg.com/vi/hNUcJI4U92I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlWPqk42sPf8njX3MSSEk3yIbdhQ",
     "videoUrl": "http://youtu.be/hNUcJI4U92I",
     "rank": 8,
-    "rankVar": 12
+    "rankVar": 14
+  },
+  {
+    "id": 1709,
+    "channelUrl": "https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w",
+    "name": "Siska Leontyne",
+    "thumbnail": "https://yt3.ggpht.com/K2L3DbalH5ydGGsBlSBSlonUyrrTmCjsDGiwG92RK8XLMP91mxg0nx1YVpS8RxGktC05tNhf3zo=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "12.6萬",
+    "score": "0.8",
+    "videoTitle": "Announcement, Pengumuman anjay ( BUKAN GRAD )",
+    "videoViewCount": "1.31萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/-G2zQSiHbnI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkAiOLwFRed7Z8uwtFdrnDdZ9Wjw",
+    "videoUrl": "http://youtu.be/-G2zQSiHbnI",
+    "rank": 9,
+    "rankVar": null
   },
   {
     "id": 1459,
@@ -119,39 +133,53 @@
     "subscribe": "43.1萬",
     "score": "0.7",
     "videoTitle": "【#にじ1期生コラボ】一致するまで終われまテン！～6年目の家族みたいなもの～【にじさんじ/1期生】",
-    "videoViewCount": "22.43萬",
+    "videoViewCount": "22.53萬",
     "videoThumbnail": "https://i.ytimg.com/vi/iYWe4DSoBOw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAnvOwzUCTz83Nk_s7bLjMZ1l0g3g",
     "videoUrl": "http://youtu.be/iYWe4DSoBOw",
-    "rank": 9,
-    "rankVar": -5
+    "rank": 10,
+    "rankVar": -2
   },
   {
     "id": 2433,
     "channelUrl": "https://www.youtube.com/channel/UCX88Pe54pxbJDSGIyGrzNdg",
     "name": "ナ・セラ",
     "thumbnail": "https://yt3.ggpht.com/BXSqFYY5tcwucFSIm6s63f9YAEJG9bnKl4iTTJW8aWwU7TK_TfHnd5EM7D28--5m7vD-G39FBQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4.69萬",
+    "subscribe": "4.7萬",
     "score": "0.64",
     "videoTitle": "【#歌ってみた🌸🌙】 ロミオとシンデレラ🍎 Cover - ナセラ (Na Sera)",
-    "videoViewCount": "1.37萬",
+    "videoViewCount": "1.38萬",
     "videoThumbnail": "https://i.ytimg.com/vi/DakfvDUzWWA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvfSqcuzJ8mMsQ7yxc1MYt13Qj-w",
     "videoUrl": "http://youtu.be/DakfvDUzWWA",
-    "rank": 10,
-    "rankVar": -3
+    "rank": 11,
+    "rankVar": -5
+  },
+  {
+    "id": 1331,
+    "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
+    "name": "綠仙",
+    "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "63.1萬",
+    "score": "0.64",
+    "videoTitle": "【#にじさんじスマブラ杯】エンジョイ‼にじさんじスマブラ杯トーナメント メイン配信【大乱闘スマッシュブラザーズ】",
+    "videoViewCount": "152.96萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/Sis3y7l8G98/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNQZ5d4W4sDVprkXG-xbw6LgdP0Q",
+    "videoUrl": "http://youtu.be/Sis3y7l8G98",
+    "rank": 12,
+    "rankVar": -1
   },
   {
     "id": 3508,
     "channelUrl": "https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw",
     "name": "金子鏡(カネコキョウ)",
     "thumbnail": "https://yt3.ggpht.com/jWDEqs41VStqvbssw9Ap5Wj5gq8_ti6BY1xqLyL5sZYbIiceaSgqnk5AW21oHF79sFrlbgqLqLs=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "34.5萬",
+    "subscribe": "34.6萬",
     "score": "0.58",
     "videoTitle": "Kyo & Mysta play WHO's YOUR DADDY",
-    "videoViewCount": "8.31萬",
+    "videoViewCount": "8.52萬",
     "videoThumbnail": "https://i.ytimg.com/vi/dIrOpyj08-g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVGeMMSIgjY3z07QcS2bzFZ8lNzA",
     "videoUrl": "http://youtu.be/dIrOpyj08-g",
-    "rank": 11,
-    "rankVar": -3
+    "rank": 13,
+    "rankVar": -4
   },
   {
     "id": 1420,
@@ -161,25 +189,11 @@
     "subscribe": "58萬",
     "score": "0.52",
     "videoTitle": "神っぽいな (God-ish) ver. Enna Alouette",
-    "videoViewCount": "141.3萬",
+    "videoViewCount": "142.98萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Dg6dG3U6n-c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM9HSU3Oesgjpw065lxXHGsyat-A",
     "videoUrl": "http://youtu.be/Dg6dG3U6n-c",
-    "rank": 12,
-    "rankVar": -1
-  },
-  {
-    "id": 1331,
-    "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
-    "name": "綠仙",
-    "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "63萬",
-    "score": "0.48",
-    "videoTitle": "【#にじさんじスマブラ杯】エンジョイ‼にじさんじスマブラ杯トーナメント メイン配信【大乱闘スマッシュブラザーズ】",
-    "videoViewCount": "146.69萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/Sis3y7l8G98/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNQZ5d4W4sDVprkXG-xbw6LgdP0Q",
-    "videoUrl": "http://youtu.be/Sis3y7l8G98",
-    "rank": 13,
-    "rankVar": -1
+    "rank": 14,
+    "rankVar": 2
   },
   {
     "id": 1380,
@@ -189,10 +203,10 @@
     "subscribe": "45.9萬",
     "score": "0.44",
     "videoTitle": "【#にじオードブル】ライバーの好きなものだけ集めた最強のオードブルを作ってみた【にじさんじ/伏見ガク/シスター・クレア/ジョー・力一】",
-    "videoViewCount": "67.53萬",
+    "videoViewCount": "67.6萬",
     "videoThumbnail": "https://i.ytimg.com/vi/h2e6ZrWzr_s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2eH9oHArXjXlqrBl8Z8_hAkJWzQ",
     "videoUrl": "http://youtu.be/h2e6ZrWzr_s",
-    "rank": 14,
+    "rank": 15,
     "rankVar": null
   },
   {
@@ -203,11 +217,11 @@
     "subscribe": "46.1萬",
     "score": "0.44",
     "videoTitle": "【朗読】周央サンゴの新しい呼び名並べてみた【周央サンゴ】",
-    "videoViewCount": "13.32萬",
+    "videoViewCount": "13.58萬",
     "videoThumbnail": "https://i.ytimg.com/vi/qwpJ7ORjLwI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOpJTFb2StHBxmTuiCjKAkOGYYNw",
     "videoUrl": "http://youtu.be/qwpJ7ORjLwI",
-    "rank": 15,
-    "rankVar": 7
+    "rank": 16,
+    "rankVar": 8
   },
   {
     "id": 1429,
@@ -217,11 +231,25 @@
     "subscribe": "49.9萬",
     "score": "0.4",
     "videoTitle": "I am sorry (shitpost)",
-    "videoViewCount": "19.96萬",
+    "videoViewCount": "19.99萬",
     "videoThumbnail": "https://i.ytimg.com/vi/4xq5ZU4w9vc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhdIF0oXTAP&rs=AOn4CLD_MhWYyxD_EXoVuEDxA7MarqkxSQ",
     "videoUrl": "http://youtu.be/4xq5ZU4w9vc",
-    "rank": 16,
-    "rankVar": 9
+    "rank": 17,
+    "rankVar": 10
+  },
+  {
+    "id": 1352,
+    "channelUrl": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ",
+    "name": "健屋花那",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8LJ2FjXNATnhclWrn1EQYf9ZXW4BqsCFrADGWKNw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "53.8萬",
+    "score": "0.37",
+    "videoTitle": "【歌ってみた】自主~はい 私がやりました~【健屋花那/にじさんじ】",
+    "videoViewCount": "15.36萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/B863el8Bi4o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCLE-U07Nig0S4xE8pFBVkZh005g",
+    "videoUrl": "http://youtu.be/B863el8Bi4o",
+    "rank": 18,
+    "rankVar": 10
   },
   {
     "id": 1432,
@@ -231,11 +259,11 @@
     "subscribe": "55.3萬",
     "score": "0.36",
     "videoTitle": "\"LUNAM\" / NOCTYX 1-Year Anniversary Song - Uki Violeta【NIJISANJI EN】Original Song",
-    "videoViewCount": "49.97萬",
+    "videoViewCount": "50.27萬",
     "videoThumbnail": "https://i.ytimg.com/vi/RrXxGba0AR4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhKIEcoZTAP&rs=AOn4CLByBW5Hrk6T2Oh0KyNwaiV1XdvhqA",
     "videoUrl": "http://youtu.be/RrXxGba0AR4",
-    "rank": 17,
-    "rankVar": -8
+    "rank": 19,
+    "rankVar": -4
   },
   {
     "id": 1456,
@@ -245,10 +273,10 @@
     "subscribe": "31.4萬",
     "score": "0.32",
     "videoTitle": "日本の米は世界一 (covered by 舞元啓介/レヴィ・エリファ )",
-    "videoViewCount": "54.45萬",
+    "videoViewCount": "54.53萬",
     "videoThumbnail": "https://i.ytimg.com/vi/dsr1Xmg1Oz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy71h2-YJrPIMm0Tg0zLY5LNt3Cg",
     "videoUrl": "http://youtu.be/dsr1Xmg1Oz0",
-    "rank": 18,
+    "rank": 20,
     "rankVar": null
   },
   {
@@ -259,10 +287,10 @@
     "subscribe": "34.2萬",
     "score": "0.29",
     "videoTitle": "𝓗𝓸𝔀 𝓭𝓸 𝔂𝓸𝓾 𝓵𝓲𝓴𝓮 𝓶𝔂 𝓮𝓰𝓰𝓼?",
-    "videoViewCount": "11.41萬",
+    "videoViewCount": "11.44萬",
     "videoThumbnail": "https://i.ytimg.com/vi/O_we-A3ItjE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgUaTZODnn0TSX2kJQqgXsAOdAPw",
     "videoUrl": "http://youtu.be/O_we-A3ItjE",
-    "rank": 19,
+    "rank": 21,
     "rankVar": 0
   },
   {
@@ -273,10 +301,10 @@
     "subscribe": "73.4萬",
     "score": "0.27",
     "videoTitle": "RAD DOGS / covered by  社築×緑仙",
-    "videoViewCount": "47.14萬",
+    "videoViewCount": "47.37萬",
     "videoThumbnail": "https://i.ytimg.com/vi/mujWQpcpGIE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzbo_EgMSDHc4hEawb1KBy09b8Ig",
     "videoUrl": "http://youtu.be/mujWQpcpGIE",
-    "rank": 20,
+    "rank": 22,
     "rankVar": 1
   },
   {
@@ -287,10 +315,10 @@
     "subscribe": "37.9萬",
     "score": "0.26",
     "videoTitle": "【刀剣乱舞無双】とうらぶ完全初見パンピー【長尾景/にじさんじ】",
-    "videoViewCount": "12.68萬",
+    "videoViewCount": "12.74萬",
     "videoThumbnail": "https://i.ytimg.com/vi/oev2pyVibV8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv0G1Bx1iVwQR6GGYeSgEd0Mb6Sg",
     "videoUrl": "http://youtu.be/oev2pyVibV8",
-    "rank": 21,
+    "rank": 23,
     "rankVar": null
   },
   {
@@ -301,39 +329,11 @@
     "subscribe": "46.1萬",
     "score": "0.22",
     "videoTitle": "【歌ってみた】ロウワー（covered by ニュイ×アンジュ）",
-    "videoViewCount": "64.72萬",
+    "videoViewCount": "64.97萬",
     "videoThumbnail": "https://i.ytimg.com/vi/fXVYD4Gdk1Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT4ceuW4eYRkC8Q_6FbI5wkbenkA",
     "videoUrl": "http://youtu.be/fXVYD4Gdk1Q",
-    "rank": 22,
-    "rankVar": 1
-  },
-  {
-    "id": 1352,
-    "channelUrl": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ",
-    "name": "健屋花那",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8LJ2FjXNATnhclWrn1EQYf9ZXW4BqsCFrADGWKNw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "53.7萬",
-    "score": "0.19",
-    "videoTitle": "【歌ってみた】自主~はい 私がやりました~【健屋花那/にじさんじ】",
-    "videoViewCount": "15.05萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/B863el8Bi4o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCLE-U07Nig0S4xE8pFBVkZh005g",
-    "videoUrl": "http://youtu.be/B863el8Bi4o",
-    "rank": 23,
-    "rankVar": 3
-  },
-  {
-    "id": 1313,
-    "channelUrl": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
-    "name": "勇氣千尋",
-    "thumbnail": "https://yt3.googleusercontent.com/HC0inff8QxW-ez4Wl7ItCqgkmdJmJn2H8ch26-yw0NMXO4soVmU39R8O2dszyS-vRpNkKeouQzU=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "64萬",
-    "score": "0.16",
-    "videoTitle": "【APEX】そろそろ動き出してもよいのだろう【にじさんじ/勇気ちひろ】",
-    "videoViewCount": "21.53萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/VCQr6dBlHtc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAR8IXvcZa25y5R4GhZ7PnpuKQ0IA",
-    "videoUrl": "http://youtu.be/VCQr6dBlHtc",
     "rank": 24,
-    "rankVar": 4
+    "rankVar": 1
   },
   {
     "id": 1325,
@@ -343,7 +343,7 @@
     "subscribe": "66.3萬",
     "score": "0.15",
     "videoTitle": "【歌ってみた】きゅうくらりん / いよわ feat.可不【椎名唯華/にじさんじ】",
-    "videoViewCount": "55.36萬",
+    "videoViewCount": "55.54萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Gcjz7gp_Fx4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwEBjmLGgPMw1at2ShfHMK6_2e5Q",
     "videoUrl": "http://youtu.be/Gcjz7gp_Fx4",
     "rank": 25,
@@ -357,7 +357,7 @@
     "subscribe": "75.4萬",
     "score": "0.13",
     "videoTitle": "【#さんばか4周年】さんばかを一番よく知っているのは誰だ！さんばか王決定戦！！【にじさんじ/アンジュ・カトリーナ/戌亥とこ/リゼ・ヘルエスタ】",
-    "videoViewCount": "32.03萬",
+    "videoViewCount": "32.12萬",
     "videoThumbnail": "https://i.ytimg.com/vi/A8j3L9_SKuo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHetlSJllOXyfNaHR6etIDYyTrjw",
     "videoUrl": "http://youtu.be/A8j3L9_SKuo",
     "rank": 26,
@@ -371,11 +371,11 @@
     "subscribe": "76.7萬",
     "score": "0.13",
     "videoTitle": "【MV】Alche Miss Katrina / アンジュ・カトリーナ【オリジナルソング/にじさんじ】",
-    "videoViewCount": "151.88萬",
+    "videoViewCount": "152.3萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Q8NjemtU-NI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAaO0J-4uzjnSKZcoQ0tbmb4ZIWw",
     "videoUrl": "http://youtu.be/Q8NjemtU-NI",
     "rank": 27,
-    "rankVar": 2
+    "rankVar": 3
   },
   {
     "id": 1281,
@@ -385,10 +385,10 @@
     "subscribe": "91萬",
     "score": "0.11",
     "videoTitle": "【NGなし】郡道先生とリスナーの質問＆相談マシュマロ読むｗｗｗ【にじさんじ/星川サラ/郡道美玲】",
-    "videoViewCount": "12.07萬",
+    "videoViewCount": "12.09萬",
     "videoThumbnail": "https://i.ytimg.com/vi/9adf2wxYomU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4f6dpjlnc5y2OSMkH0TvBy7r0ow",
     "videoUrl": "http://youtu.be/9adf2wxYomU",
     "rank": 28,
-    "rankVar": 2
+    "rankVar": 3
   }
 ]
