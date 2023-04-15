@@ -4,13 +4,27 @@
     "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
     "name": "博衣こより",
     "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "87.1萬",
-    "score": "106,238",
+    "subscribe": "87.2萬",
+    "score": "107,206",
     "videoTitle": "【歌枠】JOYSOUNDさん提供のカラオケアプリが登場⁉すごすぎるうううう！！！歌う！！！【博衣こより/ホロライブ】",
-    "videoViewCount": "10.62萬",
+    "videoViewCount": "10.72萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ig0XalzoMFc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu9s1tcmn6Xfiuft2O9cwqn0QrMQ",
     "videoUrl": "http://youtu.be/ig0XalzoMFc",
     "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 1261,
+    "channelUrl": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+    "name": "時乃空",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "108萬",
+    "score": "41,680",
+    "videoTitle": "【Song/歌枠】アプリでいろいろ歌っていこう～！！【#ときのそら生放送 】",
+    "videoViewCount": "4.17萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/OMEjvcxkGk4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh8lwsVKiexhpuy3TolKP67T2t7g",
+    "videoUrl": "http://youtu.be/OMEjvcxkGk4",
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -19,12 +33,12 @@
     "name": "律可",
     "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "22.9萬",
-    "score": "4,250",
+    "score": "4,348",
     "videoTitle": "【弾き語り歌枠】ゲーム以外も全力でやっていく！【律可/ホロスターズ】#りつすた",
-    "videoViewCount": "4250",
+    "videoViewCount": "4348",
     "videoThumbnail": "https://i.ytimg.com/vi/it39cDdf__E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBo8XEDcB5p0YhIH8F1VpT4M6xTYA",
     "videoUrl": "http://youtu.be/it39cDdf__E",
-    "rank": 2,
-    "rankVar": 1
+    "rank": 3,
+    "rankVar": 0
   }
 ]
