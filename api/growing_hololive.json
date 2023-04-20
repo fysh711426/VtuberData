@@ -7,11 +7,25 @@
     "subscribe": "24.8萬",
     "score": "1.22",
     "videoTitle": "【DEBUT】 I am literally just a worm | #holoTEMPUS",
-    "videoViewCount": "6.92萬",
+    "videoViewCount": "6.93萬",
     "videoThumbnail": "https://i.ytimg.com/vi/OAla1z2ovUA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB50z2D9rhEnGKDrM4L8HcMSlgRvg",
     "videoUrl": "http://youtu.be/OAla1z2ovUA",
     "rank": 1,
     "rankVar": 5
+  },
+  {
+    "id": 1365,
+    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+    "name": "ベスティア・ゼータ",
+    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "73.6萬",
+    "score": "0.96",
+    "videoTitle": "可愛くてごめん / Kawaikute Gomen 【Cover ♡ Vestia Zeta】",
+    "videoViewCount": "46.34萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/WDueRRGIKzw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf4D1t4UOIP7qzL0gKqutwObEkLw",
+    "videoUrl": "http://youtu.be/WDueRRGIKzw",
+    "rank": 2,
+    "rankVar": 3
   },
   {
     "id": 1260,
@@ -21,39 +35,11 @@
     "subscribe": "110萬",
     "score": "0.92",
     "videoTitle": "【相性最悪？】命綱無しのがけっぷちタイマン対談 #ポルカオルカ【沙花叉クロヱ/尾丸ポルカ/ホロライブ】",
-    "videoViewCount": "19.08萬",
+    "videoViewCount": "19.1萬",
     "videoThumbnail": "https://i.ytimg.com/vi/49TrE5sIBaA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGjNkTqUW5V3i4PwOQscUF8CPTYQ",
     "videoUrl": "http://youtu.be/49TrE5sIBaA",
-    "rank": 2,
-    "rankVar": 1
-  },
-  {
-    "id": 1966,
-    "channelUrl": "https://www.youtube.com/channel/UCc88OV45ICgHbn3ZqLLb52w",
-    "name": "夜十神封魔(やとがみふうま)",
-    "thumbnail": "https://yt3.ggpht.com/HGqJ7mPwkE1frsJ1Gf0jFWAigC1mLGYEpj2N1L8CdD6QFTxCC7aNyuf1frR8AwSa_MJh58TioQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "11.1萬",
-    "score": "0.91",
-    "videoTitle": "Overdose - なとり / Covered by 夜十神封魔",
-    "videoViewCount": "13.66萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/VCp5BRgH50s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDASjxywh_lUYRk8WHY34WuxdUA1w",
-    "videoUrl": "http://youtu.be/VCp5BRgH50s",
     "rank": 3,
-    "rankVar": 1
-  },
-  {
-    "id": 1365,
-    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-    "name": "ベスティア・ゼータ",
-    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "73.5萬",
-    "score": "0.82",
-    "videoTitle": "可愛くてごめん / Kawaikute Gomen 【Cover ♡ Vestia Zeta】",
-    "videoViewCount": "46.1萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/WDueRRGIKzw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf4D1t4UOIP7qzL0gKqutwObEkLw",
-    "videoUrl": "http://youtu.be/WDueRRGIKzw",
-    "rank": 4,
-    "rankVar": -2
+    "rankVar": -1
   },
   {
     "id": 1250,
@@ -63,10 +49,10 @@
     "subscribe": "130萬",
     "score": "0.78",
     "videoTitle": "【Original Song】Who’s Toxic ? It’s You! - Moona Hoshinova【3DMV】",
-    "videoViewCount": "45.65萬",
+    "videoViewCount": "47.41萬",
     "videoThumbnail": "https://i.ytimg.com/vi/PFoGNZ05CJw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAmFpd9fpBWya2cpDgJ0bHCwRI8A",
     "videoUrl": "http://youtu.be/PFoGNZ05CJw",
-    "rank": 5,
+    "rank": 4,
     "rankVar": null
   },
   {
@@ -77,25 +63,11 @@
     "subscribe": "137萬",
     "score": "0.74",
     "videoTitle": "Almost Eaten by My Collab Partner [Tsunomaki Watame/hololive 4th Gen]",
-    "videoViewCount": "29.66萬",
+    "videoViewCount": "29.85萬",
     "videoThumbnail": "https://i.ytimg.com/vi/u0pg3LkEAws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkZ3N3_2pfxfX0HPD6Z5KnX-2i9Q",
     "videoUrl": "http://youtu.be/u0pg3LkEAws",
-    "rank": 6,
+    "rank": 5,
     "rankVar": null
-  },
-  {
-    "id": 1306,
-    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-    "name": "博衣こより",
-    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "87.5萬",
-    "score": "0.57",
-    "videoTitle": "【全力Chu!で】可愛くてごめん／Honeyworks covered by 博衣こより(hololive)【歌ってみた】",
-    "videoViewCount": "55.92萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/5aBlPZ6BCVI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLXqI3qfwx0KBDtQVsyq-CKFixlA",
-    "videoUrl": "http://youtu.be/5aBlPZ6BCVI",
-    "rank": 7,
-    "rankVar": 6
   },
   {
     "id": 1230,
@@ -105,10 +77,24 @@
     "subscribe": "185萬",
     "score": "0.54",
     "videoTitle": "【3D LIVE】Shining Memory / ラストに重大告知‼【#星街すいせい5周年LIVE 】",
-    "videoViewCount": "153.54萬",
+    "videoViewCount": "153.99萬",
     "videoThumbnail": "https://i.ytimg.com/vi/GbIIr3waYzI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_1zDpwk5a9azGzN_pcwnCVvpo7A",
     "videoUrl": "http://youtu.be/GbIIr3waYzI",
-    "rank": 8,
+    "rank": 6,
+    "rankVar": 4
+  },
+  {
+    "id": 1306,
+    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+    "name": "博衣こより",
+    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "87.5萬",
+    "score": "0.46",
+    "videoTitle": "【全力Chu!で】可愛くてごめん／Honeyworks covered by 博衣こより(hololive)【歌ってみた】",
+    "videoViewCount": "56.2萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/5aBlPZ6BCVI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLXqI3qfwx0KBDtQVsyq-CKFixlA",
+    "videoUrl": "http://youtu.be/5aBlPZ6BCVI",
+    "rank": 7,
     "rankVar": 2
   },
   {
@@ -118,11 +104,11 @@
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9QrCPT5A0zE49EHvoS_gs2XBxzXSLs_OkIoTawkw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "221萬",
     "score": "0.45",
-    "videoTitle": "【＃ホロぷよテト大会】第一回 ホロライブぷよテト大会！！！！！！！！！！！！！！【ぷよテト2】",
-    "videoViewCount": "179.31萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/JOFXeA2h3tY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDp7Zeg0EPLbwQARRHj4AplS86Hjg",
-    "videoUrl": "http://youtu.be/JOFXeA2h3tY",
-    "rank": 9,
+    "videoTitle": "超美麗!! 兎田ぺこら新3Dお披露目!?（3D SHOWCASE）",
+    "videoViewCount": "183.51萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/FkuDnUYLq6c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhUIFUoZTAP&rs=AOn4CLBxL3FY0KKPl1LmQuASuLspHq8GWw",
+    "videoUrl": "http://youtu.be/FkuDnUYLq6c",
+    "rank": 8,
     "rankVar": null
   },
   {
@@ -133,10 +119,10 @@
     "subscribe": "222萬",
     "score": "0.45",
     "videoTitle": "【MV】Salamander (Mori Calliope Cover)",
-    "videoViewCount": "55.6萬",
+    "videoViewCount": "57.17萬",
     "videoThumbnail": "https://i.ytimg.com/vi/CJp7Vf6bTHs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoMk4Ufhl718SnuoYckL_CnpwjYw",
     "videoUrl": "http://youtu.be/CJp7Vf6bTHs",
-    "rank": 10,
+    "rank": 9,
     "rankVar": null
   },
   {
@@ -147,11 +133,11 @@
     "subscribe": "23萬",
     "score": "0.44",
     "videoTitle": "命ばっかり  / ぬゆり covered by 律可 #rebirthful",
-    "videoViewCount": "12.52萬",
+    "videoViewCount": "12.56萬",
     "videoThumbnail": "https://i.ytimg.com/vi/LVnWXvA7l_Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB35vQOLhv4GQ1zbkbLoFU0YQxKxw",
     "videoUrl": "http://youtu.be/LVnWXvA7l_Q",
-    "rank": 11,
-    "rankVar": 4
+    "rank": 10,
+    "rankVar": 2
   },
   {
     "id": 1328,
@@ -161,11 +147,11 @@
     "subscribe": "70.8萬",
     "score": "0.43",
     "videoTitle": "≪NEW OUTFIT REVEAL≫ FRESH DRIP ACQUIRED + BIG ANNOUNCEMENT!!! #DRIPTARO",
-    "videoViewCount": "17.33萬",
+    "videoViewCount": "17.38萬",
     "videoThumbnail": "https://i.ytimg.com/vi/if1xwcpL6dQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh5RX5CuHYWuSqXzkSTZRPWC7C2Q",
     "videoUrl": "http://youtu.be/if1xwcpL6dQ",
-    "rank": 12,
-    "rankVar": 7
+    "rank": 11,
+    "rankVar": 6
   },
   {
     "id": 1323,
@@ -175,11 +161,11 @@
     "subscribe": "69.6萬",
     "score": "0.29",
     "videoTitle": "【 ioSalon 】NEW HAIRCUT! さあ！サロンの時間だ！【 iofi / イオフィ 】",
-    "videoViewCount": "4.79萬",
+    "videoViewCount": "4.8萬",
     "videoThumbnail": "https://i.ytimg.com/vi/pC56_VBLpGo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjfVUAPBoVsshGcdHHr4eaLhJCXA",
     "videoUrl": "http://youtu.be/pC56_VBLpGo",
-    "rank": 13,
-    "rankVar": 3
+    "rank": 12,
+    "rankVar": 1
   },
   {
     "id": 1326,
@@ -189,25 +175,11 @@
     "subscribe": "73.8萬",
     "score": "0.27",
     "videoTitle": "可愛くてごめん - HoneyWorks / 風真いろは(cover)",
-    "videoViewCount": "62.13萬",
+    "videoViewCount": "62.64萬",
     "videoThumbnail": "https://i.ytimg.com/vi/A_Rg6LZO108/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN7hBpfoLBkCIKN_JaCMbZeN8XxA",
     "videoUrl": "http://youtu.be/A_Rg6LZO108",
-    "rank": 14,
-    "rankVar": -4
-  },
-  {
-    "id": 1305,
-    "channelUrl": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-    "name": "Pavolia Reine",
-    "thumbnail": "https://yt3.ggpht.com/sG7Yb1kCxTEP9ft03E-1Tr2Rho8GhMZ0_Kq9rf5MojWY9pf8vSL24xPG8e8GaE4jOxQKYlSvaL0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "75萬",
-    "score": "0.27",
-    "videoTitle": "【Cover】 -Star Divine- finale / Pavolia Reine × Omaru Polka",
-    "videoViewCount": "10.59萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/75gnquXjQSE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkBANSk5F3Or5yWBty1G51hZw_HA",
-    "videoUrl": "http://youtu.be/75gnquXjQSE",
-    "rank": 15,
-    "rankVar": 6
+    "rank": 13,
+    "rankVar": 1
   },
   {
     "id": 1295,
@@ -217,11 +189,25 @@
     "subscribe": "81.3萬",
     "score": "0.25",
     "videoTitle": "【Ayunda Risu】1:15 AM【Original Song】",
-    "videoViewCount": "21.41萬",
+    "videoViewCount": "21.86萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lvDNdCBcKJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPGjUEQIH3fzmsA034-0e1kntNkw",
     "videoUrl": "http://youtu.be/lvDNdCBcKJE",
-    "rank": 16,
+    "rank": 14,
     "rankVar": 1
+  },
+  {
+    "id": 1305,
+    "channelUrl": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+    "name": "Pavolia Reine",
+    "thumbnail": "https://yt3.ggpht.com/sG7Yb1kCxTEP9ft03E-1Tr2Rho8GhMZ0_Kq9rf5MojWY9pf8vSL24xPG8e8GaE4jOxQKYlSvaL0=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "75萬",
+    "score": "0.13",
+    "videoTitle": "【Cover】 -Star Divine- finale / Pavolia Reine × Omaru Polka",
+    "videoViewCount": "10.64萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/75gnquXjQSE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkBANSk5F3Or5yWBty1G51hZw_HA",
+    "videoUrl": "http://youtu.be/75gnquXjQSE",
+    "rank": 15,
+    "rankVar": 3
   },
   {
     "id": 1287,
@@ -231,11 +217,11 @@
     "subscribe": "82萬",
     "score": "0.12",
     "videoTitle": "【#夜空メル新衣装】告知多数あり！かっこかわいい姿見せちゃうよ！！！【ホロライブ/夜空メル】",
-    "videoViewCount": "20.53萬",
+    "videoViewCount": "20.55萬",
     "videoThumbnail": "https://i.ytimg.com/vi/XuFFQLwRiRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDosjwFh8EYlVbali-w_0VWAMDY3Q",
     "videoUrl": "http://youtu.be/XuFFQLwRiRo",
-    "rank": 17,
-    "rankVar": 1
+    "rank": 16,
+    "rankVar": 0
   },
   {
     "id": 1276,
@@ -245,10 +231,10 @@
     "subscribe": "91.5萬",
     "score": "0.11",
     "videoTitle": "【あざとく】可愛くてごめん/ロボ子さん【歌ってみた】",
-    "videoViewCount": "20.82萬",
+    "videoViewCount": "20.89萬",
     "videoThumbnail": "https://i.ytimg.com/vi/BvqttxHszE4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkjpCi6SPuy_JZtWDuDbU8dJF7Lw",
     "videoUrl": "http://youtu.be/BvqttxHszE4",
-    "rank": 18,
+    "rank": 17,
     "rankVar": 2
   },
   {
@@ -259,10 +245,10 @@
     "subscribe": "92.1萬",
     "score": "0.11",
     "videoTitle": "【MV】Erande Kurete Arigato - Honeyworks【IRyS x Baelz Cover】",
-    "videoViewCount": "24.16萬",
+    "videoViewCount": "24.27萬",
     "videoThumbnail": "https://i.ytimg.com/vi/3pzh6AaXi9s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB14O5teXH12npu1b8R96x1v7bVYw",
     "videoUrl": "http://youtu.be/3pzh6AaXi9s",
-    "rank": 19,
-    "rankVar": 3
+    "rank": 18,
+    "rankVar": 2
   }
 ]
