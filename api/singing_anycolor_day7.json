@@ -1,44 +1,30 @@
 [
   {
+    "id": 3444,
+    "channelUrl": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA",
+    "name": "セラフ・ダズルガーデン / Seraph Dazzlegarden",
+    "thumbnail": "https://yt3.ggpht.com/id0I-5r0K_4FsZsZPSHHDKviKvKfbb1yas8MDD_fLfyImFtDQXncul8G0aeEDifGq27xoMmtmw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "20.2萬",
+    "score": "102,536",
+    "videoTitle": "【登録者20万人記念歌枠】感謝の20曲歌いきるまで帰れまテン【セラフ・ダズルガーデン/にじさんじ】",
+    "videoViewCount": "10.25萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/MJSZHe26h84/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbc5Lb5rrG_1KA-Ph0VOhleugDzQ",
+    "videoUrl": "http://youtu.be/MJSZHe26h84",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
     "id": 1313,
     "channelUrl": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
     "name": "勇氣千尋",
     "thumbnail": "https://yt3.googleusercontent.com/HC0inff8QxW-ez4Wl7ItCqgkmdJmJn2H8ch26-yw0NMXO4soVmU39R8O2dszyS-vRpNkKeouQzU=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "64.5萬",
-    "score": "106,807",
-    "videoTitle": "【歌枠】アーカイブは多分メン限(200％)行き【勇気ちひろ】",
-    "videoViewCount": "10.68萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/mDjxiEnCARo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6M3Po1x0IXqSIlbnTS-Ius-wClg",
-    "videoUrl": "http://youtu.be/mDjxiEnCARo",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
-    "id": 3444,
-    "channelUrl": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA",
-    "name": "セラフ・ダズルガーデン / Seraph Dazzlegarden",
-    "thumbnail": "https://yt3.ggpht.com/id0I-5r0K_4FsZsZPSHHDKviKvKfbb1yas8MDD_fLfyImFtDQXncul8G0aeEDifGq27xoMmtmw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "20.1萬",
-    "score": "99,107",
-    "videoTitle": "【登録者20万人記念歌枠】感謝の20曲歌いきるまで帰れまテン【セラフ・ダズルガーデン/にじさんじ】",
-    "videoViewCount": "9.91萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/MJSZHe26h84/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbc5Lb5rrG_1KA-Ph0VOhleugDzQ",
-    "videoUrl": "http://youtu.be/MJSZHe26h84",
+    "score": "92,695",
+    "videoTitle": "【RUST】歌枠の前に少しファーム【勇気ちひろ】",
+    "videoViewCount": "9.27萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/eLmuQcisFh0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxTzX2FU3TCOrijTNmo4DjqmC4Zg",
+    "videoUrl": "http://youtu.be/eLmuQcisFh0",
     "rank": 2,
-    "rankVar": null
-  },
-  {
-    "id": 1718,
-    "channelUrl": "https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A",
-    "name": "東堂琥珀",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-LphbVqRjBoNyYM-w-r1UF6DhfsQyhEj83vt5B=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "12.7萬",
-    "score": "7,522",
-    "videoTitle": "【歌枠】春だね！歌って春感じるぞー♪【supported by DAM】【にじさんじ/東堂コハク】",
-    "videoViewCount": "7522",
-    "videoThumbnail": "https://i.ytimg.com/vi/qa277zLhzZ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAsPNc7_QAqGIKLS0ievEr6Jo1Gg",
-    "videoUrl": "http://youtu.be/qa277zLhzZ4",
-    "rank": 3,
     "rankVar": null
   }
 ]

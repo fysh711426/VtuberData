@@ -7,7 +7,7 @@
     "subscribe": "104萬",
     "score": "0.97",
     "videoTitle": "【holo*27 MV】沙花叉クロヱ - P.E.T.【ホロライブ x DECO*27】",
-    "videoViewCount": "70.44萬",
+    "videoViewCount": "71.32萬",
     "videoThumbnail": "https://i.ytimg.com/vi/wztmSx2_T6w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRSSpWm1FznfmIK-BIATydGbxDag",
     "videoUrl": "http://youtu.be/wztmSx2_T6w",
     "rank": 1,
@@ -21,7 +21,7 @@
     "subscribe": "109萬",
     "score": "0.93",
     "videoTitle": "【cover】RAD DOGS【歌ってみた/ときのそら/Airani iofifteen/Hakos Baelz/水無世燐央/Axel Syrios】",
-    "videoViewCount": "22.36萬",
+    "videoViewCount": "22.47萬",
     "videoThumbnail": "https://i.ytimg.com/vi/DHOPAU78XLU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPYEWhXAbZ7rPJDfUU_OTpUISjWg",
     "videoUrl": "http://youtu.be/DHOPAU78XLU",
     "rank": 2,
@@ -35,25 +35,25 @@
     "subscribe": "11.1萬",
     "score": "0.91",
     "videoTitle": "Overdose - なとり / Covered by 夜十神封魔",
-    "videoViewCount": "13.81萬",
+    "videoViewCount": "13.85萬",
     "videoThumbnail": "https://i.ytimg.com/vi/VCp5BRgH50s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDASjxywh_lUYRk8WHY34WuxdUA1w",
     "videoUrl": "http://youtu.be/VCp5BRgH50s",
     "rank": 3,
     "rankVar": null
   },
   {
-    "id": 1365,
-    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-    "name": "ベスティア・ゼータ",
-    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "73.8萬",
-    "score": "0.82",
-    "videoTitle": "可愛くてごめん / Kawaikute Gomen 【Cover ♡ Vestia Zeta】",
-    "videoViewCount": "46.94萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/WDueRRGIKzw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf4D1t4UOIP7qzL0gKqutwObEkLw",
-    "videoUrl": "http://youtu.be/WDueRRGIKzw",
+    "id": 1697,
+    "channelUrl": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+    "name": "岸堂天真",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_pFYgyWIY4kSNfnhU6pA7efeejU8G3izfUr49I=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "13.4萬",
+    "score": "0.75",
+    "videoTitle": "誕生日記念！100時間かけて恋愛ゲーム自作してみた！【#わたしの騎士は騒々しい】【#岸堂天真生誕祭2023】",
+    "videoViewCount": "1.96萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/RexFK44zE8E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1SDz01sQPsNUQoPgDrPxDyroKSw",
+    "videoUrl": "http://youtu.be/RexFK44zE8E",
     "rank": 4,
-    "rankVar": -1
+    "rankVar": null
   },
   {
     "id": 1246,
@@ -63,11 +63,25 @@
     "subscribe": "137萬",
     "score": "0.74",
     "videoTitle": "Almost Eaten by My Collab Partner [Tsunomaki Watame/hololive 4th Gen]",
-    "videoViewCount": "30.7萬",
+    "videoViewCount": "30.89萬",
     "videoThumbnail": "https://i.ytimg.com/vi/u0pg3LkEAws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkZ3N3_2pfxfX0HPD6Z5KnX-2i9Q",
     "videoUrl": "http://youtu.be/u0pg3LkEAws",
     "rank": 5,
     "rankVar": null
+  },
+  {
+    "id": 1365,
+    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+    "name": "ベスティア・ゼータ",
+    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "73.8萬",
+    "score": "0.68",
+    "videoTitle": "可愛くてごめん / Kawaikute Gomen 【Cover ♡ Vestia Zeta】",
+    "videoViewCount": "47.12萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/WDueRRGIKzw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf4D1t4UOIP7qzL0gKqutwObEkLw",
+    "videoUrl": "http://youtu.be/WDueRRGIKzw",
+    "rank": 6,
+    "rankVar": -3
   },
   {
     "id": 1306,
@@ -77,11 +91,11 @@
     "subscribe": "87.8萬",
     "score": "0.57",
     "videoTitle": "【全力Chu!で】可愛くてごめん／Honeyworks covered by 博衣こより(hololive)【歌ってみた】",
-    "videoViewCount": "57萬",
+    "videoViewCount": "57.22萬",
     "videoThumbnail": "https://i.ytimg.com/vi/5aBlPZ6BCVI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLXqI3qfwx0KBDtQVsyq-CKFixlA",
     "videoUrl": "http://youtu.be/5aBlPZ6BCVI",
-    "rank": 6,
-    "rankVar": -1
+    "rank": 7,
+    "rankVar": -2
   },
   {
     "id": 1230,
@@ -91,10 +105,10 @@
     "subscribe": "185萬",
     "score": "0.54",
     "videoTitle": "ホロライブ所属「スーパーアイドル☆コメットちゃん」初配信💙✨#こめこめすたじお",
-    "videoViewCount": "61.95萬",
+    "videoViewCount": "62.13萬",
     "videoThumbnail": "https://i.ytimg.com/vi/RIZQdWkIkQo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWJf2JGjY_hwznRADuav9O0cFwtw",
     "videoUrl": "http://youtu.be/RIZQdWkIkQo",
-    "rank": 7,
+    "rank": 8,
     "rankVar": null
   },
   {
@@ -105,11 +119,11 @@
     "subscribe": "222萬",
     "score": "0.45",
     "videoTitle": "超美麗!! 兎田ぺこら新3Dお披露目!?（3D SHOWCASE）",
-    "videoViewCount": "198.94萬",
+    "videoViewCount": "202.16萬",
     "videoThumbnail": "https://i.ytimg.com/vi/FkuDnUYLq6c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhUIFUoZTAP&rs=AOn4CLBxL3FY0KKPl1LmQuASuLspHq8GWw",
     "videoUrl": "http://youtu.be/FkuDnUYLq6c",
-    "rank": 8,
-    "rankVar": -2
+    "rank": 9,
+    "rankVar": -3
   },
   {
     "id": 1527,
@@ -119,11 +133,25 @@
     "subscribe": "23萬",
     "score": "0.44",
     "videoTitle": "sleep mode / 律可【オリジナルMV】#rebirthful",
-    "videoViewCount": "11.53萬",
+    "videoViewCount": "11.59萬",
     "videoThumbnail": "https://i.ytimg.com/vi/B10PwzpNVYM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHOA-sFj2G0fca-s4mlZBh07ZXsw",
     "videoUrl": "http://youtu.be/B10PwzpNVYM",
-    "rank": 9,
-    "rankVar": -1
+    "rank": 10,
+    "rankVar": null
+  },
+  {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "74萬",
+    "score": "0.41",
+    "videoTitle": "【ぷよぷよテトリス2】最強すいせい先輩に1時間のコーチをしていただけることになったでござる🔥【風真いろは/ホロライブ】",
+    "videoViewCount": "21.92萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/8tOoSNGa_rg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC58oBPbSHeF39ZRagyPipAOkvjxg",
+    "videoUrl": "http://youtu.be/8tOoSNGa_rg",
+    "rank": 11,
+    "rankVar": -3
   },
   {
     "id": 3504,
@@ -136,8 +164,22 @@
     "videoViewCount": "6.95萬",
     "videoThumbnail": "https://i.ytimg.com/vi/OAla1z2ovUA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB50z2D9rhEnGKDrM4L8HcMSlgRvg",
     "videoUrl": "http://youtu.be/OAla1z2ovUA",
-    "rank": 10,
-    "rankVar": -9
+    "rank": 12,
+    "rankVar": -11
+  },
+  {
+    "id": 1295,
+    "channelUrl": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+    "name": "Ayunda Risu",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_sCSkk4KXGPex6W_2nz8UvnruKPvJN6Iy8BG0M-A=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "81.5萬",
+    "score": "0.37",
+    "videoTitle": "【Ayunda Risu】1:15 AM【Original Song】",
+    "videoViewCount": "23.27萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/lvDNdCBcKJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPGjUEQIH3fzmsA034-0e1kntNkw",
+    "videoUrl": "http://youtu.be/lvDNdCBcKJE",
+    "rank": 13,
+    "rankVar": -4
   },
   {
     "id": 1323,
@@ -150,7 +192,7 @@
     "videoViewCount": "4.8萬",
     "videoThumbnail": "https://i.ytimg.com/vi/pC56_VBLpGo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjfVUAPBoVsshGcdHHr4eaLhJCXA",
     "videoUrl": "http://youtu.be/pC56_VBLpGo",
-    "rank": 11,
+    "rank": 14,
     "rankVar": -2
   },
   {
@@ -161,24 +203,10 @@
     "subscribe": "70.9萬",
     "score": "0.28",
     "videoTitle": "≪NEW OUTFIT REVEAL≫ FRESH DRIP ACQUIRED + BIG ANNOUNCEMENT!!! #DRIPTARO",
-    "videoViewCount": "17.62萬",
+    "videoViewCount": "17.68萬",
     "videoThumbnail": "https://i.ytimg.com/vi/if1xwcpL6dQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh5RX5CuHYWuSqXzkSTZRPWC7C2Q",
     "videoUrl": "http://youtu.be/if1xwcpL6dQ",
-    "rank": 12,
-    "rankVar": -2
-  },
-  {
-    "id": 1326,
-    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-    "name": "風真いろは(かざまいろは)",
-    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "73.9萬",
-    "score": "0.27",
-    "videoTitle": "可愛くてごめん - HoneyWorks / 風真いろは(cover)",
-    "videoViewCount": "64.32萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/A_Rg6LZO108/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN7hBpfoLBkCIKN_JaCMbZeN8XxA",
-    "videoUrl": "http://youtu.be/A_Rg6LZO108",
-    "rank": 13,
+    "rank": 15,
     "rankVar": -2
   },
   {
@@ -187,27 +215,13 @@
     "name": "Pavolia Reine",
     "thumbnail": "https://yt3.ggpht.com/sG7Yb1kCxTEP9ft03E-1Tr2Rho8GhMZ0_Kq9rf5MojWY9pf8vSL24xPG8e8GaE4jOxQKYlSvaL0=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "75.1萬",
-    "score": "0.27",
+    "score": "0.13",
     "videoTitle": "【Cover】 -Star Divine- finale / Pavolia Reine × Omaru Polka",
-    "videoViewCount": "10.78萬",
+    "videoViewCount": "10.83萬",
     "videoThumbnail": "https://i.ytimg.com/vi/75gnquXjQSE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkBANSk5F3Or5yWBty1G51hZw_HA",
     "videoUrl": "http://youtu.be/75gnquXjQSE",
-    "rank": 14,
-    "rankVar": 1
-  },
-  {
-    "id": 1295,
-    "channelUrl": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-    "name": "Ayunda Risu",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_sCSkk4KXGPex6W_2nz8UvnruKPvJN6Iy8BG0M-A=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "81.4萬",
-    "score": "0.25",
-    "videoTitle": "【Ayunda Risu】1:15 AM【Original Song】",
-    "videoViewCount": "22.92萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/lvDNdCBcKJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPGjUEQIH3fzmsA034-0e1kntNkw",
-    "videoUrl": "http://youtu.be/lvDNdCBcKJE",
-    "rank": 15,
-    "rankVar": -3
+    "rank": 16,
+    "rankVar": -2
   },
   {
     "id": 1287,
@@ -217,10 +231,24 @@
     "subscribe": "82.1萬",
     "score": "0.12",
     "videoTitle": "【#夜空メル新衣装】告知多数あり！かっこかわいい姿見せちゃうよ！！！【ホロライブ/夜空メル】",
-    "videoViewCount": "20.56萬",
+    "videoViewCount": "20.57萬",
     "videoThumbnail": "https://i.ytimg.com/vi/XuFFQLwRiRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDosjwFh8EYlVbali-w_0VWAMDY3Q",
     "videoUrl": "http://youtu.be/XuFFQLwRiRo",
-    "rank": 16,
-    "rankVar": -3
+    "rank": 17,
+    "rankVar": -7
+  },
+  {
+    "id": 1277,
+    "channelUrl": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+    "name": "IRyS",
+    "thumbnail": "https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "92.2萬",
+    "score": "0.11",
+    "videoTitle": "【MV】Erande Kurete Arigato - Honeyworks【IRyS x Baelz Cover】",
+    "videoViewCount": "24.65萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/3pzh6AaXi9s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB14O5teXH12npu1b8R96x1v7bVYw",
+    "videoUrl": "http://youtu.be/3pzh6AaXi9s",
+    "rank": 18,
+    "rankVar": -2
   }
 ]
