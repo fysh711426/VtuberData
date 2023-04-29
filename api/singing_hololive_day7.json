@@ -1,30 +1,30 @@
 [
   {
-    "id": 1229,
-    "channelUrl": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-    "name": "湊阿庫婭",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8WkRjMSVdjv-NE54Xz2FTzgmYYldyV2yJJrq0cVA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "178萬",
-    "score": "263,149",
-    "videoTitle": "【歌枠】あたらしい機材でテストはいしん！！！！【湊あくあ/ホロライブ】",
-    "videoViewCount": "26.31萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/IxJMRaT6iuM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvoYrBgd_0IA2jJ14q4A3ssTTmfg",
-    "videoUrl": "http://youtu.be/IxJMRaT6iuM",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1261,
     "channelUrl": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
     "name": "時乃空",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "109萬",
-    "score": "30,746",
+    "score": "32,243",
     "videoTitle": "【Song/歌枠】楽しく1時間歌ってくよ！！【#ときのそら生放送 】",
-    "videoViewCount": "3.07萬",
+    "videoViewCount": "3.22萬",
     "videoThumbnail": "https://i.ytimg.com/vi/wMzflx4bQQQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Qy-YB7fbqGojqI6medwe-soxHQ",
     "videoUrl": "http://youtu.be/wMzflx4bQQQ",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 1527,
+    "channelUrl": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+    "name": "律可",
+    "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "23萬",
+    "score": "4,458",
+    "videoTitle": "【弾き語り歌枠】土曜の昼間を歌でまったり過ごす【律可/ホロスターズ】#りつすた",
+    "videoViewCount": "4458",
+    "videoThumbnail": "https://i.ytimg.com/vi/pyQGM8H5Lrc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgpVOamSSSZZl0tFMxnQV0rLDcXg",
+    "videoUrl": "http://youtu.be/pyQGM8H5Lrc",
     "rank": 2,
-    "rankVar": 1
+    "rankVar": null
   }
 ]
