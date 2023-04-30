@@ -1,5 +1,33 @@
 [
   {
+    "id": 1273,
+    "channelUrl": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+    "name": "沙花叉クロヱ(さかまたくろえ)",
+    "thumbnail": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "105萬",
+    "score": "0.96",
+    "videoTitle": "【holo*27 MV】沙花叉クロヱ - P.E.T.【ホロライブ x DECO*27】",
+    "videoViewCount": "76.44萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/wztmSx2_T6w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRSSpWm1FznfmIK-BIATydGbxDag",
+    "videoUrl": "http://youtu.be/wztmSx2_T6w",
+    "rank": 1,
+    "rankVar": 0
+  },
+  {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "74.5萬",
+    "score": "0.81",
+    "videoTitle": "【 #ホロドロケイ 】holoXからの挑戦状‼ホロライブみんなで鬼ごっこ - 本配信【 Minecraft/ホロライブ 】",
+    "videoViewCount": "40.95萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/ybOdi7no2jY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGqbxLbM33aLO3afZMHEojSHLHZA",
+    "videoUrl": "http://youtu.be/ybOdi7no2jY",
+    "rank": 2,
+    "rankVar": 11
+  },
+  {
     "id": 1697,
     "channelUrl": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
     "name": "岸堂天真",
@@ -7,10 +35,10 @@
     "subscribe": "13.4萬",
     "score": "0.75",
     "videoTitle": "【歌ってみた】イエスタデイ【岸堂暗夜（岸堂天真）/ホロスターズ】",
-    "videoViewCount": "2.13萬",
+    "videoViewCount": "2.19萬",
     "videoThumbnail": "https://i.ytimg.com/vi/qpaLUPVpzDg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPSJZWUERg0t9c5Q-T8Rx4JzAbNg",
     "videoUrl": "http://youtu.be/qpaLUPVpzDg",
-    "rank": 1,
+    "rank": 3,
     "rankVar": null
   },
   {
@@ -18,28 +46,28 @@
     "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
     "name": "ベスティア・ゼータ",
     "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "74.2萬",
+    "subscribe": "74.3萬",
     "score": "0.68",
     "videoTitle": "可愛くてごめん / Kawaikute Gomen 【Cover ♡ Vestia Zeta】",
-    "videoViewCount": "48.02萬",
+    "videoViewCount": "48.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/WDueRRGIKzw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf4D1t4UOIP7qzL0gKqutwObEkLw",
     "videoUrl": "http://youtu.be/WDueRRGIKzw",
-    "rank": 2,
-    "rankVar": 3
+    "rank": 4,
+    "rankVar": 0
   },
   {
-    "id": 1326,
-    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-    "name": "風真いろは(かざまいろは)",
-    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "74.4萬",
-    "score": "0.68",
-    "videoTitle": "【 #ホロドロケイ 】holoXからの挑戦状‼ホロライブみんなで鬼ごっこ - 本配信【 Minecraft/ホロライブ 】",
-    "videoViewCount": "37.15萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/ybOdi7no2jY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGqbxLbM33aLO3afZMHEojSHLHZA",
-    "videoUrl": "http://youtu.be/ybOdi7no2jY",
-    "rank": 3,
-    "rankVar": 8
+    "id": 1237,
+    "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+    "name": "貓又小粥",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-4v9u0XW29ThJHrutfQzTDSun8xJbi_d3HT12New=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "160萬",
+    "score": "0.63",
+    "videoTitle": "【新衣装お披露目】新衣装お披露目久しぶりすぎてやり方忘れました――★【猫又おかゆ/ホロライブ】",
+    "videoViewCount": "41.72萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/iFJlYWv_uXk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8RQg7-sQL4UCoqIF5ztJP0o-jDw",
+    "videoUrl": "http://youtu.be/iFJlYWv_uXk",
+    "rank": 5,
+    "rankVar": null
   },
   {
     "id": 1230,
@@ -49,11 +77,11 @@
     "subscribe": "186萬",
     "score": "0.54",
     "videoTitle": "マーシャル・マキシマイザー / 星街すいせい(Cover)",
-    "videoViewCount": "85.73萬",
+    "videoViewCount": "93.31萬",
     "videoThumbnail": "https://i.ytimg.com/vi/j2J0_dcHLwo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzAmHkrpqyNvcUTbcCYwp-avxS2A",
     "videoUrl": "http://youtu.be/j2J0_dcHLwo",
-    "rank": 4,
-    "rankVar": 4
+    "rank": 6,
+    "rankVar": 1
   },
   {
     "id": 1225,
@@ -63,37 +91,9 @@
     "subscribe": "211萬",
     "score": "0.48",
     "videoTitle": "【東方PV】インターネットサバイバー（白上フブキ feat.ラプラス・ダークネス）",
-    "videoViewCount": "77.45萬",
+    "videoViewCount": "78.38萬",
     "videoThumbnail": "https://i.ytimg.com/vi/g_6-sM3t760/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxfrzxnvHe6PhsGc0HssDFzJlINg",
     "videoUrl": "http://youtu.be/g_6-sM3t760",
-    "rank": 5,
-    "rankVar": null
-  },
-  {
-    "id": 1306,
-    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-    "name": "博衣こより",
-    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "88.1萬",
-    "score": "0.46",
-    "videoTitle": "【全力Chu!で】可愛くてごめん／Honeyworks covered by 博衣こより(hololive)【歌ってみた】",
-    "videoViewCount": "58.18萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/5aBlPZ6BCVI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLXqI3qfwx0KBDtQVsyq-CKFixlA",
-    "videoUrl": "http://youtu.be/5aBlPZ6BCVI",
-    "rank": 6,
-    "rankVar": 1
-  },
-  {
-    "id": 1223,
-    "channelUrl": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-    "name": "兔田佩克拉",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9QrCPT5A0zE49EHvoS_gs2XBxzXSLs_OkIoTawkw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "222萬",
-    "score": "0.45",
-    "videoTitle": "超美麗!! 兎田ぺこら新3Dお披露目!?（3D SHOWCASE）",
-    "videoViewCount": "219.42萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/FkuDnUYLq6c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhUIFUoZTAP&rs=AOn4CLBxL3FY0KKPl1LmQuASuLspHq8GWw",
-    "videoUrl": "http://youtu.be/FkuDnUYLq6c",
     "rank": 7,
     "rankVar": null
   },
@@ -109,35 +109,35 @@
     "videoThumbnail": "https://i.ytimg.com/vi/OAla1z2ovUA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB50z2D9rhEnGKDrM4L8HcMSlgRvg",
     "videoUrl": "http://youtu.be/OAla1z2ovUA",
     "rank": 8,
-    "rankVar": 4
+    "rankVar": 2
   },
   {
-    "id": 1323,
-    "channelUrl": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-    "name": "Airani Iofifteen",
-    "thumbnail": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "69.8萬",
-    "score": "0.29",
-    "videoTitle": "【 ioSalon 】NEW HAIRCUT! さあ！サロンの時間だ！【 iofi / イオフィ 】",
-    "videoViewCount": "4.81萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/pC56_VBLpGo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjfVUAPBoVsshGcdHHr4eaLhJCXA",
-    "videoUrl": "http://youtu.be/pC56_VBLpGo",
+    "id": 1306,
+    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+    "name": "博衣こより",
+    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "88.1萬",
+    "score": "0.34",
+    "videoTitle": "【全力Chu!で】可愛くてごめん／Honeyworks covered by 博衣こより(hololive)【歌ってみた】",
+    "videoViewCount": "58.35萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/5aBlPZ6BCVI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLXqI3qfwx0KBDtQVsyq-CKFixlA",
+    "videoUrl": "http://youtu.be/5aBlPZ6BCVI",
     "rank": 9,
-    "rankVar": 4
+    "rankVar": -3
   },
   {
     "id": 1328,
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "71萬",
+    "subscribe": "71.1萬",
     "score": "0.28",
-    "videoTitle": "≪NEW OUTFIT REVEAL≫ FRESH DRIP ACQUIRED + BIG ANNOUNCEMENT!!! #DRIPTARO",
-    "videoViewCount": "17.85萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/if1xwcpL6dQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDh5RX5CuHYWuSqXzkSTZRPWC7C2Q",
-    "videoUrl": "http://youtu.be/if1xwcpL6dQ",
+    "videoTitle": "【MV】POP/STARS - K/DA || Hakos Baelz ・Ninomae Ina'nis ・Moona Hoshinova ・Ayunda Risu COVER",
+    "videoViewCount": "19.03萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/EDUADGntHOE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4FZznEYyELg2P4URFKi9buwv8zA",
+    "videoUrl": "http://youtu.be/EDUADGntHOE",
     "rank": 10,
-    "rankVar": 4
+    "rankVar": 2
   },
   {
     "id": 1295,
@@ -147,11 +147,11 @@
     "subscribe": "81.6萬",
     "score": "0.25",
     "videoTitle": "【Ayunda Risu】1:15 AM【Original Song】",
-    "videoViewCount": "24.64萬",
+    "videoViewCount": "24.89萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lvDNdCBcKJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPGjUEQIH3fzmsA034-0e1kntNkw",
     "videoUrl": "http://youtu.be/lvDNdCBcKJE",
     "rank": 11,
-    "rankVar": 5
+    "rankVar": 4
   },
   {
     "id": 1277,
@@ -161,11 +161,25 @@
     "subscribe": "92.3萬",
     "score": "0.22",
     "videoTitle": "【MV】Erande Kurete Arigato - Honeyworks【IRyS x Baelz Cover】",
-    "videoViewCount": "25.15萬",
+    "videoViewCount": "25.25萬",
     "videoThumbnail": "https://i.ytimg.com/vi/3pzh6AaXi9s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB14O5teXH12npu1b8R96x1v7bVYw",
     "videoUrl": "http://youtu.be/3pzh6AaXi9s",
     "rank": 12,
-    "rankVar": 7
+    "rankVar": null
+  },
+  {
+    "id": 1323,
+    "channelUrl": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+    "name": "Airani Iofifteen",
+    "thumbnail": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "69.8萬",
+    "score": "0.14",
+    "videoTitle": "【 ioSalon 】NEW HAIRCUT! さあ！サロンの時間だ！【 iofi / イオフィ 】",
+    "videoViewCount": "4.81萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/pC56_VBLpGo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjfVUAPBoVsshGcdHHr4eaLhJCXA",
+    "videoUrl": "http://youtu.be/pC56_VBLpGo",
+    "rank": 13,
+    "rankVar": -2
   },
   {
     "id": 1305,
@@ -175,11 +189,11 @@
     "subscribe": "75.2萬",
     "score": "0.13",
     "videoTitle": "【Cover】 KICK BACK / Pavolia Reine - チェンソーマン Chainsaw Man OP",
-    "videoViewCount": "12.56萬",
+    "videoViewCount": "12.85萬",
     "videoThumbnail": "https://i.ytimg.com/vi/7wG3rtD1GP4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2o0tPjutq_1_ta-hNj-sibFFN0A",
     "videoUrl": "http://youtu.be/7wG3rtD1GP4",
-    "rank": 13,
-    "rankVar": 2
+    "rank": 14,
+    "rankVar": 0
   },
   {
     "id": 1287,
@@ -189,11 +203,11 @@
     "subscribe": "82.2萬",
     "score": "0.12",
     "videoTitle": "【ウマ娘】「ユメヲカケル」5人で歌ってみた【covered by ホロライブ】",
-    "videoViewCount": "19.14萬",
+    "videoViewCount": "19.46萬",
     "videoThumbnail": "https://i.ytimg.com/vi/gyJQ9u_UKbo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4pE-wfVccbKI_N4pg_ZosAA60pA",
     "videoUrl": "http://youtu.be/gyJQ9u_UKbo",
-    "rank": 14,
-    "rankVar": 3
+    "rank": 15,
+    "rankVar": 1
   },
   {
     "id": 1276,
@@ -203,10 +217,10 @@
     "subscribe": "91.6萬",
     "score": "0.11",
     "videoTitle": "【あざとく】可愛くてごめん/ロボ子さん【歌ってみた】",
-    "videoViewCount": "21.39萬",
+    "videoViewCount": "21.44萬",
     "videoThumbnail": "https://i.ytimg.com/vi/BvqttxHszE4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkjpCi6SPuy_JZtWDuDbU8dJF7Lw",
     "videoUrl": "http://youtu.be/BvqttxHszE4",
-    "rank": 15,
-    "rankVar": 3
+    "rank": 16,
+    "rankVar": null
   }
 ]
