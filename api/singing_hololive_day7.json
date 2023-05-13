@@ -1,30 +1,16 @@
 [
   {
-    "id": 1246,
-    "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-    "name": "角卷綿芽",
-    "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "138萬",
-    "score": "150,257",
-    "videoTitle": "【歌枠】第１０４回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "15.03萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/Cb9GoQ5gNAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4TVWOs6Gjb5mysfSNpQmpNtcZ8g",
-    "videoUrl": "http://youtu.be/Cb9GoQ5gNAU",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1277,
     "channelUrl": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
     "name": "IRyS",
     "thumbnail": "https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "92.6萬",
-    "score": "98,126",
+    "score": "100,013",
     "videoTitle": "【Karaoke Stream / 歌枠】Singing using the Hololive Karaoke App!",
-    "videoViewCount": "9.81萬",
+    "videoViewCount": "10萬",
     "videoThumbnail": "https://i.ytimg.com/vi/c2VP3Nt4MeM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC_tG21nT28ySRzbc6sOOPPN8z0w",
     "videoUrl": "http://youtu.be/c2VP3Nt4MeM",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -33,13 +19,13 @@
     "name": "時乃空",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "109萬",
-    "score": "39,756",
+    "score": "40,587",
     "videoTitle": "【Song/歌枠】歌ったりコラボ放送の告知したりする。【#ときのそら生放送 】",
-    "videoViewCount": "3.98萬",
+    "videoViewCount": "4.06萬",
     "videoThumbnail": "https://i.ytimg.com/vi/BuKtba21qtU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8_gYiHyNaKkveJ9g802xq5mRcQQ",
     "videoUrl": "http://youtu.be/BuKtba21qtU",
-    "rank": 3,
-    "rankVar": -2
+    "rank": 2,
+    "rankVar": 0
   },
   {
     "id": 1697,
@@ -47,13 +33,13 @@
     "name": "岸堂天真",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_pFYgyWIY4kSNfnhU6pA7efeejU8G3izfUr49I=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "13.4萬",
-    "score": "7,778",
+    "score": "8,045",
     "videoTitle": "【歌枠】定番の歌を歌うぜ～～【岸堂天真/ホロスターズ】",
-    "videoViewCount": "7778",
+    "videoViewCount": "8045",
     "videoThumbnail": "https://i.ytimg.com/vi/RpM-e75WAOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAg5Oourl67KQO4cIYRM52GUm3tXw",
     "videoUrl": "http://youtu.be/RpM-e75WAOQ",
-    "rank": 4,
-    "rankVar": -1
+    "rank": 3,
+    "rankVar": 1
   },
   {
     "id": 1527,
@@ -61,12 +47,12 @@
     "name": "律可",
     "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "23萬",
-    "score": "3,931",
+    "score": "3,996",
     "videoTitle": "【弾き語り歌枠】涼しくなった部屋で歌える喜び【律可/ホロスターズ】#りつすた",
-    "videoViewCount": "3931",
+    "videoViewCount": "3996",
     "videoThumbnail": "https://i.ytimg.com/vi/kuaxuKUSfsc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrANh8CLD5nsI9-Qylj85iBQoGpA",
     "videoUrl": "http://youtu.be/kuaxuKUSfsc",
-    "rank": 5,
-    "rankVar": -1
+    "rank": 4,
+    "rankVar": null
   }
 ]
