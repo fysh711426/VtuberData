@@ -1,31 +1,17 @@
 [
   {
-    "id": 1277,
-    "channelUrl": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-    "name": "IRyS",
-    "thumbnail": "https://yt3.googleusercontent.com/oC30wBZ04ibFN7AQVHAjdUX-3nS-h4DDjJBYVlsKt0OF6t1CZwrgzWlr3rS6Q12kXrw3-mt9gg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "92.6萬",
-    "score": "100,013",
-    "videoTitle": "【Karaoke Stream / 歌枠】Singing using the Hololive Karaoke App!",
-    "videoViewCount": "10萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/c2VP3Nt4MeM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBC_tG21nT28ySRzbc6sOOPPN8z0w",
-    "videoUrl": "http://youtu.be/c2VP3Nt4MeM",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1261,
     "channelUrl": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
     "name": "時乃空",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "109萬",
-    "score": "40,587",
+    "score": "41,307",
     "videoTitle": "【Song/歌枠】歌ったりコラボ放送の告知したりする。【#ときのそら生放送 】",
-    "videoViewCount": "4.06萬",
+    "videoViewCount": "4.13萬",
     "videoThumbnail": "https://i.ytimg.com/vi/BuKtba21qtU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8_gYiHyNaKkveJ9g802xq5mRcQQ",
     "videoUrl": "http://youtu.be/BuKtba21qtU",
-    "rank": 2,
-    "rankVar": 0
+    "rank": 1,
+    "rankVar": 1
   },
   {
     "id": 1697,
@@ -33,26 +19,12 @@
     "name": "岸堂天真",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_pFYgyWIY4kSNfnhU6pA7efeejU8G3izfUr49I=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "13.4萬",
-    "score": "8,045",
+    "score": "8,323",
     "videoTitle": "【歌枠】定番の歌を歌うぜ～～【岸堂天真/ホロスターズ】",
-    "videoViewCount": "8045",
+    "videoViewCount": "8323",
     "videoThumbnail": "https://i.ytimg.com/vi/RpM-e75WAOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAg5Oourl67KQO4cIYRM52GUm3tXw",
     "videoUrl": "http://youtu.be/RpM-e75WAOQ",
-    "rank": 3,
-    "rankVar": 1
-  },
-  {
-    "id": 1527,
-    "channelUrl": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-    "name": "律可",
-    "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "23萬",
-    "score": "3,996",
-    "videoTitle": "【弾き語り歌枠】涼しくなった部屋で歌える喜び【律可/ホロスターズ】#りつすた",
-    "videoViewCount": "3996",
-    "videoThumbnail": "https://i.ytimg.com/vi/kuaxuKUSfsc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrANh8CLD5nsI9-Qylj85iBQoGpA",
-    "videoUrl": "http://youtu.be/kuaxuKUSfsc",
-    "rank": 4,
+    "rank": 2,
     "rankVar": null
   }
 ]
