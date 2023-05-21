@@ -7,7 +7,7 @@
     "subscribe": "107萬",
     "score": "0.94",
     "videoTitle": "【#沙花叉クロヱ生誕LIVE】シャチ爆誕！初ゲストあり！【沙花叉クロヱ/ホロライブ】",
-    "videoViewCount": "58.58萬",
+    "videoViewCount": "59.98萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_rgeHcQu0Tc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkE55RkxJfIu3tPH2i8vzORb6wyw",
     "videoUrl": "http://youtu.be/_rgeHcQu0Tc",
     "rank": 1,
@@ -21,7 +21,7 @@
     "subscribe": "111萬",
     "score": "0.91",
     "videoTitle": "KICKBACK - 尾丸ポルカ(cover)",
-    "videoViewCount": "38.21萬",
+    "videoViewCount": "38.78萬",
     "videoThumbnail": "https://i.ytimg.com/vi/oS0ViXWoWHw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAelIXOwtKXifZMRP2I5oLcW-U4lA",
     "videoUrl": "http://youtu.be/oS0ViXWoWHw",
     "rank": 2,
@@ -35,7 +35,7 @@
     "subscribe": "11.5萬",
     "score": "0.88",
     "videoTitle": "Overdose - なとり / Covered by 夜十神封魔",
-    "videoViewCount": "14.96萬",
+    "videoViewCount": "14.99萬",
     "videoThumbnail": "https://i.ytimg.com/vi/VCp5BRgH50s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDASjxywh_lUYRk8WHY34WuxdUA1w",
     "videoUrl": "http://youtu.be/VCp5BRgH50s",
     "rank": 3,
@@ -49,24 +49,52 @@
     "subscribe": "131萬",
     "score": "0.77",
     "videoTitle": "【Original Song】Who’s Toxic ? It’s You! - Moona Hoshinova【3DMV】",
-    "videoViewCount": "72.32萬",
+    "videoViewCount": "72.85萬",
     "videoThumbnail": "https://i.ytimg.com/vi/PFoGNZ05CJw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAmFpd9fpBWya2cpDgJ0bHCwRI8A",
     "videoUrl": "http://youtu.be/PFoGNZ05CJw",
     "rank": 4,
     "rankVar": null
   },
   {
+    "id": 1230,
+    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+    "name": "星街彗星",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "188萬",
+    "score": "0.53",
+    "videoTitle": "マーシャル・マキシマイザー / 星街すいせい(Cover)",
+    "videoViewCount": "193.77萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/j2J0_dcHLwo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzAmHkrpqyNvcUTbcCYwp-avxS2A",
+    "videoUrl": "http://youtu.be/j2J0_dcHLwo",
+    "rank": 5,
+    "rankVar": 0
+  },
+  {
     "id": 1328,
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "72萬",
+    "subscribe": "72.1萬",
     "score": "0.42",
     "videoTitle": "【ORIGINAL MV】PSYCHO || HAKOS BAELZ",
-    "videoViewCount": "69.65萬",
+    "videoViewCount": "71.83萬",
     "videoThumbnail": "https://i.ytimg.com/vi/xnX8Lk-iSCo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDamJl6VJD9nl8emKWRI1PlEeBgYQ",
     "videoUrl": "http://youtu.be/xnX8Lk-iSCo",
-    "rank": 5,
+    "rank": 6,
+    "rankVar": 3
+  },
+  {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "75.2萬",
+    "score": "0.27",
+    "videoTitle": "デビルじゃないもん - DECO*27 x ピノキオピー / Covered by 風真いろは×AZKi",
+    "videoViewCount": "54.64萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/ox3mOwzEBWo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiJVL5Z7w7YEAR1Yx0X--_CuiWLA",
+    "videoUrl": "http://youtu.be/ox3mOwzEBWo",
+    "rank": 7,
     "rankVar": 5
   },
   {
@@ -75,27 +103,13 @@
     "name": "ベスティア・ゼータ",
     "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "75.3萬",
-    "score": "0.4",
+    "score": "0.27",
     "videoTitle": "Hello, I have to say something 😇",
-    "videoViewCount": "23.18萬",
+    "videoViewCount": "23.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Gwg4t91rkCM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDrPYE2L3MHKLb7ZBQFRbR0scPlJw",
     "videoUrl": "http://youtu.be/Gwg4t91rkCM",
-    "rank": 6,
-    "rankVar": 1
-  },
-  {
-    "id": 1326,
-    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-    "name": "風真いろは(かざまいろは)",
-    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "75.1萬",
-    "score": "0.27",
-    "videoTitle": "デビルじゃないもん - DECO*27 x ピノキオピー / Covered by 風真いろは×AZKi",
-    "videoViewCount": "53.43萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/ox3mOwzEBWo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiJVL5Z7w7YEAR1Yx0X--_CuiWLA",
-    "videoUrl": "http://youtu.be/ox3mOwzEBWo",
-    "rank": 7,
-    "rankVar": 6
+    "rank": 8,
+    "rankVar": -2
   },
   {
     "id": 1295,
@@ -105,11 +119,11 @@
     "subscribe": "82.1萬",
     "score": "0.24",
     "videoTitle": "【Ayunda Risu】1:15 AM【Original Song】",
-    "videoViewCount": "28.68萬",
+    "videoViewCount": "28.84萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lvDNdCBcKJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPGjUEQIH3fzmsA034-0e1kntNkw",
     "videoUrl": "http://youtu.be/lvDNdCBcKJE",
-    "rank": 8,
-    "rankVar": 6
+    "rank": 9,
+    "rankVar": 5
   },
   {
     "id": 1306,
@@ -119,11 +133,11 @@
     "subscribe": "90.3萬",
     "score": "0.22",
     "videoTitle": "【 #こんこよ24 】GWだよ！24時間配信2枠目！～ミリしら・学力テスト・ぶっちゃけholoX・深夜ゆる凸待ち・デュエットカラオケ・ENと遊ぼう！～【博衣こより/ホロライブ】",
-    "videoViewCount": "106.83萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/7M5mVyKMlp0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4QopoXQKGvCdg2f34zFtzXB3QRw",
+    "videoViewCount": "106.97萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/7M5mVyKMlp0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAo5VO_SWIaH7xpGWK2ZiW5DUoWAw",
     "videoUrl": "http://youtu.be/7M5mVyKMlp0",
-    "rank": 9,
-    "rankVar": -6
+    "rank": 10,
+    "rankVar": -7
   },
   {
     "id": 1323,
@@ -133,11 +147,11 @@
     "subscribe": "70.2萬",
     "score": "0.14",
     "videoTitle": "【 Minecraft 】Scouting Place For My UFO【 iofi / hololive 】",
-    "videoViewCount": "5.26萬",
+    "videoViewCount": "5.27萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Nh0KnWdqdm4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3ATosMfL2CkNzH6yiU0X6ZGCz5w",
     "videoUrl": "http://youtu.be/Nh0KnWdqdm4",
-    "rank": 10,
-    "rankVar": 6
+    "rank": 11,
+    "rankVar": 2
   },
   {
     "id": 1305,
@@ -147,11 +161,11 @@
     "subscribe": "75.5萬",
     "score": "0.13",
     "videoTitle": "【Cover】 KICK BACK / Pavolia Reine - チェンソーマン Chainsaw Man OP",
-    "videoViewCount": "17.7萬",
+    "videoViewCount": "17.87萬",
     "videoThumbnail": "https://i.ytimg.com/vi/7wG3rtD1GP4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2o0tPjutq_1_ta-hNj-sibFFN0A",
     "videoUrl": "http://youtu.be/7wG3rtD1GP4",
-    "rank": 11,
-    "rankVar": 6
+    "rank": 12,
+    "rankVar": null
   },
   {
     "id": 1287,
@@ -161,10 +175,10 @@
     "subscribe": "82.7萬",
     "score": "0.12",
     "videoTitle": "【#夜空メル5周年】ゲストあり！3D LIVE🌟You make me happy ♡【ホロライブ/夜空メル】",
-    "videoViewCount": "33.36萬",
+    "videoViewCount": "33.64萬",
     "videoThumbnail": "https://i.ytimg.com/vi/n8sbwz0sir0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvdzXMF6QAd6alUisdTlvCrY8QPQ",
     "videoUrl": "http://youtu.be/n8sbwz0sir0",
-    "rank": 12,
-    "rankVar": 0
+    "rank": 13,
+    "rankVar": -2
   }
 ]
