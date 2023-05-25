@@ -1,30 +1,16 @@
 [
   {
-    "id": 5313,
-    "channelUrl": "https://www.youtube.com/channel/UCO5ibmgTX_bmr5lL1EdJnrQ",
-    "name": "久田 Hakuzen",
-    "thumbnail": "https://yt3.googleusercontent.com/_ek9aCLR06gi_LWTqWjfoS7XEvpdh48czURcoTpp_7eOeBlrrid84a5aTFgh9bZn7bSfgRhxQQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4280",
-    "score": "4,280",
-    "videoTitle": "Dried Flowers / Yuuri Covered by Hisada Hakuzen",
-    "videoViewCount": "2.08萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/j6LSa7rzcvI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBt57MhRjuvPadaPDbrI5UptevYoA",
-    "videoUrl": "http://youtu.be/j6LSa7rzcvI",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 4391,
     "channelUrl": "https://www.youtube.com/channel/UCgNC_LzvmZdZqTn77JntMMg",
     "name": "亞璐",
     "thumbnail": "https://yt3.googleusercontent.com/wcdicCUXGHTVJhb5BoxTSL5P8ajNE7552XxvKMDuVN0klme1jvFzSKs8mMPFgAMrTDam0uFN4Nw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1390",
-    "score": "1,390",
+    "subscribe": "1440",
+    "score": "1,440",
     "videoTitle": "【歌雜】 過了520就沒有愛了嗎? 【#亞璐出任務】",
-    "videoViewCount": "2318",
+    "videoViewCount": "2391",
     "videoThumbnail": "https://i.ytimg.com/vi/ROf_bgXNWLY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8oj_zzlsmmP_ROaKE3Y7nXq8kuQ",
     "videoUrl": "http://youtu.be/ROf_bgXNWLY",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -35,10 +21,10 @@
     "subscribe": "398",
     "score": "398",
     "videoTitle": "【初配信】外星狸貓在藍星與你相遇的一夜",
-    "videoViewCount": "506",
+    "videoViewCount": "505",
     "videoThumbnail": "https://i.ytimg.com/vi/fTzoUQzBwao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByy3-2jUikZwSAz37BOw2oW6Vmbw",
     "videoUrl": "http://youtu.be/fTzoUQzBwao",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -52,7 +38,7 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 4,
+    "rank": 3,
     "rankVar": null
   },
   {
@@ -60,13 +46,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCX5wnulyNYiSHqKQCrZWw6A",
     "name": "上条カオリ",
     "thumbnail": "https://yt3.googleusercontent.com/NBE-vjNe57PVf2tgo0WdFg3ETzEwcNl9LW3J8AvYlyo2B5ifcAIhAZXKyK5D3ucbBgEyJOR3qQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "36",
-    "score": "36",
+    "subscribe": "37",
+    "score": "37",
     "videoTitle": "【上条カオリ】你是工作狂嗎 ? 喘口氣吧",
-    "videoViewCount": "88",
+    "videoViewCount": "91",
     "videoThumbnail": "https://i.ytimg.com/vi/czvfkj9t4TA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIFwoWTAP&rs=AOn4CLCXycftLu3uLvnMR_JgFywfm7hmIQ",
     "videoUrl": "http://youtu.be/czvfkj9t4TA",
-    "rank": 5,
+    "rank": 4,
     "rankVar": null
   },
   {
@@ -80,7 +66,7 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 6,
+    "rank": 5,
     "rankVar": null
   }
 ]
