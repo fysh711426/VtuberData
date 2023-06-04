@@ -1,45 +1,17 @@
 [
   {
-    "id": 1269,
-    "channelUrl": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
-    "name": "月之美兔",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_5F67Gd0pbRC0H_Gusm_5STDsrLm9V-UqFwDyB4Q=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "110萬",
-    "score": "378,082",
-    "videoTitle": "真夜中のウィスパーボイス縛り歌枠（ウクレレもいるよ！）【にじさんじ/月ノ美兎】",
-    "videoViewCount": "37.81萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/Jn6dfwNajJE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcaiCXbpcVPXK-lhsRF2SihZE7Dg",
-    "videoUrl": "http://youtu.be/Jn6dfwNajJE",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1459,
     "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
     "name": "エルフのえる",
     "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "45.5萬",
-    "score": "27,801",
+    "subscribe": "45.6萬",
+    "score": "32,830",
     "videoTitle": "【歌枠】1年ぶりらしい歌枠。【にじさんじ/える】",
-    "videoViewCount": "2.78萬",
+    "videoViewCount": "3.28萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UEjpoP8nZZg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkYs5yPOpqGvc0yupJDgwrXDow_w",
     "videoUrl": "http://youtu.be/UEjpoP8nZZg",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
-  },
-  {
-    "id": 3444,
-    "channelUrl": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA",
-    "name": "セラフ・ダズルガーデン / Seraph Dazzlegarden",
-    "thumbnail": "https://yt3.ggpht.com/id0I-5r0K_4FsZsZPSHHDKviKvKfbb1yas8MDD_fLfyImFtDQXncul8G0aeEDifGq27xoMmtmw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "21.6萬",
-    "score": "15,364",
-    "videoTitle": "【すぱちゃ読み】歌枠とかバロ大会のときのスパチャをまたりぱくり【セラフ・ダズルガーデン/にじさんじ】",
-    "videoViewCount": "1.54萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/-bwNWnu83g0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1YBEDYTU4PAwbmPjSUZ9CQE93gQ",
-    "videoUrl": "http://youtu.be/-bwNWnu83g0",
-    "rank": 3,
-    "rankVar": -1
   },
   {
     "id": 1718,
@@ -47,12 +19,12 @@
     "name": "東堂琥珀",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-LphbVqRjBoNyYM-w-r1UF6DhfsQyhEj83vt5B=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "12.9萬",
-    "score": "11,599",
+    "score": "11,738",
     "videoTitle": "【歌枠】ご無沙汰ぶりのアニソン歌枠ですっ！【supported by DAM】【にじさんじ/東堂コハク】",
-    "videoViewCount": "1.16萬",
+    "videoViewCount": "1.17萬",
     "videoThumbnail": "https://i.ytimg.com/vi/x5ceqlYK3kE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHBIocd_I3BNMaMrZUH3wFEVldsA",
     "videoUrl": "http://youtu.be/x5ceqlYK3kE",
-    "rank": 4,
-    "rankVar": 3
+    "rank": 2,
+    "rankVar": 4
   }
 ]
