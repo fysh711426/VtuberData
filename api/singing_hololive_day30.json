@@ -1,31 +1,17 @@
 [
   {
-    "id": 1223,
-    "channelUrl": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-    "name": "兔田佩克拉",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9QrCPT5A0zE49EHvoS_gs2XBxzXSLs_OkIoTawkw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "224萬",
-    "score": "830,854",
-    "videoTitle": "【歌枠】みんなおひさし！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-    "videoViewCount": "83.09萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/xcPx-vFDtjE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcqZynmxqg3z79goXBbr2-lpqSig",
-    "videoUrl": "http://youtu.be/xcPx-vFDtjE",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1229,
     "channelUrl": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
     "name": "湊阿庫婭",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8WkRjMSVdjv-NE54Xz2FTzgmYYldyV2yJJrq0cVA=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "180萬",
-    "score": "301,951",
+    "score": "307,736",
     "videoTitle": "【歌枠】銀河一アイドル！うたっちゃうよおおおお！！！【湊あくあ/ホロライブ】",
-    "videoViewCount": "30.2萬",
+    "videoViewCount": "30.77萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Mo24438NriE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_Vh0pWjPppYY25VpM82QmrTuoug",
     "videoUrl": "http://youtu.be/Mo24438NriE",
-    "rank": 2,
-    "rankVar": -1
+    "rank": 1,
+    "rankVar": 0
   },
   {
     "id": 1273,
@@ -33,12 +19,12 @@
     "name": "沙花叉クロヱ(さかまたくろえ)",
     "thumbnail": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "108萬",
-    "score": "182,793",
+    "score": "183,228",
     "videoTitle": "【カウントダウン歌枠】お誕生日の瞬間を歌枠しながら迎えたい！【沙花叉クロヱ/ホロライブ】",
-    "videoViewCount": "18.28萬",
+    "videoViewCount": "18.32萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ONNS4T4YeF4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSu-NcXP6C4Sm5zQOYw8ey7S017A",
     "videoUrl": "http://youtu.be/ONNS4T4YeF4",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -47,13 +33,27 @@
     "name": "角卷綿芽",
     "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "140萬",
-    "score": "149,801",
+    "score": "151,260",
     "videoTitle": "【歌枠】歌って告知！してもいいですか？！？！【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "14.98萬",
+    "videoViewCount": "15.13萬",
     "videoThumbnail": "https://i.ytimg.com/vi/c1Uv22sEeDU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl2PKPKnsYxjj9QLl4J3Cz7vE2ag",
     "videoUrl": "http://youtu.be/c1Uv22sEeDU",
+    "rank": 3,
+    "rankVar": -1
+  },
+  {
+    "id": 1237,
+    "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+    "name": "貓又小粥",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-4v9u0XW29ThJHrutfQzTDSun8xJbi_d3HT12New=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "161萬",
+    "score": "103,626",
+    "videoTitle": "【げりら歌枠】深夜に歌いたくなるとき、あるよね🎶【猫又おかゆ/ホロライブ】",
+    "videoViewCount": "10.36萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/byoEKpVP0wo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUDFNEkzty190XwOox5K92X-iM0w",
+    "videoUrl": "http://youtu.be/byoEKpVP0wo",
     "rank": 4,
-    "rankVar": -2
+    "rankVar": null
   },
   {
     "id": 1326,
@@ -61,10 +61,10 @@
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "75.8萬",
-    "score": "100,736",
+    "score": "101,547",
     "videoTitle": "【歌枠】すこし落ち着いてきたので久々に歌枠でござる🎤【風真いろは/ホロライブ】",
-    "videoViewCount": "10.07萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/9VIKdBqZ12Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFfyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm4ua_NOs_MFbsqwupqKF4YvlkhA",
+    "videoViewCount": "10.15萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/9VIKdBqZ12Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPhjNMEumOBBr7qSPG7gDGkdLcfQ",
     "videoUrl": "http://youtu.be/9VIKdBqZ12Y",
     "rank": 5,
     "rankVar": 0
@@ -75,10 +75,10 @@
     "name": "尾丸波爾卡",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9aFFtICizDVLTskMbwkP6nDpcEviZRpVPWcXAjIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "111萬",
-    "score": "92,506",
+    "score": "92,875",
     "videoTitle": "【歌枠/KARAOKE】おひさの歌！！！！！歌うぜ！！YAYAYAYAYAY！！！！【尾丸ポルカ/ホロライブ】",
-    "videoViewCount": "9.25萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/I_2HaeRTETQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAk-S1Lb4sVByaJR9Xu8_EttEMspQ",
+    "videoViewCount": "9.29萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/I_2HaeRTETQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDncmLZzbPQT-XmANmQAlYNsF0CFQ",
     "videoUrl": "http://youtu.be/I_2HaeRTETQ",
     "rank": 6,
     "rankVar": null
@@ -89,27 +89,13 @@
     "name": "時乃空",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "110萬",
-    "score": "70,319",
+    "score": "70,668",
     "videoTitle": "【Song/歌枠】昼間に歌うのだ！！【#ときのそら生放送 】",
-    "videoViewCount": "7.03萬",
+    "videoViewCount": "7.07萬",
     "videoThumbnail": "https://i.ytimg.com/vi/2vNcjO77_No/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYauqLVyotuORQ1BSgWHhIWcfMGQ",
     "videoUrl": "http://youtu.be/2vNcjO77_No",
     "rank": 7,
     "rankVar": -1
-  },
-  {
-    "id": 1237,
-    "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-    "name": "貓又小粥",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-4v9u0XW29ThJHrutfQzTDSun8xJbi_d3HT12New=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "161萬",
-    "score": "46,112",
-    "videoTitle": "【げりら歌枠】深夜に歌いたくなるとき、あるよね🎶【猫又おかゆ/ホロライブ】",
-    "videoViewCount": "4.61萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/byoEKpVP0wo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUDFNEkzty190XwOox5K92X-iM0w",
-    "videoUrl": "http://youtu.be/byoEKpVP0wo",
-    "rank": 8,
-    "rankVar": null
   },
   {
     "id": 1697,
@@ -117,13 +103,13 @@
     "name": "岸堂天真",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_pFYgyWIY4kSNfnhU6pA7efeejU8G3izfUr49I=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "13.5萬",
-    "score": "9,482",
+    "score": "9,500",
     "videoTitle": "【歌枠】定番の歌を歌うぜ～～【岸堂天真/ホロスターズ】",
-    "videoViewCount": "9482",
-    "videoThumbnail": "https://i.ytimg.com/vi/RpM-e75WAOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFfyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwAb1tfilpXy7xGoqp7iJf1xRMgQ",
+    "videoViewCount": "9500",
+    "videoThumbnail": "https://i.ytimg.com/vi/RpM-e75WAOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAg5Oourl67KQO4cIYRM52GUm3tXw",
     "videoUrl": "http://youtu.be/RpM-e75WAOQ",
-    "rank": 9,
-    "rankVar": -1
+    "rank": 8,
+    "rankVar": 0
   },
   {
     "id": 1542,
@@ -131,12 +117,12 @@
     "name": "影山紫炎",
     "thumbnail": "https://yt3.ggpht.com/N20GfJbuG8BBl9CexUek023y2DXQAYqgYoRRqsVGAYoS-gZsGuH7W1Il0y-8TnIul19rBPG78Jo=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "21.9萬",
-    "score": "5,706",
+    "score": "5,709",
     "videoTitle": "【歌枠】月曜日お疲れ様の歌枠がやりたかったけど急遽雑談になりました【影山シエン/ホロスターズ 】",
-    "videoViewCount": "5706",
+    "videoViewCount": "5709",
     "videoThumbnail": "https://i.ytimg.com/vi/vQBTuWQzZvY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2DYHN10URXx5M8KOkEPwc8F77wA",
     "videoUrl": "http://youtu.be/vQBTuWQzZvY",
-    "rank": 10,
+    "rank": 9,
     "rankVar": null
   },
   {
@@ -145,12 +131,12 @@
     "name": "律可",
     "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "23.1萬",
-    "score": "5,660",
+    "score": "5,679",
     "videoTitle": "【カラオケ歌枠】昼間からカラオケで歌うような枠【律可/ホロスターズ】#りつすた",
-    "videoViewCount": "5660",
-    "videoThumbnail": "https://i.ytimg.com/vi/B-sOtKkQcMo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCg5r2-DKA4BiRPd_YGeZvtZTVIJQ",
+    "videoViewCount": "5679",
+    "videoThumbnail": "https://i.ytimg.com/vi/B-sOtKkQcMo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD39eFc8pWT50YfTR2ze7qZgyaOSQ",
     "videoUrl": "http://youtu.be/B-sOtKkQcMo",
-    "rank": 11,
-    "rankVar": -2
+    "rank": 10,
+    "rankVar": -1
   }
 ]

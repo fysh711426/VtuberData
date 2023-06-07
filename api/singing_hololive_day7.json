@@ -1,31 +1,17 @@
 [
   {
-    "id": 1223,
-    "channelUrl": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-    "name": "兔田佩克拉",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9QrCPT5A0zE49EHvoS_gs2XBxzXSLs_OkIoTawkw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "224萬",
-    "score": "830,854",
-    "videoTitle": "【歌枠】みんなおひさし！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-    "videoViewCount": "83.09萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/xcPx-vFDtjE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcqZynmxqg3z79goXBbr2-lpqSig",
-    "videoUrl": "http://youtu.be/xcPx-vFDtjE",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1229,
     "channelUrl": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
     "name": "湊阿庫婭",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8WkRjMSVdjv-NE54Xz2FTzgmYYldyV2yJJrq0cVA=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "180萬",
-    "score": "301,951",
+    "score": "307,736",
     "videoTitle": "【歌枠】銀河一アイドル！うたっちゃうよおおおお！！！【湊あくあ/ホロライブ】",
-    "videoViewCount": "30.2萬",
+    "videoViewCount": "30.77萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Mo24438NriE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_Vh0pWjPppYY25VpM82QmrTuoug",
     "videoUrl": "http://youtu.be/Mo24438NriE",
-    "rank": 2,
-    "rankVar": null
+    "rank": 1,
+    "rankVar": 0
   },
   {
     "id": 1246,
@@ -33,11 +19,25 @@
     "name": "角卷綿芽",
     "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "140萬",
-    "score": "149,801",
+    "score": "151,260",
     "videoTitle": "【歌枠】歌って告知！してもいいですか？！？！【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "14.98萬",
+    "videoViewCount": "15.13萬",
     "videoThumbnail": "https://i.ytimg.com/vi/c1Uv22sEeDU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl2PKPKnsYxjj9QLl4J3Cz7vE2ag",
     "videoUrl": "http://youtu.be/c1Uv22sEeDU",
+    "rank": 2,
+    "rankVar": null
+  },
+  {
+    "id": 1237,
+    "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+    "name": "貓又小粥",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-4v9u0XW29ThJHrutfQzTDSun8xJbi_d3HT12New=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "161萬",
+    "score": "103,626",
+    "videoTitle": "【げりら歌枠】深夜に歌いたくなるとき、あるよね🎶【猫又おかゆ/ホロライブ】",
+    "videoViewCount": "10.36萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/byoEKpVP0wo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUDFNEkzty190XwOox5K92X-iM0w",
+    "videoUrl": "http://youtu.be/byoEKpVP0wo",
     "rank": 3,
     "rankVar": null
   },
@@ -47,26 +47,12 @@
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "75.8萬",
-    "score": "100,736",
+    "score": "101,547",
     "videoTitle": "【歌枠】すこし落ち着いてきたので久々に歌枠でござる🎤【風真いろは/ホロライブ】",
-    "videoViewCount": "10.07萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/9VIKdBqZ12Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFfyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm4ua_NOs_MFbsqwupqKF4YvlkhA",
+    "videoViewCount": "10.15萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/9VIKdBqZ12Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPhjNMEumOBBr7qSPG7gDGkdLcfQ",
     "videoUrl": "http://youtu.be/9VIKdBqZ12Y",
     "rank": 4,
-    "rankVar": null
-  },
-  {
-    "id": 1237,
-    "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-    "name": "貓又小粥",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-4v9u0XW29ThJHrutfQzTDSun8xJbi_d3HT12New=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "161萬",
-    "score": "46,112",
-    "videoTitle": "【げりら歌枠】深夜に歌いたくなるとき、あるよね🎶【猫又おかゆ/ホロライブ】",
-    "videoViewCount": "4.61萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/byoEKpVP0wo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUDFNEkzty190XwOox5K92X-iM0w",
-    "videoUrl": "http://youtu.be/byoEKpVP0wo",
-    "rank": 5,
     "rankVar": null
   },
   {
@@ -75,12 +61,12 @@
     "name": "律可",
     "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "23.1萬",
-    "score": "3,132",
+    "score": "3,917",
     "videoTitle": "【弾き語り歌枠】6月の歌はじめ【律可/ホロスターズ】 #りつすた",
-    "videoViewCount": "3132",
-    "videoThumbnail": "https://i.ytimg.com/vi/ifiPRGxyF4Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIlhUQXDBUGRekkPkx0Li1fszLtA",
+    "videoViewCount": "3917",
+    "videoThumbnail": "https://i.ytimg.com/vi/ifiPRGxyF4Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5yQjFdQ_MJJzvj6ovw-f9Yne_CQ",
     "videoUrl": "http://youtu.be/ifiPRGxyF4Q",
-    "rank": 6,
-    "rankVar": -3
+    "rank": 5,
+    "rankVar": -1
   }
 ]
