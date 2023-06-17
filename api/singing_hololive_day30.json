@@ -1,45 +1,17 @@
 [
   {
-    "id": 1229,
-    "channelUrl": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-    "name": "湊阿庫婭",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8WkRjMSVdjv-NE54Xz2FTzgmYYldyV2yJJrq0cVA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "181萬",
-    "score": "328,325",
-    "videoTitle": "【歌枠】銀河一アイドル！うたっちゃうよおおおお！！！【湊あくあ/ホロライブ】",
-    "videoViewCount": "32.83萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/Mo24438NriE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_Vh0pWjPppYY25VpM82QmrTuoug",
-    "videoUrl": "http://youtu.be/Mo24438NriE",
-    "rank": 1,
-    "rankVar": 0
-  },
-  {
-    "id": 1273,
-    "channelUrl": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-    "name": "沙花叉クロヱ(さかまたくろえ)",
-    "thumbnail": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "109萬",
-    "score": "186,066",
-    "videoTitle": "【カウントダウン歌枠】お誕生日の瞬間を歌枠しながら迎えたい！【沙花叉クロヱ/ホロライブ】",
-    "videoViewCount": "18.61萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/ONNS4T4YeF4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSu-NcXP6C4Sm5zQOYw8ey7S017A",
-    "videoUrl": "http://youtu.be/ONNS4T4YeF4",
-    "rank": 2,
-    "rankVar": null
-  },
-  {
     "id": 1246,
     "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
     "name": "角卷綿芽",
     "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "140萬",
-    "score": "155,543",
+    "score": "155,768",
     "videoTitle": "【歌枠】歌って告知！してもいいですか？！？！【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "15.55萬",
+    "videoViewCount": "15.58萬",
     "videoThumbnail": "https://i.ytimg.com/vi/c1Uv22sEeDU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl2PKPKnsYxjj9QLl4J3Cz7vE2ag",
     "videoUrl": "http://youtu.be/c1Uv22sEeDU",
-    "rank": 3,
-    "rankVar": -1
+    "rank": 1,
+    "rankVar": 2
   },
   {
     "id": 1237,
@@ -47,12 +19,12 @@
     "name": "貓又小粥",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-4v9u0XW29ThJHrutfQzTDSun8xJbi_d3HT12New=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "161萬",
-    "score": "122,794",
+    "score": "123,410",
     "videoTitle": "【げりら歌枠】深夜に歌いたくなるとき、あるよね🎶【猫又おかゆ/ホロライブ】",
-    "videoViewCount": "12.28萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/byoEKpVP0wo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUDFNEkzty190XwOox5K92X-iM0w",
+    "videoViewCount": "12.34萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/byoEKpVP0wo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFfyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCCasmyTG8LsU_wCPs-8XBsJDkzA",
     "videoUrl": "http://youtu.be/byoEKpVP0wo",
-    "rank": 4,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -60,14 +32,14 @@
     "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "76萬",
-    "score": "109,279",
+    "subscribe": "76.1萬",
+    "score": "109,807",
     "videoTitle": "【歌枠】すこし落ち着いてきたので久々に歌枠でござる🎤【風真いろは/ホロライブ】",
-    "videoViewCount": "10.93萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/9VIKdBqZ12Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPhjNMEumOBBr7qSPG7gDGkdLcfQ",
+    "videoViewCount": "10.98萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/9VIKdBqZ12Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGWZA0VZHgdPUIZji8a0s9B3U8Zw",
     "videoUrl": "http://youtu.be/9VIKdBqZ12Y",
-    "rank": 5,
-    "rankVar": -1
+    "rank": 3,
+    "rankVar": 2
   },
   {
     "id": 1260,
@@ -75,12 +47,12 @@
     "name": "尾丸波爾卡",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9aFFtICizDVLTskMbwkP6nDpcEviZRpVPWcXAjIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "111萬",
-    "score": "95,536",
+    "score": "95,770",
     "videoTitle": "【歌枠/KARAOKE】おひさの歌！！！！！歌うぜ！！YAYAYAYAYAY！！！！【尾丸ポルカ/ホロライブ】",
-    "videoViewCount": "9.55萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/I_2HaeRTETQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDncmLZzbPQT-XmANmQAlYNsF0CFQ",
+    "videoViewCount": "9.58萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/I_2HaeRTETQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFfyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAunX25X25goHNSWbcvbjn1VvHaTw",
     "videoUrl": "http://youtu.be/I_2HaeRTETQ",
-    "rank": 6,
+    "rank": 4,
     "rankVar": null
   },
   {
@@ -89,13 +61,13 @@
     "name": "時乃空",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "110萬",
-    "score": "72,892",
+    "score": "73,023",
     "videoTitle": "【Song/歌枠】昼間に歌うのだ！！【#ときのそら生放送 】",
-    "videoViewCount": "7.29萬",
+    "videoViewCount": "7.3萬",
     "videoThumbnail": "https://i.ytimg.com/vi/2vNcjO77_No/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYauqLVyotuORQ1BSgWHhIWcfMGQ",
     "videoUrl": "http://youtu.be/2vNcjO77_No",
-    "rank": 7,
-    "rankVar": -2
+    "rank": 5,
+    "rankVar": 1
   },
   {
     "id": 1527,
@@ -103,13 +75,13 @@
     "name": "律可",
     "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "23.1萬",
-    "score": "4,922",
+    "score": "5,155",
     "videoTitle": "【弾き語り歌枠】久しぶりの寝る前の癒し歌枠です【律可/ホロスターズ】#りつすた",
-    "videoViewCount": "4922",
+    "videoViewCount": "5155",
     "videoThumbnail": "https://i.ytimg.com/vi/YxwXgIHPDfI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcgUAojJPs_kEeOCQfauln-u3hLw",
     "videoUrl": "http://youtu.be/YxwXgIHPDfI",
-    "rank": 8,
-    "rankVar": 0
+    "rank": 6,
+    "rankVar": 3
   },
   {
     "id": 1697,
@@ -117,12 +89,12 @@
     "name": "岸堂天真",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_pFYgyWIY4kSNfnhU6pA7efeejU8G3izfUr49I=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "13.5萬",
-    "score": "3,783",
+    "score": "4,642",
     "videoTitle": "【歌枠】月に１度の歌枠をこの１時間に捧ぐ！【岸堂天真/ホロスターズ】",
-    "videoViewCount": "3783",
+    "videoViewCount": "4642",
     "videoThumbnail": "https://i.ytimg.com/vi/DOCI3bWKihM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdXvu5TTUb35QWiImx8Ib3xAPBbw",
     "videoUrl": "http://youtu.be/DOCI3bWKihM",
-    "rank": 9,
-    "rankVar": -2
+    "rank": 7,
+    "rankVar": 1
   }
 ]
