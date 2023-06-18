@@ -1,5 +1,33 @@
 [
   {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "76.5萬",
+    "score": "0.79",
+    "videoTitle": "デビルじゃないもん - DECO*27 x ピノキオピー / Covered by 風真いろは×AZKi",
+    "videoViewCount": "90.75萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/ox3mOwzEBWo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiJVL5Z7w7YEAR1Yx0X--_CuiWLA",
+    "videoUrl": "http://youtu.be/ox3mOwzEBWo",
+    "rank": 1,
+    "rankVar": 8
+  },
+  {
+    "id": 1306,
+    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+    "name": "博衣こより",
+    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "91.8萬",
+    "score": "0.55",
+    "videoTitle": "YOASOBI「アイドル」Covered by 博衣こより(hololive)【歌ってみた】",
+    "videoViewCount": "69.31萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/dZSLSAFqzAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8c08cVZR7Sf6iiVrozKi3K3w4Qw",
+    "videoUrl": "http://youtu.be/dZSLSAFqzAA",
+    "rank": 2,
+    "rankVar": 6
+  },
+  {
     "id": 1230,
     "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
     "name": "星街彗星",
@@ -7,39 +35,11 @@
     "subscribe": "190萬",
     "score": "0.53",
     "videoTitle": "マーシャル・マキシマイザー / 星街すいせい(Cover)",
-    "videoViewCount": "275.23萬",
+    "videoViewCount": "278萬",
     "videoThumbnail": "https://i.ytimg.com/vi/j2J0_dcHLwo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzAmHkrpqyNvcUTbcCYwp-avxS2A",
     "videoUrl": "http://youtu.be/j2J0_dcHLwo",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
-    "id": 1225,
-    "channelUrl": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-    "name": "白上吹雪",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9yXgE7uEDk-7i1Gphyxd34NeopLClxUujOg-0OlQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "214萬",
-    "score": "0.47",
-    "videoTitle": "強風オールバック/白上フブキ(cover)",
-    "videoViewCount": "191.07萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/hU2m_Dh5mS4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDZSvySH5CSdL2JaJmx3kCp-pO9Kg",
-    "videoUrl": "http://youtu.be/hU2m_Dh5mS4",
-    "rank": 2,
-    "rankVar": null
-  },
-  {
-    "id": 1306,
-    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-    "name": "博衣こより",
-    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "91.7萬",
-    "score": "0.44",
-    "videoTitle": "YOASOBI「アイドル」Covered by 博衣こより(hololive)【歌ってみた】",
-    "videoViewCount": "68.44萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/dZSLSAFqzAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8c08cVZR7Sf6iiVrozKi3K3w4Qw",
-    "videoUrl": "http://youtu.be/dZSLSAFqzAA",
     "rank": 3,
-    "rankVar": 5
+    "rankVar": null
   },
   {
     "id": 1365,
@@ -49,25 +49,25 @@
     "subscribe": "76.5萬",
     "score": "0.39",
     "videoTitle": "【Learning Indonesian】w/  @InugamiKorone @OokamiMio @AyundaRisu",
-    "videoViewCount": "14.1萬",
+    "videoViewCount": "14.12萬",
     "videoThumbnail": "https://i.ytimg.com/vi/o94s0aWiePw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy6LI2Zb63EGkOXAHQv8L3LuPNsg",
     "videoUrl": "http://youtu.be/o94s0aWiePw",
     "rank": 4,
-    "rankVar": 5
+    "rankVar": 6
   },
   {
-    "id": 1326,
-    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-    "name": "風真いろは(かざまいろは)",
-    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "76.1萬",
-    "score": "0.26",
-    "videoTitle": "デビルじゃないもん - DECO*27 x ピノキオピー / Covered by 風真いろは×AZKi",
-    "videoViewCount": "89.66萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/ox3mOwzEBWo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiJVL5Z7w7YEAR1Yx0X--_CuiWLA",
-    "videoUrl": "http://youtu.be/ox3mOwzEBWo",
+    "id": 1328,
+    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+    "name": "Hakos Baelz",
+    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "73.3萬",
+    "score": "0.27",
+    "videoTitle": "≪Genital Jousting≫ im an idol",
+    "videoViewCount": "46.47萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/6j3ZzI9uOnw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPASewt_ZMNL7aJHm9xpZocHfXiA",
+    "videoUrl": "http://youtu.be/6j3ZzI9uOnw",
     "rank": 5,
-    "rankVar": 5
+    "rankVar": 2
   },
   {
     "id": 1323,
@@ -77,25 +77,11 @@
     "subscribe": "70.5萬",
     "score": "0.14",
     "videoTitle": "Zoetrope・やなぎなぎ | Airani iofifteen Cover 「歌ってみた」",
-    "videoViewCount": "5.27萬",
+    "videoViewCount": "5.3萬",
     "videoThumbnail": "https://i.ytimg.com/vi/zvJo3HbrHI4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-eU1UMTl2l9QiV9jLGjSQ7z7FWQ",
     "videoUrl": "http://youtu.be/zvJo3HbrHI4",
     "rank": 6,
-    "rankVar": 5
-  },
-  {
-    "id": 1328,
-    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-    "name": "Hakos Baelz",
-    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "73.2萬",
-    "score": "0.14",
-    "videoTitle": "≪Genital Jousting≫ im an idol",
-    "videoViewCount": "46.38萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/6j3ZzI9uOnw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLArdle_Dc3_y1kN-mgoTI4g9mYhmw",
-    "videoUrl": "http://youtu.be/6j3ZzI9uOnw",
-    "rank": 7,
-    "rankVar": -2
+    "rankVar": 6
   },
   {
     "id": 1305,
@@ -105,11 +91,11 @@
     "subscribe": "75.8萬",
     "score": "0.13",
     "videoTitle": "【Cover】 KICK BACK / Pavolia Reine - チェンソーマン Chainsaw Man OP",
-    "videoViewCount": "22.58萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/7wG3rtD1GP4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFfyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCv1HBGSmCN8cempvmPO4wO8rd7NQ",
+    "videoViewCount": "22.72萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/7wG3rtD1GP4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2o0tPjutq_1_ta-hNj-sibFFN0A",
     "videoUrl": "http://youtu.be/7wG3rtD1GP4",
-    "rank": 8,
-    "rankVar": 4
+    "rank": 7,
+    "rankVar": 6
   },
   {
     "id": 1295,
@@ -119,24 +105,10 @@
     "subscribe": "82.5萬",
     "score": "0.12",
     "videoTitle": "【Ayunda Risu】1:15 AM【Original Song】",
-    "videoViewCount": "32.35萬",
+    "videoViewCount": "32.45萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lvDNdCBcKJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPGjUEQIH3fzmsA034-0e1kntNkw",
     "videoUrl": "http://youtu.be/lvDNdCBcKJE",
-    "rank": 9,
-    "rankVar": 4
-  },
-  {
-    "id": 1287,
-    "channelUrl": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
-    "name": "夜空梅露",
-    "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "83.1萬",
-    "score": "0.12",
-    "videoTitle": "【ウマ娘】「ユメヲカケル」5人で歌ってみた【covered by ホロライブ】",
-    "videoViewCount": "28.01萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/gyJQ9u_UKbo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4pE-wfVccbKI_N4pg_ZosAA60pA",
-    "videoUrl": "http://youtu.be/gyJQ9u_UKbo",
-    "rank": 10,
-    "rankVar": 4
+    "rank": 8,
+    "rankVar": 6
   }
 ]
