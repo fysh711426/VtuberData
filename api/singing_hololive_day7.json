@@ -1,31 +1,17 @@
 [
   {
-    "id": 1256,
-    "channelUrl": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-    "name": "紫咲詩音",
-    "thumbnail": "https://yt3.ggpht.com/AyUL9W0ltc_aJr_MysuZBx8hRfb1SIVNREgU9kiOO-lqmdhYkEsllmhagertVIwHwa3UAAKy=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "113萬",
-    "score": "190,379",
-    "videoTitle": "【歌枠】重大告知あり！！久しぶりすぎるお歌・・・【ホロライブ/紫咲シオン】",
-    "videoViewCount": "19.04萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/opK5u7zKFZA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYeS8PWKsHqRZ6PX6cQ-WXlmqV4A",
-    "videoUrl": "http://youtu.be/opK5u7zKFZA",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1246,
     "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
     "name": "角卷綿芽",
     "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "140萬",
-    "score": "129,896",
-    "videoTitle": "【歌枠】第１０５回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "12.99萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/4jvyLLCRI1A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAqMKxLG-6C2eezFCn2W5AmhvACdg",
-    "videoUrl": "http://youtu.be/4jvyLLCRI1A",
-    "rank": 2,
-    "rankVar": null
+    "score": "109,265",
+    "videoTitle": "【歌枠】第１０６回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】",
+    "videoViewCount": "10.93萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/uHwFdnHA1ag/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLFYzJWcrCLhmQ_kWvD8u010M6jg",
+    "videoUrl": "http://youtu.be/uHwFdnHA1ag",
+    "rank": 1,
+    "rankVar": 2
   },
   {
     "id": 1260,
@@ -33,12 +19,12 @@
     "name": "尾丸波爾卡",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9aFFtICizDVLTskMbwkP6nDpcEviZRpVPWcXAjIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "111萬",
-    "score": "68,543",
+    "score": "69,117",
     "videoTitle": "【OHAPOL雑談歌枠/KARAOKE】しゃべったり歌ったりしたいや～つ【尾丸ポルカ/ホロライブ】",
-    "videoViewCount": "6.85萬",
+    "videoViewCount": "6.91萬",
     "videoThumbnail": "https://i.ytimg.com/vi/0I-MTODu3uQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL0E_Q2pfFZfPPs27CtvaOEt9tDg",
     "videoUrl": "http://youtu.be/0I-MTODu3uQ",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -47,12 +33,12 @@
     "name": "時乃空",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8DzaIqMzh3ucwdZ5Kh6dp2uB4IklpcrIVxXVjQoQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "110萬",
-    "score": "35,421",
+    "score": "36,417",
     "videoTitle": "【Song/歌枠】歌ってみた動画の前に歌ってみよう！【#ときのそら生放送/ときのそら 】",
-    "videoViewCount": "3.54萬",
+    "videoViewCount": "3.64萬",
     "videoThumbnail": "https://i.ytimg.com/vi/X5ACXSSmntg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVaiDwODx7MR-2AbIRKSEIVXgW6w",
     "videoUrl": "http://youtu.be/X5ACXSSmntg",
-    "rank": 4,
+    "rank": 3,
     "rankVar": null
   }
 ]
