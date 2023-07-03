@@ -1,31 +1,17 @@
 [
   {
-    "id": 1459,
-    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
-    "name": "エルフのえる",
-    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "46.4萬",
-    "score": "43,352",
-    "videoTitle": "【歌枠】1年ぶりらしい歌枠。【にじさんじ/える】",
-    "videoViewCount": "4.34萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/UEjpoP8nZZg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBfWaAgnvV3emnFjn5eoyS-ElmlTQ",
-    "videoUrl": "http://youtu.be/UEjpoP8nZZg",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1718,
     "channelUrl": "https://www.youtube.com/channel/UCebT4Aq-3XWb5je1S1FvR_A",
     "name": "東堂琥珀",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-LphbVqRjBoNyYM-w-r1UF6DhfsQyhEj83vt5B=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "13萬",
-    "score": "12,717",
+    "score": "12,772",
     "videoTitle": "【歌枠】93点以上取れないと宣材公開出来ません！！【supported by DAM】【にじさんじ/東堂コハク】",
-    "videoViewCount": "1.27萬",
+    "videoViewCount": "1.28萬",
     "videoThumbnail": "https://i.ytimg.com/vi/JtV_2T6efdA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv-wTaOzvR9wuknKMPeKLqR_7KQA",
     "videoUrl": "http://youtu.be/JtV_2T6efdA",
-    "rank": 2,
-    "rankVar": 2
+    "rank": 1,
+    "rankVar": 3
   },
   {
     "id": 2334,
@@ -33,12 +19,12 @@
     "name": "GAON",
     "thumbnail": "https://yt3.ggpht.com/nt93BUDwRGz68y1qE9klz3rNpHsUqQPniggUngnQqqIwaxmaIAKeDkLh5tBrahfz2n_8YarUQw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "4.5萬",
-    "score": "3,915",
+    "score": "4,259",
     "videoTitle": "【歌枠】 まさかの曲  【SING】",
-    "videoViewCount": "3915",
+    "videoViewCount": "4259",
     "videoThumbnail": "https://i.ytimg.com/vi/Gs-IvEh4gc4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7_N6GTKbw9-NnDoJez_Bp_FC5bw",
     "videoUrl": "http://youtu.be/Gs-IvEh4gc4",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   }
 ]
