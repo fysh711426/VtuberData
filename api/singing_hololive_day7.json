@@ -1,16 +1,30 @@
 [
   {
+    "id": 1246,
+    "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+    "name": "角卷綿芽",
+    "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "141萬",
+    "score": "107,198",
+    "videoTitle": "【歌枠】第１０７回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】",
+    "videoViewCount": "10.72萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/3AydexGcDbM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIbbeHxcaSkt6qI8NWRdmDBYVqIg",
+    "videoUrl": "http://youtu.be/3AydexGcDbM",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
     "id": 1326,
     "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "77.4萬",
-    "score": "71,507",
+    "score": "79,278",
     "videoTitle": "【歌枠】おうたのれんしゅう🎤歌うぞ！【風真いろは/ホロライブ】",
-    "videoViewCount": "7.15萬",
+    "videoViewCount": "7.93萬",
     "videoThumbnail": "https://i.ytimg.com/vi/sBPS_JflFJk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZOnTBjWt1vc-KJlw8f2O-C2bKnw",
     "videoUrl": "http://youtu.be/sBPS_JflFJk",
-    "rank": 1,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -19,12 +33,12 @@
     "name": "律可",
     "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "23.1萬",
-    "score": "4,270",
+    "score": "4,420",
     "videoTitle": "【弾き語り歌枠】涼しさを感じられる枠にする予定【律可/ホロスターズ】",
-    "videoViewCount": "4270",
+    "videoViewCount": "4420",
     "videoThumbnail": "https://i.ytimg.com/vi/TRElo2wgIvk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYV8_1qw1YfmUZNX9YJF41zviAfQ",
     "videoUrl": "http://youtu.be/TRElo2wgIvk",
-    "rank": 2,
+    "rank": 3,
     "rankVar": null
   }
 ]
