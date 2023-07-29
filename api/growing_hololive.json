@@ -1,19 +1,5 @@
 [
   {
-    "id": 1246,
-    "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-    "name": "角卷綿芽",
-    "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "142萬",
-    "score": "0.71",
-    "videoTitle": "【Minecraft】夏が来る前に桜建築だ！え、もう夏？！【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "65.73萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/I43z97pCGyk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBPl19W-BAQup4Urmdi3GFgOILMdA",
-    "videoUrl": "http://youtu.be/I43z97pCGyk",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1328,
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
@@ -21,25 +7,39 @@
     "subscribe": "74.8萬",
     "score": "0.67",
     "videoTitle": "≪TroubleDays≫ *gulps*",
-    "videoViewCount": "15.49萬",
+    "videoViewCount": "15.51萬",
     "videoThumbnail": "https://i.ytimg.com/vi/0Uhs4mtFDc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzwmrk0TILKoAh_dH0m5935_9fAw",
     "videoUrl": "http://youtu.be/0Uhs4mtFDc8",
+    "rank": 1,
+    "rankVar": 9
+  },
+  {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "78.1萬",
+    "score": "0.64",
+    "videoTitle": "マーシャルマキシマイザー - 柊マグネタイト / 風真いろは(cover)",
+    "videoViewCount": "115.1萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/9Q6Ft-QtCw8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgPIGUoZDAP&rs=AOn4CLDd9dRFKpv864uSttHcGaKIRnzIuA",
+    "videoUrl": "http://youtu.be/9Q6Ft-QtCw8",
     "rank": 2,
-    "rankVar": 5
+    "rankVar": 6
   },
   {
     "id": 1306,
     "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
     "name": "博衣こより",
     "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "94.5萬",
-    "score": "0.53",
+    "subscribe": "94.6萬",
+    "score": "0.64",
     "videoTitle": "きゅうくらりん - 博衣こより(Cover)【歌ってみた】",
-    "videoViewCount": "34.4萬",
+    "videoViewCount": "35.08萬",
     "videoThumbnail": "https://i.ytimg.com/vi/5QSwQBJd4Ts/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpEL9MMsgCauUMZmdP-vBLYHoicw",
     "videoUrl": "http://youtu.be/5QSwQBJd4Ts",
     "rank": 3,
-    "rankVar": 0
+    "rankVar": 1
   },
   {
     "id": 1230,
@@ -49,39 +49,25 @@
     "subscribe": "193萬",
     "score": "0.52",
     "videoTitle": "生き様 / 星街すいせい(Cover)",
-    "videoViewCount": "159.34萬",
+    "videoViewCount": "160.19萬",
     "videoThumbnail": "https://i.ytimg.com/vi/z2TBTXYiwvo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhpc3pSWwgsemF47ms7Gqq6P9LkQ",
     "videoUrl": "http://youtu.be/z2TBTXYiwvo",
     "rank": 4,
     "rankVar": null
   },
   {
-    "id": 1326,
-    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-    "name": "風真いろは(かざまいろは)",
-    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "78萬",
-    "score": "0.52",
-    "videoTitle": "マーシャルマキシマイザー - 柊マグネタイト / 風真いろは(cover)",
-    "videoViewCount": "114.33萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/9Q6Ft-QtCw8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgPIGUoZDAP&rs=AOn4CLDd9dRFKpv864uSttHcGaKIRnzIuA",
-    "videoUrl": "http://youtu.be/9Q6Ft-QtCw8",
-    "rank": 5,
-    "rankVar": 3
-  },
-  {
     "id": 1365,
     "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
     "name": "ベスティア・ゼータ",
     "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "78.2萬",
-    "score": "0.26",
+    "subscribe": "78.3萬",
+    "score": "0.38",
     "videoTitle": "【Valorant】 this is not pre-recorded",
-    "videoViewCount": "7.68萬",
+    "videoViewCount": "7.69萬",
     "videoThumbnail": "https://i.ytimg.com/vi/6YV3Lb4l_K0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoSRLsi-otrdk3XgZK-IpDVTKBAQ",
     "videoUrl": "http://youtu.be/6YV3Lb4l_K0",
-    "rank": 6,
-    "rankVar": 0
+    "rank": 5,
+    "rankVar": 2
   },
   {
     "id": 1295,
@@ -89,13 +75,13 @@
     "name": "Ayunda Risu",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_sCSkk4KXGPex6W_2nz8UvnruKPvJN6Iy8BG0M-A=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "83.2萬",
-    "score": "0.24",
+    "score": "0.12",
     "videoTitle": "【AMERICAN TRUCK SIMULATOR】IT'S TIME !【Ayunda Risu】",
-    "videoViewCount": "3.77萬",
+    "videoViewCount": "3.78萬",
     "videoThumbnail": "https://i.ytimg.com/vi/qRVk5tHGH2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBsVHEmxYJ8DPb1nwWcuN9c_SzEw",
     "videoUrl": "http://youtu.be/qRVk5tHGH2o",
-    "rank": 7,
-    "rankVar": 3
+    "rank": 6,
+    "rankVar": 5
   },
   {
     "id": 1287,
@@ -103,12 +89,12 @@
     "name": "夜空梅露",
     "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "84.2萬",
-    "score": "0.24",
+    "score": "0.12",
     "videoTitle": "【アソビ大全】PON VS PON…？！天才だから負けない…にぇ！！！！【ホロライブ/夜空メル&さくらみこ】",
-    "videoViewCount": "26.18萬",
+    "videoViewCount": "26.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/gvAd7B35S5M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzMtmlt3aMRi6_v_n3wDmzHhplQQ",
     "videoUrl": "http://youtu.be/gvAd7B35S5M",
-    "rank": 8,
-    "rankVar": 1
+    "rank": 7,
+    "rankVar": 2
   }
 ]
