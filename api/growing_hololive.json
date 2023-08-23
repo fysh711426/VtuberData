@@ -1,5 +1,19 @@
 [
   {
+    "id": 1256,
+    "channelUrl": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+    "name": "紫咲詩音",
+    "thumbnail": "https://yt3.ggpht.com/AyUL9W0ltc_aJr_MysuZBx8hRfb1SIVNREgU9kiOO-lqmdhYkEsllmhagertVIwHwa3UAAKy=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "116萬",
+    "score": "0.87",
+    "videoTitle": "アイドル／Covered by紫咲シオン【歌ってみた】",
+    "videoViewCount": "84.91萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/eHokh403o3E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFfyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9xSxCaM6FpEVyhddNg-lUBPvxAw",
+    "videoUrl": "http://youtu.be/eHokh403o3E",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
     "id": 1246,
     "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
     "name": "角卷綿芽",
@@ -7,10 +21,10 @@
     "subscribe": "143萬",
     "score": "0.7",
     "videoTitle": "強風オールバック / 角巻わため×しぐれうい(Cover)",
-    "videoViewCount": "100.62萬",
+    "videoViewCount": "101.57萬",
     "videoThumbnail": "https://i.ytimg.com/vi/RKkRB5do648/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPQ3JCxwFxulcJq2At74aDedP2Zg",
     "videoUrl": "http://youtu.be/RKkRB5do648",
-    "rank": 1,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -21,10 +35,10 @@
     "subscribe": "149萬",
     "score": "0.68",
     "videoTitle": "NO, GOD!!! PLEASE NO! NOOOOOOO!!!!!",
-    "videoViewCount": "33.45萬",
+    "videoViewCount": "33.52萬",
     "videoThumbnail": "https://i.ytimg.com/vi/El0KmtFyCLg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBYoFTAP&rs=AOn4CLCb7lh1FD0vLdmJPEMqT9kP-mrqtQ",
     "videoUrl": "http://youtu.be/El0KmtFyCLg",
-    "rank": 2,
+    "rank": 3,
     "rankVar": null
   },
   {
@@ -35,11 +49,39 @@
     "subscribe": "165萬",
     "score": "0.61",
     "videoTitle": "真生活 / Gawr Gura × 猫又おかゆ (cover)",
-    "videoViewCount": "142.68萬",
+    "videoViewCount": "144.15萬",
     "videoThumbnail": "https://i.ytimg.com/vi/beFiVQcwVY8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtyT7YpuOPmXKjBH-g9Vwe0-DIjA",
     "videoUrl": "http://youtu.be/beFiVQcwVY8",
-    "rank": 3,
+    "rank": 4,
     "rankVar": null
+  },
+  {
+    "id": 1328,
+    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+    "name": "Hakos Baelz",
+    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "76.7萬",
+    "score": "0.52",
+    "videoTitle": "≪#Council2ndAnniversary≫ Off Collab Baking Challenge + HUGE Announcements! w/ Councilrys",
+    "videoViewCount": "24.1萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/QrfFDaG78so/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAP9hsfJ7HE9EP-7YdQnXUl1pR4MQ",
+    "videoUrl": "http://youtu.be/QrfFDaG78so",
+    "rank": 5,
+    "rankVar": 1
+  },
+  {
+    "id": 1306,
+    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+    "name": "博衣こより",
+    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "96.9萬",
+    "score": "0.52",
+    "videoTitle": "God knows... / 博衣こより (Cover) 【歌ってみた】",
+    "videoViewCount": "68.36萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/3T0wEUW1THE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdyqggkYqmQCxU05kPt7WMszcA5A",
+    "videoUrl": "http://youtu.be/3T0wEUW1THE",
+    "rank": 6,
+    "rankVar": -3
   },
   {
     "id": 1230,
@@ -49,25 +91,25 @@
     "subscribe": "195萬",
     "score": "0.52",
     "videoTitle": "やばい！！！！夏休みの宿題終わらせなきゃ！！！！！！【ホロライブ / 星街すいせい】",
-    "videoViewCount": "21.6萬",
+    "videoViewCount": "24.29萬",
     "videoThumbnail": "https://i.ytimg.com/vi/BgPX_KWFcEU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBIWbYfFDLZNl6nB2j0gz1B9ufjQ",
     "videoUrl": "http://youtu.be/BgPX_KWFcEU",
-    "rank": 4,
-    "rankVar": 1
+    "rank": 7,
+    "rankVar": null
   },
   {
     "id": 1365,
     "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
     "name": "ベスティア・ゼータ",
     "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "79.7萬",
+    "subscribe": "79.8萬",
     "score": "0.5",
     "videoTitle": "【NEW COSTUME】Unlocked: New Character Selection 【#ZetaHenshin #GeloraholoID】",
-    "videoViewCount": "23.41萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/pACYcGTelZI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAv_0EKHofzOp_IUkTQ-gO3Y4_Unw",
+    "videoViewCount": "23.47萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/pACYcGTelZI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQXEQjQKtRePVwL8vumLkR8B99fw",
     "videoUrl": "http://youtu.be/pACYcGTelZI",
-    "rank": 5,
-    "rankVar": -3
+    "rank": 8,
+    "rankVar": -6
   },
   {
     "id": 1225,
@@ -77,10 +119,10 @@
     "subscribe": "219萬",
     "score": "0.46",
     "videoTitle": "【イタジャガ開封】ねぇ…白上の事ひいてくれますよね？（圧）【わしゃがな✖白上フブキ】",
-    "videoViewCount": "52.25萬",
+    "videoViewCount": "52.72萬",
     "videoThumbnail": "https://i.ytimg.com/vi/0RTYjRhd9SI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqtSqrOS3pNHezF5yz9RDPhDG4yw",
     "videoUrl": "http://youtu.be/0RTYjRhd9SI",
-    "rank": 6,
+    "rank": 9,
     "rankVar": null
   },
   {
@@ -91,53 +133,11 @@
     "subscribe": "229萬",
     "score": "0.44",
     "videoTitle": "【コラボ】無言でマリオパーティをします【ホロライブ/兎田ぺこら/宝鐘マリン/天音かなた/博衣こより】",
-    "videoViewCount": "81.07萬",
+    "videoViewCount": "81.44萬",
     "videoThumbnail": "https://i.ytimg.com/vi/fhE0PlrGWeo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyQOiSSBPl1zR-BctGuTDV5QlVIw",
     "videoUrl": "http://youtu.be/fhE0PlrGWeo",
-    "rank": 7,
-    "rankVar": -1
-  },
-  {
-    "id": 1527,
-    "channelUrl": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-    "name": "律可",
-    "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "23.2萬",
-    "score": "0.43",
-    "videoTitle": "【男性キー】アイドル - IDOL male key / YOASOBI covered by 律可",
-    "videoViewCount": "19.45萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/agtnW_B3gc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcXf7q1WMGQTgrMc-o3Q0IS1nXXQ",
-    "videoUrl": "http://youtu.be/agtnW_B3gc8",
-    "rank": 8,
-    "rankVar": null
-  },
-  {
-    "id": 1306,
-    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-    "name": "博衣こより",
-    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "96.8萬",
-    "score": "0.41",
-    "videoTitle": "God knows... / 博衣こより (Cover) 【歌ってみた】",
-    "videoViewCount": "66.76萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/3T0wEUW1THE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdyqggkYqmQCxU05kPt7WMszcA5A",
-    "videoUrl": "http://youtu.be/3T0wEUW1THE",
-    "rank": 9,
-    "rankVar": -6
-  },
-  {
-    "id": 1328,
-    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-    "name": "Hakos Baelz",
-    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "76.6萬",
-    "score": "0.39",
-    "videoTitle": "≪#ホロサマ歌枠リレー≫ (S)ummer (S)wimsuit (S)inging",
-    "videoViewCount": "11.09萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/CWJXLCzw47I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBWSV--nGeR4wd5axk-nJBATOliw",
-    "videoUrl": "http://youtu.be/CWJXLCzw47I",
     "rank": 10,
-    "rankVar": -6
+    "rankVar": null
   },
   {
     "id": 1326,
@@ -145,13 +145,13 @@
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "79.3萬",
-    "score": "0.38",
+    "score": "0.25",
     "videoTitle": "デーモンロード - Kanaria/風真いろは(cover)",
-    "videoViewCount": "55.41萬",
+    "videoViewCount": "56.26萬",
     "videoThumbnail": "https://i.ytimg.com/vi/c4kjFF60B2U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3GEyrug-OHU01MD41ZoaQWVnYYA",
     "videoUrl": "http://youtu.be/c4kjFF60B2U",
     "rank": 11,
-    "rankVar": -4
+    "rankVar": -7
   },
   {
     "id": 1287,
@@ -161,11 +161,11 @@
     "subscribe": "84.7萬",
     "score": "0.24",
     "videoTitle": "【あざとく♡】可愛くてごめん / HoneyWorks covered by 夜空メル(hololive)【歌ってみた】",
-    "videoViewCount": "19.09萬",
+    "videoViewCount": "19.15萬",
     "videoThumbnail": "https://i.ytimg.com/vi/5eMDjQvRgSs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9TdED32UFdFz1A7tVb0lkD3nQWQ",
     "videoUrl": "http://youtu.be/5eMDjQvRgSs",
     "rank": 12,
-    "rankVar": -3
+    "rankVar": -4
   },
   {
     "id": 1295,
@@ -175,10 +175,10 @@
     "subscribe": "83.7萬",
     "score": "0.12",
     "videoTitle": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!【Ayunda Risu】",
-    "videoViewCount": "3.75萬",
+    "videoViewCount": "3.76萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Kfu4k97xcxQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRs5WW9MafF_0ea-IEmVMv5boA4w",
     "videoUrl": "http://youtu.be/Kfu4k97xcxQ",
     "rank": 13,
-    "rankVar": -5
+    "rankVar": -6
   }
 ]
