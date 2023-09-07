@@ -1,30 +1,16 @@
 [
   {
-    "id": 1331,
-    "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
-    "name": "綠仙",
-    "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "66.8萬",
-    "score": "534,630",
-    "videoTitle": "【歌枠】夏だ！！3Dで集まれ！！ボカロカラオケ！！【にじさんじ | 西弦緑渡】",
-    "videoViewCount": "53.46萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/iuJa9jkXQsg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn38HIeUAmJsMug6hSjlFo_vAn-g",
-    "videoUrl": "http://youtu.be/iuJa9jkXQsg",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 3444,
     "channelUrl": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA",
     "name": "セラフ・ダズルガーデン / Seraph Dazzlegarden",
     "thumbnail": "https://yt3.ggpht.com/id0I-5r0K_4FsZsZPSHHDKviKvKfbb1yas8MDD_fLfyImFtDQXncul8G0aeEDifGq27xoMmtmw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "23.4萬",
-    "score": "197,782",
+    "score": "201,642",
     "videoTitle": "【歌枠】セラフ・ダズルガーデン『カラオケ』feat. 星導ショウ（Not MUSIC VIDEO）【セラフ・ダズルガーデン/にじさんじ】",
-    "videoViewCount": "19.78萬",
+    "videoViewCount": "20.16萬",
     "videoThumbnail": "https://i.ytimg.com/vi/1yx9o8IFylI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhaskFu4zy2Xh8mB6iuUOndt1N0Q",
     "videoUrl": "http://youtu.be/1yx9o8IFylI",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -33,13 +19,13 @@
     "name": "壱百満天原サロメ(ひゃくまんてんばらさろめ)",
     "thumbnail": "https://yt3.ggpht.com/8byjg2pgiTXEqVkuJGJC1edUrYf6SKSgwJQJLJqygRQxFMfjC9MQ6DAAfYj6-lPJYXFikuIFOA=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "178萬",
-    "score": "175,434",
+    "score": "175,736",
     "videoTitle": "【歌枠】夏のうた【カラオケですわ～】",
-    "videoViewCount": "17.54萬",
+    "videoViewCount": "17.57萬",
     "videoThumbnail": "https://i.ytimg.com/vi/6sGY9Eg4jjo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE9mpoj8_iah2OlzAWlGRbIsocNA",
     "videoUrl": "http://youtu.be/6sGY9Eg4jjo",
-    "rank": 3,
-    "rankVar": null
+    "rank": 2,
+    "rankVar": -1
   },
   {
     "id": 1281,
@@ -47,11 +33,25 @@
     "name": "星川莎拉",
     "thumbnail": "https://yt3.googleusercontent.com/ytc/AMLnZu95eN3SZNKfxICWpibQe1er_SW3lWn1vvXq7WDj=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "95.3萬",
-    "score": "76,735",
+    "score": "76,849",
     "videoTitle": "【歌枠】誕生日終わっちゃった..。世界1可愛いおうた～！- ̗̀ ♡ ̖́-【にじさんじ/星川サラ】",
-    "videoViewCount": "7.67萬",
+    "videoViewCount": "7.68萬",
     "videoThumbnail": "https://i.ytimg.com/vi/D-z24Ij3me8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlmYMR0CN3TIoQzDH9iLnqZ6sNqA",
     "videoUrl": "http://youtu.be/D-z24Ij3me8",
+    "rank": 3,
+    "rankVar": 0
+  },
+  {
+    "id": 1331,
+    "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
+    "name": "綠仙",
+    "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "66.9萬",
+    "score": "31,692",
+    "videoTitle": "【歌枠】手術してフェスに行けない人です、夏フェスに行きた～い🐼【にじさんじ | 緑仙】",
+    "videoViewCount": "3.17萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/ytzvF3eucG8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9XCC-yCpq8GMQbBlnq2bTs8BPbQ",
+    "videoUrl": "http://youtu.be/ytzvF3eucG8",
     "rank": 4,
     "rankVar": null
   }
