@@ -1,5 +1,19 @@
 [
   {
+    "id": 1273,
+    "channelUrl": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+    "name": "沙花叉クロヱ(さかまたくろえ)",
+    "thumbnail": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "114萬",
+    "score": "0.88",
+    "videoTitle": "「アイドル」YOASOBI / 沙花叉クロヱ(cover)",
+    "videoViewCount": "104.18萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/o20gwmNgKvg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChs6-XzV9lmIxni8vUD3oDIIdaig",
+    "videoUrl": "http://youtu.be/o20gwmNgKvg",
+    "rank": 1,
+    "rankVar": 0
+  },
+  {
     "id": 1247,
     "channelUrl": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
     "name": "天音彼方",
@@ -7,10 +21,24 @@
     "subscribe": "140萬",
     "score": "0.72",
     "videoTitle": "強風オールバック / 天音かなた(cover)",
-    "videoViewCount": "99.83萬",
+    "videoViewCount": "100.18萬",
     "videoThumbnail": "https://i.ytimg.com/vi/234RMlK0ntc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBjXndpY7oetK1rhGM6tK-m6iQXw",
     "videoUrl": "http://youtu.be/234RMlK0ntc",
-    "rank": 1,
+    "rank": 2,
+    "rankVar": null
+  },
+  {
+    "id": 1246,
+    "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+    "name": "角卷綿芽",
+    "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "144萬",
+    "score": "0.7",
+    "videoTitle": "PAKU / 角巻わため×獅白ぼたん(Cover)",
+    "videoViewCount": "44.91萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/szz96aYgJ5k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl6rsByX2P5jA-IVRbuz7R4_BzBg",
+    "videoUrl": "http://youtu.be/szz96aYgJ5k",
+    "rank": 3,
     "rankVar": null
   },
   {
@@ -18,27 +46,13 @@
     "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
     "name": "博衣こより",
     "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "98.6萬",
+    "subscribe": "98.7萬",
     "score": "0.61",
     "videoTitle": "【MGS】人生初メタルギアソリッド！こよネーク、ステルス頑張ります！🔥 #1【博衣こより/ホロライブ】",
-    "videoViewCount": "32.93萬",
+    "videoViewCount": "33萬",
     "videoThumbnail": "https://i.ytimg.com/vi/jeVZ3GVaDEk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCkQrAmm_GJqmljCVnaiV1e6R8oNg",
     "videoUrl": "http://youtu.be/jeVZ3GVaDEk",
-    "rank": 2,
-    "rankVar": 3
-  },
-  {
-    "id": 1326,
-    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-    "name": "風真いろは(かざまいろは)",
-    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "80.6萬",
-    "score": "0.5",
-    "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "50.18萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
-    "videoUrl": "http://youtu.be/lnlyZlIRO1U",
-    "rank": 3,
+    "rank": 4,
     "rankVar": 1
   },
   {
@@ -49,10 +63,10 @@
     "subscribe": "221萬",
     "score": "0.45",
     "videoTitle": "魔法少女とチョコレゐト/白上フブキ(cover)",
-    "videoViewCount": "63.87萬",
+    "videoViewCount": "65.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_7vMtu_nqaI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5WwtpR2-1lwLhJ9yx8Q_C2BeKbA",
     "videoUrl": "http://youtu.be/_7vMtu_nqaI",
-    "rank": 4,
+    "rank": 5,
     "rankVar": null
   },
   {
@@ -63,11 +77,25 @@
     "subscribe": "231萬",
     "score": "0.43",
     "videoTitle": "恋愛脳/兎田ぺこら(cover)",
-    "videoViewCount": "84.73萬",
+    "videoViewCount": "85.57萬",
     "videoThumbnail": "https://i.ytimg.com/vi/75mpgWnhJpo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTWfFGrkiF1WAE-rko2uW3ZMvdnw",
     "videoUrl": "http://youtu.be/75mpgWnhJpo",
-    "rank": 5,
-    "rankVar": 3
+    "rank": 6,
+    "rankVar": 2
+  },
+  {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "80.6萬",
+    "score": "0.37",
+    "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
+    "videoViewCount": "51.24萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
+    "videoUrl": "http://youtu.be/lnlyZlIRO1U",
+    "rank": 7,
+    "rankVar": -3
   },
   {
     "id": 1365,
@@ -76,11 +104,11 @@
     "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "80.6萬",
     "score": "0.37",
-    "videoTitle": "【NEW COSTUME】Unlocked: New Character Selection 【#ZetaHenshin #GeloraholoID】",
-    "videoViewCount": "23.96萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/pACYcGTelZI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQXEQjQKtRePVwL8vumLkR8B99fw",
-    "videoUrl": "http://youtu.be/pACYcGTelZI",
-    "rank": 6,
+    "videoTitle": "【Baldur's Gate 3】I'M VERY EXCITED FOR THIS GAME U DON'T UNDERSTAND",
+    "videoViewCount": "8.91萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/5bAm6iNeH-I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXWOxuZ_iMh_1eqnxVviUDzLEWSg",
+    "videoUrl": "http://youtu.be/5bAm6iNeH-I",
+    "rank": 7,
     "rankVar": 4
   },
   {
@@ -91,11 +119,11 @@
     "subscribe": "77.8萬",
     "score": "0.26",
     "videoTitle": "【MV】約束の絆 - Future Star - Kyoukai no Kanata || HAKOS BAELZ【踊って歌ってみた】",
-    "videoViewCount": "35.72萬",
+    "videoViewCount": "36.14萬",
     "videoThumbnail": "https://i.ytimg.com/vi/40WoArsMQgQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN6ntLHCBMkRS5bdmeGVmQiczEDg",
     "videoUrl": "http://youtu.be/40WoArsMQgQ",
-    "rank": 7,
-    "rankVar": 2
+    "rank": 9,
+    "rankVar": 0
   },
   {
     "id": 1295,
@@ -103,13 +131,13 @@
     "name": "Ayunda Risu",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_sCSkk4KXGPex6W_2nz8UvnruKPvJN6Iy8BG0M-A=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "84.2萬",
-    "score": "0.24",
+    "score": "0.12",
     "videoTitle": "【COVER】NEOKI YASHI NO KI (寝起きヤシの木) 【Ayunda Risu】",
-    "videoViewCount": "15.06萬",
+    "videoViewCount": "15.22萬",
     "videoThumbnail": "https://i.ytimg.com/vi/t12GghQ7P0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF0D9SpYiXv2X190Orlc43dpsoXQ",
     "videoUrl": "http://youtu.be/t12GghQ7P0g",
-    "rank": 8,
-    "rankVar": 4
+    "rank": 10,
+    "rankVar": 2
   },
   {
     "id": 1287,
@@ -117,12 +145,12 @@
     "name": "夜空梅露",
     "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "85.2萬",
-    "score": "0.24",
+    "score": "0.12",
     "videoTitle": "YOASOBI「アイドル」/ covered by 夜空メル(hololive)",
-    "videoViewCount": "17.56萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/kiW45K1dWLg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCqaDsyVEbBfN-xixfSKhmvMYaj3g",
+    "videoViewCount": "17.95萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/kiW45K1dWLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3IOHwDl-7qnF5zjdW5jp-56ExBg",
     "videoUrl": "http://youtu.be/kiW45K1dWLg",
-    "rank": 9,
-    "rankVar": 2
+    "rank": 11,
+    "rankVar": -1
   }
 ]
