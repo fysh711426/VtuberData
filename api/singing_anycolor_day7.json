@@ -1,17 +1,31 @@
 [
   {
+    "id": 3505,
+    "channelUrl": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
+    "name": "マリアマリネット",
+    "thumbnail": "https://yt3.googleusercontent.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "43.3萬",
+    "score": "26,082",
+    "videoTitle": "【SINGING DANCE 歌枠】IDOL DANCES　♡　CHIBI 3D 歌って踊るよ！！【NIJISANJI EN | Maria Marionette】",
+    "videoViewCount": "2.61萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/dJqj3IBNlRM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3AJ8jJirFmJn-aF5m3DcLVXFwwg",
+    "videoUrl": "http://youtu.be/dJqj3IBNlRM",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
     "id": 1331,
     "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
     "name": "綠仙",
     "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "67.1萬",
-    "score": "12,154",
+    "score": "12,798",
     "videoTitle": "【歌枠】9mm Parabellum Bullet『Revolutionary』はサイコーという歌配信！！！🐼【にじさんじ | 緑仙】",
-    "videoViewCount": "1.22萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/oWpa1FBuUCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcpE_RHFJ0IHgkVEguxh7Q8FZ1PQ",
+    "videoViewCount": "1.28萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/oWpa1FBuUCQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8xPWmFzxAalHzvApIygm-hlmBAA",
     "videoUrl": "http://youtu.be/oWpa1FBuUCQ",
-    "rank": 1,
-    "rankVar": 0
+    "rank": 2,
+    "rankVar": -1
   },
   {
     "id": 1550,
@@ -19,12 +33,12 @@
     "name": "小野町春香",
     "thumbnail": "https://yt3.ggpht.com/tiQkGQzle5iTR6-YNME9zv4LilmcCMBhCL8Jl-hTzgDSm-s4DzVcilyifst0WvY5kFDwD1Z1=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "21.7萬",
-    "score": "3,670",
+    "score": "3,714",
     "videoTitle": "【 歌枠/song 】YouTube21万人ありがとう！最後に告知あります【にじさんじ/小野町春香】",
-    "videoViewCount": "3670",
+    "videoViewCount": "3714",
     "videoThumbnail": "https://i.ytimg.com/vi/RV8cfMTcJow/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv5u1IVJdPzmZXoQT7HI6Q1wH0xA",
     "videoUrl": "http://youtu.be/RV8cfMTcJow",
-    "rank": 2,
+    "rank": 3,
     "rankVar": null
   }
 ]
