@@ -1,31 +1,45 @@
 [
   {
+    "id": 1269,
+    "channelUrl": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
+    "name": "月之美兔",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_5F67Gd0pbRC0H_Gusm_5STDsrLm9V-UqFwDyB4Q=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "114萬",
+    "score": "0.88",
+    "videoTitle": "数日前に自分で救急車呼んだ話",
+    "videoViewCount": "69.71萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/GbSCUMgpthQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8OhPaRZfTB40B-pC_TCIfBvY3dg",
+    "videoUrl": "http://youtu.be/GbSCUMgpthQ",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
     "id": 3508,
     "channelUrl": "https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw",
     "name": "金子鏡(カネコキョウ)",
     "thumbnail": "https://yt3.ggpht.com/jWDEqs41VStqvbssw9Ap5Wj5gq8_ti6BY1xqLyL5sZYbIiceaSgqnk5AW21oHF79sFrlbgqLqLs=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "40.7萬",
+    "subscribe": "40.8萬",
     "score": "0.74",
     "videoTitle": "KYO 2.0 DEBUT",
-    "videoViewCount": "24.29萬",
+    "videoViewCount": "24.35萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Md_uR2nepIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDemDaUOoXD7ZSFnwiwoIvNaGoSCg",
     "videoUrl": "http://youtu.be/Md_uR2nepIs",
-    "rank": 1,
-    "rankVar": 1
+    "rank": 2,
+    "rankVar": -1
   },
   {
     "id": 1281,
     "channelUrl": "https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w",
     "name": "星川莎拉",
     "thumbnail": "https://yt3.googleusercontent.com/ytc/AMLnZu95eN3SZNKfxICWpibQe1er_SW3lWn1vvXq7WDj=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "96萬",
+    "subscribe": "96.1萬",
     "score": "0.52",
     "videoTitle": "『推しの子』サインはB／covered by 星川サラ×壱百満天原サロメ×笹木咲【にじさんじ】",
-    "videoViewCount": "105.66萬",
+    "videoViewCount": "113.55萬",
     "videoThumbnail": "https://i.ytimg.com/vi/F5uzlCUrFiI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmC4Mcu9LytAMKpJ9hwgUw_BOPqQ",
     "videoUrl": "http://youtu.be/F5uzlCUrFiI",
-    "rank": 2,
-    "rankVar": 13
+    "rank": 3,
+    "rankVar": 10
   },
   {
     "id": 3444,
@@ -35,11 +49,25 @@
     "subscribe": "23.6萬",
     "score": "0.43",
     "videoTitle": "【歌枠】セラフ・ダズルガーデン『カラオケ』feat. 星導ショウ（Not MUSIC VIDEO）【セラフ・ダズルガーデン/にじさんじ】",
-    "videoViewCount": "24.34萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/1yx9o8IFylI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBzNGmhlfBlJG7eiT0lgr3Xe6GcRw",
+    "videoViewCount": "24.52萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/1yx9o8IFylI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhaskFu4zy2Xh8mB6iuUOndt1N0Q",
     "videoUrl": "http://youtu.be/1yx9o8IFylI",
-    "rank": 3,
-    "rankVar": 1
+    "rank": 4,
+    "rankVar": 0
+  },
+  {
+    "id": 1459,
+    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+    "name": "エルフのえる",
+    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "48.5萬",
+    "score": "0.41",
+    "videoTitle": "【にじあつめぴょんぴょんサバイバル】出てきたライバーの声真似挑戦しながら実況！【にじさんじ/える】",
+    "videoViewCount": "8.88萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/T9Avh_Lg5Nc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4yWer616Ul2Czqn5a4IYwbd0zmw",
+    "videoUrl": "http://youtu.be/T9Avh_Lg5Nc",
+    "rank": 5,
+    "rankVar": 9
   },
   {
     "id": 3443,
@@ -48,12 +76,12 @@
     "thumbnail": "https://yt3.ggpht.com/fPcz-rWxhT5YfD6C4gRFMCXqK-mkk2ew1Qq9tijCZQ20cE-Rd2DMoE4SOVT0TNEgRLep-tcyEg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "29.5萬",
     "score": "0.34",
-    "videoTitle": "この後輩、尊敬してんだか舐めてんだかわからんな…。 / ラジオ #オールナギトニッポンV #22【四季凪アキラ/小柳ロウ/にじさんじ】",
-    "videoViewCount": "7.24萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/j-L5tepd6_4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxIOP5kRk3fAvU3iHHn3HeV_wUmw",
-    "videoUrl": "http://youtu.be/j-L5tepd6_4",
-    "rank": 4,
-    "rankVar": 2
+    "videoTitle": "【耐久】初見でスコア3000狙う男【スイカゲーム/四季凪アキラ/にじさんじ/VOLTACTION】",
+    "videoViewCount": "5.95萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/PkkvBV3LaTU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1mhJMIoNmi8gdfiMuCSNLVk_H4g",
+    "videoUrl": "http://youtu.be/PkkvBV3LaTU",
+    "rank": 6,
+    "rankVar": 0
   },
   {
     "id": 1537,
@@ -63,25 +91,11 @@
     "subscribe": "36.1萬",
     "score": "0.28",
     "videoTitle": "I UNINTENTIONALLY CONFESSED TO MY BF (best friend!) | ANIMATED",
-    "videoViewCount": "60.7萬",
+    "videoViewCount": "61.18萬",
     "videoThumbnail": "https://i.ytimg.com/vi/JSXUYe4ly0Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdQThH4EYiQXOCy-bHqiTxHnYN7w",
     "videoUrl": "http://youtu.be/JSXUYe4ly0Q",
-    "rank": 5,
-    "rankVar": -4
-  },
-  {
-    "id": 3501,
-    "channelUrl": "https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ",
-    "name": "スカーレ ヨナグニ",
-    "thumbnail": "https://yt3.ggpht.com/-W0IjUx8nP-98ywYB-N76ozkI0BPZATXit2EricfeqDbIhdrYW7bgz4cwUaZOzMP6Ptb-ZGTSg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "36.7萬",
-    "score": "0.27",
-    "videoTitle": "I have something important to say. this is a joke.",
-    "videoViewCount": "5.04萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/YXEE1GrS0G4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIEwoZTAP&rs=AOn4CLDB9H-Zbrl6W1exREQpA77V4_bp1g",
-    "videoUrl": "http://youtu.be/YXEE1GrS0G4",
-    "rank": 6,
-    "rankVar": null
+    "rank": 7,
+    "rankVar": -5
   },
   {
     "id": 1442,
@@ -91,25 +105,11 @@
     "subscribe": "39.8萬",
     "score": "0.25",
     "videoTitle": "【踊ってみた】『Ready Steady』踊ってみた公開収録【長尾景/にじさんじ】#Klime",
-    "videoViewCount": "12.24萬",
+    "videoViewCount": "12.5萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UkXXHxwlCyQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvcZOpoI3ABZQj9RhMyGP9Un42lw",
     "videoUrl": "http://youtu.be/UkXXHxwlCyQ",
-    "rank": 7,
-    "rankVar": null
-  },
-  {
-    "id": 1338,
-    "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
-    "name": "クロノワール(叶 葛葉)",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "80.2萬",
-    "score": "0.25",
-    "videoTitle": "【くろのわバーサス】くろのわVSさくゆい！桃鉄バトル！【にじさんじ / くろのわ / さくゆい】",
-    "videoViewCount": "63.43萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/0HmGfARZl6I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYkuVhYnRAQN1OjVHxAOB26Hlg0w",
-    "videoUrl": "http://youtu.be/0HmGfARZl6I",
     "rank": 8,
-    "rankVar": -1
+    "rankVar": null
   },
   {
     "id": 1302,
@@ -119,11 +119,11 @@
     "subscribe": "81.2萬",
     "score": "0.25",
     "videoTitle": "夕景イエスタデイ covered by リゼ・ヘルエスタ【にじさんじ】",
-    "videoViewCount": "80.03萬",
+    "videoViewCount": "81.11萬",
     "videoThumbnail": "https://i.ytimg.com/vi/dsFvjJPcw6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA39JHek6LTKGwAofnEIvFxtYJVXg",
     "videoUrl": "http://youtu.be/dsFvjJPcw6s",
     "rank": 9,
-    "rankVar": -1
+    "rankVar": 0
   },
   {
     "id": 3505,
@@ -133,11 +133,11 @@
     "subscribe": "43.3萬",
     "score": "0.23",
     "videoTitle": "ETHYRIA Cover ♡ Maria Marionette",
-    "videoViewCount": "9.6萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/L-reC38ZcI0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALEBYoCDAgAEAEYciA_KFowDw==&rs=AOn4CLCo5nqc1Zysu605nNPavV0UowFaEQ",
+    "videoViewCount": "9.67萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/L-reC38ZcI0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAsQFigIMCAAQARhyID8oWjAP&rs=AOn4CLC2N-DTXPHFeH_p4h-qV_RLiy1riA",
     "videoUrl": "http://youtu.be/L-reC38ZcI0",
     "rank": 10,
-    "rankVar": -1
+    "rankVar": 0
   },
   {
     "id": 1380,
@@ -147,25 +147,11 @@
     "subscribe": "47.7萬",
     "score": "0.21",
     "videoTitle": "錠剤/ジョー・力一(Cover)",
-    "videoViewCount": "145.62萬",
+    "videoViewCount": "148.58萬",
     "videoThumbnail": "https://i.ytimg.com/vi/nyGpWyQNxYw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn0Sy1U1a8Q-dPcNj7IRr1Vv7-VQ",
     "videoUrl": "http://youtu.be/nyGpWyQNxYw",
     "rank": 11,
-    "rankVar": 0
-  },
-  {
-    "id": 1459,
-    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
-    "name": "エルフのえる",
-    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "48.4萬",
-    "score": "0.21",
-    "videoTitle": "【にじあつめぴょんぴょんサバイバル】出てきたライバーの声真似挑戦しながら実況！【にじさんじ/える】",
-    "videoViewCount": "8.86萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/T9Avh_Lg5Nc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4yWer616Ul2Czqn5a4IYwbd0zmw",
-    "videoUrl": "http://youtu.be/T9Avh_Lg5Nc",
-    "rank": 12,
-    "rankVar": -7
+    "rankVar": 1
   },
   {
     "id": 2433,
@@ -175,11 +161,11 @@
     "subscribe": "5.04萬",
     "score": "0.2",
     "videoTitle": "【#歌ってみた🌸🌙】 INTERNET YAMERO Cover - ナセラ (Na Sera)",
-    "videoViewCount": "1.6萬",
+    "videoViewCount": "1.62萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ukMT_or4hdY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP3jp0K7nAB-4QTwbe1tQUbokOOg",
     "videoUrl": "http://youtu.be/ukMT_or4hdY",
-    "rank": 13,
-    "rankVar": -1
+    "rank": 12,
+    "rankVar": 3
   },
   {
     "id": 1352,
@@ -189,10 +175,10 @@
     "subscribe": "56.3萬",
     "score": "0.18",
     "videoTitle": "【#健屋4周年ライブ】今できる全てを込めて！３Dライブ【健屋花那/にじさんじ】",
-    "videoViewCount": "28.72萬",
+    "videoViewCount": "29.05萬",
     "videoThumbnail": "https://i.ytimg.com/vi/l0-gA6Sxs_k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSbXjM6LRoDbbBb80dpQf6KSRMmg",
     "videoUrl": "http://youtu.be/l0-gA6Sxs_k",
-    "rank": 14,
+    "rank": 13,
     "rankVar": null
   },
   {
@@ -203,24 +189,24 @@
     "subscribe": "60.9萬",
     "score": "0.16",
     "videoTitle": "フォニイ (phony) | ツミキ ver. Uki Violeta【NIJISANJI EN】",
-    "videoViewCount": "36.39萬",
+    "videoViewCount": "36.85萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ztWXSDKX6Bc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYpCbY-V0jjtiZAvocgdHTVd89hQ",
     "videoUrl": "http://youtu.be/ztWXSDKX6Bc",
-    "rank": 15,
-    "rankVar": -2
+    "rank": 14,
+    "rankVar": 2
   },
   {
-    "id": 1331,
-    "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
-    "name": "綠仙",
-    "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "67.1萬",
-    "score": "0.15",
-    "videoTitle": "サマータイムレコード / じん (covered by にじさんじカゲプロ)",
-    "videoViewCount": "141.78萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/o0Mt2sGGaeI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8r1JRDfTJDqJb_10hdIhYRGRxJw",
-    "videoUrl": "http://youtu.be/o0Mt2sGGaeI",
-    "rank": 16,
-    "rankVar": -2
+    "id": 1338,
+    "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
+    "name": "クロノワール(叶 葛葉)",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "80.2萬",
+    "score": "0.12",
+    "videoTitle": "【くろのわバーサス】くろのわVSさくゆい！桃鉄バトル！【にじさんじ / くろのわ / さくゆい】",
+    "videoViewCount": "63.46萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/0HmGfARZl6I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYkuVhYnRAQN1OjVHxAOB26Hlg0w",
+    "videoUrl": "http://youtu.be/0HmGfARZl6I",
+    "rank": 15,
+    "rankVar": -10
   }
 ]
