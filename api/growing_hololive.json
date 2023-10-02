@@ -1,19 +1,5 @@
 [
   {
-    "id": 1230,
-    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-    "name": "星街彗星",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "200萬",
-    "score": "1.01",
-    "videoTitle": "ソワレ / 星街すいせい(official)",
-    "videoViewCount": "430.2萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/mRgslQ5Z-kU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGvGjNlQ-LkC1LND3kWb0aH7BAfQ",
-    "videoUrl": "http://youtu.be/mRgslQ5Z-kU",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1256,
     "channelUrl": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
     "name": "紫咲詩音",
@@ -21,10 +7,10 @@
     "subscribe": "117萬",
     "score": "0.86",
     "videoTitle": "ラヴィ(Lavie) / Covered by紫咲シオン",
-    "videoViewCount": "85.9萬",
+    "videoViewCount": "86.74萬",
     "videoThumbnail": "https://i.ytimg.com/vi/FfesBQyizFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkgXr1axiZ_5liswJSL6A9xZZifg",
     "videoUrl": "http://youtu.be/FfesBQyizFM",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -32,14 +18,28 @@
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "78.5萬",
-    "score": "0.51",
+    "subscribe": "78.6萬",
+    "score": "0.64",
     "videoTitle": "【MV】約束の絆 - Future Star - Kyoukai no Kanata || HAKOS BAELZ【踊って歌ってみた】",
-    "videoViewCount": "40.17萬",
+    "videoViewCount": "40.37萬",
     "videoThumbnail": "https://i.ytimg.com/vi/40WoArsMQgQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN6ntLHCBMkRS5bdmeGVmQiczEDg",
     "videoUrl": "http://youtu.be/40WoArsMQgQ",
+    "rank": 2,
+    "rankVar": 5
+  },
+  {
+    "id": 1230,
+    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+    "name": "星街彗星",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "200萬",
+    "score": "0.5",
+    "videoTitle": "ソワレ / 星街すいせい(official)",
+    "videoViewCount": "437.58萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/mRgslQ5Z-kU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGvGjNlQ-LkC1LND3kWb0aH7BAfQ",
+    "videoUrl": "http://youtu.be/mRgslQ5Z-kU",
     "rank": 3,
-    "rankVar": 4
+    "rankVar": 0
   },
   {
     "id": 1222,
@@ -49,11 +49,11 @@
     "subscribe": "230萬",
     "score": "0.44",
     "videoTitle": "【ENGLISH COVER】INTERNET YAMERO (Mori Calliope)",
-    "videoViewCount": "102.75萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/Lp5n-YS22tY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWkmnj-MLhZxEilpKPaXkZq_yfKQ",
+    "videoViewCount": "105萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/Lp5n-YS22tY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUfoWwoFPFaD7dv6cczZy3LjmVuw",
     "videoUrl": "http://youtu.be/Lp5n-YS22tY",
     "rank": 4,
-    "rankVar": 0
+    "rankVar": 1
   },
   {
     "id": 1527,
@@ -63,7 +63,7 @@
     "subscribe": "23.3萬",
     "score": "0.43",
     "videoTitle": "#RFN2【ストリートファイター6】本番じゃあああああああああ！※声帯治療中のため小声【律可/シュート/ありけん/Sasatikk/赤見かるび/ホロスターズ】",
-    "videoViewCount": "3.4萬",
+    "videoViewCount": "3.41萬",
     "videoThumbnail": "https://i.ytimg.com/vi/s2dXOIJIjqU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnPO2ZTE5WWpeGpSdZiQzkKmH9Wg",
     "videoUrl": "http://youtu.be/s2dXOIJIjqU",
     "rank": 5,
@@ -75,27 +75,13 @@
     "name": "ベスティア・ゼータ",
     "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "81萬",
-    "score": "0.25",
+    "score": "0.12",
     "videoTitle": "comedy #shorts",
-    "videoViewCount": "6.08萬",
+    "videoViewCount": "6.1萬",
     "videoThumbnail": "https://i.ytimg.com/vi/WeRCJDn1jok/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhUIGQoZTAP&rs=AOn4CLDOu-_Qik5jkL_V58MGUj5n4qkcBg",
     "videoUrl": "http://youtu.be/WeRCJDn1jok",
     "rank": 6,
     "rankVar": 2
-  },
-  {
-    "id": 1287,
-    "channelUrl": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
-    "name": "夜空梅露",
-    "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "85.5萬",
-    "score": "0.23",
-    "videoTitle": "YOASOBI「アイドル」/ covered by 夜空メル(hololive)",
-    "videoViewCount": "21.89萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/kiW45K1dWLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3IOHwDl-7qnF5zjdW5jp-56ExBg",
-    "videoUrl": "http://youtu.be/kiW45K1dWLg",
-    "rank": 7,
-    "rankVar": 3
   },
   {
     "id": 1326,
@@ -105,11 +91,11 @@
     "subscribe": "81.1萬",
     "score": "0.12",
     "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "65.08萬",
+    "videoViewCount": "65.7萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
     "videoUrl": "http://youtu.be/lnlyZlIRO1U",
-    "rank": 8,
-    "rankVar": -2
+    "rank": 7,
+    "rankVar": 2
   },
   {
     "id": 1295,
@@ -119,10 +105,24 @@
     "subscribe": "84.4萬",
     "score": "0.12",
     "videoTitle": "【COVER】NEOKI YASHI NO KI (寝起きヤシの木) 【Ayunda Risu】",
-    "videoViewCount": "17.44萬",
+    "videoViewCount": "17.52萬",
     "videoThumbnail": "https://i.ytimg.com/vi/t12GghQ7P0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF0D9SpYiXv2X190Orlc43dpsoXQ",
     "videoUrl": "http://youtu.be/t12GghQ7P0g",
+    "rank": 8,
+    "rankVar": 2
+  },
+  {
+    "id": 1287,
+    "channelUrl": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
+    "name": "夜空梅露",
+    "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "85.5萬",
+    "score": "0.12",
+    "videoTitle": "YOASOBI「アイドル」/ covered by 夜空メル(hololive)",
+    "videoViewCount": "22.07萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/kiW45K1dWLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3IOHwDl-7qnF5zjdW5jp-56ExBg",
+    "videoUrl": "http://youtu.be/kiW45K1dWLg",
     "rank": 9,
-    "rankVar": 0
+    "rankVar": 2
   }
 ]
