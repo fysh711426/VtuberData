@@ -1,33 +1,5 @@
 [
   {
-    "id": 3443,
-    "channelUrl": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg",
-    "name": "四季凪アキラ(しきなぎあきら)",
-    "thumbnail": "https://yt3.ggpht.com/fPcz-rWxhT5YfD6C4gRFMCXqK-mkk2ew1Qq9tijCZQ20cE-Rd2DMoE4SOVT0TNEgRLep-tcyEg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "29.7萬",
-    "score": "0.68",
-    "videoTitle": "君たちは、『カス』のウミガメのスープ を知っているか。【四季凪アキラ/オリバー・エバンス/佐伯イッテツ/緋八マナ/にじさんじ】",
-    "videoViewCount": "9.67萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/9DkZcZT-2WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxRPGIyyaVVD7oAJZc0F6Ptzz75w",
-    "videoUrl": "http://youtu.be/9DkZcZT-2WU",
-    "rank": 1,
-    "rankVar": 7
-  },
-  {
-    "id": 1459,
-    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
-    "name": "エルフのえる",
-    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "48.8萬",
-    "score": "0.62",
-    "videoTitle": "【スイカゲーム】とうとう昼活に侵食し始めたスイカ栽培【にじさんじ/える】",
-    "videoViewCount": "8.52萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/yXD-cM3cqgI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ1a96wBBsHP7s6JaFIXaDQKRK6Q",
-    "videoUrl": "http://youtu.be/yXD-cM3cqgI",
-    "rank": 2,
-    "rankVar": 12
-  },
-  {
     "id": 1240,
     "channelUrl": "https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg",
     "name": "壱百満天原サロメ(ひゃくまんてんばらさろめ)",
@@ -35,39 +7,81 @@
     "subscribe": "179萬",
     "score": "0.56",
     "videoTitle": "【おスイカ】ガチで３０００点耐久しますわ。待ってろスイカゲーム🍉【ですわ】",
-    "videoViewCount": "35.01萬",
+    "videoViewCount": "35.36萬",
     "videoThumbnail": "https://i.ytimg.com/vi/yxgjnqBsFdI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeyjFAvevKXv4MSNQu-lT_xSS2TA",
     "videoUrl": "http://youtu.be/yxgjnqBsFdI",
-    "rank": 3,
+    "rank": 1,
     "rankVar": null
+  },
+  {
+    "id": 1442,
+    "channelUrl": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
+    "name": "長尾景",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_TOPZT9GmdmXkUwpCWw-R83yEPT7mOt7rgR4T5=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "40萬",
+    "score": "0.5",
+    "videoTitle": "【歌ってみた】未完成 / 家入レオ【長尾景cover】【にじさんじ】",
+    "videoViewCount": "24.38萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/iyK36smikqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAho5G3Pg5jGlFmxh6NBZolhM_U5w",
+    "videoUrl": "http://youtu.be/iyK36smikqo",
+    "rank": 2,
+    "rankVar": 10
   },
   {
     "id": 3508,
     "channelUrl": "https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw",
     "name": "金子鏡(カネコキョウ)",
     "thumbnail": "https://yt3.ggpht.com/jWDEqs41VStqvbssw9Ap5Wj5gq8_ti6BY1xqLyL5sZYbIiceaSgqnk5AW21oHF79sFrlbgqLqLs=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "41萬",
+    "subscribe": "41.1萬",
     "score": "0.49",
     "videoTitle": "KYO 2.0 DEBUT",
-    "videoViewCount": "24.68萬",
+    "videoViewCount": "24.71萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Md_uR2nepIs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDemDaUOoXD7ZSFnwiwoIvNaGoSCg",
     "videoUrl": "http://youtu.be/Md_uR2nepIs",
-    "rank": 4,
-    "rankVar": 2
+    "rank": 3,
+    "rankVar": 3
   },
   {
-    "id": 1550,
-    "channelUrl": "https://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ",
-    "name": "小野町春香",
-    "thumbnail": "https://yt3.ggpht.com/tiQkGQzle5iTR6-YNME9zv4LilmcCMBhCL8Jl-hTzgDSm-s4DzVcilyifst0WvY5kFDwD1Z1=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "21.9萬",
-    "score": "0.46",
-    "videoTitle": "耐久【 スイカゲーム 】YouTube3000人（22万人突破）耐久スタート【にじさんじ/小野町春香】耐久",
-    "videoViewCount": "4.82萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/mn4XpbW7yvQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQ7txqmquuX-sUeRKLtbt2Bt4Wbw",
-    "videoUrl": "http://youtu.be/mn4XpbW7yvQ",
+    "id": 3444,
+    "channelUrl": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA",
+    "name": "セラフ・ダズルガーデン / Seraph Dazzlegarden",
+    "thumbnail": "https://yt3.ggpht.com/id0I-5r0K_4FsZsZPSHHDKviKvKfbb1yas8MDD_fLfyImFtDQXncul8G0aeEDifGq27xoMmtmw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "23.8萬",
+    "score": "0.42",
+    "videoTitle": "セプテンバーさん / RADWIMPS （Covered by セラフ・ダズルガーデン）",
+    "videoViewCount": "14.21萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/b8p4kwasMoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQY3bop0pkAyWNGjvTL3ITJ-Eq1w",
+    "videoUrl": "http://youtu.be/b8p4kwasMoE",
+    "rank": 4,
+    "rankVar": -1
+  },
+  {
+    "id": 1459,
+    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+    "name": "エルフのえる",
+    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "48.8萬",
+    "score": "0.41",
+    "videoTitle": "【スイカゲーム】とうとう昼活に侵食し始めたスイカ栽培【にじさんじ/える】",
+    "videoViewCount": "8.61萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/yXD-cM3cqgI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ1a96wBBsHP7s6JaFIXaDQKRK6Q",
+    "videoUrl": "http://youtu.be/yXD-cM3cqgI",
     "rank": 5,
-    "rankVar": 2
+    "rankVar": 4
+  },
+  {
+    "id": 3443,
+    "channelUrl": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg",
+    "name": "四季凪アキラ(しきなぎあきら)",
+    "thumbnail": "https://yt3.ggpht.com/fPcz-rWxhT5YfD6C4gRFMCXqK-mkk2ew1Qq9tijCZQ20cE-Rd2DMoE4SOVT0TNEgRLep-tcyEg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "29.7萬",
+    "score": "0.34",
+    "videoTitle": "君たちは、『カス』のウミガメのスープ を知っているか。【四季凪アキラ/オリバー・エバンス/佐伯イッテツ/緋八マナ/にじさんじ】",
+    "videoViewCount": "10.13萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/9DkZcZT-2WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxRPGIyyaVVD7oAJZc0F6Ptzz75w",
+    "videoUrl": "http://youtu.be/9DkZcZT-2WU",
+    "rank": 6,
+    "rankVar": -1
   },
   {
     "id": 1537,
@@ -77,25 +91,11 @@
     "subscribe": "36.3萬",
     "score": "0.28",
     "videoTitle": "I UNINTENTIONALLY CONFESSED TO MY BF (best friend!) | ANIMATED",
-    "videoViewCount": "65.69萬",
+    "videoViewCount": "66.22萬",
     "videoThumbnail": "https://i.ytimg.com/vi/JSXUYe4ly0Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdQThH4EYiQXOCy-bHqiTxHnYN7w",
     "videoUrl": "http://youtu.be/JSXUYe4ly0Q",
-    "rank": 6,
-    "rankVar": -2
-  },
-  {
-    "id": 1442,
-    "channelUrl": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
-    "name": "長尾景",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_TOPZT9GmdmXkUwpCWw-R83yEPT7mOt7rgR4T5=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "39.9萬",
-    "score": "0.25",
-    "videoTitle": "【歌ってみた】未完成 / 家入レオ【長尾景cover】【にじさんじ】",
-    "videoViewCount": "22.49萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/iyK36smikqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAho5G3Pg5jGlFmxh6NBZolhM_U5w",
-    "videoUrl": "http://youtu.be/iyK36smikqo",
     "rank": 7,
-    "rankVar": 3
+    "rankVar": 4
   },
   {
     "id": 1338,
@@ -105,25 +105,11 @@
     "subscribe": "80.5萬",
     "score": "0.25",
     "videoTitle": "【くろのわバーサス】くろのわVSさくゆい！桃鉄バトル！【にじさんじ / くろのわ / さくゆい】",
-    "videoViewCount": "63.69萬",
+    "videoViewCount": "63.71萬",
     "videoThumbnail": "https://i.ytimg.com/vi/0HmGfARZl6I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYkuVhYnRAQN1OjVHxAOB26Hlg0w",
     "videoUrl": "http://youtu.be/0HmGfARZl6I",
     "rank": 8,
-    "rankVar": 3
-  },
-  {
-    "id": 3505,
-    "channelUrl": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
-    "name": "マリアマリネット",
-    "thumbnail": "https://yt3.googleusercontent.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "43.4萬",
-    "score": "0.23",
-    "videoTitle": "【POSITIVE DANCE TIME ・ ポジティブ☆ダンスタイム 】Cover by Maria Marionette & Millie Parfait ♡ NIJISANJI EN ♡",
-    "videoViewCount": "11.22萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/sgBtJgwR0dQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLlnbbyzoW4J9122N2-DBhXJ9uRQ",
-    "videoUrl": "http://youtu.be/sgBtJgwR0dQ",
-    "rank": 9,
-    "rankVar": 3
+    "rankVar": 5
   },
   {
     "id": 1380,
@@ -133,10 +119,10 @@
     "subscribe": "47.8萬",
     "score": "0.21",
     "videoTitle": "錠剤/ジョー・力一(Cover)",
-    "videoViewCount": "175.03萬",
+    "videoViewCount": "177.73萬",
     "videoThumbnail": "https://i.ytimg.com/vi/nyGpWyQNxYw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn0Sy1U1a8Q-dPcNj7IRr1Vv7-VQ",
     "videoUrl": "http://youtu.be/nyGpWyQNxYw",
-    "rank": 10,
+    "rank": 9,
     "rankVar": null
   },
   {
@@ -147,11 +133,11 @@
     "subscribe": "96.4萬",
     "score": "0.21",
     "videoTitle": "『推しの子』サインはB／covered by 星川サラ×壱百満天原サロメ×笹木咲【にじさんじ】",
-    "videoViewCount": "156.97萬",
+    "videoViewCount": "160.67萬",
     "videoThumbnail": "https://i.ytimg.com/vi/F5uzlCUrFiI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmC4Mcu9LytAMKpJ9hwgUw_BOPqQ",
     "videoUrl": "http://youtu.be/F5uzlCUrFiI",
-    "rank": 11,
-    "rankVar": -6
+    "rank": 10,
+    "rankVar": -2
   },
   {
     "id": 1432,
@@ -161,11 +147,11 @@
     "subscribe": "61.1萬",
     "score": "0.16",
     "videoTitle": "フォニイ (phony) | ツミキ ver. Uki Violeta【NIJISANJI EN】",
-    "videoViewCount": "41.34萬",
+    "videoViewCount": "41.8萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ztWXSDKX6Bc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYpCbY-V0jjtiZAvocgdHTVd89hQ",
     "videoUrl": "http://youtu.be/ztWXSDKX6Bc",
-    "rank": 12,
-    "rankVar": -3
+    "rank": 11,
+    "rankVar": -1
   },
   {
     "id": 1331,
@@ -175,24 +161,10 @@
     "subscribe": "67.3萬",
     "score": "0.15",
     "videoTitle": "【#アニソンカラオケ同好会】90年代王道アニソン縛り‼ みんなで楽しく盛り上がろうの巻【にじさんじ | 緑仙 | オリバー・エバンス | 早瀬走 | 社築】",
-    "videoViewCount": "22.44萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/6zttvqIoEjk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBlCEOBnkLwkgix_1RmQTbFpNqQsQ",
+    "videoViewCount": "22.51萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/6zttvqIoEjk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKBen3kk98QzbPHXAAkF5xm2btkA",
     "videoUrl": "http://youtu.be/6zttvqIoEjk",
-    "rank": 13,
-    "rankVar": 3
-  },
-  {
-    "id": 1302,
-    "channelUrl": "https://www.youtube.com/channel/UCZ1xuCK1kNmn5RzPYIZop3w",
-    "name": "莉澤·赫露艾斯塔",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8Bi_Iaci6LzgKd_wc81MORTQUk1kmSd5hutQK2Iw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "81.3萬",
-    "score": "0.12",
-    "videoTitle": "夕景イエスタデイ covered by リゼ・ヘルエスタ【にじさんじ】",
-    "videoViewCount": "90.33萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/dsFvjJPcw6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA39JHek6LTKGwAofnEIvFxtYJVXg",
-    "videoUrl": "http://youtu.be/dsFvjJPcw6s",
-    "rank": 14,
-    "rankVar": 3
+    "rank": 12,
+    "rankVar": 4
   }
 ]
