@@ -1,19 +1,5 @@
 [
   {
-    "id": 1459,
-    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
-    "name": "エルフのえる",
-    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "49.5萬",
-    "score": "0.61",
-    "videoTitle": "【スイカゲーム】向いてないって言われたのでケリつけます。【にじさんじ/える】",
-    "videoViewCount": "9.22萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/4epIkWrEWsM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm7gd7Knbhl5wkB1LfHVHgQQ2How",
-    "videoUrl": "http://youtu.be/4epIkWrEWsM",
-    "rank": 1,
-    "rankVar": 3
-  },
-  {
     "id": 3444,
     "channelUrl": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA",
     "name": "セラフ・ダズルガーデン / Seraph Dazzlegarden",
@@ -21,11 +7,25 @@
     "subscribe": "23.9萬",
     "score": "0.42",
     "videoTitle": "セプテンバーさん / RADWIMPS （Covered by セラフ・ダズルガーデン）",
-    "videoViewCount": "21.18萬",
+    "videoViewCount": "21.41萬",
     "videoThumbnail": "https://i.ytimg.com/vi/b8p4kwasMoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQY3bop0pkAyWNGjvTL3ITJ-Eq1w",
     "videoUrl": "http://youtu.be/b8p4kwasMoE",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
+  },
+  {
+    "id": 1459,
+    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+    "name": "エルフのえる",
+    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "49.5萬",
+    "score": "0.41",
+    "videoTitle": "【スイカゲーム】向いてないって言われたのでケリつけます。【にじさんじ/える】",
+    "videoViewCount": "9.22萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/4epIkWrEWsM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm7gd7Knbhl5wkB1LfHVHgQQ2How",
+    "videoUrl": "http://youtu.be/4epIkWrEWsM",
+    "rank": 2,
+    "rankVar": 0
   },
   {
     "id": 3443,
@@ -35,25 +35,25 @@
     "subscribe": "30.2萬",
     "score": "0.33",
     "videoTitle": "君たちは、『カス』のウミガメのスープ を知っているか。【四季凪アキラ/オリバー・エバンス/佐伯イッテツ/緋八マナ/にじさんじ】",
-    "videoViewCount": "15.76萬",
+    "videoViewCount": "15.85萬",
     "videoThumbnail": "https://i.ytimg.com/vi/9DkZcZT-2WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxRPGIyyaVVD7oAJZc0F6Ptzz75w",
     "videoUrl": "http://youtu.be/9DkZcZT-2WU",
     "rank": 3,
-    "rankVar": -1
+    "rankVar": 3
   },
   {
-    "id": 1537,
-    "channelUrl": "https://www.youtube.com/channel/UCahgMxSIQ2zIRrPKhM6Mjvg",
-    "name": "Mika Melatika【NIJISANJI ID】",
-    "thumbnail": "https://yt3.ggpht.com/uem9fHFVZHI0aa-UGkzpGnpNbM6zJyiY6SKp7KO1Sfg8gEAggoBCVyWsKBLAmZhKGwRRaltd=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "36.6萬",
-    "score": "0.27",
-    "videoTitle": "I UNINTENTIONALLY CONFESSED TO MY BF (best friend!) | ANIMATED",
-    "videoViewCount": "71.19萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/JSXUYe4ly0Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdQThH4EYiQXOCy-bHqiTxHnYN7w",
-    "videoUrl": "http://youtu.be/JSXUYe4ly0Q",
+    "id": 1331,
+    "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
+    "name": "綠仙",
+    "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "67.6萬",
+    "score": "0.3",
+    "videoTitle": "緑仙 & ポルカドットスティングレイ『天誅』Music Video　「#パラグラム」収録曲",
+    "videoViewCount": "49.84萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/ax3IkGzai_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKGEo4PHBPfvenSEx4K44hBD0zYA",
+    "videoUrl": "http://youtu.be/ax3IkGzai_c",
     "rank": 4,
-    "rankVar": 5
+    "rankVar": null
   },
   {
     "id": 3501,
@@ -63,7 +63,7 @@
     "subscribe": "36.9萬",
     "score": "0.27",
     "videoTitle": "I have something important to say. this is a joke.",
-    "videoViewCount": "5.28萬",
+    "videoViewCount": "5.3萬",
     "videoThumbnail": "https://i.ytimg.com/vi/YXEE1GrS0G4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIEwoZTAP&rs=AOn4CLDB9H-Zbrl6W1exREQpA77V4_bp1g",
     "videoUrl": "http://youtu.be/YXEE1GrS0G4",
     "rank": 5,
@@ -77,11 +77,25 @@
     "subscribe": "40.2萬",
     "score": "0.25",
     "videoTitle": "【歌ってみた】未完成 / 家入レオ【長尾景cover】【にじさんじ】",
-    "videoViewCount": "48.32萬",
+    "videoViewCount": "49.02萬",
     "videoThumbnail": "https://i.ytimg.com/vi/iyK36smikqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAho5G3Pg5jGlFmxh6NBZolhM_U5w",
     "videoUrl": "http://youtu.be/iyK36smikqo",
     "rank": 6,
-    "rankVar": 4
+    "rankVar": 2
+  },
+  {
+    "id": 1338,
+    "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
+    "name": "クロノワール(叶 葛葉)",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "81.3萬",
+    "score": "0.25",
+    "videoTitle": "【人気企画】レオスとローレンに「サーティワン全部食べる」をやらせた結果…！？ #くろなん",
+    "videoViewCount": "76.27萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/OWmqUjGDVtg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBud-l3hDqwXVxxANr4zTqTBM1tvA",
+    "videoUrl": "http://youtu.be/OWmqUjGDVtg",
+    "rank": 7,
+    "rankVar": 2
   },
   {
     "id": 1302,
@@ -91,11 +105,11 @@
     "subscribe": "81.7萬",
     "score": "0.25",
     "videoTitle": "夕景イエスタデイ covered by リゼ・ヘルエスタ【にじさんじ】",
-    "videoViewCount": "110.76萬",
+    "videoViewCount": "111.51萬",
     "videoThumbnail": "https://i.ytimg.com/vi/dsFvjJPcw6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA39JHek6LTKGwAofnEIvFxtYJVXg",
     "videoUrl": "http://youtu.be/dsFvjJPcw6s",
-    "rank": 7,
-    "rankVar": 8
+    "rank": 8,
+    "rankVar": 6
   },
   {
     "id": 3508,
@@ -105,11 +119,25 @@
     "subscribe": "41.4萬",
     "score": "0.24",
     "videoTitle": "VTUBER'S THE BUTTON 【NIJISANJI EN | Kyo Kaneko】",
-    "videoViewCount": "16.59萬",
+    "videoViewCount": "16.66萬",
     "videoThumbnail": "https://i.ytimg.com/vi/JMpv-uzcQcg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ2yHuJgpibFv0XQFzQl7uVUzwpg",
     "videoUrl": "http://youtu.be/JMpv-uzcQcg",
-    "rank": 8,
-    "rankVar": 3
+    "rank": 9,
+    "rankVar": 1
+  },
+  {
+    "id": 3505,
+    "channelUrl": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
+    "name": "マリアマリネット",
+    "thumbnail": "https://yt3.googleusercontent.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "43.6萬",
+    "score": "0.23",
+    "videoTitle": "【POSITIVE DANCE TIME ・ ポジティブ☆ダンスタイム 】Cover by Maria Marionette & Millie Parfait ♡ NIJISANJI EN ♡",
+    "videoViewCount": "17.7萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/sgBtJgwR0dQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLlnbbyzoW4J9122N2-DBhXJ9uRQ",
+    "videoUrl": "http://youtu.be/sgBtJgwR0dQ",
+    "rank": 10,
+    "rankVar": null
   },
   {
     "id": 1380,
@@ -119,11 +147,11 @@
     "subscribe": "48.1萬",
     "score": "0.21",
     "videoTitle": "堕天/Creepy Nuts (Covered by レオス・ヴィンセント & ジョー・力一)",
-    "videoViewCount": "55.63萬",
+    "videoViewCount": "59.08萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Gy6iUQmnP5c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWNBoGet9x1lOxKGdoHcoQj1WeyA",
     "videoUrl": "http://youtu.be/Gy6iUQmnP5c",
-    "rank": 9,
-    "rankVar": 3
+    "rank": 11,
+    "rankVar": 0
   },
   {
     "id": 1281,
@@ -133,11 +161,11 @@
     "subscribe": "97.2萬",
     "score": "0.21",
     "videoTitle": "わざとあざとエキスパート／covered by 星川サラ×天音かなた×胡桃のあ×獅子堂あかり",
-    "videoViewCount": "56.34萬",
+    "videoViewCount": "58.19萬",
     "videoThumbnail": "https://i.ytimg.com/vi/twEQClq5zuk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHtddpp5AK3xhLBovfyyNOwOeBVw",
     "videoUrl": "http://youtu.be/twEQClq5zuk",
-    "rank": 10,
-    "rankVar": -2
+    "rank": 12,
+    "rankVar": 0
   },
   {
     "id": 2191,
@@ -147,25 +175,11 @@
     "subscribe": "5.01萬",
     "score": "0.2",
     "videoTitle": "【歌ってみた】 Sunlit Smile! / Covered by Gaon & Jiyu Oh 【にじさんじ】",
-    "videoViewCount": "1.55萬",
+    "videoViewCount": "1.56萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UMyRI_UR0Zs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE8lmgQDZ_7g8g_sVFriAiKfN8Eg",
     "videoUrl": "http://youtu.be/UMyRI_UR0Zs",
-    "rank": 11,
-    "rankVar": -6
-  },
-  {
-    "id": 1352,
-    "channelUrl": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ",
-    "name": "健屋花那",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8LJ2FjXNATnhclWrn1EQYf9ZXW4BqsCFrADGWKNw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "56.4萬",
-    "score": "0.18",
-    "videoTitle": "【歌ってみた】ラヴィ(Lavie)【健屋花那/にじさんじ】",
-    "videoViewCount": "13.04萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/-Q2tkPP5H_s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJjZnUeewDebSQr7X7I_mH5vVUfg",
-    "videoUrl": "http://youtu.be/-Q2tkPP5H_s",
-    "rank": 12,
-    "rankVar": null
+    "rank": 13,
+    "rankVar": -8
   },
   {
     "id": 1432,
@@ -175,11 +189,11 @@
     "subscribe": "61.5萬",
     "score": "0.16",
     "videoTitle": "フォニイ (phony) | ツミキ ver. Uki Violeta【NIJISANJI EN】",
-    "videoViewCount": "49.84萬",
+    "videoViewCount": "50.18萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ztWXSDKX6Bc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYpCbY-V0jjtiZAvocgdHTVd89hQ",
     "videoUrl": "http://youtu.be/ztWXSDKX6Bc",
-    "rank": 13,
-    "rankVar": 1
+    "rank": 14,
+    "rankVar": -1
   },
   {
     "id": 1313,
@@ -189,38 +203,10 @@
     "subscribe": "64萬",
     "score": "0.16",
     "videoTitle": "【ストグラGTA】ロスサントスへ引っ越してきました。【にじさんじ/勇気ちひろ】",
-    "videoViewCount": "9.97萬",
+    "videoViewCount": "10.06萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UvF3MGplvqU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN0cxqpLgbtB85uVVeIeR5a3e9AQ",
     "videoUrl": "http://youtu.be/UvF3MGplvqU",
-    "rank": 14,
-    "rankVar": null
-  },
-  {
-    "id": 1331,
-    "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
-    "name": "綠仙",
-    "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "67.5萬",
-    "score": "0.15",
-    "videoTitle": "緑仙 & ポルカドットスティングレイ『天誅』Music Video　「#パラグラム」収録曲",
-    "videoViewCount": "49.68萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/ax3IkGzai_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKGEo4PHBPfvenSEx4K44hBD0zYA",
-    "videoUrl": "http://youtu.be/ax3IkGzai_c",
     "rank": 15,
     "rankVar": null
-  },
-  {
-    "id": 1338,
-    "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
-    "name": "クロノワール(叶 葛葉)",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "81.2萬",
-    "score": "0.12",
-    "videoTitle": "【人気企画】レオスとローレンに「サーティワン全部食べる」をやらせた結果…！？ #くろなん",
-    "videoViewCount": "75.94萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/OWmqUjGDVtg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBud-l3hDqwXVxxANr4zTqTBM1tvA",
-    "videoUrl": "http://youtu.be/OWmqUjGDVtg",
-    "rank": 16,
-    "rankVar": -10
   }
 ]
