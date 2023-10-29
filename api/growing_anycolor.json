@@ -1,5 +1,19 @@
 [
   {
+    "id": 1459,
+    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+    "name": "エルフのえる",
+    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "49.6萬",
+    "score": "0.61",
+    "videoTitle": "【スイカゲーム】向いてないって言われたのでケリつけます。【にじさんじ/える】",
+    "videoViewCount": "9.24萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/4epIkWrEWsM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm7gd7Knbhl5wkB1LfHVHgQQ2How",
+    "videoUrl": "http://youtu.be/4epIkWrEWsM",
+    "rank": 1,
+    "rankVar": 3
+  },
+  {
     "id": 3444,
     "channelUrl": "https://www.youtube.com/channel/UC5dJFf4m-mEcoyJRfhBljoA",
     "name": "セラフ・ダズルガーデン / Seraph Dazzlegarden",
@@ -7,25 +21,11 @@
     "subscribe": "23.9萬",
     "score": "0.42",
     "videoTitle": "セプテンバーさん / RADWIMPS （Covered by セラフ・ダズルガーデン）",
-    "videoViewCount": "21.41萬",
+    "videoViewCount": "21.62萬",
     "videoThumbnail": "https://i.ytimg.com/vi/b8p4kwasMoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQY3bop0pkAyWNGjvTL3ITJ-Eq1w",
     "videoUrl": "http://youtu.be/b8p4kwasMoE",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
-    "id": 1459,
-    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
-    "name": "エルフのえる",
-    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "49.5萬",
-    "score": "0.41",
-    "videoTitle": "【スイカゲーム】向いてないって言われたのでケリつけます。【にじさんじ/える】",
-    "videoViewCount": "9.22萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/4epIkWrEWsM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm7gd7Knbhl5wkB1LfHVHgQQ2How",
-    "videoUrl": "http://youtu.be/4epIkWrEWsM",
     "rank": 2,
-    "rankVar": 0
+    "rankVar": null
   },
   {
     "id": 3443,
@@ -34,12 +34,26 @@
     "thumbnail": "https://yt3.ggpht.com/fPcz-rWxhT5YfD6C4gRFMCXqK-mkk2ew1Qq9tijCZQ20cE-Rd2DMoE4SOVT0TNEgRLep-tcyEg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "30.2萬",
     "score": "0.33",
-    "videoTitle": "君たちは、『カス』のウミガメのスープ を知っているか。【四季凪アキラ/オリバー・エバンス/佐伯イッテツ/緋八マナ/にじさんじ】",
-    "videoViewCount": "15.85萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/9DkZcZT-2WU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxRPGIyyaVVD7oAJZc0F6Ptzz75w",
-    "videoUrl": "http://youtu.be/9DkZcZT-2WU",
+    "videoTitle": "【オフコラボ】一人でコレやるの無理すぎるので、相方家に呼びました【ShadowCorridor/四季凪アキラ/セラフ・ダズルガーデン/にじさんじ/VOLTACTION】",
+    "videoViewCount": "11.87萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/kDdiU5n0chw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdp2KKWsaDt3M44C-E5kBiCBCQAg",
+    "videoUrl": "http://youtu.be/kDdiU5n0chw",
     "rank": 3,
-    "rankVar": 3
+    "rankVar": 2
+  },
+  {
+    "id": 1432,
+    "channelUrl": "https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ",
+    "name": "浮奇ヴィオレタ",
+    "thumbnail": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "61.6萬",
+    "score": "0.33",
+    "videoTitle": "フォニイ (phony) | ツミキ ver. Uki Violeta【NIJISANJI EN】",
+    "videoViewCount": "50.55萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/ztWXSDKX6Bc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYpCbY-V0jjtiZAvocgdHTVd89hQ",
+    "videoUrl": "http://youtu.be/ztWXSDKX6Bc",
+    "rank": 4,
+    "rankVar": 10
   },
   {
     "id": 1331,
@@ -49,10 +63,10 @@
     "subscribe": "67.6萬",
     "score": "0.3",
     "videoTitle": "緑仙 & ポルカドットスティングレイ『天誅』Music Video　「#パラグラム」収録曲",
-    "videoViewCount": "49.84萬",
+    "videoViewCount": "50.01萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ax3IkGzai_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKGEo4PHBPfvenSEx4K44hBD0zYA",
     "videoUrl": "http://youtu.be/ax3IkGzai_c",
-    "rank": 4,
+    "rank": 5,
     "rankVar": null
   },
   {
@@ -63,10 +77,10 @@
     "subscribe": "36.9萬",
     "score": "0.27",
     "videoTitle": "I have something important to say. this is a joke.",
-    "videoViewCount": "5.3萬",
+    "videoViewCount": "5.34萬",
     "videoThumbnail": "https://i.ytimg.com/vi/YXEE1GrS0G4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhVIEwoZTAP&rs=AOn4CLDB9H-Zbrl6W1exREQpA77V4_bp1g",
     "videoUrl": "http://youtu.be/YXEE1GrS0G4",
-    "rank": 5,
+    "rank": 6,
     "rankVar": null
   },
   {
@@ -76,12 +90,12 @@
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_TOPZT9GmdmXkUwpCWw-R83yEPT7mOt7rgR4T5=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "40.2萬",
     "score": "0.25",
-    "videoTitle": "【歌ってみた】未完成 / 家入レオ【長尾景cover】【にじさんじ】",
-    "videoViewCount": "49.02萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/iyK36smikqo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAho5G3Pg5jGlFmxh6NBZolhM_U5w",
-    "videoUrl": "http://youtu.be/iyK36smikqo",
-    "rank": 6,
-    "rankVar": 2
+    "videoTitle": "【#にじスプラDREAMMATCH】にじスプラDREAM MATCH！！ルール・チーム発表",
+    "videoViewCount": "16.59萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/N9Y-0ebienw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcC_HiGuvt4hn0mwOyAWgK0urnZQ",
+    "videoUrl": "http://youtu.be/N9Y-0ebienw",
+    "rank": 7,
+    "rankVar": 0
   },
   {
     "id": 1338,
@@ -91,11 +105,11 @@
     "subscribe": "81.3萬",
     "score": "0.25",
     "videoTitle": "【人気企画】レオスとローレンに「サーティワン全部食べる」をやらせた結果…！？ #くろなん",
-    "videoViewCount": "76.27萬",
+    "videoViewCount": "76.61萬",
     "videoThumbnail": "https://i.ytimg.com/vi/OWmqUjGDVtg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBud-l3hDqwXVxxANr4zTqTBM1tvA",
     "videoUrl": "http://youtu.be/OWmqUjGDVtg",
-    "rank": 7,
-    "rankVar": 2
+    "rank": 8,
+    "rankVar": 0
   },
   {
     "id": 1302,
@@ -105,10 +119,10 @@
     "subscribe": "81.7萬",
     "score": "0.25",
     "videoTitle": "夕景イエスタデイ covered by リゼ・ヘルエスタ【にじさんじ】",
-    "videoViewCount": "111.51萬",
+    "videoViewCount": "112.18萬",
     "videoThumbnail": "https://i.ytimg.com/vi/dsFvjJPcw6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA39JHek6LTKGwAofnEIvFxtYJVXg",
     "videoUrl": "http://youtu.be/dsFvjJPcw6s",
-    "rank": 8,
+    "rank": 9,
     "rankVar": 6
   },
   {
@@ -119,11 +133,11 @@
     "subscribe": "41.4萬",
     "score": "0.24",
     "videoTitle": "VTUBER'S THE BUTTON 【NIJISANJI EN | Kyo Kaneko】",
-    "videoViewCount": "16.66萬",
+    "videoViewCount": "16.73萬",
     "videoThumbnail": "https://i.ytimg.com/vi/JMpv-uzcQcg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ2yHuJgpibFv0XQFzQl7uVUzwpg",
     "videoUrl": "http://youtu.be/JMpv-uzcQcg",
-    "rank": 9,
-    "rankVar": 1
+    "rank": 10,
+    "rankVar": -1
   },
   {
     "id": 3505,
@@ -133,10 +147,10 @@
     "subscribe": "43.6萬",
     "score": "0.23",
     "videoTitle": "【POSITIVE DANCE TIME ・ ポジティブ☆ダンスタイム 】Cover by Maria Marionette & Millie Parfait ♡ NIJISANJI EN ♡",
-    "videoViewCount": "17.7萬",
+    "videoViewCount": "17.94萬",
     "videoThumbnail": "https://i.ytimg.com/vi/sgBtJgwR0dQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLlnbbyzoW4J9122N2-DBhXJ9uRQ",
     "videoUrl": "http://youtu.be/sgBtJgwR0dQ",
-    "rank": 10,
+    "rank": 11,
     "rankVar": null
   },
   {
@@ -147,11 +161,11 @@
     "subscribe": "48.1萬",
     "score": "0.21",
     "videoTitle": "堕天/Creepy Nuts (Covered by レオス・ヴィンセント & ジョー・力一)",
-    "videoViewCount": "59.08萬",
+    "videoViewCount": "62.45萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Gy6iUQmnP5c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWNBoGet9x1lOxKGdoHcoQj1WeyA",
     "videoUrl": "http://youtu.be/Gy6iUQmnP5c",
-    "rank": 11,
-    "rankVar": 0
+    "rank": 12,
+    "rankVar": -2
   },
   {
     "id": 1281,
@@ -161,11 +175,11 @@
     "subscribe": "97.2萬",
     "score": "0.21",
     "videoTitle": "わざとあざとエキスパート／covered by 星川サラ×天音かなた×胡桃のあ×獅子堂あかり",
-    "videoViewCount": "58.19萬",
+    "videoViewCount": "59.97萬",
     "videoThumbnail": "https://i.ytimg.com/vi/twEQClq5zuk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHtddpp5AK3xhLBovfyyNOwOeBVw",
     "videoUrl": "http://youtu.be/twEQClq5zuk",
-    "rank": 12,
-    "rankVar": 0
+    "rank": 13,
+    "rankVar": -2
   },
   {
     "id": 2191,
@@ -175,25 +189,11 @@
     "subscribe": "5.01萬",
     "score": "0.2",
     "videoTitle": "【歌ってみた】 Sunlit Smile! / Covered by Gaon & Jiyu Oh 【にじさんじ】",
-    "videoViewCount": "1.56萬",
+    "videoViewCount": "1.57萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UMyRI_UR0Zs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE8lmgQDZ_7g8g_sVFriAiKfN8Eg",
     "videoUrl": "http://youtu.be/UMyRI_UR0Zs",
-    "rank": 13,
-    "rankVar": -8
-  },
-  {
-    "id": 1432,
-    "channelUrl": "https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ",
-    "name": "浮奇ヴィオレタ",
-    "thumbnail": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "61.5萬",
-    "score": "0.16",
-    "videoTitle": "フォニイ (phony) | ツミキ ver. Uki Violeta【NIJISANJI EN】",
-    "videoViewCount": "50.18萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/ztWXSDKX6Bc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYpCbY-V0jjtiZAvocgdHTVd89hQ",
-    "videoUrl": "http://youtu.be/ztWXSDKX6Bc",
     "rank": 14,
-    "rankVar": -1
+    "rankVar": -2
   },
   {
     "id": 1313,
@@ -203,7 +203,7 @@
     "subscribe": "64萬",
     "score": "0.16",
     "videoTitle": "【ストグラGTA】ロスサントスへ引っ越してきました。【にじさんじ/勇気ちひろ】",
-    "videoViewCount": "10.06萬",
+    "videoViewCount": "10.15萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UvF3MGplvqU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN0cxqpLgbtB85uVVeIeR5a3e9AQ",
     "videoUrl": "http://youtu.be/UvF3MGplvqU",
     "rank": 15,
