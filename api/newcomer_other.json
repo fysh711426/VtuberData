@@ -1,30 +1,16 @@
 [
   {
-    "id": 5464,
-    "channelUrl": "https://www.youtube.com/channel/UCRw0D-yHpnR0Lxqmn62kbQQ",
-    "name": "砂糖奈月",
-    "thumbnail": "https://yt3.googleusercontent.com/U8KmLZDi-TeBro6F1goqBVdf6WjOC_ZxYwOdqhXGCcqgyIatDvPLNO-mRtOb9-f0gCv9lF0WIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "523",
-    "score": "523",
-    "videoTitle": "[耐久到電腦斷線藍幕台]奈月的一天 砂糖奈月 hkvtuber twvtuber 粵語中文 Smooth Jazz & Relaxing Coffee Shop music Weekend music",
-    "videoViewCount": "441",
-    "videoThumbnail": "https://i.ytimg.com/vi/vW-Px6ax70k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDRGBoj1ek5_9uLmLpjXawGTBIRQ",
-    "videoUrl": "http://youtu.be/vW-Px6ax70k",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 5592,
     "channelUrl": "https://www.youtube.com/channel/UCZD47M2JPm0G4LLvgxs2YmA",
     "name": "艾爾莉絲",
     "thumbnail": "https://yt3.googleusercontent.com/2Mew0noCq0GP0x6Pg4u6Pe0s4_7MS1p6EfJ-d3CiotmLyBAWr7TdP0Qy-1HIz_6w2qpW8Y8u4UI=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "304",
-    "score": "304",
+    "subscribe": "306",
+    "score": "306",
     "videoTitle": "【初配信】珍貴的初次見面時光 ✦ 艾爾莉絲",
     "videoViewCount": "353",
     "videoThumbnail": "https://i.ytimg.com/vi/bEI_B3lGTns/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFWKxjY2E-OPTYdgoD8n4RX5qiGg",
     "videoUrl": "http://youtu.be/bEI_B3lGTns",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -38,21 +24,7 @@
     "videoViewCount": "422",
     "videoThumbnail": "https://i.ytimg.com/vi/0kuZAezdAfk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFqDmVYftUUqm9hNVLzBPWJAVnAw",
     "videoUrl": "http://youtu.be/0kuZAezdAfk",
-    "rank": 3,
-    "rankVar": null
-  },
-  {
-    "id": 5581,
-    "channelUrl": "https://www.youtube.com/channel/UCsJU2uXv3pmah7422YgjxEQ",
-    "name": "狼寳Lambo",
-    "thumbnail": "https://yt3.googleusercontent.com/BX8QiiHgUVUP5priFmXfydN8GTmlHyeyETwIX7n-oamMH7FDIallDIV2Mv-NYBA7CwVztOYZLg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "63",
-    "score": "63",
-    "videoTitle": "【Cover】Palette Covered by Lambo",
-    "videoViewCount": "183",
-    "videoThumbnail": "https://i.ytimg.com/vi/5Xjx4zF19Lc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_rhGPvX6L2s2n2TYK128-5O49rA",
-    "videoUrl": "http://youtu.be/5Xjx4zF19Lc",
-    "rank": 4,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -60,13 +32,13 @@
     "channelUrl": "https://www.youtube.com/channel/UC6PSJCHTZIJZaSfyRzNS3Gg",
     "name": "Ziv止夙",
     "thumbnail": "https://yt3.googleusercontent.com/ZbwB-qVBEeBbETG6Psiw6L7xC9rMkSsFz0PxJtQMIOYPc0d9TKrFp-mwfDw62ko-6tQiK1INjA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "23",
-    "score": "23",
+    "subscribe": "24",
+    "score": "24",
     "videoTitle": "【初配信】「——那麼，第二階段，開始。」【Ziv止夙】",
     "videoViewCount": "64",
     "videoThumbnail": "https://i.ytimg.com/vi/F8e4wi05Obs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_Ub67mvhBjrHOqQZO8P01O2cDlQ",
     "videoUrl": "http://youtu.be/F8e4wi05Obs",
-    "rank": 5,
+    "rank": 3,
     "rankVar": null
   }
 ]
