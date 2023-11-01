@@ -1,31 +1,17 @@
 [
   {
-    "id": 1230,
-    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-    "name": "星街彗星",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "202萬",
-    "score": "0.5",
-    "videoTitle": "ソワレ / 星街すいせい(official)",
-    "videoViewCount": "633萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/mRgslQ5Z-kU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGvGjNlQ-LkC1LND3kWb0aH7BAfQ",
-    "videoUrl": "http://youtu.be/mRgslQ5Z-kU",
+    "id": 1287,
+    "channelUrl": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
+    "name": "夜空梅露",
+    "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "86.2萬",
+    "score": "0.47",
+    "videoTitle": "YOASOBI「アイドル」/ covered by 夜空メル(hololive)",
+    "videoViewCount": "25.76萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/kiW45K1dWLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3IOHwDl-7qnF5zjdW5jp-56ExBg",
+    "videoUrl": "http://youtu.be/kiW45K1dWLg",
     "rank": 1,
     "rankVar": null
-  },
-  {
-    "id": 1365,
-    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-    "name": "ベスティア・ゼータ",
-    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "82.9萬",
-    "score": "0.48",
-    "videoTitle": "【3D SHOWCASE】LET ME INNNN !!!!!!!!!!!! #VestiaZeta3D",
-    "videoViewCount": "52.79萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/6-PlITA_VWg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxzKpyT69veccXyAehawVa9yUPRQ",
-    "videoUrl": "http://youtu.be/6-PlITA_VWg",
-    "rank": 2,
-    "rankVar": -1
   },
   {
     "id": 1527,
@@ -34,12 +20,26 @@
     "thumbnail": "https://yt3.ggpht.com/0MLL-S2KKu4PlhedunMhvg4VPJGm6Fpx2C4QV2PWJvkcG1eA6XqUYULUZGqBF2M4iNY7FxBt=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "24萬",
     "score": "0.42",
-    "videoTitle": "第一回Vtuber歌唱王teaser2023 10/7 18:00 #Vtuber歌唱王",
-    "videoViewCount": "6.47萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/m5-lxwNYBoI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr9uW_Ps45fHPWoLlwWM_XS3aBGg",
-    "videoUrl": "http://youtu.be/m5-lxwNYBoI",
-    "rank": 3,
+    "videoTitle": "第一回  #Vtuber歌唱王  【律可/星街すいせい/歌衣メイカ/獅子神レオナ/ときのそら/緋月ゆい/神成きゅぴ/HACHI/バーチャルゴリラ/__（アンダーバー）】",
+    "videoViewCount": "77.07萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/T1ST9qz1RAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuAltuEP0XQ0hoU3xIR97FQhbjTg",
+    "videoUrl": "http://youtu.be/T1ST9qz1RAQ",
+    "rank": 2,
     "rankVar": null
+  },
+  {
+    "id": 1365,
+    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+    "name": "ベスティア・ゼータ",
+    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "82.9萬",
+    "score": "0.36",
+    "videoTitle": "【3D SHOWCASE】LET ME INNNN !!!!!!!!!!!! #VestiaZeta3D",
+    "videoViewCount": "53.03萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/6-PlITA_VWg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxzKpyT69veccXyAehawVa9yUPRQ",
+    "videoUrl": "http://youtu.be/6-PlITA_VWg",
+    "rank": 3,
+    "rankVar": -2
   },
   {
     "id": 1328,
@@ -47,27 +47,13 @@
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "79.7萬",
-    "score": "0.38",
+    "score": "0.25",
     "videoTitle": "【MV】IDOL - YOASOBI || HAKOS BAELZ COVER",
-    "videoViewCount": "28.96萬",
+    "videoViewCount": "29.19萬",
     "videoThumbnail": "https://i.ytimg.com/vi/wwfW25t99fU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnqDFFQfKo9VFF_93ONhgNTk2m2g",
     "videoUrl": "http://youtu.be/wwfW25t99fU",
     "rank": 4,
-    "rankVar": 0
-  },
-  {
-    "id": 1287,
-    "channelUrl": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
-    "name": "夜空梅露",
-    "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "86.1萬",
-    "score": "0.35",
-    "videoTitle": "YOASOBI「アイドル」/ covered by 夜空メル(hololive)",
-    "videoViewCount": "25.64萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/kiW45K1dWLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3IOHwDl-7qnF5zjdW5jp-56ExBg",
-    "videoUrl": "http://youtu.be/kiW45K1dWLg",
-    "rank": 5,
-    "rankVar": 2
+    "rankVar": 1
   },
   {
     "id": 1326,
@@ -75,13 +61,13 @@
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "81.8萬",
-    "score": "0.25",
+    "score": "0.12",
     "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "81.32萬",
+    "videoViewCount": "81.71萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
     "videoUrl": "http://youtu.be/lnlyZlIRO1U",
-    "rank": 6,
-    "rankVar": -1
+    "rank": 5,
+    "rankVar": 1
   },
   {
     "id": 1295,
@@ -91,10 +77,10 @@
     "subscribe": "84.7萬",
     "score": "0.12",
     "videoTitle": "【COVER】NEOKI YASHI NO KI (寝起きヤシの木) 【Ayunda Risu】",
-    "videoViewCount": "19.26萬",
+    "videoViewCount": "19.34萬",
     "videoThumbnail": "https://i.ytimg.com/vi/t12GghQ7P0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF0D9SpYiXv2X190Orlc43dpsoXQ",
     "videoUrl": "http://youtu.be/t12GghQ7P0g",
-    "rank": 7,
-    "rankVar": -1
+    "rank": 6,
+    "rankVar": 1
   }
 ]
