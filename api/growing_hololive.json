@@ -1,19 +1,5 @@
 [
   {
-    "id": 1287,
-    "channelUrl": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
-    "name": "夜空梅露",
-    "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "86.2萬",
-    "score": "0.47",
-    "videoTitle": "【 3D LIVE 】ゲスト多数！お披露目&告知あり！「Genius Idol」 #夜空メル誕生祭2023 🎂 【ホロライブ/夜空メル】",
-    "videoViewCount": "27.22萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/YPrUX5M7a5k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvuDjPlrr6Ld_JRdTN-vd8HQvP3A",
-    "videoUrl": "http://youtu.be/YPrUX5M7a5k",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1222,
     "channelUrl": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
     "name": "森美聲",
@@ -21,10 +7,10 @@
     "subscribe": "231萬",
     "score": "0.43",
     "videoTitle": "【ENGLISH COVER】INTERNET YAMERO (Mori Calliope)",
-    "videoViewCount": "170.88萬",
+    "videoViewCount": "172.3萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Lp5n-YS22tY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUfoWwoFPFaD7dv6cczZy3LjmVuw",
     "videoUrl": "http://youtu.be/Lp5n-YS22tY",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -35,39 +21,53 @@
     "subscribe": "83萬",
     "score": "0.36",
     "videoTitle": "【3D SHOWCASE】LET ME INNNN !!!!!!!!!!!! #VestiaZeta3D",
-    "videoViewCount": "53.44萬",
+    "videoViewCount": "53.63萬",
     "videoThumbnail": "https://i.ytimg.com/vi/6-PlITA_VWg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxzKpyT69veccXyAehawVa9yUPRQ",
     "videoUrl": "http://youtu.be/6-PlITA_VWg",
+    "rank": 2,
+    "rankVar": 3
+  },
+  {
+    "id": 1287,
+    "channelUrl": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
+    "name": "夜空梅露",
+    "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "86.2萬",
+    "score": "0.35",
+    "videoTitle": "【 3D LIVE 】ゲスト多数！お披露目&告知あり！「Genius Idol」 #夜空メル誕生祭2023 🎂 【ホロライブ/夜空メル】",
+    "videoViewCount": "27.66萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/YPrUX5M7a5k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvuDjPlrr6Ld_JRdTN-vd8HQvP3A",
+    "videoUrl": "http://youtu.be/YPrUX5M7a5k",
     "rank": 3,
-    "rankVar": -1
+    "rankVar": 5
   },
   {
     "id": 1328,
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "79.7萬",
+    "subscribe": "79.8萬",
     "score": "0.25",
     "videoTitle": "【MV】IDOL - YOASOBI || HAKOS BAELZ COVER",
-    "videoViewCount": "29.65萬",
+    "videoViewCount": "29.84萬",
     "videoThumbnail": "https://i.ytimg.com/vi/wwfW25t99fU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnqDFFQfKo9VFF_93ONhgNTk2m2g",
     "videoUrl": "http://youtu.be/wwfW25t99fU",
     "rank": 4,
-    "rankVar": 3
+    "rankVar": 2
   },
   {
     "id": 1326,
     "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "81.8萬",
-    "score": "0.12",
+    "subscribe": "81.9萬",
+    "score": "0.24",
     "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "82.56萬",
+    "videoViewCount": "82.92萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
     "videoUrl": "http://youtu.be/lnlyZlIRO1U",
     "rank": 5,
-    "rankVar": 1
+    "rankVar": 2
   },
   {
     "id": 1295,
@@ -77,10 +77,10 @@
     "subscribe": "84.7萬",
     "score": "0.12",
     "videoTitle": "【COVER】NEOKI YASHI NO KI (寝起きヤシの木) 【Ayunda Risu】",
-    "videoViewCount": "19.51萬",
+    "videoViewCount": "19.56萬",
     "videoThumbnail": "https://i.ytimg.com/vi/t12GghQ7P0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF0D9SpYiXv2X190Orlc43dpsoXQ",
     "videoUrl": "http://youtu.be/t12GghQ7P0g",
     "rank": 6,
-    "rankVar": 2
+    "rankVar": null
   }
 ]
