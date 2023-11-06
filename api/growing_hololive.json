@@ -7,7 +7,7 @@
     "subscribe": "146萬",
     "score": "0.69",
     "videoTitle": "【人生ゲーム for Nintendo Switch】バカタレサーカスの人生どうなる？！【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "61.12萬",
+    "videoViewCount": "61.3萬",
     "videoThumbnail": "https://i.ytimg.com/vi/s2BISwLJYL0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoXXTZEi5hPn8hwz4rL8b1fhso7g",
     "videoUrl": "http://youtu.be/s2BISwLJYL0",
     "rank": 1,
@@ -21,11 +21,11 @@
     "subscribe": "86.3萬",
     "score": "0.47",
     "videoTitle": "【 3D LIVE 】ゲスト多数！お披露目&告知あり！「Genius Idol」 #夜空メル誕生祭2023 🎂 【ホロライブ/夜空メル】",
-    "videoViewCount": "27.93萬",
+    "videoViewCount": "28.17萬",
     "videoThumbnail": "https://i.ytimg.com/vi/YPrUX5M7a5k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvuDjPlrr6Ld_JRdTN-vd8HQvP3A",
     "videoUrl": "http://youtu.be/YPrUX5M7a5k",
     "rank": 2,
-    "rankVar": 6
+    "rankVar": 5
   },
   {
     "id": 1222,
@@ -35,7 +35,7 @@
     "subscribe": "231萬",
     "score": "0.43",
     "videoTitle": "【ENGLISH COVER】INTERNET YAMERO (Mori Calliope)",
-    "videoViewCount": "173.71萬",
+    "videoViewCount": "174.96萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Lp5n-YS22tY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUfoWwoFPFaD7dv6cczZy3LjmVuw",
     "videoUrl": "http://youtu.be/Lp5n-YS22tY",
     "rank": 3,
@@ -49,11 +49,25 @@
     "subscribe": "235萬",
     "score": "0.43",
     "videoTitle": "【人生ゲーム】みんなで遊ぶぺこおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら/紫咲シオン/桃鈴ねね/儒烏風亭らでん】",
-    "videoViewCount": "94.93萬",
+    "videoViewCount": "95.15萬",
     "videoThumbnail": "https://i.ytimg.com/vi/S6jxTDLfLXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxrTJoScnQjgTk79FmiqhavoseCg",
     "videoUrl": "http://youtu.be/S6jxTDLfLXs",
     "rank": 4,
-    "rankVar": 0
+    "rankVar": -2
+  },
+  {
+    "id": 1365,
+    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+    "name": "ベスティア・ゼータ",
+    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "83.1萬",
+    "score": "0.36",
+    "videoTitle": "【3D SHOWCASE】LET ME INNNN !!!!!!!!!!!! #VestiaZeta3D",
+    "videoViewCount": "53.9萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/6-PlITA_VWg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxzKpyT69veccXyAehawVa9yUPRQ",
+    "videoUrl": "http://youtu.be/6-PlITA_VWg",
+    "rank": 5,
+    "rankVar": -1
   },
   {
     "id": 1328,
@@ -63,25 +77,11 @@
     "subscribe": "79.8萬",
     "score": "0.25",
     "videoTitle": "【MV】IDOL - YOASOBI || HAKOS BAELZ COVER",
-    "videoViewCount": "30.03萬",
+    "videoViewCount": "30.23萬",
     "videoThumbnail": "https://i.ytimg.com/vi/wwfW25t99fU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnqDFFQfKo9VFF_93ONhgNTk2m2g",
     "videoUrl": "http://youtu.be/wwfW25t99fU",
-    "rank": 5,
-    "rankVar": 1
-  },
-  {
-    "id": 1365,
-    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-    "name": "ベスティア・ゼータ",
-    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "83萬",
-    "score": "0.24",
-    "videoTitle": "【3D SHOWCASE】LET ME INNNN !!!!!!!!!!!! #VestiaZeta3D",
-    "videoViewCount": "53.77萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/6-PlITA_VWg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxzKpyT69veccXyAehawVa9yUPRQ",
-    "videoUrl": "http://youtu.be/6-PlITA_VWg",
     "rank": 6,
-    "rankVar": -4
+    "rankVar": -1
   },
   {
     "id": 1326,
@@ -91,11 +91,11 @@
     "subscribe": "81.9萬",
     "score": "0.12",
     "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "83.34萬",
+    "videoViewCount": "83.72萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
     "videoUrl": "http://youtu.be/lnlyZlIRO1U",
     "rank": 7,
-    "rankVar": 0
+    "rankVar": -1
   },
   {
     "id": 1295,
@@ -105,7 +105,7 @@
     "subscribe": "84.7萬",
     "score": "0.12",
     "videoTitle": "【COVER】NEOKI YASHI NO KI (寝起きヤシの木) 【Ayunda Risu】",
-    "videoViewCount": "19.6萬",
+    "videoViewCount": "19.65萬",
     "videoThumbnail": "https://i.ytimg.com/vi/t12GghQ7P0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF0D9SpYiXv2X190Orlc43dpsoXQ",
     "videoUrl": "http://youtu.be/t12GghQ7P0g",
     "rank": 8,
