@@ -1,19 +1,5 @@
 [
   {
-    "id": 5592,
-    "channelUrl": "https://www.youtube.com/channel/UCZD47M2JPm0G4LLvgxs2YmA",
-    "name": "艾爾莉絲",
-    "thumbnail": "https://yt3.googleusercontent.com/2Mew0noCq0GP0x6Pg4u6Pe0s4_7MS1p6EfJ-d3CiotmLyBAWr7TdP0Qy-1HIz_6w2qpW8Y8u4UI=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "329",
-    "score": "329",
-    "videoTitle": "【Debut PV】10月1日 儲糧收集計劃 啟動 ✦ 艾爾莉絲",
-    "videoViewCount": "338",
-    "videoThumbnail": "https://i.ytimg.com/vi/nAU0nq8AZmI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA64LXylT15zFnYgBSGRg0-meii4w",
-    "videoUrl": "http://youtu.be/nAU0nq8AZmI",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 5632,
     "channelUrl": "https://www.youtube.com/channel/UC6DnThnleMwRnIOnkwkGltw",
     "name": "Moni 夢妮",
@@ -21,9 +7,23 @@
     "subscribe": "138",
     "score": "138",
     "videoTitle": "【遊戲學習日語：原神】「抽角色」的日語是什麼？",
-    "videoViewCount": "108",
+    "videoViewCount": "109",
     "videoThumbnail": "https://i.ytimg.com/vi/bxHN8Ka-iec/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1nZKuNdsFYKKuTejVo_vlBnENbw",
     "videoUrl": "http://youtu.be/bxHN8Ka-iec",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 5653,
+    "channelUrl": "https://www.youtube.com/channel/UC3F-zmSUoygdqf4WjhDWYRQ",
+    "name": "露娜莉亞·懷特",
+    "thumbnail": "https://yt3.googleusercontent.com/EqHO0m7WZ9mryQl6cNlREMq_xjwcbEYJ5wAVo3fVAwb6BycgBUhxhU7o1seoKUFV3sqcewoLkk0=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "35",
+    "score": "35",
+    "videoTitle": "【露娜莉亞】Parasocial：中之人曝光 瘋狂粉絲找上門！？ lunariawhite @ #Twitch",
+    "videoViewCount": "26",
+    "videoThumbnail": "https://i.ytimg.com/vi/AntCVLYcW0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjzYhvGUnzLSGjtYCw4jKLf1yo0g",
+    "videoUrl": "http://youtu.be/AntCVLYcW0E",
     "rank": 2,
     "rankVar": null
   },
@@ -32,8 +32,8 @@
     "channelUrl": "https://www.youtube.com/channel/UC5hak94udmukClVd8EoAsXw",
     "name": "神原悠人",
     "thumbnail": "https://yt3.googleusercontent.com/2kDqgvz2_jrz9o7sgfWKPWjit9qS68LNbCNKpZnh8Kkr1wv_ff0zqLxt-ipz1qbFDZwzI3T6SQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "33",
-    "score": "33",
+    "subscribe": "32",
+    "score": "32",
     "videoTitle": "[初配信]大家好~有沒有人? 我是悠人~【神原悠人/港台vtuber】",
     "videoViewCount": "75",
     "videoThumbnail": "https://i.ytimg.com/vi/PxO0gkfA29o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtt_yeHeIAkmog-ztFU1f3l_8mBA",
@@ -42,31 +42,17 @@
     "rankVar": null
   },
   {
-    "id": 5653,
-    "channelUrl": "https://www.youtube.com/channel/UC3F-zmSUoygdqf4WjhDWYRQ",
-    "name": "露娜莉亞·懷特",
-    "thumbnail": "https://yt3.googleusercontent.com/EqHO0m7WZ9mryQl6cNlREMq_xjwcbEYJ5wAVo3fVAwb6BycgBUhxhU7o1seoKUFV3sqcewoLkk0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "28",
-    "score": "28",
-    "videoTitle": "【露娜莉亞】Parasocial：中之人曝光 瘋狂粉絲找上門！？ lunariawhite @ #Twitch",
-    "videoViewCount": "23",
-    "videoThumbnail": "https://i.ytimg.com/vi/AntCVLYcW0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjzYhvGUnzLSGjtYCw4jKLf1yo0g",
-    "videoUrl": "http://youtu.be/AntCVLYcW0E",
-    "rank": 4,
-    "rankVar": null
-  },
-  {
     "id": 5623,
     "channelUrl": "https://www.youtube.com/channel/UC6PSJCHTZIJZaSfyRzNS3Gg",
     "name": "Ziv止夙",
     "thumbnail": "https://yt3.googleusercontent.com/ZbwB-qVBEeBbETG6Psiw6L7xC9rMkSsFz0PxJtQMIOYPc0d9TKrFp-mwfDw62ko-6tQiK1INjA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "26",
-    "score": "26",
+    "subscribe": "27",
+    "score": "27",
     "videoTitle": "【初配信】「——那麼，第二階段，開始。」【Ziv止夙】",
     "videoViewCount": "64",
     "videoThumbnail": "https://i.ytimg.com/vi/F8e4wi05Obs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_Ub67mvhBjrHOqQZO8P01O2cDlQ",
     "videoUrl": "http://youtu.be/F8e4wi05Obs",
-    "rank": 5,
+    "rank": 4,
     "rankVar": null
   }
 ]
