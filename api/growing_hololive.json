@@ -1,33 +1,5 @@
 [
   {
-    "id": 1306,
-    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-    "name": "博衣こより",
-    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "102萬",
-    "score": "0.99",
-    "videoTitle": "【UNDERTALE】Gルート初見クリア耐久🔥NとPを越えていけ──【博衣こより/ホロライブ】",
-    "videoViewCount": "30.18萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/Lm9SOq3zBK0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDxj7KkDyzYlRYH5hGpKW5nXCbSsg",
-    "videoUrl": "http://youtu.be/Lm9SOq3zBK0",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
-    "id": 1256,
-    "channelUrl": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-    "name": "紫咲詩音",
-    "thumbnail": "https://yt3.ggpht.com/AyUL9W0ltc_aJr_MysuZBx8hRfb1SIVNREgU9kiOO-lqmdhYkEsllmhagertVIwHwa3UAAKy=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "118萬",
-    "score": "0.85",
-    "videoTitle": "ラヴィ(Lavie) / Covered by紫咲シオン",
-    "videoViewCount": "117.64萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/FfesBQyizFM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkgXr1axiZ_5liswJSL6A9xZZifg",
-    "videoUrl": "http://youtu.be/FfesBQyizFM",
-    "rank": 2,
-    "rankVar": null
-  },
-  {
     "id": 1237,
     "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
     "name": "貓又小粥",
@@ -35,10 +7,10 @@
     "subscribe": "169萬",
     "score": "0.6",
     "videoTitle": "ラヴィ / 猫又おかゆ (Cover)",
-    "videoViewCount": "76.46萬",
+    "videoViewCount": "77.09萬",
     "videoThumbnail": "https://i.ytimg.com/vi/761Q37SNuSM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoC-JSvXQS_Iueoak3GhZSwckGXw",
     "videoUrl": "http://youtu.be/761Q37SNuSM",
-    "rank": 3,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -49,10 +21,10 @@
     "subscribe": "203萬",
     "score": "0.5",
     "videoTitle": "ザイオン / 星街すいせい(official)",
-    "videoViewCount": "81.95萬",
+    "videoViewCount": "83.79萬",
     "videoThumbnail": "https://i.ytimg.com/vi/liCsjACEeJA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTNUBFmwvZl6hmcbU2Nc9BShQPgQ",
     "videoUrl": "http://youtu.be/liCsjACEeJA",
-    "rank": 4,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -63,11 +35,25 @@
     "subscribe": "225萬",
     "score": "0.45",
     "videoTitle": "人生美味礼讃/白上フブキ(cover)",
-    "videoViewCount": "29.72萬",
+    "videoViewCount": "30.24萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lKzDNS_o5ZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbt4qI47H-CHgaAIuNSDWe4BWhvw",
     "videoUrl": "http://youtu.be/lKzDNS_o5ZE",
-    "rank": 5,
+    "rank": 3,
     "rankVar": null
+  },
+  {
+    "id": 1223,
+    "channelUrl": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+    "name": "兔田佩克拉",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9QrCPT5A0zE49EHvoS_gs2XBxzXSLs_OkIoTawkw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "237萬",
+    "score": "0.42",
+    "videoTitle": "【モンスト】はじめてのモンスト！ゼロから始めます！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+    "videoViewCount": "104.73萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/OSfMAsuSSxk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7zACNP1K0brsENuHvGT5U0a3zDQ",
+    "videoUrl": "http://youtu.be/OSfMAsuSSxk",
+    "rank": 4,
+    "rankVar": -2
   },
   {
     "id": 1527,
@@ -77,11 +63,25 @@
     "subscribe": "24.1萬",
     "score": "0.42",
     "videoTitle": "#SF6ホロスタ大会【ストリートファイター6】ついに本戦神視点会場！！【律可/小路KOG/ホロスターズ】",
-    "videoViewCount": "10.02萬",
+    "videoViewCount": "10.18萬",
     "videoThumbnail": "https://i.ytimg.com/vi/85SUIRDa6Fg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQMWGDwDpHgyZIlIkqR2B4hpoqwA",
     "videoUrl": "http://youtu.be/85SUIRDa6Fg",
-    "rank": 6,
+    "rank": 5,
     "rankVar": null
+  },
+  {
+    "id": 1365,
+    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+    "name": "ベスティア・ゼータ",
+    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "83.5萬",
+    "score": "0.24",
+    "videoTitle": "【MV】You're Mine - Vestia Zeta 【Original Song】",
+    "videoViewCount": "38.53萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/KFFtUqQVLrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2equKDEs9rvm9StyY-w8VNuPBWQ",
+    "videoUrl": "http://youtu.be/KFFtUqQVLrI",
+    "rank": 6,
+    "rankVar": -1
   },
   {
     "id": 1328,
@@ -91,11 +91,11 @@
     "subscribe": "80.1萬",
     "score": "0.13",
     "videoTitle": "【MV】IDOL - YOASOBI || HAKOS BAELZ COVER",
-    "videoViewCount": "32.04萬",
+    "videoViewCount": "32.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/wwfW25t99fU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnqDFFQfKo9VFF_93ONhgNTk2m2g",
     "videoUrl": "http://youtu.be/wwfW25t99fU",
     "rank": 7,
-    "rankVar": -4
+    "rankVar": -1
   },
   {
     "id": 1326,
@@ -105,25 +105,11 @@
     "subscribe": "82.1萬",
     "score": "0.12",
     "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "87.88萬",
+    "videoViewCount": "88.22萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
     "videoUrl": "http://youtu.be/lnlyZlIRO1U",
     "rank": 8,
-    "rankVar": -3
-  },
-  {
-    "id": 1365,
-    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-    "name": "ベスティア・ゼータ",
-    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "83.4萬",
-    "score": "0.12",
-    "videoTitle": "【MV】You're Mine - Vestia Zeta 【Original Song】",
-    "videoViewCount": "38.06萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/KFFtUqQVLrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2equKDEs9rvm9StyY-w8VNuPBWQ",
-    "videoUrl": "http://youtu.be/KFFtUqQVLrI",
-    "rank": 9,
-    "rankVar": -5
+    "rankVar": 0
   },
   {
     "id": 1287,
@@ -133,10 +119,10 @@
     "subscribe": "86.5萬",
     "score": "0.12",
     "videoTitle": "【 3D LIVE 】ゲスト多数！お披露目&告知あり！「Genius Idol」 #夜空メル誕生祭2023 🎂 【ホロライブ/夜空メル】",
-    "videoViewCount": "30.36萬",
+    "videoViewCount": "30.48萬",
     "videoThumbnail": "https://i.ytimg.com/vi/YPrUX5M7a5k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvuDjPlrr6Ld_JRdTN-vd8HQvP3A",
     "videoUrl": "http://youtu.be/YPrUX5M7a5k",
-    "rank": 10,
-    "rankVar": -4
+    "rank": 9,
+    "rankVar": -2
   }
 ]
