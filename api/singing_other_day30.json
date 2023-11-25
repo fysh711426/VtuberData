@@ -5,9 +5,9 @@
     "name": "獅子神レオナ",
     "thumbnail": "https://yt3.ggpht.com/XdGacxrNaqlN68Qohc6qFvWZUqaOn3iiXK3bVWA1B4Zgb7LOaTnyC3gNcAGZDcvoUxCNScDE=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "31.2萬",
-    "score": "42,772",
+    "score": "42,925",
     "videoTitle": "【 歌枠】Happy Halloween、お菓子ちょうだい！50音順に歌おう～！🎃【獅子神レオナ/Re:AcT】",
-    "videoViewCount": "4.28萬",
+    "videoViewCount": "4.29萬",
     "videoThumbnail": "https://i.ytimg.com/vi/bt3BewqLpI8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZuGQ2l5yMaSxuwrAWk8xUAPXvQQ",
     "videoUrl": "http://youtu.be/bt3BewqLpI8",
     "rank": 1,
@@ -18,14 +18,28 @@
     "channelUrl": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
     "name": "HACHI",
     "thumbnail": "https://yt3.ggpht.com/f8O92oxbkY2htoeJrb8LvhjvjX18Z34oHp0qW93ujrrgg4oF2BdPew9P54ZtLgjwawMYk_s3I1Q=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "21萬",
-    "score": "40,600",
+    "subscribe": "21.1萬",
+    "score": "41,233",
     "videoTitle": "【歌枠】のんびり歌枠！-Midnight station #44 【HACHI】",
-    "videoViewCount": "4.06萬",
+    "videoViewCount": "4.12萬",
     "videoThumbnail": "https://i.ytimg.com/vi/CATAhoH0NUg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv7EbsO-St9rXiC7vImBqqErZ4MQ",
     "videoUrl": "http://youtu.be/CATAhoH0NUg",
     "rank": 2,
     "rankVar": -1
+  },
+  {
+    "id": 4815,
+    "channelUrl": "https://www.youtube.com/channel/UCmkA3ZlbadJFCfR7OnQWM0A",
+    "name": "Whale Taylor Ch.【ホエール・テイラー】",
+    "thumbnail": "https://yt3.ggpht.com/MP8DGCLtm9uSCd8MOB5R2uGt9YW9dFjdp7tBx-qyMcmzRPAlUjGvAnjThqRg4xaEDvsZmeJ-3sw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "12.9萬",
+    "score": "35,862",
+    "videoTitle": "Quiet Song. Good night 【ホエテラ】歌枠",
+    "videoViewCount": "3.59萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/XOBiBqAltQI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0cFZe6ZdTO_K3hOEJ4K_Yhzgq8w",
+    "videoUrl": "http://youtu.be/XOBiBqAltQI",
+    "rank": 3,
+    "rankVar": null
   },
   {
     "id": 1701,
@@ -33,27 +47,13 @@
     "name": "リタ",
     "thumbnail": "https://yt3.ggpht.com/-xIfmd0VRd5oh4sx6zBtfeAjccmky33satoGwd6qmfjMwRtPXaldoxurvjXEbbX9LTsZO8MXZw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "20.3萬",
-    "score": "35,393",
+    "score": "35,413",
     "videoTitle": "【歌枠】顔と声のいい女",
     "videoViewCount": "3.54萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ewlKVFiUcSc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9xp5P6vEraSH-q8SvXkpYPKElWg",
     "videoUrl": "http://youtu.be/ewlKVFiUcSc",
-    "rank": 3,
-    "rankVar": 0
-  },
-  {
-    "id": 4815,
-    "channelUrl": "https://www.youtube.com/channel/UCmkA3ZlbadJFCfR7OnQWM0A",
-    "name": "Whale Taylor Ch.【ホエール・テイラー】",
-    "thumbnail": "https://yt3.ggpht.com/MP8DGCLtm9uSCd8MOB5R2uGt9YW9dFjdp7tBx-qyMcmzRPAlUjGvAnjThqRg4xaEDvsZmeJ-3sw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "12.8萬",
-    "score": "34,164",
-    "videoTitle": "Quiet Song. Good night 【ホエテラ】歌枠",
-    "videoViewCount": "3.42萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/XOBiBqAltQI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0cFZe6ZdTO_K3hOEJ4K_Yhzgq8w",
-    "videoUrl": "http://youtu.be/XOBiBqAltQI",
     "rank": 4,
-    "rankVar": null
+    "rankVar": -1
   },
   {
     "id": 1737,
@@ -61,7 +61,7 @@
     "name": "QuonTama Ch. 久遠たま",
     "thumbnail": "https://yt3.ggpht.com/KHBM9Ulz5Yk909OEWSH8QvpdvEcaN3kIRDYovmAoXN1zuEm7xB-mMsPtwax1iAfDt6gShhJz=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "13.3萬",
-    "score": "14,366",
+    "score": "14,396",
     "videoTitle": "【 #歌枠 /Sing Stream】💠アニソン歌姫、藍井エイルさん縛り💠【久遠たま】",
     "videoViewCount": "1.44萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_9Ybx4nuRC0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCepW2ytMn2i-O3B2O3TVKlCK7uQ",
@@ -74,36 +74,36 @@
     "channelUrl": "https://www.youtube.com/channel/UCXN-ZRdGnFtLiJ8EY1i_alg",
     "name": "Itsuki Natsume / 棗いつき",
     "thumbnail": "https://yt3.ggpht.com/bPxFcJs3xALPgYkEJfNRXld0yjj9Oo4OkpnGuNh598hcrh_bhgWZYP797LBinA1CxINcFHnSqQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "5.25萬",
-    "score": "13,815",
+    "subscribe": "5.26萬",
+    "score": "13,857",
     "videoTitle": "【歌枠】登録者数5万人を皆と一緒に迎えたい🎤✨【#生いつき】",
-    "videoViewCount": "1.38萬",
+    "videoViewCount": "1.39萬",
     "videoThumbnail": "https://i.ytimg.com/vi/xQYaLT4EfCM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdg_xE90rcxVMAveeW506xQkryMw",
     "videoUrl": "http://youtu.be/xQYaLT4EfCM",
     "rank": 6,
-    "rankVar": 0
+    "rankVar": 1
   },
   {
     "id": 4864,
     "channelUrl": "https://www.youtube.com/channel/UCpmSwekVKXnObCY7hpdHXdQ",
     "name": "七海うらら*歌channel",
     "thumbnail": "https://yt3.ggpht.com/CgDqdjCyFkPNYiXsnxYWwvPpmF3M4Jq5bvPKhjZAOpw3IFk6j6vFXeFQ8WuaZHkaU3cs5ASqgw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "40.7萬",
-    "score": "11,950",
+    "subscribe": "40.8萬",
+    "score": "11,980",
     "videoTitle": "【#歌枠 初見歓迎】Re:AcT稀羽すう×七海うらら 初コラボ歌枠！【#すううら /Karaoke stream】",
     "videoViewCount": "1.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/FBQPsgfiRI8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw-zgqVW1fUIbGUHWm5ax2vM6buw",
     "videoUrl": "http://youtu.be/FBQPsgfiRI8",
     "rank": 7,
-    "rankVar": 0
+    "rankVar": -1
   },
   {
     "id": 1875,
     "channelUrl": "https://www.youtube.com/channel/UC--zuEfONeFXPvLqX0Kvbuw",
     "name": "松永依織",
     "thumbnail": "https://yt3.ggpht.com/vwqjo3k4UQEz-vxwzzQp23kQvhDv2QLzQ9iR6KIgVXwaShaBBPfkF0njXFQ5e-MANVgEGdvJV5s=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "12.3萬",
-    "score": "10,866",
+    "subscribe": "12.4萬",
+    "score": "10,899",
     "videoTitle": "【 耐久歌枠 】チャンネル登録者123,456人まで全力で歌う🌟応援よろしくねっ！ / 松永依織 【初見さんも大歓迎！】",
     "videoViewCount": "1.09萬",
     "videoThumbnail": "https://i.ytimg.com/vi/AvO8V5Z99Xg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtFACgs77lH0ebJOZ2asTVqBkWBw",
@@ -117,9 +117,9 @@
     "name": "朝ノ姉妹ぷろじぇくと",
     "thumbnail": "https://yt3.ggpht.com/tUjgQhGzqsQHR0hn4I9fCh1mkYsTzhlsaXRcfAI4w7BQyFxlRDVZbvx0qviDCEytQ2et83sA=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "19.6萬",
-    "score": "8,693",
+    "score": "8,728",
     "videoTitle": "【耐久歌枠】年内20万人突破、いけるか…？！【#朝ノ瑠璃】",
-    "videoViewCount": "8693",
+    "videoViewCount": "8728",
     "videoThumbnail": "https://i.ytimg.com/vi/0AXJHgG2p74/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7JS7nP7NBTc6RmiZHgWZrvrvqcA",
     "videoUrl": "http://youtu.be/0AXJHgG2p74",
     "rank": 9,
@@ -131,9 +131,9 @@
     "name": "MaiR",
     "thumbnail": "https://yt3.ggpht.com/JMEiiToPL_6WoAMZkVp2pzVv2IjlKHFuq6z9e6Cw6nScbG-y402hZ6-W-_ITPYwnWTs_WJSc=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "16萬",
-    "score": "7,964",
+    "score": "7,974",
     "videoTitle": "【耐久歌枠】16万人目指して歌うぞ！！！- Fan! Fun! Music! #8【MaiR/Vtuber】#めあなま",
-    "videoViewCount": "7964",
+    "videoViewCount": "7974",
     "videoThumbnail": "https://i.ytimg.com/vi/pvOXvsxnp8w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClUC3OQ2mdyF-zXTGoZHFKWtc7Zw",
     "videoUrl": "http://youtu.be/pvOXvsxnp8w",
     "rank": 10,
@@ -145,9 +145,9 @@
     "name": "ラティオ・ユィリス【Project:YuiRes】",
     "thumbnail": "https://yt3.ggpht.com/2SVQnuYYHxkBhoV2iByObGH8uLrGqEK3C5KcNgnTOeKByNSgay2DDTtf1cgsXAsNedAB5hUU_w=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "13.4萬",
-    "score": "6,518",
+    "score": "6,532",
     "videoTitle": "【 歌枠 】かっこかわいい声はすき？【#ラティLIVE / KARAOKE / Vsinger ラティオ・ユィリス 】",
-    "videoViewCount": "6518",
+    "videoViewCount": "6532",
     "videoThumbnail": "https://i.ytimg.com/vi/XCzmncv5KLA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOyfqekFPYsfzvwYsM063XDN5Wfw",
     "videoUrl": "http://youtu.be/XCzmncv5KLA",
     "rank": 11,
@@ -158,10 +158,10 @@
     "channelUrl": "https://www.youtube.com/channel/UCoAL7HKxjpPGuA1G4bdfHTQ",
     "name": "皇美緒奈",
     "thumbnail": "https://yt3.ggpht.com/KaZdNPlhd94o1KNP8fBS68m3nigY2sYEYzQRr39yVZjVdyvvJa-avrqkJrnsPBfVojCz9zCbYQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "5.02萬",
-    "score": "5,999",
+    "subscribe": "5.03萬",
+    "score": "6,020",
     "videoTitle": "【歌枠 / Singing Stream】平成歌姫縛り歌枠🎤初見さんも大歓迎❇️【#皇美緒奈 / #MIONA_LIVE】",
-    "videoViewCount": "5999",
+    "videoViewCount": "6020",
     "videoThumbnail": "https://i.ytimg.com/vi/-dINsgvdPQ8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE6l8KoKOmZg8YcMT8EI9uHS1-GQ",
     "videoUrl": "http://youtu.be/-dINsgvdPQ8",
     "rank": 12,
@@ -173,9 +173,9 @@
     "name": "稀羽すう",
     "thumbnail": "https://yt3.ggpht.com/2ipqK-EQCQlVWjnkFm_gUH9PwjPfze_ZmPZdL0b4Vcb6p2zBtFHxS54WI2pLd32D2H--zPefj28=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "5.8萬",
-    "score": "5,098",
+    "score": "5,117",
     "videoTitle": "【 #歌枠 KARAOKE  】おうち3Dお披露目～～～～🎉【 稀羽すう/Re:AcT 】",
-    "videoViewCount": "5098",
+    "videoViewCount": "5117",
     "videoThumbnail": "https://i.ytimg.com/vi/7cTqt0Zs5SQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPy_PyvKIWlIqLAP1KzutSCA1Yrw",
     "videoUrl": "http://youtu.be/7cTqt0Zs5SQ",
     "rank": 13,
@@ -187,9 +187,9 @@
     "name": "Akane Ch. 七福あかね",
     "thumbnail": "https://yt3.ggpht.com/jlYtpgZ0X78eq-V2EIiUnMClHgRl1N5boWzg7gd3zF-dfbPA4n-A2DPhSGEeH_6qpqE10Y0=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "4萬",
-    "score": "4,872",
+    "score": "4,882",
     "videoTitle": "【#歌枠】振れ幅大きく歌う！アニソン＆JPOP歌枠🎰🎤Singing Stream【七福あかね / セブンズTV】#七福の刻",
-    "videoViewCount": "4872",
+    "videoViewCount": "4882",
     "videoThumbnail": "https://i.ytimg.com/vi/l0XHLzRykz4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDez_ClaGtk3iJMN-nUv9n6Aii5zQ",
     "videoUrl": "http://youtu.be/l0XHLzRykz4",
     "rank": 14,
@@ -215,27 +215,13 @@
     "name": "天曰ひよ",
     "thumbnail": "https://yt3.googleusercontent.com/IKsXWjOduPl3Llfb3SO6nFU6AmyaX7EyW6ArZ4kuBUvx4PxOk96Z8GFykNn-MzErob7JPD8isg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "7.21萬",
-    "score": "3,193",
+    "score": "3,194",
     "videoTitle": "【#秋のpaipai祭 】歌唱の秋!!盛り上げ役いきまーす！！！/初見さん歓迎✨【#歌枠 #KARAOKE #Vtuber】",
-    "videoViewCount": "3193",
+    "videoViewCount": "3194",
     "videoThumbnail": "https://i.ytimg.com/vi/u-TsMI1ZwH0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1BaiAdBL-aI4GJsiTrHRvVRJ-wA",
     "videoUrl": "http://youtu.be/u-TsMI1ZwH0",
     "rank": 16,
     "rankVar": 11
-  },
-  {
-    "id": 371,
-    "channelUrl": "https://www.youtube.com/channel/UCO62chyehk6pX7OitrnJAUg",
-    "name": "MK妹",
-    "thumbnail": "https://yt3.googleusercontent.com/b0PPVf5sOwFTKzucuuRf7axG-1diZJ19c_znho2vMIjIqQ7Yaj9UqlPypcoIyC3qqD-7fG-H_Q=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "3.56萬",
-    "score": "3,082",
-    "videoTitle": "【祝禾生日快樂】🍬蘿莉歌回💗 信吾信禾塔撚晒梨班變態佬返去？｜MK妹Cafe最後安排 & 新Goods公開",
-    "videoViewCount": "3082",
-    "videoThumbnail": "https://i.ytimg.com/vi/ux5JbH29qkg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAgZtdcgaBl39rTrbJqp2PIPOzNRA",
-    "videoUrl": "http://youtu.be/ux5JbH29qkg",
-    "rank": 17,
-    "rankVar": 6
   },
   {
     "id": 4843,
@@ -243,13 +229,13 @@
     "name": "Eri Ch.紅記えり",
     "thumbnail": "https://yt3.ggpht.com/fsSx82nA16YNObuy1y155x2LXFXBNxyudrSt79CB6N34gRlAEpOf-cGCTohB0Ps6dg1YtBJQge8=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "2.9萬",
-    "score": "2,221",
+    "score": "2,224",
     "videoTitle": "【歌枠/sing】初見さん大歓迎❤  貴方に会いたい❣ 元気で可愛い歌を聞いて下さい🎶【Vtuber/ 紅記えり】",
-    "videoViewCount": "2221",
+    "videoViewCount": "2224",
     "videoThumbnail": "https://i.ytimg.com/vi/s7Or6M53xPw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvqSW95vy3mO7DMjxRLdEM55RgSw",
     "videoUrl": "http://youtu.be/s7Or6M53xPw",
-    "rank": 18,
-    "rankVar": 4
+    "rank": 17,
+    "rankVar": 6
   },
   {
     "id": 4980,
@@ -257,26 +243,12 @@
     "name": "nah Channel なーちゃんねる",
     "thumbnail": "https://yt3.ggpht.com/YoyOjLlZkFTOyX-YSS8lSSkn8cu480tXqG-JvjNSEMpFNny-Mu-uF8TZKVXX9xkG4bb4t3ucwA=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "4.03萬",
-    "score": "1,975",
+    "score": "2,031",
     "videoTitle": "【 #耐久歌枠 】祝日だ！高評価500いくまで歌います！初見さん大歓迎！【#nahらいぶ ／#vtuber 】",
-    "videoViewCount": "1975",
+    "videoViewCount": "2031",
     "videoThumbnail": "https://i.ytimg.com/vi/Ihhu14tI4q8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7TnwA1d7CizyoeVwO5UjwgHUnvw",
     "videoUrl": "http://youtu.be/Ihhu14tI4q8",
-    "rank": 19,
-    "rankVar": 5
-  },
-  {
-    "id": 623,
-    "channelUrl": "https://www.youtube.com/channel/UCJcKh9mwJH4zhHsU4NDs54g",
-    "name": "如月ルミィ",
-    "thumbnail": "https://yt3.googleusercontent.com/AFlzLh7Rl8CVfXfU_QAjNqOvbMKPsdusgOib45Z-u1ksX83J7o71wQxAFBzoYi-EM1M7L24Z=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.84萬",
-    "score": "1,816",
-    "videoTitle": "【唱歌】Vocaloid主題歌回～✨隨心唱❣️【HKVTuber/⧓.Rumii】",
-    "videoViewCount": "1816",
-    "videoThumbnail": "https://i.ytimg.com/vi/WNviFb3K2nQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY8BvO_kDIH22pN1axYnjwugMJ3g",
-    "videoUrl": "http://youtu.be/WNviFb3K2nQ",
-    "rank": 20,
+    "rank": 18,
     "rankVar": 6
   },
   {
@@ -284,13 +256,13 @@
     "channelUrl": "https://www.youtube.com/channel/UClNSbTYVFYQmke7FQulHkFw",
     "name": "無糖しお-Mutou Shio-",
     "thumbnail": "https://yt3.ggpht.com/OyhuY1MVQTuz0RMb84BKoyBMdi93qTGfbBJ0kX7k85G1Kk_ceL1Xm9vT16yiHcVEAZrcS9b_=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4.22萬",
-    "score": "1,523",
+    "subscribe": "4.23萬",
+    "score": "1,532",
     "videoTitle": "【歌枠/初見さん歓迎】久しぶりにお歌…🎤🍁【#無糖しお/新人vtuber】",
-    "videoViewCount": "1523",
+    "videoViewCount": "1532",
     "videoThumbnail": "https://i.ytimg.com/vi/Gl2sr4KoKiQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg5eSfk3izGazEjLh1ynqqgHQcew",
     "videoUrl": "http://youtu.be/Gl2sr4KoKiQ",
-    "rank": 21,
+    "rank": 19,
     "rankVar": null
   },
   {
@@ -299,12 +271,12 @@
     "name": "楪帆波(ゆずりはほなみ)",
     "thumbnail": "https://yt3.ggpht.com/8tkrHXhGuijoXqYRMKOqwNTLzX-PUny5rlvVew9rA4s5YzOQCpN8tzijpKpqBYS6TSeRu_rd1VA=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "5.95萬",
-    "score": "1,369",
+    "score": "1,389",
     "videoTitle": "【歌枠/Karaoke】久しぶりに歌うのだ【楪帆波】",
-    "videoViewCount": "1369",
+    "videoViewCount": "1389",
     "videoThumbnail": "https://i.ytimg.com/vi/h6FGhTssRkM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTEb3eczMkNg8XpTsUCQcedfjZKw",
     "videoUrl": "http://youtu.be/h6FGhTssRkM",
-    "rank": 22,
+    "rank": 20,
     "rankVar": null
   },
   {
@@ -313,13 +285,13 @@
     "name": "ベレッタクロスレイン",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8g5H2FfwGkQlL7jAFJxlYqtBfp0cj7_MpDfPPm0w=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "1.99萬",
-    "score": "1,349",
+    "score": "1,353",
     "videoTitle": "【歌枠】同接200人に届け！休止前最後のわたくしの歌。【Singing Stream│Karaoke】",
-    "videoViewCount": "1349",
+    "videoViewCount": "1353",
     "videoThumbnail": "https://i.ytimg.com/vi/KvRkE2mrSF0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9-QjeMYwzcShOsujHQiSaLcu3_g",
     "videoUrl": "http://youtu.be/KvRkE2mrSF0",
-    "rank": 23,
-    "rankVar": 2
+    "rank": 21,
+    "rankVar": 4
   },
   {
     "id": 1744,
@@ -327,13 +299,13 @@
     "name": "直感×アルゴリズム♪",
     "thumbnail": "https://yt3.ggpht.com/AoZuGn0-7oT1Ze1NowHjwITPSKxPlRoTB8tKaAVkZO76KEicpGU2HUJPcWFJmaA-7oLidkZi=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "10.9萬",
-    "score": "1,164",
+    "score": "1,168",
     "videoTitle": "【Singing Stream】Tacitly歌枠（10/30 シエル）",
-    "videoViewCount": "1164",
+    "videoViewCount": "1168",
     "videoThumbnail": "https://i.ytimg.com/vi/O4h3jDMBdxA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHV77Gu2DCTRFEvBq8IPy_eb0ssQ",
     "videoUrl": "http://youtu.be/O4h3jDMBdxA",
-    "rank": 24,
-    "rankVar": 5
+    "rank": 22,
+    "rankVar": 6
   },
   {
     "id": 2209,
@@ -346,22 +318,8 @@
     "videoViewCount": "1113",
     "videoThumbnail": "https://i.ytimg.com/vi/VlYMwdZvJnM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVkx0BmoDMlyFVBVnBIKoEd_yQxg",
     "videoUrl": "http://youtu.be/VlYMwdZvJnM",
-    "rank": 25,
+    "rank": 23,
     "rankVar": null
-  },
-  {
-    "id": 2555,
-    "channelUrl": "https://www.youtube.com/channel/UCgThaxkwwg2Ey1cthaHAB0Q",
-    "name": "姫妖精いちか- Fairy princess Ichika",
-    "thumbnail": "https://yt3.ggpht.com/QeNjoNknRQGxSCHnLpgEr7eM7dQ86646CXAg7AJ2VmRZ6bYZ3vaSEL7x8_a7pSTsbMRw4c1BzC8=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.79萬",
-    "score": "1,044",
-    "videoTitle": "【歌枠】低音妖精の歌練習！！🍓【Vtuber/姫妖精いちか】",
-    "videoViewCount": "1044",
-    "videoThumbnail": "https://i.ytimg.com/vi/jF_boILR5Bs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAh-uzE_YevQfZk510ZsTQNCu6u5g",
-    "videoUrl": "http://youtu.be/jF_boILR5Bs",
-    "rank": 26,
-    "rankVar": 9
   },
   {
     "id": 2893,
@@ -369,13 +327,13 @@
     "name": "Obake PAM Ch.",
     "thumbnail": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "3.66萬",
-    "score": "862",
+    "score": "864",
     "videoTitle": "SUPER SPOOKY Halloween karaoke! #歌枠",
-    "videoViewCount": "862",
+    "videoViewCount": "864",
     "videoThumbnail": "https://i.ytimg.com/vi/FGu3F9rfqf0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHrboCwrqPVX4XTqygHJYubvE9ww",
     "videoUrl": "http://youtu.be/FGu3F9rfqf0",
-    "rank": 27,
-    "rankVar": 9
+    "rank": 24,
+    "rankVar": 12
   },
   {
     "id": 2818,
@@ -383,13 +341,13 @@
     "name": "エモリミク - Miku Emori公式チャンネル",
     "thumbnail": "https://yt3.ggpht.com/ocW5itvm9z7z59KZZEUS2OS3zq5MrWLGApuFjWVGF5gFHUOTbt-BY8iKnZmZ390lUxP3NhwW3w=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "1.99萬",
-    "score": "734",
+    "score": "736",
     "videoTitle": "【 #歌枠 】初見さん大歓迎！！たのしく歌うよ♪挨拶だけでもしていってね！！singing stream♡【 #Vtuber #karaoke 】",
-    "videoViewCount": "734",
+    "videoViewCount": "736",
     "videoThumbnail": "https://i.ytimg.com/vi/Zr0ogiAa7W0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_qg3bRhIBFSWmZYpb9Soilxa6Hw",
     "videoUrl": "http://youtu.be/Zr0ogiAa7W0",
-    "rank": 28,
-    "rankVar": 5
+    "rank": 25,
+    "rankVar": 8
   },
   {
     "id": 2169,
@@ -402,7 +360,7 @@
     "videoViewCount": "668",
     "videoThumbnail": "https://i.ytimg.com/vi/ydRVMs9Iqmk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKvhl-VflnmZEXgotJY_lr9O9b-A",
     "videoUrl": "http://youtu.be/ydRVMs9Iqmk",
-    "rank": 29,
+    "rank": 26,
     "rankVar": null
   },
   {
@@ -411,13 +369,13 @@
     "name": "ユプシロン",
     "thumbnail": "https://yt3.ggpht.com/Kr5jjuEou_RpVVAu9mDFG8OqIFF0vG8no9o5VQNIaA0udUys7Zoagzhi3HQYbCNqExjsQ4muF3g=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "4.9萬",
-    "score": "648",
+    "score": "651",
     "videoTitle": "【 歌枠 / Singing 】近況報告したり歌う！ Singing Stream【 #ユプシロン 】",
-    "videoViewCount": "648",
+    "videoViewCount": "651",
     "videoThumbnail": "https://i.ytimg.com/vi/aEOzf-Vdsm4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkNToR9RQiWwJCQe9X20utGo9M8Q",
     "videoUrl": "http://youtu.be/aEOzf-Vdsm4",
-    "rank": 30,
-    "rankVar": 7
+    "rank": 27,
+    "rankVar": 10
   },
   {
     "id": 2471,
@@ -425,26 +383,26 @@
     "name": "みるきーのおしゃべりカフェ",
     "thumbnail": "https://yt3.ggpht.com/903YgOqYJe9mL_qSAKwiYVuI7FJy9-BjjCMnaANTiXuI5yh04DHSsWCeJ1TNFwf0G0Gc260KhQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "2.58萬",
-    "score": "648",
+    "score": "649",
     "videoTitle": "【初見ちゃん歓迎歌枠🎃】ハロウィンだから往年のラルクちゃんとかねっとり♂歌おホゥ…😣💖〜karaoke stream【乙女系Vtuberみるきー】",
-    "videoViewCount": "648",
+    "videoViewCount": "649",
     "videoThumbnail": "https://i.ytimg.com/vi/a1ShKkzbWro/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWUH-NQbvO2y54iuKU5bLJi-zh0w",
     "videoUrl": "http://youtu.be/a1ShKkzbWro",
-    "rank": 30,
-    "rankVar": 4
+    "rank": 28,
+    "rankVar": 6
   },
   {
     "id": 3179,
     "channelUrl": "https://www.youtube.com/channel/UC2cgk_smOj7tSH_4g-YoF0A",
     "name": "Enn Sings Ch.【香港9up系VTuber】",
     "thumbnail": "https://yt3.googleusercontent.com/5EYyPvlJUtZ21vfFlyoo0x1tpnPcA6blg8bAxu_f73U8JX-8IkZ4c9egsi9Y2ROCjPUPBHTd5g=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4059",
+    "subscribe": "4070",
     "score": "608",
     "videoTitle": "【唱歌 / Karaoke】4000 訂！感謝歌回 🎤【Enn Sings/HKVtuber】",
     "videoViewCount": "608",
     "videoThumbnail": "https://i.ytimg.com/vi/T79roiRJ3to/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM3DAoxefN1kWSFOjIJmzBgdF_0A",
     "videoUrl": "http://youtu.be/T79roiRJ3to",
-    "rank": 32,
+    "rank": 29,
     "rankVar": null
   },
   {
@@ -452,14 +410,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCkcenwQpQwgNkG2sl28Az-A",
     "name": "Devilith Violustre",
     "thumbnail": "https://yt3.googleusercontent.com/i3FwueiEJVIZAfSSIInK8OSFRr5tEN6crpQYOHoj00ecIqe8tQkHhUGYcggsmWA-P5HxnrAW5TY=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "9410",
-    "score": "570",
+    "subscribe": "9490",
+    "score": "571",
     "videoTitle": "【#歌枠】今天也是隨意唱唱歌，但好久沒唱ROCK了喔!💜気軽に歌いたいが、ロックな気分！💜【Devilith Violustre】",
-    "videoViewCount": "570",
+    "videoViewCount": "571",
     "videoThumbnail": "https://i.ytimg.com/vi/MZ4b2pA_V4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtEqYn2WkW4yVNEtqzSCe4CG1Zag",
     "videoUrl": "http://youtu.be/MZ4b2pA_V4U",
-    "rank": 33,
-    "rankVar": -5
+    "rank": 30,
+    "rankVar": -1
   },
   {
     "id": 4581,
@@ -472,8 +430,8 @@
     "videoViewCount": "434",
     "videoThumbnail": "https://i.ytimg.com/vi/hqD7dTDE8B8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCYoqiiEJfKXM2AsDtZLWTURDgGDw",
     "videoUrl": "http://youtu.be/hqD7dTDE8B8",
-    "rank": 34,
-    "rankVar": 5
+    "rank": 31,
+    "rankVar": 8
   },
   {
     "id": 3112,
@@ -481,27 +439,27 @@
     "name": "猫羽ころんNekohakoron",
     "thumbnail": "https://yt3.ggpht.com/H4sroa-gtlBBQbSk7osYkvW1ipOjcKBzLcMcbpgbt6ntdbFRK8zwHX2JM8AWiX1MfgqqQegTtg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "1.7萬",
-    "score": "419",
+    "score": "416",
     "videoTitle": "【 #歌枠 #sing 】  アニソン縛り♡  sing a song💗 初見さん大歓迎✨【 #Vtuber /猫羽ころん】",
-    "videoViewCount": "419",
+    "videoViewCount": "416",
     "videoThumbnail": "https://i.ytimg.com/vi/2ZLvpLr4A1o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqzB7-o0LJgL8Bmu-EkTfiG6L8gg",
     "videoUrl": "http://youtu.be/2ZLvpLr4A1o",
-    "rank": 35,
-    "rankVar": 7
+    "rank": 32,
+    "rankVar": 10
   },
   {
     "id": 3682,
     "channelUrl": "https://www.youtube.com/channel/UCjTHk7eBL8uacb2NJoygRLQ",
     "name": "蕾雅Rhea Corey",
     "thumbnail": "https://yt3.googleusercontent.com/R_0jWNCAPO0aRbwp6r1Q-8gxcIA6BzPhe47xqcu8ha8WPjKxKkIFXLd8aTuD0bBxdBXQyARF41w=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4120",
+    "subscribe": "4110",
     "score": "365",
     "videoTitle": "【歌回】 魔女的特訓！もっと強く！ 【蕾雅 馬來西亞Vtuber】",
     "videoViewCount": "365",
     "videoThumbnail": "https://i.ytimg.com/vi/WzjO_yC4Z4k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuEmMQ-d7wLMBIMdyQxqjcccKwnQ",
     "videoUrl": "http://youtu.be/WzjO_yC4Z4k",
-    "rank": 36,
-    "rankVar": 4
+    "rank": 33,
+    "rankVar": 7
   },
   {
     "id": 3074,
@@ -514,8 +472,8 @@
     "videoViewCount": "314",
     "videoThumbnail": "https://i.ytimg.com/vi/mfdLaCsibFA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASICn2ZNa9dO1hR6fvyannU7zohw",
     "videoUrl": "http://youtu.be/mfdLaCsibFA",
-    "rank": 37,
-    "rankVar": 9
+    "rank": 34,
+    "rankVar": 12
   },
   {
     "id": 5487,
@@ -528,8 +486,8 @@
     "videoViewCount": "303",
     "videoThumbnail": "https://i.ytimg.com/vi/uc-KtviTV_A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBY6bezJNqHbhkvng9c4tl0vfFOEw",
     "videoUrl": "http://youtu.be/uc-KtviTV_A",
-    "rank": 38,
-    "rankVar": 11
+    "rank": 35,
+    "rankVar": 14
   },
   {
     "id": 2721,
@@ -542,8 +500,8 @@
     "videoViewCount": "302",
     "videoThumbnail": "https://i.ytimg.com/vi/jMhmgBNwPeA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcTheQfc82NrNQ7fRNv0yxJvjZ3g",
     "videoUrl": "http://youtu.be/jMhmgBNwPeA",
-    "rank": 39,
-    "rankVar": 2
+    "rank": 36,
+    "rankVar": 5
   },
   {
     "id": 5393,
@@ -551,13 +509,13 @@
     "name": "皮蕾蘿",
     "thumbnail": "https://yt3.googleusercontent.com/mhm3hjJ9WXM1Orwr0hcx7iIMQstjYpHDG-OUqUr-Fl_fGwEyoVzbwa5yapSyuQ27cI5PVnyRx-0=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "1890",
-    "score": "299",
+    "score": "300",
     "videoTitle": "會員開通後轉會限 點進來就準備接受蘿莉神的肅聖吧!!! 蘿莉練歌台【#歌枠 #初見歡迎】 | 皮蕾蘿 Pi Layro",
-    "videoViewCount": "299",
+    "videoViewCount": "300",
     "videoThumbnail": "https://i.ytimg.com/vi/udNLX8PIcOw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTsTptf3S8WH7sj5oh5ptWTPyUnw",
     "videoUrl": "http://youtu.be/udNLX8PIcOw",
-    "rank": 40,
-    "rankVar": 5
+    "rank": 37,
+    "rankVar": 8
   },
   {
     "id": 5329,
@@ -570,8 +528,8 @@
     "videoViewCount": "293",
     "videoThumbnail": "https://i.ytimg.com/vi/WA8zXTyDWTQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkGghidyh1fW-LrcIlbpBwkJ-Pdw",
     "videoUrl": "http://youtu.be/WA8zXTyDWTQ",
-    "rank": 41,
-    "rankVar": 2
+    "rank": 38,
+    "rankVar": 5
   },
   {
     "id": 5088,
@@ -579,13 +537,13 @@
     "name": "璃貓Leemao",
     "thumbnail": "https://yt3.googleusercontent.com/W4iL9l2t-t8IkG_ylXRzl0-Hyu_OOLdsKv6sPP17QwGzsddLEsILF_thXBqsFZQJOfm6vVkGIA=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "3410",
-    "score": "291",
+    "score": "292",
     "videoTitle": "璃貓Leemao 『突發歌回』起來重睡",
-    "videoViewCount": "291",
+    "videoViewCount": "292",
     "videoThumbnail": "https://i.ytimg.com/vi/g2kmZFeGBpM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAIECItgpOgU8q7ha3eAPZvF1O6FA",
     "videoUrl": "http://youtu.be/g2kmZFeGBpM",
-    "rank": 42,
-    "rankVar": 6
+    "rank": 39,
+    "rankVar": 9
   },
   {
     "id": 5445,
@@ -598,7 +556,7 @@
     "videoViewCount": "211",
     "videoThumbnail": "https://i.ytimg.com/vi/q4iuwlVPY1c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoS-Ytvwj2U8iZN-DCruE-TTviTw",
     "videoUrl": "http://youtu.be/q4iuwlVPY1c",
-    "rank": 43,
+    "rank": 40,
     "rankVar": null
   },
   {
@@ -607,12 +565,12 @@
     "name": "藻原もずく【香港Vtuber】",
     "thumbnail": "https://yt3.googleusercontent.com/DKVMLCdfVoeFoSM4Tg0swFCzAfK3GbIvPNjbVmjdhxZo1TX5Mb57Zf_i7E1n3ZRt2FCh3K8Z=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "3090",
-    "score": "199",
+    "score": "204",
     "videoTitle": "(剪輯版)【3000人耐久歌回】突發！第一次訂閱耐久！希望能和大家（＆大家的朋友）一起達成！【藻原もずく/香港Vtuber】",
-    "videoViewCount": "199",
+    "videoViewCount": "204",
     "videoThumbnail": "https://i.ytimg.com/vi/iTq_FV9UCLc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKcfg-tYDgiueSw7n8V5YDTK6ftQ",
     "videoUrl": "http://youtu.be/iTq_FV9UCLc",
-    "rank": 44,
+    "rank": 41,
     "rankVar": null
   },
   {
@@ -626,8 +584,8 @@
     "videoViewCount": "193",
     "videoThumbnail": "https://i.ytimg.com/vi/uuNpH3L1W9o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTw77L9tFn77dR959fRYtCdkHANQ",
     "videoUrl": "http://youtu.be/uuNpH3L1W9o",
-    "rank": 45,
-    "rankVar": -1
+    "rank": 42,
+    "rankVar": 2
   },
   {
     "id": 5479,
@@ -635,26 +593,12 @@
     "name": "悠蜜Yomi",
     "thumbnail": "https://yt3.googleusercontent.com/dsUFwFsGwkLGF0yt1wC50KK4uwpQXtkjR9I8IxNkqz8ZION-r40y8o8mJYsxd6VANelL9mzA3A=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "1010",
-    "score": "153",
+    "score": "155",
     "videoTitle": "【鬼转练习歌杂🔹】中文歌回Let's Go~ - 悠蜜Yomi",
-    "videoViewCount": "153",
+    "videoViewCount": "155",
     "videoThumbnail": "https://i.ytimg.com/vi/uVC6EHgXPP4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVWnhyWRph9rJEdVCpKWsq-n1InQ",
     "videoUrl": "http://youtu.be/uVC6EHgXPP4",
-    "rank": 46,
-    "rankVar": null
-  },
-  {
-    "id": 5486,
-    "channelUrl": "https://www.youtube.com/channel/UC3ouWYUnRsyjxjj9lg_APAw",
-    "name": "雨水",
-    "thumbnail": "https://yt3.googleusercontent.com/OLx498_y2g5jPlYyDuFgGhhgZeZqqnMmp7t5-s7OMvLuGCkqbiWivycGuAMXaY2XX6_v_7Lp=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "624",
-    "score": "118",
-    "videoTitle": "【中文歌雜】嘴ㄆㄧㄚˊ超過三次就要繞口令回的第一次中文歌回！【雨水AmamizuRaindrop】",
-    "videoViewCount": "118",
-    "videoThumbnail": "https://i.ytimg.com/vi/LsJPO36fh14/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuzT_Zkx9Q2CF_22U_pODH_1bNNA",
-    "videoUrl": "http://youtu.be/LsJPO36fh14",
-    "rank": 47,
+    "rank": 43,
     "rankVar": null
   },
   {
@@ -662,13 +606,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCwrrBX8W1_24Yxdjb14ELNw",
     "name": "秋田エリカ",
     "thumbnail": "https://yt3.googleusercontent.com/hkzcRVGMIEadjQW0mggulrsHBkvzDnToBPrUend4ggs3xBI0F4c7JlQFCVvod4FrZU6GCVonFg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "642",
+    "subscribe": "643",
     "score": "116",
     "videoTitle": "ONE OK ROCK 歌回精華【秋田 エリカ】",
     "videoViewCount": "116",
     "videoThumbnail": "https://i.ytimg.com/vi/mY-GJeO6Spg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNWQp_R9scmSNi4nHcRyYKdkKJuA",
     "videoUrl": "http://youtu.be/mY-GJeO6Spg",
-    "rank": 48,
+    "rank": 44,
     "rankVar": null
   },
   {
@@ -676,14 +620,14 @@
     "channelUrl": "https://www.youtube.com/channel/UC0pgs3MAgad2b7m_WtB6lTw",
     "name": "NeroroHub 触愛ネロロ【HK 觸手系新人VTuber】",
     "thumbnail": "https://yt3.googleusercontent.com/TAEpNBcO-HzvBuFgoPvk0AVmGA16wx5m1qgwy73EadH1ugL1ncjBnH-BsBHOMExCKpss5SfsRA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2780",
-    "score": "112",
+    "subscribe": "2790",
+    "score": "108",
     "videoTitle": "安眠歌回【HK VTuber / NeroroHub】",
-    "videoViewCount": "112",
+    "videoViewCount": "108",
     "videoThumbnail": "https://i.ytimg.com/vi/ql-n0rJvkn0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnLObu0xZaNG-QnwraeUHOwd-JcA",
     "videoUrl": "http://youtu.be/ql-n0rJvkn0",
-    "rank": 49,
-    "rankVar": 2
+    "rank": 45,
+    "rankVar": 6
   },
   {
     "id": 5541,
@@ -696,8 +640,8 @@
     "videoViewCount": "70",
     "videoThumbnail": "https://i.ytimg.com/vi/Ak2ILsVvGSg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOedgbTpSEIwZ4cmiG2UrYEVY3_Q",
     "videoUrl": "http://youtu.be/Ak2ILsVvGSg",
-    "rank": 50,
-    "rankVar": 3
+    "rank": 46,
+    "rankVar": 7
   },
   {
     "id": 5566,
@@ -705,12 +649,12 @@
     "name": "Kofuku Taiga",
     "thumbnail": "https://yt3.googleusercontent.com/XE5jccji48i2P9aY074Kt0JVdvgC4QqJaeCutgP3Rp06DNNpWijIjjZQ94hfAsuNuVT2bPz0Ow=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "269",
-    "score": "69",
+    "score": "70",
     "videoTitle": "[ KARAOKE 歌枠 ] Singing some Idol song",
-    "videoViewCount": "69",
+    "videoViewCount": "70",
     "videoThumbnail": "https://i.ytimg.com/vi/MeWJzL5YV_I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd58la7_wOAUbYFIlu4YiuPhzFUA",
     "videoUrl": "http://youtu.be/MeWJzL5YV_I",
-    "rank": 51,
+    "rank": 46,
     "rankVar": null
   },
   {
@@ -718,13 +662,13 @@
     "channelUrl": "https://www.youtube.com/channel/UC6DnThnleMwRnIOnkwkGltw",
     "name": "Moni 夢妮",
     "thumbnail": "https://yt3.googleusercontent.com/Ky_9cJw7zUClsnTMWWFBYaoUulVuX-r5f7doWH9FST5C3zMVV4QkD2CQGL8tYOq2xjCjB4NP4Js=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "169",
+    "subscribe": "171",
     "score": "58",
     "videoTitle": "【歌回回播】11/4 圖奇200追紀念：V家主題歌回【Moni夢妮】",
     "videoViewCount": "58",
     "videoThumbnail": "https://i.ytimg.com/vi/BCuDNiz5dRE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqeyl8C1LinqGfck3sV9lPE7kRTw",
     "videoUrl": "http://youtu.be/BCuDNiz5dRE",
-    "rank": 52,
+    "rank": 48,
     "rankVar": null
   },
   {
@@ -732,13 +676,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCdn-Ih1haubNS82Ik_XvdWw",
     "name": "陽一 Youichi",
     "thumbnail": "https://yt3.googleusercontent.com/IDBZHN0AoMXK8R2iRrT-c73BWyHYjwL8gvk2xV2QH5LXAV2WjF9SGEqqFZQUGiEAsnZCBr3e=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "969",
+    "subscribe": "971",
     "score": "56",
     "videoTitle": "突發直播🔴 錄歌回！Lovely? Love Lee? 💕【陽一Youichi 香港Vtuber】",
     "videoViewCount": "56",
     "videoThumbnail": "https://i.ytimg.com/vi/tIn8o4YhG3Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDz5OzdSv69gm-MCTKCoGkE0kqdGQ",
     "videoUrl": "http://youtu.be/tIn8o4YhG3Q",
-    "rank": 53,
+    "rank": 49,
     "rankVar": null
   },
   {
@@ -752,8 +696,8 @@
     "videoViewCount": "55",
     "videoThumbnail": "https://i.ytimg.com/vi/Wppf9h0QhWU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_LC2JgYEYtSFc8olVzQS5317JbA",
     "videoUrl": "http://youtu.be/Wppf9h0QhWU",
-    "rank": 54,
-    "rankVar": -2
+    "rank": 50,
+    "rankVar": 2
   },
   {
     "id": 5503,
@@ -766,7 +710,21 @@
     "videoViewCount": "45",
     "videoThumbnail": "https://i.ytimg.com/vi/8dws1A0Vmz8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqyvBpqcf5J7WCFXWCIfn8ajDSgg",
     "videoUrl": "http://youtu.be/8dws1A0Vmz8",
-    "rank": 55,
-    "rankVar": -1
+    "rank": 51,
+    "rankVar": 3
+  },
+  {
+    "id": 5481,
+    "channelUrl": "https://www.youtube.com/channel/UCYN9DL8p4g2NVcEhPm0aRgw",
+    "name": "莫琳娜",
+    "thumbnail": "https://yt3.googleusercontent.com/NIeLA2BJUUyMUMi_kcgqtkOBgf_dHCnu3MCjrovM5RIpx_wtrctYEYsLuburDfBG7BaS6KTm2FI=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "297",
+    "score": "31",
+    "videoTitle": "11/25 |出道後的第一次歌回！|情歌歌回",
+    "videoViewCount": "31",
+    "videoThumbnail": "https://i.ytimg.com/vi/1Qw89aF2sms/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXcVOsQUBhJPXQ_2lxhi5blSd3zg",
+    "videoUrl": "http://youtu.be/1Qw89aF2sms",
+    "rank": 52,
+    "rankVar": null
   }
 ]
