@@ -1,31 +1,45 @@
 [
   {
+    "id": 1306,
+    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+    "name": "博衣こより",
+    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "103萬",
+    "score": "0.98",
+    "videoTitle": "【桃鉄ワールド】100年耐久🔥VS最強CPU(さくま×2)～はじまりの12時間耐久～ #1 【博衣こより/ホロライブ】",
+    "videoViewCount": "56萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/WMpYUlcqceI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIPK7mQSfh1eZ7LE_IKMqsNYpD-w",
+    "videoUrl": "http://youtu.be/WMpYUlcqceI",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
     "id": 1326,
     "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "82.5萬",
-    "score": "0.36",
+    "subscribe": "82.6萬",
+    "score": "0.49",
     "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "91.6萬",
+    "videoViewCount": "92.04萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
     "videoUrl": "http://youtu.be/lnlyZlIRO1U",
-    "rank": 1,
-    "rankVar": 5
+    "rank": 2,
+    "rankVar": 4
   },
   {
     "id": 1328,
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "80.3萬",
-    "score": "0.12",
+    "subscribe": "80.4萬",
+    "score": "0.25",
     "videoTitle": "【ORIGINAL MV】BITE! カム! BITE! || HAKOS BAELZ x INUGAMI KORONE",
-    "videoViewCount": "39.08萬",
+    "videoViewCount": "41.04萬",
     "videoThumbnail": "https://i.ytimg.com/vi/LYnhN_49tpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAoKF2yL4_57nAnQGV846AlwnQag",
     "videoUrl": "http://youtu.be/LYnhN_49tpE",
-    "rank": 2,
-    "rankVar": 3
+    "rank": 3,
+    "rankVar": 2
   },
   {
     "id": 1365,
@@ -35,11 +49,11 @@
     "subscribe": "83.7萬",
     "score": "0.12",
     "videoTitle": "【MV】You're Mine - Vestia Zeta 【Original Song】",
-    "videoViewCount": "42.19萬",
+    "videoViewCount": "42.48萬",
     "videoThumbnail": "https://i.ytimg.com/vi/KFFtUqQVLrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2equKDEs9rvm9StyY-w8VNuPBWQ",
     "videoUrl": "http://youtu.be/KFFtUqQVLrI",
-    "rank": 3,
-    "rankVar": 4
+    "rank": 4,
+    "rankVar": 3
   },
   {
     "id": 1287,
@@ -49,10 +63,10 @@
     "subscribe": "86.7萬",
     "score": "0.12",
     "videoTitle": "【 3D LIVE 】ゲスト多数！お披露目&告知あり！「Genius Idol」 #夜空メル誕生祭2023 🎂 【ホロライブ/夜空メル】",
-    "videoViewCount": "31.3萬",
+    "videoViewCount": "31.35萬",
     "videoThumbnail": "https://i.ytimg.com/vi/YPrUX5M7a5k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvuDjPlrr6Ld_JRdTN-vd8HQvP3A",
     "videoUrl": "http://youtu.be/YPrUX5M7a5k",
-    "rank": 4,
-    "rankVar": 4
+    "rank": 5,
+    "rankVar": 3
   }
 ]
