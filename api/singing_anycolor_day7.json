@@ -4,13 +4,27 @@
     "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
     "name": "綠仙",
     "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "67.9萬",
-    "score": "70,449",
+    "subscribe": "68萬",
+    "score": "73,952",
     "videoTitle": "【歌枠】VTuberオリジナル楽曲を歌うVTuberです🐼【にじさんじ | 緑仙 | 虎姫コトカ】",
-    "videoViewCount": "7.04萬",
+    "videoViewCount": "7.4萬",
     "videoThumbnail": "https://i.ytimg.com/vi/OGa62dHar20/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkGEfm7ora9t5cKlEh2sLtwE0y0Q",
     "videoUrl": "http://youtu.be/OGa62dHar20",
     "rank": 1,
     "rankVar": 1
+  },
+  {
+    "id": 1459,
+    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+    "name": "エルフのえる",
+    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "51萬",
+    "score": "22,563",
+    "videoTitle": "【歌枠】エルフは冬にこんな歌が歌いたくなるらしい。【にじさんじ/える】",
+    "videoViewCount": "2.26萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/rcMm1IQa9p8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBi06oihiCwAfS0Wcb3SlQrCw7WpA",
+    "videoUrl": "http://youtu.be/rcMm1IQa9p8",
+    "rank": 2,
+    "rankVar": null
   }
 ]
