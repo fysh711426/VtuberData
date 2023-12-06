@@ -1,31 +1,17 @@
 [
   {
-    "id": 1306,
-    "channelUrl": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-    "name": "博衣こより",
-    "thumbnail": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "103萬",
-    "score": "0.98",
-    "videoTitle": "劣等上等 / ラプラス・ダークネス＆鷹嶺ルイ＆博衣こより＆沙花叉クロヱ＆風真いろは(Cover)【歌ってみた】",
-    "videoViewCount": "59.31萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/bW3K8MCfE0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-9ToeoD1v1cLis9-w9zpK1km9vg",
-    "videoUrl": "http://youtu.be/bW3K8MCfE0g",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1326,
     "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "83.2萬",
+    "subscribe": "83.3萬",
     "score": "0.85",
     "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "94.3萬",
+    "videoViewCount": "94.59萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
     "videoUrl": "http://youtu.be/lnlyZlIRO1U",
-    "rank": 2,
-    "rankVar": -1
+    "rank": 1,
+    "rankVar": 1
   },
   {
     "id": 1246,
@@ -35,10 +21,10 @@
     "subscribe": "147萬",
     "score": "0.68",
     "videoTitle": "【人生ゲーム for Nintendo Switch】ういちゃん！共に人生を歩もう！！【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "37.34萬",
+    "videoViewCount": "37.4萬",
     "videoThumbnail": "https://i.ytimg.com/vi/PikwdgwAmYg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkwN_Ta4RB00Kz2HrsdqTKIHOgUQ",
     "videoUrl": "http://youtu.be/PikwdgwAmYg",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -49,10 +35,10 @@
     "subscribe": "238萬",
     "score": "0.42",
     "videoTitle": "【スーパーマリオRPG】初見プレイ！EDまでぶっ通し★ぺこ！【ホロライブ/兎田ぺこら】",
-    "videoViewCount": "69.4萬",
+    "videoViewCount": "69.52萬",
     "videoThumbnail": "https://i.ytimg.com/vi/hjQUf5tdFos/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCywk49d7dawb6uGWqrWSGSM4o3Wg",
     "videoUrl": "http://youtu.be/hjQUf5tdFos",
-    "rank": 4,
+    "rank": 3,
     "rankVar": null
   },
   {
@@ -61,13 +47,13 @@
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "80.5萬",
-    "score": "0.25",
+    "score": "0.12",
     "videoTitle": "【ORIGINAL MV】BITE! カム! BITE! || HAKOS BAELZ x INUGAMI KORONE",
-    "videoViewCount": "49.11萬",
+    "videoViewCount": "50.25萬",
     "videoThumbnail": "https://i.ytimg.com/vi/LYnhN_49tpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAoKF2yL4_57nAnQGV846AlwnQag",
     "videoUrl": "http://youtu.be/LYnhN_49tpE",
-    "rank": 5,
-    "rankVar": -3
+    "rank": 4,
+    "rankVar": -1
   },
   {
     "id": 1365,
@@ -77,10 +63,24 @@
     "subscribe": "83.8萬",
     "score": "0.12",
     "videoTitle": "【MV】You're Mine - Vestia Zeta 【Original Song】",
-    "videoViewCount": "44.26萬",
+    "videoViewCount": "44.56萬",
     "videoThumbnail": "https://i.ytimg.com/vi/KFFtUqQVLrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2equKDEs9rvm9StyY-w8VNuPBWQ",
     "videoUrl": "http://youtu.be/KFFtUqQVLrI",
+    "rank": 5,
+    "rankVar": -1
+  },
+  {
+    "id": 1287,
+    "channelUrl": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
+    "name": "夜空梅露",
+    "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "86.8萬",
+    "score": "0.12",
+    "videoTitle": "YOASOBI「アイドル」/ covered by 夜空メル(hololive)",
+    "videoViewCount": "28.13萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/kiW45K1dWLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3IOHwDl-7qnF5zjdW5jp-56ExBg",
+    "videoUrl": "http://youtu.be/kiW45K1dWLg",
     "rank": 6,
-    "rankVar": -3
+    "rankVar": -1
   }
 ]
