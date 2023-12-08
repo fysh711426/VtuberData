@@ -7,7 +7,7 @@
     "subscribe": "119萬",
     "score": "0.85",
     "videoTitle": "【 桃鉄ワールド 】今作もあの伝説の４人で本気のバトルだ！！【ホロライブ/紫咲シオン】",
-    "videoViewCount": "54.43萬",
+    "videoViewCount": "54.56萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lz17IkSma-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVacjL9nQUpUMsGbWUz8_fOYpZZQ",
     "videoUrl": "http://youtu.be/lz17IkSma-0",
     "rank": 1,
@@ -21,11 +21,39 @@
     "subscribe": "147萬",
     "score": "0.68",
     "videoTitle": "【人生ゲーム for Nintendo Switch】ういちゃん！共に人生を歩もう！！【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "37.46萬",
+    "videoViewCount": "37.53萬",
     "videoThumbnail": "https://i.ytimg.com/vi/PikwdgwAmYg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkwN_Ta4RB00Kz2HrsdqTKIHOgUQ",
     "videoUrl": "http://youtu.be/PikwdgwAmYg",
     "rank": 2,
     "rankVar": null
+  },
+  {
+    "id": 1237,
+    "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+    "name": "貓又小粥",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-4v9u0XW29ThJHrutfQzTDSun8xJbi_d3HT12New=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "170萬",
+    "score": "0.59",
+    "videoTitle": "春嵐 / 猫又おかゆ (cover)",
+    "videoViewCount": "94.06萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/8DG0qCNmNAs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv8ITiXkrSIrSHbDd-Or7ocHTAZw",
+    "videoUrl": "http://youtu.be/8DG0qCNmNAs",
+    "rank": 3,
+    "rankVar": null
+  },
+  {
+    "id": 1328,
+    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+    "name": "Hakos Baelz",
+    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "80.7萬",
+    "score": "0.37",
+    "videoTitle": "【ORIGINAL MV】BITE! カム! BITE! || HAKOS BAELZ x INUGAMI KORONE",
+    "videoViewCount": "52.28萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/LYnhN_49tpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAoKF2yL4_57nAnQGV846AlwnQag",
+    "videoUrl": "http://youtu.be/LYnhN_49tpE",
+    "rank": 4,
+    "rankVar": 0
   },
   {
     "id": 1326,
@@ -35,25 +63,11 @@
     "subscribe": "83.3萬",
     "score": "0.36",
     "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "94.9萬",
+    "videoViewCount": "95.22萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
     "videoUrl": "http://youtu.be/lnlyZlIRO1U",
-    "rank": 3,
-    "rankVar": -1
-  },
-  {
-    "id": 1328,
-    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-    "name": "Hakos Baelz",
-    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "80.6萬",
-    "score": "0.25",
-    "videoTitle": "【ORIGINAL MV】BITE! カム! BITE! || HAKOS BAELZ x INUGAMI KORONE",
-    "videoViewCount": "51.31萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/LYnhN_49tpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAoKF2yL4_57nAnQGV846AlwnQag",
-    "videoUrl": "http://youtu.be/LYnhN_49tpE",
-    "rank": 4,
-    "rankVar": 0
+    "rank": 5,
+    "rankVar": -3
   },
   {
     "id": 1365,
@@ -63,11 +77,11 @@
     "subscribe": "83.8萬",
     "score": "0.12",
     "videoTitle": "【MV】You're Mine - Vestia Zeta 【Original Song】",
-    "videoViewCount": "44.81萬",
+    "videoViewCount": "45.1萬",
     "videoThumbnail": "https://i.ytimg.com/vi/KFFtUqQVLrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2equKDEs9rvm9StyY-w8VNuPBWQ",
     "videoUrl": "http://youtu.be/KFFtUqQVLrI",
-    "rank": 5,
-    "rankVar": 0
+    "rank": 6,
+    "rankVar": -1
   },
   {
     "id": 1287,
@@ -77,10 +91,10 @@
     "subscribe": "86.8萬",
     "score": "0.12",
     "videoTitle": "YOASOBI「アイドル」/ covered by 夜空メル(hololive)",
-    "videoViewCount": "28.2萬",
+    "videoViewCount": "28.27萬",
     "videoThumbnail": "https://i.ytimg.com/vi/kiW45K1dWLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3IOHwDl-7qnF5zjdW5jp-56ExBg",
     "videoUrl": "http://youtu.be/kiW45K1dWLg",
-    "rank": 6,
-    "rankVar": 0
+    "rank": 7,
+    "rankVar": -1
   }
 ]
