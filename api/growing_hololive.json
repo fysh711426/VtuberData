@@ -7,7 +7,7 @@
     "subscribe": "119萬",
     "score": "0.85",
     "videoTitle": "【 桃鉄ワールド 】今作もあの伝説の４人で本気のバトルだ！！【ホロライブ/紫咲シオン】",
-    "videoViewCount": "54.56萬",
+    "videoViewCount": "54.69萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lz17IkSma-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVacjL9nQUpUMsGbWUz8_fOYpZZQ",
     "videoUrl": "http://youtu.be/lz17IkSma-0",
     "rank": 1,
@@ -21,7 +21,7 @@
     "subscribe": "147萬",
     "score": "0.68",
     "videoTitle": "【人生ゲーム for Nintendo Switch】ういちゃん！共に人生を歩もう！！【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "37.53萬",
+    "videoViewCount": "37.6萬",
     "videoThumbnail": "https://i.ytimg.com/vi/PikwdgwAmYg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkwN_Ta4RB00Kz2HrsdqTKIHOgUQ",
     "videoUrl": "http://youtu.be/PikwdgwAmYg",
     "rank": 2,
@@ -35,10 +35,38 @@
     "subscribe": "170萬",
     "score": "0.59",
     "videoTitle": "春嵐 / 猫又おかゆ (cover)",
-    "videoViewCount": "94.06萬",
+    "videoViewCount": "95.14萬",
     "videoThumbnail": "https://i.ytimg.com/vi/8DG0qCNmNAs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAv8ITiXkrSIrSHbDd-Or7ocHTAZw",
     "videoUrl": "http://youtu.be/8DG0qCNmNAs",
     "rank": 3,
+    "rankVar": null
+  },
+  {
+    "id": 1230,
+    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+    "name": "星街彗星",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "204萬",
+    "score": "0.49",
+    "videoTitle": "ザイオン / 星街すいせい(official)",
+    "videoViewCount": "110.82萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/liCsjACEeJA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTNUBFmwvZl6hmcbU2Nc9BShQPgQ",
+    "videoUrl": "http://youtu.be/liCsjACEeJA",
+    "rank": 4,
+    "rankVar": null
+  },
+  {
+    "id": 1225,
+    "channelUrl": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "name": "白上吹雪",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9yXgE7uEDk-7i1Gphyxd34NeopLClxUujOg-0OlQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "226萬",
+    "score": "0.44",
+    "videoTitle": "人生美味礼讃/白上フブキ(cover)",
+    "videoViewCount": "38.24萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/lKzDNS_o5ZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbt4qI47H-CHgaAIuNSDWe4BWhvw",
+    "videoUrl": "http://youtu.be/lKzDNS_o5ZE",
+    "rank": 5,
     "rankVar": null
   },
   {
@@ -49,25 +77,25 @@
     "subscribe": "80.7萬",
     "score": "0.37",
     "videoTitle": "【ORIGINAL MV】BITE! カム! BITE! || HAKOS BAELZ x INUGAMI KORONE",
-    "videoViewCount": "52.28萬",
+    "videoViewCount": "53.17萬",
     "videoThumbnail": "https://i.ytimg.com/vi/LYnhN_49tpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAoKF2yL4_57nAnQGV846AlwnQag",
     "videoUrl": "http://youtu.be/LYnhN_49tpE",
-    "rank": 4,
-    "rankVar": 0
+    "rank": 6,
+    "rankVar": -2
   },
   {
     "id": 1326,
     "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "83.3萬",
+    "subscribe": "83.4萬",
     "score": "0.36",
     "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "95.22萬",
+    "videoViewCount": "95.51萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
     "videoUrl": "http://youtu.be/lnlyZlIRO1U",
-    "rank": 5,
-    "rankVar": -3
+    "rank": 7,
+    "rankVar": -5
   },
   {
     "id": 1365,
@@ -77,11 +105,11 @@
     "subscribe": "83.8萬",
     "score": "0.12",
     "videoTitle": "【MV】You're Mine - Vestia Zeta 【Original Song】",
-    "videoViewCount": "45.1萬",
+    "videoViewCount": "45.36萬",
     "videoThumbnail": "https://i.ytimg.com/vi/KFFtUqQVLrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2equKDEs9rvm9StyY-w8VNuPBWQ",
     "videoUrl": "http://youtu.be/KFFtUqQVLrI",
-    "rank": 6,
-    "rankVar": -1
+    "rank": 8,
+    "rankVar": -3
   },
   {
     "id": 1287,
@@ -91,10 +119,10 @@
     "subscribe": "86.8萬",
     "score": "0.12",
     "videoTitle": "YOASOBI「アイドル」/ covered by 夜空メル(hololive)",
-    "videoViewCount": "28.27萬",
+    "videoViewCount": "28.33萬",
     "videoThumbnail": "https://i.ytimg.com/vi/kiW45K1dWLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3IOHwDl-7qnF5zjdW5jp-56ExBg",
     "videoUrl": "http://youtu.be/kiW45K1dWLg",
-    "rank": 7,
-    "rankVar": -1
+    "rank": 9,
+    "rankVar": -3
   }
 ]
