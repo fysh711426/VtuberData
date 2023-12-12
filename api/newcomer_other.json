@@ -14,20 +14,6 @@
     "rankVar": null
   },
   {
-    "id": 5666,
-    "channelUrl": "https://www.youtube.com/channel/UCiz5pyltLChC61urPTdYHyg",
-    "name": "討價TJ",
-    "thumbnail": "https://yt3.googleusercontent.com/I799swu9SxBDYg8qGFQxZ6UAxMXA7noWi0gJVL_W21bO0oYpLxqkGgZEqGPxLxT4wg59A_WD_Q=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "609",
-    "score": "609",
-    "videoTitle": "【各自的夢想】討價TJ with 愛麗絲（AI）#myvt #個人勢vtuber",
-    "videoViewCount": "928",
-    "videoThumbnail": "https://i.ytimg.com/vi/4j1IkN7GXFE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBct8knqw5n6-rUBZdEXiPyr_l2dw",
-    "videoUrl": "http://youtu.be/4j1IkN7GXFE",
-    "rank": 2,
-    "rankVar": null
-  },
-  {
     "id": 5660,
     "channelUrl": "https://www.youtube.com/channel/UCGmcuwiOU-xJJu578-u79qA",
     "name": "離蕥",
@@ -38,7 +24,7 @@
     "videoViewCount": "398",
     "videoThumbnail": "https://i.ytimg.com/vi/RoQIp87OQYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8-he8dBIIB0LgiiPJC15PJbKCsQ",
     "videoUrl": "http://youtu.be/RoQIp87OQYk",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -46,13 +32,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCKuHUJgWGVxWN7T5I73Og-g",
     "name": "Arina Yomi",
     "thumbnail": "https://yt3.googleusercontent.com/JZz5aMjIAcpehp1Pdj0Da4XneEs6Pwn2kA9zdycq_IAFgyrX4LhEl0iutPgNrmK15YSeSqSqXg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "100",
-    "score": "100",
+    "subscribe": "99",
+    "score": "99",
     "videoTitle": "【初配信】It's me! Arinaa! 🌠",
     "videoViewCount": "128",
     "videoThumbnail": "https://i.ytimg.com/vi/a4WrktFS5DE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsR2QOgIEAXCPAY_Hn3V0K0ceT2w",
     "videoUrl": "http://youtu.be/a4WrktFS5DE",
-    "rank": 4,
+    "rank": 3,
     "rankVar": null
   }
 ]
