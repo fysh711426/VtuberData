@@ -7,7 +7,7 @@
     "subscribe": "104萬",
     "score": "0.97",
     "videoTitle": "劣等上等 / ラプラス・ダークネス＆鷹嶺ルイ＆博衣こより＆沙花叉クロヱ＆風真いろは(Cover)【歌ってみた】",
-    "videoViewCount": "75.72萬",
+    "videoViewCount": "77.14萬",
     "videoThumbnail": "https://i.ytimg.com/vi/bW3K8MCfE0g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-9ToeoD1v1cLis9-w9zpK1km9vg",
     "videoUrl": "http://youtu.be/bW3K8MCfE0g",
     "rank": 1,
@@ -19,13 +19,13 @@
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "84.2萬",
-    "score": "0.96",
+    "score": "0.72",
     "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "97.48萬",
+    "videoViewCount": "97.75萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
     "videoUrl": "http://youtu.be/lnlyZlIRO1U",
     "rank": 2,
-    "rankVar": 5
+    "rankVar": 0
   },
   {
     "id": 1328,
@@ -35,7 +35,7 @@
     "subscribe": "81.1萬",
     "score": "0.5",
     "videoTitle": "【ORIGINAL MV】BITE! カム! BITE! || HAKOS BAELZ x INUGAMI KORONE",
-    "videoViewCount": "58.8萬",
+    "videoViewCount": "59.39萬",
     "videoThumbnail": "https://i.ytimg.com/vi/LYnhN_49tpE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAoKF2yL4_57nAnQGV846AlwnQag",
     "videoUrl": "http://youtu.be/LYnhN_49tpE",
     "rank": 3,
@@ -49,25 +49,11 @@
     "subscribe": "232萬",
     "score": "0.43",
     "videoTitle": "【MV】 SNEAKING - Song by Mori Calliope（メタルギア公式コラボソング）",
-    "videoViewCount": "104.46萬",
+    "videoViewCount": "104.8萬",
     "videoThumbnail": "https://i.ytimg.com/vi/42awuPx06e8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBg9rnF039gXtfWJ8P4ncxO4IOlSw",
     "videoUrl": "http://youtu.be/42awuPx06e8",
     "rank": 4,
     "rankVar": null
-  },
-  {
-    "id": 1365,
-    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-    "name": "ベスティア・ゼータ",
-    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "84萬",
-    "score": "0.24",
-    "videoTitle": "【MV】You're Mine - Vestia Zeta 【Original Song】",
-    "videoViewCount": "47.25萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/KFFtUqQVLrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2equKDEs9rvm9StyY-w8VNuPBWQ",
-    "videoUrl": "http://youtu.be/KFFtUqQVLrI",
-    "rank": 5,
-    "rankVar": 3
   },
   {
     "id": 1287,
@@ -77,10 +63,24 @@
     "subscribe": "87萬",
     "score": "0.23",
     "videoTitle": "YOASOBI「アイドル」/ covered by 夜空メル(hololive)",
-    "videoViewCount": "28.7萬",
+    "videoViewCount": "28.75萬",
     "videoThumbnail": "https://i.ytimg.com/vi/kiW45K1dWLg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3IOHwDl-7qnF5zjdW5jp-56ExBg",
     "videoUrl": "http://youtu.be/kiW45K1dWLg",
-    "rank": 6,
+    "rank": 5,
     "rankVar": 3
+  },
+  {
+    "id": 1365,
+    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+    "name": "ベスティア・ゼータ",
+    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "84萬",
+    "score": "0.12",
+    "videoTitle": "【MV】You're Mine - Vestia Zeta 【Original Song】",
+    "videoViewCount": "47.55萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/KFFtUqQVLrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2equKDEs9rvm9StyY-w8VNuPBWQ",
+    "videoUrl": "http://youtu.be/KFFtUqQVLrI",
+    "rank": 6,
+    "rankVar": 1
   }
 ]
