@@ -1,19 +1,5 @@
 [
   {
-    "id": 5665,
-    "channelUrl": "https://www.youtube.com/channel/UCYn6PsBrr0hreu9epcKjhlg",
-    "name": "哈比HaBE",
-    "thumbnail": "https://yt3.googleusercontent.com/KyEIlO0hrqzrVFfBNJNB1u-Q3Cl-2wJ6PMAaYb6Ncm5iFBobwcWOoWOVS_r9F1SOTNOuxQQAtQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1090",
-    "score": "1,090",
-    "videoTitle": "【首次APEX】是繪師就是要用繪圖板打A！到底是鎖爛還是高血壓呢...？【哈比】",
-    "videoViewCount": "1516",
-    "videoThumbnail": "https://i.ytimg.com/vi/LCmmNV5X9D4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6eEA-MWOO0C85P-u0JKq8Kbtn4g",
-    "videoUrl": "http://youtu.be/LCmmNV5X9D4",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 5660,
     "channelUrl": "https://www.youtube.com/channel/UCGmcuwiOU-xJJu578-u79qA",
     "name": "離蕥",
@@ -24,7 +10,7 @@
     "videoViewCount": "405",
     "videoThumbnail": "https://i.ytimg.com/vi/RoQIp87OQYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8-he8dBIIB0LgiiPJC15PJbKCsQ",
     "videoUrl": "http://youtu.be/RoQIp87OQYk",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -32,13 +18,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCKuHUJgWGVxWN7T5I73Og-g",
     "name": "Arina Yomi",
     "thumbnail": "https://yt3.googleusercontent.com/JZz5aMjIAcpehp1Pdj0Da4XneEs6Pwn2kA9zdycq_IAFgyrX4LhEl0iutPgNrmK15YSeSqSqXg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "99",
-    "score": "99",
+    "subscribe": "100",
+    "score": "100",
     "videoTitle": "【初配信】It's me! Arinaa! 🌠",
     "videoViewCount": "133",
     "videoThumbnail": "https://i.ytimg.com/vi/a4WrktFS5DE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsR2QOgIEAXCPAY_Hn3V0K0ceT2w",
     "videoUrl": "http://youtu.be/a4WrktFS5DE",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   }
 ]
