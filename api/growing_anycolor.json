@@ -7,25 +7,11 @@
     "subscribe": "125萬",
     "score": "0.81",
     "videoTitle": "VCR GTA2 #2 | どんな命も助けるよ【にじさんじ/叶】",
-    "videoViewCount": "47.53萬",
+    "videoViewCount": "47.62萬",
     "videoThumbnail": "https://i.ytimg.com/vi/HCTDjkV1jlk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuMM06E5G-BTLgQ0oEHN-tkf6EIg",
     "videoUrl": "http://youtu.be/HCTDjkV1jlk",
     "rank": 1,
     "rankVar": null
-  },
-  {
-    "id": 1313,
-    "channelUrl": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
-    "name": "勇氣千尋",
-    "thumbnail": "https://yt3.googleusercontent.com/HC0inff8QxW-ez4Wl7ItCqgkmdJmJn2H8ch26-yw0NMXO4soVmU39R8O2dszyS-vRpNkKeouQzU=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "65.4萬",
-    "score": "0.77",
-    "videoTitle": "【歌ってみた】魔法少女とチョコレゐト【にじさんじ/勇気ちひろ】",
-    "videoViewCount": "43.5萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/L9y9hNmJu90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC01i7Ai_1BODDA-9pSmjvTdpO7A",
-    "videoUrl": "http://youtu.be/L9y9hNmJu90",
-    "rank": 2,
-    "rankVar": -1
   },
   {
     "id": 1718,
@@ -38,7 +24,7 @@
     "videoViewCount": "4.59萬",
     "videoThumbnail": "https://i.ytimg.com/vi/m0r2qynidQE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf8bIcPDE3Ltj54pIYwijs_kHJlg",
     "videoUrl": "http://youtu.be/m0r2qynidQE",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -49,11 +35,39 @@
     "subscribe": "51.6萬",
     "score": "0.58",
     "videoTitle": "声真似凸 #にじさんじ声真似主さんと繋がりたい  セリフリクエスト歓迎！",
-    "videoViewCount": "29.77萬",
+    "videoViewCount": "29.82萬",
     "videoThumbnail": "https://i.ytimg.com/vi/nn594O_MU4A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiEC4Q78TD6bygWY6qLYU7jpQBoA",
     "videoUrl": "http://youtu.be/nn594O_MU4A",
-    "rank": 4,
+    "rank": 3,
     "rankVar": 3
+  },
+  {
+    "id": 3501,
+    "channelUrl": "https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ",
+    "name": "スカーレ ヨナグニ",
+    "thumbnail": "https://yt3.ggpht.com/-W0IjUx8nP-98ywYB-N76ozkI0BPZATXit2EricfeqDbIhdrYW7bgz4cwUaZOzMP6Ptb-ZGTSg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "37.4萬",
+    "score": "0.54",
+    "videoTitle": "What are you thankful for?",
+    "videoViewCount": "2.92萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/DqbmvmzEy08/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAdQvsKpuAcjLuwXPfjx6GQzjk3tQ",
+    "videoUrl": "http://youtu.be/DqbmvmzEy08",
+    "rank": 4,
+    "rankVar": null
+  },
+  {
+    "id": 1313,
+    "channelUrl": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
+    "name": "勇氣千尋",
+    "thumbnail": "https://yt3.googleusercontent.com/HC0inff8QxW-ez4Wl7ItCqgkmdJmJn2H8ch26-yw0NMXO4soVmU39R8O2dszyS-vRpNkKeouQzU=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "65.4萬",
+    "score": "0.46",
+    "videoTitle": "【歌ってみた】魔法少女とチョコレゐト【にじさんじ/勇気ちひろ】",
+    "videoViewCount": "44.71萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/L9y9hNmJu90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC01i7Ai_1BODDA-9pSmjvTdpO7A",
+    "videoUrl": "http://youtu.be/L9y9hNmJu90",
+    "rank": 5,
+    "rankVar": -4
   },
   {
     "id": 3444,
@@ -63,10 +77,24 @@
     "subscribe": "24.3萬",
     "score": "0.41",
     "videoTitle": "Mr.Music / れるりり&ロンチーノ=ペペ&かごめP （Covered by VΔLZ×VOLTACTION）",
-    "videoViewCount": "28.12萬",
+    "videoViewCount": "32.5萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_W5Dw_Oy9Ws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChlYVEMijZhRDDf0YqXrSwfkpE0w",
     "videoUrl": "http://youtu.be/_W5Dw_Oy9Ws",
-    "rank": 5,
+    "rank": 6,
+    "rankVar": -1
+  },
+  {
+    "id": 1338,
+    "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
+    "name": "クロノワール(叶 葛葉)",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "83.8萬",
+    "score": "0.36",
+    "videoTitle": "【3Dで初マッチ！】だるま＆SHAKAにひっかけクイズ出したらまさかのブチギレ！？ #くろなん",
+    "videoViewCount": "118.17萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/NR-_5ZEn1jg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1j_rZe3hZB9TypZTysJsdxJLG_w",
+    "videoUrl": "http://youtu.be/NR-_5ZEn1jg",
+    "rank": 7,
     "rankVar": 0
   },
   {
@@ -77,11 +105,11 @@
     "subscribe": "31.1萬",
     "score": "0.32",
     "videoTitle": "アンドロメダアンドロメダ / 四季凪アキラ(Cover) #あの8人でナユタンメドレー",
-    "videoViewCount": "29.97萬",
+    "videoViewCount": "30.11萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ZDYxtnwrvS4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSUM9iP6x8OM48p_V75MrgbwDnkA",
     "videoUrl": "http://youtu.be/ZDYxtnwrvS4",
-    "rank": 6,
-    "rankVar": 3
+    "rank": 8,
+    "rankVar": 0
   },
   {
     "id": 1281,
@@ -91,25 +119,11 @@
     "subscribe": "99.3萬",
     "score": "0.3",
     "videoTitle": "トウキョウ・シャンディ・ランデヴ／covered by星川サラ(feat.叶''先輩'')",
-    "videoViewCount": "36.74萬",
+    "videoViewCount": "37.13萬",
     "videoThumbnail": "https://i.ytimg.com/vi/7A9Du9CAzH0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqSS392TNiDouI7jF_HYjm857DbA",
     "videoUrl": "http://youtu.be/7A9Du9CAzH0",
-    "rank": 7,
-    "rankVar": -1
-  },
-  {
-    "id": 3501,
-    "channelUrl": "https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ",
-    "name": "スカーレ ヨナグニ",
-    "thumbnail": "https://yt3.ggpht.com/-W0IjUx8nP-98ywYB-N76ozkI0BPZATXit2EricfeqDbIhdrYW7bgz4cwUaZOzMP6Ptb-ZGTSg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "37.3萬",
-    "score": "0.27",
-    "videoTitle": "I PLAY FINAL FANTASY XIV FOR THE FIRST TIME #squareenix",
-    "videoViewCount": "3.83萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/4u4NHJoI7RI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJTiHCaMNpm19QE_nu14SXFEpZzQ",
-    "videoUrl": "http://youtu.be/4u4NHJoI7RI",
-    "rank": 8,
-    "rankVar": null
+    "rank": 9,
+    "rankVar": 0
   },
   {
     "id": 1537,
@@ -119,25 +133,11 @@
     "subscribe": "37.4萬",
     "score": "0.27",
     "videoTitle": "Message, Delivered From the Departed. ft. audioTopia (Original Song)",
-    "videoViewCount": "16.65萬",
+    "videoViewCount": "16.71萬",
     "videoThumbnail": "https://i.ytimg.com/vi/4ztXZTKQohA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtROFC_sjwKisrOYjY0CxoC490bg",
     "videoUrl": "http://youtu.be/4ztXZTKQohA",
-    "rank": 9,
-    "rankVar": -5
-  },
-  {
-    "id": 1338,
-    "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
-    "name": "クロノワール(叶 葛葉)",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "83.7萬",
-    "score": "0.24",
-    "videoTitle": "【3Dで初マッチ！】だるま＆SHAKAにひっかけクイズ出したらまさかのブチギレ！？ #くろなん",
-    "videoViewCount": "117.73萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/NR-_5ZEn1jg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1j_rZe3hZB9TypZTysJsdxJLG_w",
-    "videoUrl": "http://youtu.be/NR-_5ZEn1jg",
     "rank": 10,
-    "rankVar": -2
+    "rankVar": -6
   },
   {
     "id": 3508,
@@ -146,11 +146,25 @@
     "thumbnail": "https://yt3.ggpht.com/jWDEqs41VStqvbssw9Ap5Wj5gq8_ti6BY1xqLyL5sZYbIiceaSgqnk5AW21oHF79sFrlbgqLqLs=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "42.3萬",
     "score": "0.24",
-    "videoTitle": "I read my viewer's confessions...",
-    "videoViewCount": "7.48萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/LonlFeq4yX8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvUSW53z9rK2UfQezb1lJncIAI5w",
-    "videoUrl": "http://youtu.be/LonlFeq4yX8",
+    "videoTitle": "Answer the Question or EAT SPICY NOODLES",
+    "videoViewCount": "7.78萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/bgQr2Sdtgrw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPLKXm7hkibnJ_R_Y_4FAvyKExpw",
+    "videoUrl": "http://youtu.be/bgQr2Sdtgrw",
     "rank": 11,
+    "rankVar": 0
+  },
+  {
+    "id": 3505,
+    "channelUrl": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
+    "name": "マリアマリネット",
+    "thumbnail": "https://yt3.googleusercontent.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "44萬",
+    "score": "0.23",
+    "videoTitle": "【BIRTHDAY #MarifacturingDay】2 YR OLD BDAY STREAM AND TOTSU!!!凸待ち【NIJISANJI EN | Maria Marionette】",
+    "videoViewCount": "6.41萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/ekNAkQnYqc8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4pU8ZIJb5xjHePzJ4C4niGsF5YQ",
+    "videoUrl": "http://youtu.be/ekNAkQnYqc8",
+    "rank": 12,
     "rankVar": 0
   },
   {
@@ -161,10 +175,10 @@
     "subscribe": "56.5萬",
     "score": "0.18",
     "videoTitle": "【歌ってみた】ラヴィ(Lavie)【健屋花那/にじさんじ】",
-    "videoViewCount": "32.87萬",
+    "videoViewCount": "33.17萬",
     "videoThumbnail": "https://i.ytimg.com/vi/-Q2tkPP5H_s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJjZnUeewDebSQr7X7I_mH5vVUfg",
     "videoUrl": "http://youtu.be/-Q2tkPP5H_s",
-    "rank": 12,
+    "rank": 13,
     "rankVar": null
   },
   {
@@ -175,24 +189,10 @@
     "subscribe": "62.2萬",
     "score": "0.16",
     "videoTitle": "【OVERCOOKED 2】he has the sexiest voice, and I'm so gay oh my god【NIJISANJI EN | Uki Violeta】",
-    "videoViewCount": "7.53萬",
+    "videoViewCount": "7.61萬",
     "videoThumbnail": "https://i.ytimg.com/vi/IuYolgo2R30/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI4DvnFHwYSZmvfQT7SezzxOzjzg",
     "videoUrl": "http://youtu.be/IuYolgo2R30",
-    "rank": 13,
-    "rankVar": 3
-  },
-  {
-    "id": 1331,
-    "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
-    "name": "綠仙",
-    "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "68.1萬",
-    "score": "0.15",
-    "videoTitle": "【#逆人生ゲーム】普通の人生じゃ物足りない！借金が多いやつが勝ち！？【にじさんじ | 緑仙】",
-    "videoViewCount": "19.82萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/jvFx5_ywbLQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMjS1imgQe9Lqi6QHmKg14lykdRQ",
-    "videoUrl": "http://youtu.be/jvFx5_ywbLQ",
     "rank": 14,
-    "rankVar": null
+    "rankVar": 2
   }
 ]
