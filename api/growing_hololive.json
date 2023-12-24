@@ -1,5 +1,19 @@
 [
   {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "84.6萬",
+    "score": "0.48",
+    "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
+    "videoViewCount": "99.79萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
+    "videoUrl": "http://youtu.be/lnlyZlIRO1U",
+    "rank": 1,
+    "rankVar": 1
+  },
+  {
     "id": 1223,
     "channelUrl": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
     "name": "兔田佩克拉",
@@ -7,10 +21,10 @@
     "subscribe": "239萬",
     "score": "0.42",
     "videoTitle": "【777TOWN.net】生まれて初めてパチンコをやります！！！！！！！！！！【Pフィーバー機動戦士ガンダムユニコーン】ぺこ！【ホロライブ/兎田ぺこら】",
-    "videoViewCount": "66.59萬",
+    "videoViewCount": "67.37萬",
     "videoThumbnail": "https://i.ytimg.com/vi/3KVhaB7yg5Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAudwKbDYzTFHZ-WIen6pkXtKTD-w",
     "videoUrl": "http://youtu.be/3KVhaB7yg5Y",
-    "rank": 1,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -21,39 +35,25 @@
     "subscribe": "81.4萬",
     "score": "0.37",
     "videoTitle": "≪League of Legends≫ The Best Forest-Main You've Ever Seen.",
-    "videoViewCount": "18.3萬",
+    "videoViewCount": "18.35萬",
     "videoThumbnail": "https://i.ytimg.com/vi/LSQ8NK8JjAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvTtT9lJwB3HsB53GZ1urmWc91KA",
     "videoUrl": "http://youtu.be/LSQ8NK8JjAQ",
-    "rank": 2,
-    "rankVar": 1
-  },
-  {
-    "id": 1326,
-    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-    "name": "風真いろは(かざまいろは)",
-    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "84.5萬",
-    "score": "0.36",
-    "videoTitle": "きゅうくらりん - いよわ/ 風真いろは(cover)",
-    "videoViewCount": "99.49萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/lnlyZlIRO1U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3S3U7t-OYuctTgj5qZKRscHfMXg",
-    "videoUrl": "http://youtu.be/lnlyZlIRO1U",
     "rank": 3,
-    "rankVar": -1
+    "rankVar": 0
   },
   {
     "id": 1365,
     "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
     "name": "ベスティア・ゼータ",
     "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "84.1萬",
-    "score": "0.12",
+    "subscribe": "84.2萬",
+    "score": "0.24",
     "videoTitle": "【MV】You're Mine - Vestia Zeta 【Original Song】",
-    "videoViewCount": "49.1萬",
+    "videoViewCount": "49.34萬",
     "videoThumbnail": "https://i.ytimg.com/vi/KFFtUqQVLrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2equKDEs9rvm9StyY-w8VNuPBWQ",
     "videoUrl": "http://youtu.be/KFFtUqQVLrI",
     "rank": 4,
-    "rankVar": 1
+    "rankVar": 2
   },
   {
     "id": 1287,
@@ -63,10 +63,10 @@
     "subscribe": "87.1萬",
     "score": "0.11",
     "videoTitle": "【original】かぷうぃん中毒【hololive/夜空メル】",
-    "videoViewCount": "17.99萬",
+    "videoViewCount": "18.12萬",
     "videoThumbnail": "https://i.ytimg.com/vi/4B63T58NE-k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqSEEHuFZOMzf-_BwyRWxby-pl3A",
     "videoUrl": "http://youtu.be/4B63T58NE-k",
     "rank": 5,
-    "rankVar": 1
+    "rankVar": 0
   }
 ]
