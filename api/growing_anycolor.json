@@ -1,19 +1,5 @@
 [
   {
-    "id": 1432,
-    "channelUrl": "https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ",
-    "name": "浮奇ヴィオレタ",
-    "thumbnail": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "63萬",
-    "score": "0.48",
-    "videoTitle": "【LOVE AND DEEPSPACE】I'm so normal about these men【NIJISANJI EN | Uki Violeta】",
-    "videoViewCount": "10.74萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/GtwjzR2hb-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3jhkpabhkQhs8q5PaZiTBxr9NwA",
-    "videoUrl": "http://youtu.be/GtwjzR2hb-U",
-    "rank": 1,
-    "rankVar": 12
-  },
-  {
     "id": 3508,
     "channelUrl": "https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw",
     "name": "金子鏡(カネコキョウ)",
@@ -21,11 +7,11 @@
     "subscribe": "43.1萬",
     "score": "0.47",
     "videoTitle": "I looked at my Viewer's Rooms",
-    "videoViewCount": "11.74萬",
+    "videoViewCount": "11.89萬",
     "videoThumbnail": "https://i.ytimg.com/vi/kxWamZvdI2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4F4QM9QrayNWVzPdUKnBfAbwfPA",
     "videoUrl": "http://youtu.be/kxWamZvdI2s",
-    "rank": 2,
-    "rankVar": 6
+    "rank": 1,
+    "rankVar": 8
   },
   {
     "id": 1459,
@@ -35,11 +21,25 @@
     "subscribe": "52.7萬",
     "score": "0.38",
     "videoTitle": "Deal With The Devil - Tia｜TVアニメ『賭ケグルイ』OP / covered by える",
-    "videoViewCount": "12.85萬",
+    "videoViewCount": "12.89萬",
     "videoThumbnail": "https://i.ytimg.com/vi/W3Pmvq3fHBw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoHjAP&rs=AOn4CLDazIFukZXsWLAmtcYsOiUthsD4xw",
     "videoUrl": "http://youtu.be/W3Pmvq3fHBw",
+    "rank": 2,
+    "rankVar": 3
+  },
+  {
+    "id": 1432,
+    "channelUrl": "https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ",
+    "name": "浮奇ヴィオレタ",
+    "thumbnail": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "63萬",
+    "score": "0.32",
+    "videoTitle": "【LOVE AND DEEPSPACE】I'm so normal about these men【NIJISANJI EN | Uki Violeta】",
+    "videoViewCount": "11.39萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/GtwjzR2hb-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3jhkpabhkQhs8q5PaZiTBxr9NwA",
+    "videoUrl": "http://youtu.be/GtwjzR2hb-U",
     "rank": 3,
-    "rankVar": 2
+    "rankVar": 4
   },
   {
     "id": 3443,
@@ -49,7 +49,7 @@
     "subscribe": "32.2萬",
     "score": "0.31",
     "videoTitle": "オトナブルー / Covered by 四季凪アキラ・狂蘭メロコ",
-    "videoViewCount": "72.49萬",
+    "videoViewCount": "73.8萬",
     "videoThumbnail": "https://i.ytimg.com/vi/zkyQe8SU9ek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFUxsFJsl9Hvl8s2VBw3tmjx7orQ",
     "videoUrl": "http://youtu.be/zkyQe8SU9ek",
     "rank": 4,
@@ -63,7 +63,7 @@
     "subscribe": "66萬",
     "score": "0.3",
     "videoTitle": "【歌ってみた】魔法少女とチョコレゐト【にじさんじ/勇気ちひろ】",
-    "videoViewCount": "67.27萬",
+    "videoViewCount": "68.03萬",
     "videoThumbnail": "https://i.ytimg.com/vi/L9y9hNmJu90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC01i7Ai_1BODDA-9pSmjvTdpO7A",
     "videoUrl": "http://youtu.be/L9y9hNmJu90",
     "rank": 5,
@@ -91,11 +91,25 @@
     "subscribe": "38.4萬",
     "score": "0.26",
     "videoTitle": "Message, Delivered From the Departed. ft. audioTopia (Original Song)",
-    "videoViewCount": "19.15萬",
+    "videoViewCount": "19.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/4ztXZTKQohA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtROFC_sjwKisrOYjY0CxoC490bg",
     "videoUrl": "http://youtu.be/4ztXZTKQohA",
     "rank": 7,
     "rankVar": null
+  },
+  {
+    "id": 1442,
+    "channelUrl": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
+    "name": "長尾景",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_TOPZT9GmdmXkUwpCWw-R83yEPT7mOt7rgR4T5=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "41.1萬",
+    "score": "0.24",
+    "videoTitle": "【歌ってみた】Overdose / なとり【長尾景/にじさんじ】",
+    "videoViewCount": "30.41萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/hDf7OlUZIsk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2VRB9el51ZQIh2vbw0DWRg7naaQ",
+    "videoUrl": "http://youtu.be/hDf7OlUZIsk",
+    "rank": 8,
+    "rankVar": -5
   },
   {
     "id": 1338,
@@ -105,11 +119,11 @@
     "subscribe": "85.5萬",
     "score": "0.23",
     "videoTitle": "VVS / ChroNoiR",
-    "videoViewCount": "159.53萬",
+    "videoViewCount": "162.93萬",
     "videoThumbnail": "https://i.ytimg.com/vi/y0LVCGkjhmw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnnmudXZLXxVl30c1CAW8JSq5bgg",
     "videoUrl": "http://youtu.be/y0LVCGkjhmw",
-    "rank": 8,
-    "rankVar": -2
+    "rank": 9,
+    "rankVar": -3
   },
   {
     "id": 1380,
@@ -119,10 +133,10 @@
     "subscribe": "49.1萬",
     "score": "0.2",
     "videoTitle": "SYMPHONIA Day2 おつかれコラボ！【にじさんじ】",
-    "videoViewCount": "21.93萬",
+    "videoViewCount": "21.97萬",
     "videoThumbnail": "https://i.ytimg.com/vi/625zt7aj7xM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2_STMA2KW5EQctsHqQSfAmUV4dA",
     "videoUrl": "http://youtu.be/625zt7aj7xM",
-    "rank": 9,
+    "rank": 10,
     "rankVar": 1
   },
   {
@@ -133,10 +147,10 @@
     "subscribe": "4.91萬",
     "score": "0.2",
     "videoTitle": "YONA YONA DANCE / Cover by Gaon 【NIJISANJI】",
-    "videoViewCount": "3.38萬",
+    "videoViewCount": "3.41萬",
     "videoThumbnail": "https://i.ytimg.com/vi/S2rToChReSc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfWU8Ox5Uf41yK6IPBAwitZ7dB9A",
     "videoUrl": "http://youtu.be/S2rToChReSc",
-    "rank": 9,
+    "rank": 10,
     "rankVar": null
   },
   {
@@ -147,10 +161,10 @@
     "subscribe": "68.9萬",
     "score": "0.15",
     "videoTitle": "YELL / いきものがかり ( covered by にじさんじ合唱 )",
-    "videoViewCount": "166.26萬",
+    "videoViewCount": "168.03萬",
     "videoThumbnail": "https://i.ytimg.com/vi/31aP8Jo94KY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAk7wErCrM47Q1k07XTCsLb42hQg",
     "videoUrl": "http://youtu.be/31aP8Jo94KY",
-    "rank": 11,
+    "rank": 12,
     "rankVar": null
   }
 ]
