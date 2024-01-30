@@ -4,14 +4,28 @@
     "channelUrl": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
     "name": "勇氣千尋",
     "thumbnail": "https://yt3.googleusercontent.com/HC0inff8QxW-ez4Wl7ItCqgkmdJmJn2H8ch26-yw0NMXO4soVmU39R8O2dszyS-vRpNkKeouQzU=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "66.1萬",
-    "score": "0.46",
+    "subscribe": "66.7萬",
+    "score": "1.21",
     "videoTitle": "【歌ってみた】魔法少女とチョコレゐト【にじさんじ/勇気ちひろ】",
-    "videoViewCount": "69.28萬",
+    "videoViewCount": "70.11萬",
     "videoThumbnail": "https://i.ytimg.com/vi/L9y9hNmJu90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC01i7Ai_1BODDA-9pSmjvTdpO7A",
     "videoUrl": "http://youtu.be/L9y9hNmJu90",
     "rank": 1,
-    "rankVar": null
+    "rankVar": 10
+  },
+  {
+    "id": 3508,
+    "channelUrl": "https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw",
+    "name": "金子鏡(カネコキョウ)",
+    "thumbnail": "https://yt3.ggpht.com/jWDEqs41VStqvbssw9Ap5Wj5gq8_ti6BY1xqLyL5sZYbIiceaSgqnk5AW21oHF79sFrlbgqLqLs=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "43.2萬",
+    "score": "0.47",
+    "videoTitle": "I looked at my Viewer's Rooms",
+    "videoViewCount": "12.28萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/kxWamZvdI2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4F4QM9QrayNWVzPdUKnBfAbwfPA",
+    "videoUrl": "http://youtu.be/kxWamZvdI2s",
+    "rank": 2,
+    "rankVar": 5
   },
   {
     "id": 3444,
@@ -21,11 +35,11 @@
     "subscribe": "24.8萬",
     "score": "0.4",
     "videoTitle": "Mr.Music / れるりり&ロンチーノ=ペペ&かごめP （Covered by VΔLZ×VOLTACTION）",
-    "videoViewCount": "100.98萬",
+    "videoViewCount": "102.12萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_W5Dw_Oy9Ws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChlYVEMijZhRDDf0YqXrSwfkpE0w",
     "videoUrl": "http://youtu.be/_W5Dw_Oy9Ws",
-    "rank": 2,
-    "rankVar": -1
+    "rank": 3,
+    "rankVar": -2
   },
   {
     "id": 1459,
@@ -35,25 +49,39 @@
     "subscribe": "52.8萬",
     "score": "0.38",
     "videoTitle": "Deal With The Devil - Tia｜TVアニメ『賭ケグルイ』OP / covered by える",
-    "videoViewCount": "12.99萬",
+    "videoViewCount": "13.03萬",
     "videoThumbnail": "https://i.ytimg.com/vi/W3Pmvq3fHBw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoHjAP&rs=AOn4CLDazIFukZXsWLAmtcYsOiUthsD4xw",
     "videoUrl": "http://youtu.be/W3Pmvq3fHBw",
-    "rank": 3,
-    "rankVar": -1
+    "rank": 4,
+    "rankVar": -2
+  },
+  {
+    "id": 1338,
+    "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
+    "name": "クロノワール(叶 葛葉)",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "85.7萬",
+    "score": "0.35",
+    "videoTitle": "VVS / ChroNoiR",
+    "videoViewCount": "171.96萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/y0LVCGkjhmw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnnmudXZLXxVl30c1CAW8JSq5bgg",
+    "videoUrl": "http://youtu.be/y0LVCGkjhmw",
+    "rank": 5,
+    "rankVar": 1
   },
   {
     "id": 1432,
     "channelUrl": "https://www.youtube.com/channel/UChJ5FTsHOu72_5OVx0rvsvQ",
     "name": "浮奇ヴィオレタ",
     "thumbnail": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "63萬",
+    "subscribe": "63.1萬",
     "score": "0.32",
     "videoTitle": "【LOVE AND DEEPSPACE】I'm so normal about these men【NIJISANJI EN | Uki Violeta】",
-    "videoViewCount": "12.65萬",
+    "videoViewCount": "13.14萬",
     "videoThumbnail": "https://i.ytimg.com/vi/GtwjzR2hb-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3jhkpabhkQhs8q5PaZiTBxr9NwA",
     "videoUrl": "http://youtu.be/GtwjzR2hb-U",
-    "rank": 4,
-    "rankVar": 6
+    "rank": 6,
+    "rankVar": -3
   },
   {
     "id": 3443,
@@ -63,11 +91,11 @@
     "subscribe": "32.2萬",
     "score": "0.31",
     "videoTitle": "オトナブルー / Covered by 四季凪アキラ・狂蘭メロコ",
-    "videoViewCount": "76.01萬",
+    "videoViewCount": "77.16萬",
     "videoThumbnail": "https://i.ytimg.com/vi/zkyQe8SU9ek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFUxsFJsl9Hvl8s2VBw3tmjx7orQ",
     "videoUrl": "http://youtu.be/zkyQe8SU9ek",
-    "rank": 5,
-    "rankVar": -2
+    "rank": 7,
+    "rankVar": -3
   },
   {
     "id": 3501,
@@ -80,7 +108,7 @@
     "videoViewCount": "2.42萬",
     "videoThumbnail": "https://i.ytimg.com/vi/6qamqFic880/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCylmFsxURvlrhdL89zEzma_P2rQw",
     "videoUrl": "http://youtu.be/6qamqFic880",
-    "rank": 6,
+    "rank": 8,
     "rankVar": null
   },
   {
@@ -91,10 +119,10 @@
     "subscribe": "38.4萬",
     "score": "0.26",
     "videoTitle": "Message, Delivered From the Departed. ft. audioTopia (Original Song)",
-    "videoViewCount": "19.28萬",
+    "videoViewCount": "19.32萬",
     "videoThumbnail": "https://i.ytimg.com/vi/4ztXZTKQohA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtROFC_sjwKisrOYjY0CxoC490bg",
     "videoUrl": "http://youtu.be/4ztXZTKQohA",
-    "rank": 7,
+    "rank": 9,
     "rankVar": null
   },
   {
@@ -105,53 +133,11 @@
     "subscribe": "41.1萬",
     "score": "0.24",
     "videoTitle": "【歌ってみた】Overdose / なとり【長尾景/にじさんじ】",
-    "videoViewCount": "30.94萬",
+    "videoViewCount": "31.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/hDf7OlUZIsk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2VRB9el51ZQIh2vbw0DWRg7naaQ",
     "videoUrl": "http://youtu.be/hDf7OlUZIsk",
-    "rank": 8,
-    "rankVar": -4
-  },
-  {
-    "id": 1338,
-    "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
-    "name": "クロノワール(叶 葛葉)",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "85.6萬",
-    "score": "0.23",
-    "videoTitle": "VVS / ChroNoiR",
-    "videoViewCount": "169萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/y0LVCGkjhmw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnnmudXZLXxVl30c1CAW8JSq5bgg",
-    "videoUrl": "http://youtu.be/y0LVCGkjhmw",
-    "rank": 9,
-    "rankVar": -4
-  },
-  {
-    "id": 3508,
-    "channelUrl": "https://www.youtube.com/channel/UCsb-1aJgiJXJH2feV-zlZRw",
-    "name": "金子鏡(カネコキョウ)",
-    "thumbnail": "https://yt3.ggpht.com/jWDEqs41VStqvbssw9Ap5Wj5gq8_ti6BY1xqLyL5sZYbIiceaSgqnk5AW21oHF79sFrlbgqLqLs=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "43.1萬",
-    "score": "0.23",
-    "videoTitle": "I looked at my Viewer's Rooms",
-    "videoViewCount": "12.16萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/kxWamZvdI2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4F4QM9QrayNWVzPdUKnBfAbwfPA",
-    "videoUrl": "http://youtu.be/kxWamZvdI2s",
     "rank": 10,
-    "rankVar": -4
-  },
-  {
-    "id": 1380,
-    "channelUrl": "https://www.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ",
-    "name": "ジョー・力一",
-    "thumbnail": "https://yt3.ggpht.com/vU4bFnln7i28MPhPIyCoFZIjhHzsfWEvTImcee1sny8Osi0YNk_XqCnGdJ_x6Wb37h7FoUNKSEQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "49.1萬",
-    "score": "0.2",
-    "videoTitle": "SYMPHONIA Day2 おつかれコラボ！【にじさんじ】",
-    "videoViewCount": "22.03萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/625zt7aj7xM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2_STMA2KW5EQctsHqQSfAmUV4dA",
-    "videoUrl": "http://youtu.be/625zt7aj7xM",
-    "rank": 11,
-    "rankVar": null
+    "rankVar": -5
   },
   {
     "id": 2334,
@@ -161,10 +147,24 @@
     "subscribe": "4.91萬",
     "score": "0.2",
     "videoTitle": "YONA YONA DANCE / Cover by Gaon 【NIJISANJI】",
-    "videoViewCount": "3.46萬",
+    "videoViewCount": "3.49萬",
     "videoThumbnail": "https://i.ytimg.com/vi/S2rToChReSc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfWU8Ox5Uf41yK6IPBAwitZ7dB9A",
     "videoUrl": "http://youtu.be/S2rToChReSc",
     "rank": 11,
     "rankVar": null
+  },
+  {
+    "id": 1352,
+    "channelUrl": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ",
+    "name": "健屋花那",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8LJ2FjXNATnhclWrn1EQYf9ZXW4BqsCFrADGWKNw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "57.1萬",
+    "score": "0.18",
+    "videoTitle": "【逆凸】新年あけましておめでとうございます！酒飲み逆凸【健屋花那/にじさんじ】",
+    "videoViewCount": "9.31萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/r6ax91qLaGY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrOnKHthl_0F9gdVEIuNXcomP-wA",
+    "videoUrl": "http://youtu.be/r6ax91qLaGY",
+    "rank": 12,
+    "rankVar": -2
   }
 ]
