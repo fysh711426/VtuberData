@@ -4,14 +4,28 @@
     "channelUrl": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
     "name": "勇氣千尋",
     "thumbnail": "https://yt3.googleusercontent.com/HC0inff8QxW-ez4Wl7ItCqgkmdJmJn2H8ch26-yw0NMXO4soVmU39R8O2dszyS-vRpNkKeouQzU=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "66.7萬",
-    "score": "1.21",
-    "videoTitle": "【歌ってみた】魔法少女とチョコレゐト【にじさんじ/勇気ちひろ】",
-    "videoViewCount": "70.11萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/L9y9hNmJu90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC01i7Ai_1BODDA-9pSmjvTdpO7A",
-    "videoUrl": "http://youtu.be/L9y9hNmJu90",
+    "subscribe": "67.5萬",
+    "score": "2.43",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
     "rank": 1,
-    "rankVar": 10
+    "rankVar": 8
+  },
+  {
+    "id": 1459,
+    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+    "name": "エルフのえる",
+    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "52.9萬",
+    "score": "0.57",
+    "videoTitle": "Deal With The Devil - Tia｜TVアニメ『賭ケグルイ』OP / covered by える",
+    "videoViewCount": "13.07萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/W3Pmvq3fHBw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoHjAP&rs=AOn4CLDazIFukZXsWLAmtcYsOiUthsD4xw",
+    "videoUrl": "http://youtu.be/W3Pmvq3fHBw",
+    "rank": 2,
+    "rankVar": -1
   },
   {
     "id": 3508,
@@ -21,11 +35,11 @@
     "subscribe": "43.2萬",
     "score": "0.47",
     "videoTitle": "I looked at my Viewer's Rooms",
-    "videoViewCount": "12.28萬",
+    "videoViewCount": "12.36萬",
     "videoThumbnail": "https://i.ytimg.com/vi/kxWamZvdI2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4F4QM9QrayNWVzPdUKnBfAbwfPA",
     "videoUrl": "http://youtu.be/kxWamZvdI2s",
-    "rank": 2,
-    "rankVar": 5
+    "rank": 3,
+    "rankVar": 3
   },
   {
     "id": 3444,
@@ -35,25 +49,11 @@
     "subscribe": "24.8萬",
     "score": "0.4",
     "videoTitle": "Mr.Music / れるりり&ロンチーノ=ペペ&かごめP （Covered by VΔLZ×VOLTACTION）",
-    "videoViewCount": "102.12萬",
+    "videoViewCount": "103.24萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_W5Dw_Oy9Ws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChlYVEMijZhRDDf0YqXrSwfkpE0w",
     "videoUrl": "http://youtu.be/_W5Dw_Oy9Ws",
-    "rank": 3,
-    "rankVar": -2
-  },
-  {
-    "id": 1459,
-    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
-    "name": "エルフのえる",
-    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "52.8萬",
-    "score": "0.38",
-    "videoTitle": "Deal With The Devil - Tia｜TVアニメ『賭ケグルイ』OP / covered by える",
-    "videoViewCount": "13.03萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/W3Pmvq3fHBw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoHjAP&rs=AOn4CLDazIFukZXsWLAmtcYsOiUthsD4xw",
-    "videoUrl": "http://youtu.be/W3Pmvq3fHBw",
     "rank": 4,
-    "rankVar": -2
+    "rankVar": null
   },
   {
     "id": 1338,
@@ -63,11 +63,11 @@
     "subscribe": "85.7萬",
     "score": "0.35",
     "videoTitle": "VVS / ChroNoiR",
-    "videoViewCount": "171.96萬",
+    "videoViewCount": "174.82萬",
     "videoThumbnail": "https://i.ytimg.com/vi/y0LVCGkjhmw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnnmudXZLXxVl30c1CAW8JSq5bgg",
     "videoUrl": "http://youtu.be/y0LVCGkjhmw",
     "rank": 5,
-    "rankVar": 1
+    "rankVar": 6
   },
   {
     "id": 1432,
@@ -77,11 +77,11 @@
     "subscribe": "63.1萬",
     "score": "0.32",
     "videoTitle": "【LOVE AND DEEPSPACE】I'm so normal about these men【NIJISANJI EN | Uki Violeta】",
-    "videoViewCount": "13.14萬",
+    "videoViewCount": "13.56萬",
     "videoThumbnail": "https://i.ytimg.com/vi/GtwjzR2hb-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3jhkpabhkQhs8q5PaZiTBxr9NwA",
     "videoUrl": "http://youtu.be/GtwjzR2hb-U",
     "rank": 6,
-    "rankVar": -3
+    "rankVar": -4
   },
   {
     "id": 3443,
@@ -91,25 +91,11 @@
     "subscribe": "32.2萬",
     "score": "0.31",
     "videoTitle": "オトナブルー / Covered by 四季凪アキラ・狂蘭メロコ",
-    "videoViewCount": "77.16萬",
+    "videoViewCount": "78.09萬",
     "videoThumbnail": "https://i.ytimg.com/vi/zkyQe8SU9ek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFUxsFJsl9Hvl8s2VBw3tmjx7orQ",
     "videoUrl": "http://youtu.be/zkyQe8SU9ek",
     "rank": 7,
-    "rankVar": -3
-  },
-  {
-    "id": 3501,
-    "channelUrl": "https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ",
-    "name": "スカーレ ヨナグニ",
-    "thumbnail": "https://yt3.ggpht.com/-W0IjUx8nP-98ywYB-N76ozkI0BPZATXit2EricfeqDbIhdrYW7bgz4cwUaZOzMP6Ptb-ZGTSg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "37.8萬",
-    "score": "0.27",
-    "videoTitle": "I can't believe I got perms for this game!",
-    "videoViewCount": "2.42萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/6qamqFic880/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCylmFsxURvlrhdL89zEzma_P2rQw",
-    "videoUrl": "http://youtu.be/6qamqFic880",
-    "rank": 8,
-    "rankVar": null
+    "rankVar": -4
   },
   {
     "id": 1537,
@@ -119,10 +105,10 @@
     "subscribe": "38.4萬",
     "score": "0.26",
     "videoTitle": "Message, Delivered From the Departed. ft. audioTopia (Original Song)",
-    "videoViewCount": "19.32萬",
+    "videoViewCount": "19.36萬",
     "videoThumbnail": "https://i.ytimg.com/vi/4ztXZTKQohA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtROFC_sjwKisrOYjY0CxoC490bg",
     "videoUrl": "http://youtu.be/4ztXZTKQohA",
-    "rank": 9,
+    "rank": 8,
     "rankVar": null
   },
   {
@@ -133,11 +119,11 @@
     "subscribe": "41.1萬",
     "score": "0.24",
     "videoTitle": "【歌ってみた】Overdose / なとり【長尾景/にじさんじ】",
-    "videoViewCount": "31.2萬",
+    "videoViewCount": "31.44萬",
     "videoThumbnail": "https://i.ytimg.com/vi/hDf7OlUZIsk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2VRB9el51ZQIh2vbw0DWRg7naaQ",
     "videoUrl": "http://youtu.be/hDf7OlUZIsk",
-    "rank": 10,
-    "rankVar": -5
+    "rank": 9,
+    "rankVar": -4
   },
   {
     "id": 2334,
@@ -146,11 +132,11 @@
     "thumbnail": "https://yt3.ggpht.com/nt93BUDwRGz68y1qE9klz3rNpHsUqQPniggUngnQqqIwaxmaIAKeDkLh5tBrahfz2n_8YarUQw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "4.91萬",
     "score": "0.2",
-    "videoTitle": "YONA YONA DANCE / Cover by Gaon 【NIJISANJI】",
-    "videoViewCount": "3.49萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/S2rToChReSc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfWU8Ox5Uf41yK6IPBAwitZ7dB9A",
-    "videoUrl": "http://youtu.be/S2rToChReSc",
-    "rank": 11,
+    "videoTitle": "【Fashion Dreamer】 スハくんをプロデュースしてみよう！ 【にじさんじ | ガオン】",
+    "videoViewCount": "2918",
+    "videoThumbnail": "https://i.ytimg.com/vi/7wMDZrE92xw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHQc36ZrzLHExFva7Wm4z9cz32lg",
+    "videoUrl": "http://youtu.be/7wMDZrE92xw",
+    "rank": 10,
     "rankVar": null
   },
   {
@@ -164,7 +150,7 @@
     "videoViewCount": "9.31萬",
     "videoThumbnail": "https://i.ytimg.com/vi/r6ax91qLaGY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrOnKHthl_0F9gdVEIuNXcomP-wA",
     "videoUrl": "http://youtu.be/r6ax91qLaGY",
-    "rank": 12,
-    "rankVar": -2
+    "rank": 11,
+    "rankVar": null
   }
 ]
