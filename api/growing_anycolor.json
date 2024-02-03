@@ -21,11 +21,11 @@
     "subscribe": "43.5萬",
     "score": "0.93",
     "videoTitle": "I looked at my Viewer's Rooms",
-    "videoViewCount": "12.59萬",
+    "videoViewCount": "12.7萬",
     "videoThumbnail": "https://i.ytimg.com/vi/kxWamZvdI2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4F4QM9QrayNWVzPdUKnBfAbwfPA",
     "videoUrl": "http://youtu.be/kxWamZvdI2s",
     "rank": 2,
-    "rankVar": 0
+    "rankVar": -1
   },
   {
     "id": 1459,
@@ -35,11 +35,11 @@
     "subscribe": "53萬",
     "score": "0.57",
     "videoTitle": "Deal With The Devil - Tia｜TVアニメ『賭ケグルイ』OP / covered by える",
-    "videoViewCount": "13.16萬",
+    "videoViewCount": "13.19萬",
     "videoThumbnail": "https://i.ytimg.com/vi/W3Pmvq3fHBw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoHjAP&rs=AOn4CLDazIFukZXsWLAmtcYsOiUthsD4xw",
     "videoUrl": "http://youtu.be/W3Pmvq3fHBw",
     "rank": 3,
-    "rankVar": 0
+    "rankVar": -1
   },
   {
     "id": 3444,
@@ -49,7 +49,7 @@
     "subscribe": "24.8萬",
     "score": "0.4",
     "videoTitle": "Mr.Music / れるりり&ロンチーノ=ペペ&かごめP （Covered by VΔLZ×VOLTACTION）",
-    "videoViewCount": "105.54萬",
+    "videoViewCount": "106.67萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_W5Dw_Oy9Ws/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChlYVEMijZhRDDf0YqXrSwfkpE0w",
     "videoUrl": "http://youtu.be/_W5Dw_Oy9Ws",
     "rank": 4,
@@ -63,11 +63,11 @@
     "subscribe": "85.8萬",
     "score": "0.35",
     "videoTitle": "VVS / ChroNoiR",
-    "videoViewCount": "179.87萬",
+    "videoViewCount": "182.12萬",
     "videoThumbnail": "https://i.ytimg.com/vi/y0LVCGkjhmw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnnmudXZLXxVl30c1CAW8JSq5bgg",
     "videoUrl": "http://youtu.be/y0LVCGkjhmw",
     "rank": 5,
-    "rankVar": 3
+    "rankVar": 4
   },
   {
     "id": 3443,
@@ -77,23 +77,23 @@
     "subscribe": "32.3萬",
     "score": "0.31",
     "videoTitle": "オトナブルー / Covered by 四季凪アキラ・狂蘭メロコ",
-    "videoViewCount": "79.86萬",
+    "videoViewCount": "80.67萬",
     "videoThumbnail": "https://i.ytimg.com/vi/zkyQe8SU9ek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFUxsFJsl9Hvl8s2VBw3tmjx7orQ",
     "videoUrl": "http://youtu.be/zkyQe8SU9ek",
     "rank": 6,
     "rankVar": -2
   },
   {
-    "id": 1442,
-    "channelUrl": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
-    "name": "長尾景",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_TOPZT9GmdmXkUwpCWw-R83yEPT7mOt7rgR4T5=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "41.1萬",
-    "score": "0.24",
-    "videoTitle": "【歌ってみた】Overdose / なとり【長尾景/にじさんじ】",
-    "videoViewCount": "31.94萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/hDf7OlUZIsk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2VRB9el51ZQIh2vbw0DWRg7naaQ",
-    "videoUrl": "http://youtu.be/hDf7OlUZIsk",
+    "id": 3505,
+    "channelUrl": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
+    "name": "マリアマリネット",
+    "thumbnail": "https://yt3.googleusercontent.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "44.4萬",
+    "score": "0.23",
+    "videoTitle": "【SEVENDAYS LOVE, SEVENDAYS FRIEND】Cover by Maria Marionette & Enna Alouette ♡ NIJISANJI EＮ",
+    "videoViewCount": "8.17萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/r3wL7BwgNCo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8rr3CZqtWY-P8izTXZmIPk0vy_g",
+    "videoUrl": "http://youtu.be/r3wL7BwgNCo",
     "rank": 7,
     "rankVar": null
   },
@@ -105,11 +105,25 @@
     "subscribe": "49.2萬",
     "score": "0.2",
     "videoTitle": "SYMPHONIA Day2 おつかれコラボ！【にじさんじ】",
-    "videoViewCount": "22.12萬",
+    "videoViewCount": "22.14萬",
     "videoThumbnail": "https://i.ytimg.com/vi/625zt7aj7xM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2_STMA2KW5EQctsHqQSfAmUV4dA",
     "videoUrl": "http://youtu.be/625zt7aj7xM",
     "rank": 8,
-    "rankVar": 1
+    "rankVar": 2
+  },
+  {
+    "id": 2191,
+    "channelUrl": "https://www.youtube.com/channel/UCnzZmBOSrQf2wDBbnsDajVw",
+    "name": "Jiyu Oh",
+    "thumbnail": "https://yt3.ggpht.com/rdDh1n8jiCLMuWO7YHhDPCehQbGPNqZN7wXvfNQzj1gIY5RwQLx0qaSVb0e_zv3cmA-2Omxf=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "5.14萬",
+    "score": "0.19",
+    "videoTitle": "【#にじさんじ麻雀杯2024 予選S卓】 ビギナーズラック盲信中です【にじさんじ／ジユ】",
+    "videoViewCount": "4903",
+    "videoThumbnail": "https://i.ytimg.com/vi/vTpBB_Z8LHU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJVwvXv0Voa8SN97CRR8nQ2_rC8A",
+    "videoUrl": "http://youtu.be/vTpBB_Z8LHU",
+    "rank": 9,
+    "rankVar": null
   },
   {
     "id": 1352,
@@ -119,10 +133,10 @@
     "subscribe": "57.1萬",
     "score": "0.18",
     "videoTitle": "【オリジナルMV】ジャーニー×ジャーニー【くまいさん-相羽ういは×健屋花那-/にじさんじ】",
-    "videoViewCount": "5.26萬",
+    "videoViewCount": "5.27萬",
     "videoThumbnail": "https://i.ytimg.com/vi/lwNAmWMnBj4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHxPb988Q1BmAcx0JGAND6kcC0GA",
     "videoUrl": "http://youtu.be/lwNAmWMnBj4",
-    "rank": 9,
+    "rank": 10,
     "rankVar": null
   },
   {
@@ -133,11 +147,11 @@
     "subscribe": "63.1萬",
     "score": "0.16",
     "videoTitle": "【LOVE AND DEEPSPACE】I'm so normal about these men【NIJISANJI EN | Uki Violeta】",
-    "videoViewCount": "14.19萬",
+    "videoViewCount": "14.48萬",
     "videoThumbnail": "https://i.ytimg.com/vi/GtwjzR2hb-U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3jhkpabhkQhs8q5PaZiTBxr9NwA",
     "videoUrl": "http://youtu.be/GtwjzR2hb-U",
-    "rank": 10,
-    "rankVar": -9
+    "rank": 11,
+    "rankVar": -8
   },
   {
     "id": 1331,
@@ -147,10 +161,10 @@
     "subscribe": "69萬",
     "score": "0.15",
     "videoTitle": "YELL / いきものがかり ( covered by にじさんじ合唱 )",
-    "videoViewCount": "177.38萬",
+    "videoViewCount": "178.92萬",
     "videoThumbnail": "https://i.ytimg.com/vi/31aP8Jo94KY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAk7wErCrM47Q1k07XTCsLb42hQg",
     "videoUrl": "http://youtu.be/31aP8Jo94KY",
-    "rank": 11,
+    "rank": 12,
     "rankVar": 0
   }
 ]
