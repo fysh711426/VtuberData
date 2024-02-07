@@ -1,19 +1,5 @@
 [
   {
-    "id": 1328,
-    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-    "name": "Hakos Baelz",
-    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "83.8萬",
-    "score": "0.6",
-    "videoTitle": "【MV】Mind Craft ▶️ hololive English Cover",
-    "videoViewCount": "75.38萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/OQuGEpICY2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSQVYfDnnZsabSrf0lRQF1hzjUiw",
-    "videoUrl": "http://youtu.be/OQuGEpICY2o",
-    "rank": 1,
-    "rankVar": 5
-  },
-  {
     "id": 1230,
     "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
     "name": "星街彗星",
@@ -21,11 +7,25 @@
     "subscribe": "209萬",
     "score": "0.48",
     "videoTitle": "青のすみか / 星街すいせい(Cover)",
-    "videoViewCount": "383.03萬",
+    "videoViewCount": "386.54萬",
     "videoThumbnail": "https://i.ytimg.com/vi/29CDyIhI5Pc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd5h1uzfVNcC00Hwv5KjuLK7RPqw",
     "videoUrl": "http://youtu.be/29CDyIhI5Pc",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 1328,
+    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+    "name": "Hakos Baelz",
+    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "83.8萬",
+    "score": "0.48",
+    "videoTitle": "【MV】Mind Craft ▶️ hololive English Cover",
+    "videoViewCount": "76.99萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/OQuGEpICY2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSQVYfDnnZsabSrf0lRQF1hzjUiw",
+    "videoUrl": "http://youtu.be/OQuGEpICY2o",
     "rank": 2,
-    "rankVar": 3
+    "rankVar": 2
   },
   {
     "id": 1225,
@@ -35,7 +35,7 @@
     "subscribe": "231萬",
     "score": "0.43",
     "videoTitle": "ホロライブ１期生からファンの皆様へ",
-    "videoViewCount": "203.7萬",
+    "videoViewCount": "203.81萬",
     "videoThumbnail": "https://i.ytimg.com/vi/oE8HLVwpimA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-a4KeCydX5QTbMdip0wCEPURgUg",
     "videoUrl": "http://youtu.be/oE8HLVwpimA",
     "rank": 3,
@@ -49,24 +49,24 @@
     "subscribe": "234萬",
     "score": "0.43",
     "videoTitle": "【PALWORLD】i wish to become the most greatest, unlike those before #hololiveenglish",
-    "videoViewCount": "22.9萬",
+    "videoViewCount": "22.95萬",
     "videoThumbnail": "https://i.ytimg.com/vi/bpvcuuvhP_I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpwdPzCt9MnDxuwCT4Mk8CQ3if8A",
     "videoUrl": "http://youtu.be/bpvcuuvhP_I",
     "rank": 4,
     "rankVar": null
   },
   {
-    "id": 1365,
-    "channelUrl": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-    "name": "ベスティア・ゼータ",
-    "thumbnail": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "85.3萬",
-    "score": "0.12",
-    "videoTitle": "【MV】You're Mine - Vestia Zeta 【Original Song】",
-    "videoViewCount": "58.79萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/KFFtUqQVLrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2equKDEs9rvm9StyY-w8VNuPBWQ",
-    "videoUrl": "http://youtu.be/KFFtUqQVLrI",
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "87.8萬",
+    "score": "0.11",
+    "videoTitle": "【ホロ鯖Palworld】感謝ぱる！！はじめてのパルワールドぱるるるる！！【風真いろは/ホロライブ】",
+    "videoViewCount": "29.03萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/1jS8z6auPJg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvJlNDiwkFJ7-4_Cyt1xK19bS7eA",
+    "videoUrl": "http://youtu.be/1jS8z6auPJg",
     "rank": 5,
-    "rankVar": 2
+    "rankVar": 0
   }
 ]
