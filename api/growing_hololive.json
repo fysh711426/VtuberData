@@ -7,11 +7,11 @@
     "subscribe": "83.9萬",
     "score": "0.6",
     "videoTitle": "【MV】Mind Craft ▶️ hololive English Cover",
-    "videoViewCount": "78.59萬",
+    "videoViewCount": "80.07萬",
     "videoThumbnail": "https://i.ytimg.com/vi/OQuGEpICY2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSQVYfDnnZsabSrf0lRQF1hzjUiw",
     "videoUrl": "http://youtu.be/OQuGEpICY2o",
     "rank": 1,
-    "rankVar": 3
+    "rankVar": 4
   },
   {
     "id": 1230,
@@ -21,24 +21,10 @@
     "subscribe": "209萬",
     "score": "0.48",
     "videoTitle": "青のすみか / 星街すいせい(Cover)",
-    "videoViewCount": "390.06萬",
+    "videoViewCount": "393.5萬",
     "videoThumbnail": "https://i.ytimg.com/vi/29CDyIhI5Pc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCd5h1uzfVNcC00Hwv5KjuLK7RPqw",
     "videoUrl": "http://youtu.be/29CDyIhI5Pc",
     "rank": 2,
-    "rankVar": null
-  },
-  {
-    "id": 1225,
-    "channelUrl": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-    "name": "白上吹雪",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9yXgE7uEDk-7i1Gphyxd34NeopLClxUujOg-0OlQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "231萬",
-    "score": "0.43",
-    "videoTitle": "ホロライブ１期生からファンの皆様へ",
-    "videoViewCount": "203.93萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/oE8HLVwpimA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-a4KeCydX5QTbMdip0wCEPURgUg",
-    "videoUrl": "http://youtu.be/oE8HLVwpimA",
-    "rank": 3,
     "rankVar": null
   },
   {
@@ -49,10 +35,10 @@
     "subscribe": "234萬",
     "score": "0.43",
     "videoTitle": "【PERSONA 3: RELOAD】happiest day of my life (not clickbait) SPOILERS! (part 1)",
-    "videoViewCount": "23.21萬",
+    "videoViewCount": "23.7萬",
     "videoThumbnail": "https://i.ytimg.com/vi/NAKVIzYXaT8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwxF0ctx2D-R7r61s-CgGSllvarw",
     "videoUrl": "http://youtu.be/NAKVIzYXaT8",
-    "rank": 4,
+    "rank": 3,
     "rankVar": null
   },
   {
@@ -60,13 +46,13 @@
     "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "87.9萬",
-    "score": "0.23",
+    "subscribe": "88萬",
+    "score": "0.34",
     "videoTitle": "【ホロ鯖Palworld】感謝ぱる！！はじめてのパルワールドぱるるるる！！【風真いろは/ホロライブ】",
-    "videoViewCount": "29.07萬",
+    "videoViewCount": "29.11萬",
     "videoThumbnail": "https://i.ytimg.com/vi/1jS8z6auPJg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvJlNDiwkFJ7-4_Cyt1xK19bS7eA",
     "videoUrl": "http://youtu.be/1jS8z6auPJg",
-    "rank": 5,
-    "rankVar": 0
+    "rank": 4,
+    "rankVar": 2
   }
 ]
