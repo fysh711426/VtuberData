@@ -4,28 +4,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "84.5萬",
-    "score": "0.84",
+    "subscribe": "84.6萬",
+    "score": "0.83",
     "videoTitle": "【MV】Mind Craft ▶️ hololive English Cover",
-    "videoViewCount": "86.82萬",
+    "videoViewCount": "88.15萬",
     "videoThumbnail": "https://i.ytimg.com/vi/OQuGEpICY2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSQVYfDnnZsabSrf0lRQF1hzjUiw",
     "videoUrl": "http://youtu.be/OQuGEpICY2o",
     "rank": 1,
-    "rankVar": 1
-  },
-  {
-    "id": 1326,
-    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-    "name": "風真いろは(かざまいろは)",
-    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "88.2萬",
-    "score": "0.46",
-    "videoTitle": "【ホロ鯖Palworld】感謝ぱる！！はじめてのパルワールドぱるるるる！！【風真いろは/ホロライブ】",
-    "videoViewCount": "29.26萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/1jS8z6auPJg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvJlNDiwkFJ7-4_Cyt1xK19bS7eA",
-    "videoUrl": "http://youtu.be/1jS8z6auPJg",
-    "rank": 2,
-    "rankVar": 3
+    "rankVar": 0
   },
   {
     "id": 1223,
@@ -34,11 +20,25 @@
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9QrCPT5A0zE49EHvoS_gs2XBxzXSLs_OkIoTawkw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "243萬",
     "score": "0.41",
-    "videoTitle": "【テラリア/Terraria】初見でテラリア始めてみる！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
-    "videoViewCount": "117.69萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/65cGhVsuSkY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWlPCLbv06yNKZXyoSndytrOiUDA",
-    "videoUrl": "http://youtu.be/65cGhVsuSkY",
-    "rank": 3,
+    "videoTitle": "【テラリア/Terraria】初見でテラリア始めてみる！2日目ぺこ！【ホロライブ/兎田ぺこら】",
+    "videoViewCount": "107.24萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/yC9xd7v1DMU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1c6mP545cEMEusrNf_EavxbvX2Q",
+    "videoUrl": "http://youtu.be/yC9xd7v1DMU",
+    "rank": 2,
     "rankVar": null
+  },
+  {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "88.2萬",
+    "score": "0.34",
+    "videoTitle": "【ホロ鯖Palworld】感謝ぱる！！はじめてのパルワールドぱるるるる！！【風真いろは/ホロライブ】",
+    "videoViewCount": "29.28萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/1jS8z6auPJg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvJlNDiwkFJ7-4_Cyt1xK19bS7eA",
+    "videoUrl": "http://youtu.be/1jS8z6auPJg",
+    "rank": 3,
+    "rankVar": 2
   }
 ]
