@@ -4,14 +4,42 @@
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "84.6萬",
+    "subscribe": "84.7萬",
     "score": "0.83",
     "videoTitle": "【MV】Mind Craft ▶️ hololive English Cover",
-    "videoViewCount": "89.52萬",
+    "videoViewCount": "90.81萬",
     "videoThumbnail": "https://i.ytimg.com/vi/OQuGEpICY2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSQVYfDnnZsabSrf0lRQF1hzjUiw",
     "videoUrl": "http://youtu.be/OQuGEpICY2o",
     "rank": 1,
     "rankVar": 0
+  },
+  {
+    "id": 1246,
+    "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+    "name": "角卷綿芽",
+    "thumbnail": "https://yt3.ggpht.com/yyc42nbIa5iEVfpBUf5nxUb02ljS-C2tOSYNUiKzBHrnYwYTUdOrIpUfc1EcPLJoG2C4AXOV9Q=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "150萬",
+    "score": "0.67",
+    "videoTitle": "【チラ見せ枠】わためぇ Night Fever!! in TOKYO GARDEN THEATER【角巻わため/ホロライブ４期生】",
+    "videoViewCount": "26.85萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/aBU9HgJmUWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_cd-hV5N9utA8PgLjGhi-m7qN2w",
+    "videoUrl": "http://youtu.be/aBU9HgJmUWk",
+    "rank": 2,
+    "rankVar": null
+  },
+  {
+    "id": 1238,
+    "channelUrl": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+    "name": "小鳥遊琪亞拉",
+    "thumbnail": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "151萬",
+    "score": "0.67",
+    "videoTitle": "【PALWORLD】Early Access Test before GOING ON MY BREAK;;; #kfp #キアライブ",
+    "videoViewCount": "13.63萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/TeJT-RDzi2c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAScWWPKkOcyyoqVqPhMwl9dvQCnQ",
+    "videoUrl": "http://youtu.be/TeJT-RDzi2c",
+    "rank": 3,
+    "rankVar": null
   },
   {
     "id": 1223,
@@ -21,10 +49,10 @@
     "subscribe": "243萬",
     "score": "0.41",
     "videoTitle": "【テラリア/Terraria】初見でテラリア始めてみる！5日目ぺこ！【ホロライブ/兎田ぺこら】",
-    "videoViewCount": "88.42萬",
+    "videoViewCount": "88.5萬",
     "videoThumbnail": "https://i.ytimg.com/vi/tRp_QZtumNk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWdOJxOF8oHtZMzO49zYxYYXnU7w",
     "videoUrl": "http://youtu.be/tRp_QZtumNk",
-    "rank": 2,
+    "rank": 4,
     "rankVar": null
   },
   {
@@ -33,12 +61,12 @@
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "88.2萬",
-    "score": "0.23",
+    "score": "0.11",
     "videoTitle": "【ホロ鯖Palworld】感謝ぱる！！はじめてのパルワールドぱるるるる！！【風真いろは/ホロライブ】",
-    "videoViewCount": "29.3萬",
+    "videoViewCount": "29.32萬",
     "videoThumbnail": "https://i.ytimg.com/vi/1jS8z6auPJg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvJlNDiwkFJ7-4_Cyt1xK19bS7eA",
     "videoUrl": "http://youtu.be/1jS8z6auPJg",
-    "rank": 3,
-    "rankVar": 1
+    "rank": 5,
+    "rankVar": -1
   }
 ]
