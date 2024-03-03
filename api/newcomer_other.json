@@ -14,6 +14,20 @@
     "rankVar": null
   },
   {
+    "id": 5841,
+    "channelUrl": "https://www.youtube.com/channel/UCnJHSaaao4LFdDhO6ff3pVg",
+    "name": "Klaus Vacuos",
+    "thumbnail": "https://yt3.googleusercontent.com/e_02Fsx1oXMHHYh7-p6zzG4Tlv86Q8zokToqnl-jljmWxFNE_DtIBiDFqFt1nW1rldN7_i2ClA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "256",
+    "score": "256",
+    "videoTitle": "【TEASER】New VTuber Debut from FS Live on 29 Feb (Thu)",
+    "videoViewCount": "455",
+    "videoThumbnail": "https://i.ytimg.com/vi/_d4S0-rbfDk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC17wFBwqXh-f3nCT3Uq7uFM3XN_w",
+    "videoUrl": "http://youtu.be/_d4S0-rbfDk",
+    "rank": 2,
+    "rankVar": null
+  },
+  {
     "id": 5786,
     "channelUrl": "https://www.youtube.com/channel/UCa6FcU9IYAKjtV_VB0ZK_EQ",
     "name": "魔女萊菈",
@@ -21,10 +35,24 @@
     "subscribe": "210",
     "score": "210",
     "videoTitle": "［萊初配菈］本魔女的名字是萊菈，請多指教！與其說這是初配信，不如說是正式自我介紹 ｜ #萊菈來啦",
-    "videoViewCount": "226",
+    "videoViewCount": "227",
     "videoThumbnail": "https://i.ytimg.com/vi/YnaLUIIJweU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI2gG2_QbCyNoGpGaKwMk5-22J0Q",
     "videoUrl": "http://youtu.be/YnaLUIIJweU",
-    "rank": 2,
+    "rank": 3,
+    "rankVar": null
+  },
+  {
+    "id": 5858,
+    "channelUrl": "https://www.youtube.com/channel/UCy5_W15twTAMZBWxa8cbZyA",
+    "name": "良咲",
+    "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_nZeSujxpZgSns0VL9wqDYWwIcH0XY3Q0jqiK6tSw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "97",
+    "score": "97",
+    "videoTitle": "Valorant Highlight.",
+    "videoViewCount": "26",
+    "videoThumbnail": "https://i.ytimg.com/vi/Gyc-iL0Glsc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIF4oZTAP&rs=AOn4CLDWKS6-kAbrXmFtZwdRqC_UmIveVw",
+    "videoUrl": "http://youtu.be/Gyc-iL0Glsc",
+    "rank": 4,
     "rankVar": null
   },
   {
@@ -35,10 +63,10 @@
     "subscribe": "35",
     "score": "35",
     "videoTitle": "【Last Christmas】 cover by @AmakazeSatou",
-    "videoViewCount": "138",
+    "videoViewCount": "139",
     "videoThumbnail": "https://i.ytimg.com/vi/pPJt7f0J8w8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf580wOBWTUN7CmWDLcFJGRMULEg",
     "videoUrl": "http://youtu.be/pPJt7f0J8w8",
-    "rank": 3,
+    "rank": 5,
     "rankVar": null
   }
 ]

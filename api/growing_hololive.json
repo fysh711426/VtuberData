@@ -4,14 +4,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "86.2萬",
-    "score": "1.06",
+    "subscribe": "86.3萬",
+    "score": "1.05",
     "videoTitle": "≪DREAMCATCHER 3D LIVE≫ Hakos Baelz Birthday Celebration 2024! #BaeDay2024",
-    "videoViewCount": "35.87萬",
+    "videoViewCount": "37.29萬",
     "videoThumbnail": "https://i.ytimg.com/vi/TQSikoeVXoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATCUFDcv6zauksJupo6HlJjlalCg",
     "videoUrl": "http://youtu.be/TQSikoeVXoE",
     "rank": 1,
-    "rankVar": 0
+    "rankVar": 1
   },
   {
     "id": 1256,
@@ -21,7 +21,7 @@
     "subscribe": "120萬",
     "score": "0.84",
     "videoTitle": "人マニア／Covered by紫咲シオン【歌ってみた】",
-    "videoViewCount": "78.98萬",
+    "videoViewCount": "79.21萬",
     "videoThumbnail": "https://i.ytimg.com/vi/pLTw5mV-hkE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRpr-WkP6-nL4CoIBMtUd3pP9Cuw",
     "videoUrl": "http://youtu.be/pLTw5mV-hkE",
     "rank": 2,
@@ -35,24 +35,10 @@
     "subscribe": "175萬",
     "score": "0.57",
     "videoTitle": "ネコカブリーナ / 猫又おかゆ( official )",
-    "videoViewCount": "121.27萬",
+    "videoViewCount": "127.49萬",
     "videoThumbnail": "https://i.ytimg.com/vi/HOmS6Kn0bn8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdmXr4P9f_ZPmbPTR3u5N_-qqNLQ",
     "videoUrl": "http://youtu.be/HOmS6Kn0bn8",
     "rank": 3,
-    "rankVar": -1
-  },
-  {
-    "id": 1230,
-    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-    "name": "星街彗星",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "210萬",
-    "score": "0.48",
-    "videoTitle": "きゅうくらりん / 星街すいせい(Cover)",
-    "videoViewCount": "282.54萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/QkdDWaBtK04/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5MVty8EoTGrWiJAdy4a568h0P0w",
-    "videoUrl": "http://youtu.be/QkdDWaBtK04",
-    "rank": 4,
     "rankVar": null
   },
   {
@@ -63,10 +49,10 @@
     "subscribe": "244萬",
     "score": "0.41",
     "videoTitle": "【ELDEN RING】イチから始めるエルデンリングやるぞおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり",
-    "videoViewCount": "86.99萬",
+    "videoViewCount": "87.58萬",
     "videoThumbnail": "https://i.ytimg.com/vi/yiYH6pmNcHQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp6ust3Kapq0z43Th3iiKxa_LIcA",
     "videoUrl": "http://youtu.be/yiYH6pmNcHQ",
-    "rank": 5,
+    "rank": 4,
     "rankVar": null
   },
   {
@@ -77,10 +63,10 @@
     "subscribe": "88.6萬",
     "score": "0.23",
     "videoTitle": "【3D】ショウタイム・ルーラー 推しカメラver 風真いろは#HoshimaticProject",
-    "videoViewCount": "31.59萬",
+    "videoViewCount": "31.78萬",
     "videoThumbnail": "https://i.ytimg.com/vi/KuCSOeUQNJE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByKd8FGdhuMpDxEi2GeUE_Yq1riw",
     "videoUrl": "http://youtu.be/KuCSOeUQNJE",
-    "rank": 6,
-    "rankVar": -2
+    "rank": 5,
+    "rankVar": 0
   }
 ]
