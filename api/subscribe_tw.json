@@ -1,19 +1,5 @@
 [
   {
-    "id": 3514,
-    "channelUrl": "https://www.youtube.com/channel/UCw2CTp01JDHoyH-4tFX9UlA",
-    "name": "李聽",
-    "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_my8QHsb4IeZW0y-HBf7SZWKKvQpTPgTH3cIivOrA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "48.6萬",
-    "score": "486,000",
-    "videoTitle": "「李聽」pubg縱向！台灣小哥哥撩中國兄弟💕｜VTuber絕地",
-    "videoViewCount": "1.82萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/miK0FIL_mlg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8Yk3S_4AVURpTJDUvKG1XKVM6Hw",
-    "videoUrl": "http://youtu.be/miK0FIL_mlg",
-    "rank": 1,
-    "rankVar": 0
-  },
-  {
     "id": 1171,
     "channelUrl": "https://www.youtube.com/channel/UCFahBR2wixu0xOex84bXFvg",
     "name": "杏仁ミル",
@@ -21,11 +7,11 @@
     "subscribe": "44.2萬",
     "score": "442,000",
     "videoTitle": "【杏仁ミル精華】咪嚕的36D讓聊天室都扛不住了！（無誇大廣告）【櫻境物語】",
-    "videoViewCount": "9.72萬",
+    "videoViewCount": "9.79萬",
     "videoThumbnail": "https://i.ytimg.com/vi/3FqTZLX278Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEVETTykc90AigNinAA2bqPe5GHQ",
     "videoUrl": "http://youtu.be/3FqTZLX278Q",
-    "rank": 2,
-    "rankVar": 0
+    "rank": 1,
+    "rankVar": 1
   },
   {
     "id": 1114,
@@ -35,11 +21,25 @@
     "subscribe": "32.8萬",
     "score": "328,000",
     "videoTitle": "【星穹鐵道】🚀花火 [培養全攻略]▸量子隊最後一塊拼圖！耗點型輸出以外，配隊泛用性有多廣？先抽星魂還是光錐？速度堆多少？遺器｜配隊｜畢業面板｜星魂推薦｜抽取建議 ▹璐洛洛◃",
-    "videoViewCount": "8.05萬",
+    "videoViewCount": "8.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/9v-mGvBLERM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiIykK6Nq-_qGpb5b881GLfHpk0Q",
     "videoUrl": "http://youtu.be/9v-mGvBLERM",
+    "rank": 2,
+    "rankVar": 2
+  },
+  {
+    "id": 1589,
+    "channelUrl": "https://www.youtube.com/channel/UCswRX8mNNdn1fjRctZqzjgA",
+    "name": "懶貓子",
+    "thumbnail": "https://yt3.googleusercontent.com/fgKLHlHu5jNhL2SqaAkhlpo3bVv8CLeKbcYWS-myQTN5XPo0E2CjdRqqjjPQXPlYtpaCRT92=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "22.4萬",
+    "score": "224,000",
+    "videoTitle": "【崩壞：星穹鐵道】夢裡什麼都有~匹諾康尼真的太有趣！可是Rumi被徹底無視！｜Rumi/懶貓子",
+    "videoViewCount": "1.13萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/mGscJY290t4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhiZJpGGSNyWYNvGzQkoqMQ4H2dw",
+    "videoUrl": "http://youtu.be/mGscJY290t4",
     "rank": 3,
-    "rankVar": 1
+    "rankVar": 2
   },
   {
     "id": 26,
@@ -49,7 +49,7 @@
     "subscribe": "19.5萬",
     "score": "195,000",
     "videoTitle": "tuki. - 晩餐歌 / 浠Mizuki【歌ってみた/Cover】",
-    "videoViewCount": "3.9萬",
+    "videoViewCount": "4.09萬",
     "videoThumbnail": "https://i.ytimg.com/vi/XvaESh248MI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUb1DGJqRB3cWtRfcuNMosq0Fnmg",
     "videoUrl": "http://youtu.be/XvaESh248MI",
     "rank": 4,
@@ -63,7 +63,7 @@
     "subscribe": "17.6萬",
     "score": "176,000",
     "videoTitle": "PoppyPlaytime 3 開局１０分鐘就幹掉瞌睡猫 有可能嗎？",
-    "videoViewCount": "12.63萬",
+    "videoViewCount": "12.65萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ZBVYNvWibdM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1WB4DXNIbMXuv-9N-hZKuRijCWA",
     "videoUrl": "http://youtu.be/ZBVYNvWibdM",
     "rank": 5,
@@ -77,7 +77,7 @@
     "subscribe": "17.4萬",
     "score": "174,000",
     "videoTitle": "【Original原創曲Demo】口烏口乎｜森森鈴蘭 Linglan Lily &  @homesoundmusic",
-    "videoViewCount": "6.86萬",
+    "videoViewCount": "7.01萬",
     "videoThumbnail": "https://i.ytimg.com/vi/toAZjnSIOeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATgem3oZ6N4xvzachIf5PrDK8h6g",
     "videoUrl": "http://youtu.be/toAZjnSIOeE",
     "rank": 6,
@@ -91,24 +91,10 @@
     "subscribe": "14.8萬",
     "score": "148,000",
     "videoTitle": "🐙麥塊生存🐙人生第一次成功征服終界 感謝汪汪支援 @puppy910240  時空進化接力生存 第12棒 【MiroLive/塔芭絲可】",
-    "videoViewCount": "2.93萬",
+    "videoViewCount": "2.94萬",
     "videoThumbnail": "https://i.ytimg.com/vi/h_kPOfm32U0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB75Pb-dKFWITTW0PZT51EffdGzg",
     "videoUrl": "http://youtu.be/h_kPOfm32U0",
     "rank": 7,
-    "rankVar": 2
-  },
-  {
-    "id": 4627,
-    "channelUrl": "https://www.youtube.com/channel/UCwzpXmWAFEVKH3VzwvSlY_w",
-    "name": "厄倫蒂兒",
-    "thumbnail": "https://yt3.googleusercontent.com/xLdQJwZtoAz9oerczPUhDBl97ZFbZACCS_P6SS0x3waQibrtIhR0VHjeFYmZl0NWpYvVY-CPnz0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "13.8萬",
-    "score": "138,000",
-    "videoTitle": "【Among Us】CJ警報！(ﾒ ﾟ皿ﾟ)ﾒ今天的我一定是冷酷無情的辣個女倫！！！ ft.很多人   ░  Gaming Stream【厄倫蒂兒 Earendel】",
-    "videoViewCount": "2.29萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/kw_DzQWVgtA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP8V-kowZbjVBI1MyktSiS0AaN7g",
-    "videoUrl": "http://youtu.be/kw_DzQWVgtA",
-    "rank": 8,
     "rankVar": 2
   },
   {
@@ -119,11 +105,11 @@
     "subscribe": "12.5萬",
     "score": "125,000",
     "videoTitle": "【 Minecraft : 時空進化】1.16地獄大更新🔥緊張的地獄探險💀 | 接力生存第17棒 | Rluo Ch. 阿洛",
-    "videoViewCount": "2.04萬",
+    "videoViewCount": "2.07萬",
     "videoThumbnail": "https://i.ytimg.com/vi/5RKxBISvvAM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDx-Stwb-PRa4sKU4McyzYob5G_lQ",
     "videoUrl": "http://youtu.be/5RKxBISvvAM",
-    "rank": 9,
-    "rankVar": 2
+    "rank": 8,
+    "rankVar": 3
   },
   {
     "id": 3538,
@@ -133,11 +119,11 @@
     "subscribe": "12.3萬",
     "score": "123,000",
     "videoTitle": "Hot dog 和 balloons (小熱狗&大汽球) - 煌Sir有汐【Official Music Video】",
-    "videoViewCount": "7.92萬",
+    "videoViewCount": "7.97萬",
     "videoThumbnail": "https://i.ytimg.com/vi/1iaGFHwINy0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhi7ZGdrCKQNX0DO4vVCglFJkG1g",
     "videoUrl": "http://youtu.be/1iaGFHwINy0",
-    "rank": 10,
-    "rankVar": 2
+    "rank": 9,
+    "rankVar": 3
   },
   {
     "id": 4734,
@@ -147,11 +133,11 @@
     "subscribe": "12.2萬",
     "score": "122,000",
     "videoTitle": "晴る (Sunny) - ヨルシカ／涅默Nemesis【Cover】",
-    "videoViewCount": "3.73萬",
+    "videoViewCount": "3.82萬",
     "videoThumbnail": "https://i.ytimg.com/vi/EawFVmD59_M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqgzPJ1SDZWCbfWAvb_-o596-6DQ",
     "videoUrl": "http://youtu.be/EawFVmD59_M",
-    "rank": 11,
-    "rankVar": 2
+    "rank": 10,
+    "rankVar": 3
   },
   {
     "id": 4738,
@@ -161,25 +147,25 @@
     "subscribe": "7.56萬",
     "score": "75,600",
     "videoTitle": "由薫 – 星月夜 / 埃穆亞OUMUA.cover【歌ってみた】",
-    "videoViewCount": "2.43萬",
+    "videoViewCount": "2.48萬",
     "videoThumbnail": "https://i.ytimg.com/vi/iYxaPnQduNM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHlOBD5ySU0821JqorXoUThGQ1FA",
     "videoUrl": "http://youtu.be/iYxaPnQduNM",
-    "rank": 12,
-    "rankVar": 3
+    "rank": 11,
+    "rankVar": 4
   },
   {
     "id": 248,
     "channelUrl": "https://www.youtube.com/channel/UCT1kajmUhayQ4QaLlDbK23g",
     "name": "洛可洛斯特",
     "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_mDvBsrJrBMfpfs1rJAQHMSxIVUejOc1X2xq3Pa=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "7.41萬",
-    "score": "74,100",
+    "subscribe": "7.42萬",
+    "score": "74,200",
     "videoTitle": "【5人COVER】ロミオとシンデレラ /歌ってみた【洛可洛斯特 / 麵音白湯 / 銀河 / AOI / 貓祭】",
-    "videoViewCount": "2.16萬",
+    "videoViewCount": "2.18萬",
     "videoThumbnail": "https://i.ytimg.com/vi/-pB_YecT2ck/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1AHXLzNDvAQnDx6jw_d8L_CjL9g",
     "videoUrl": "http://youtu.be/-pB_YecT2ck",
-    "rank": 13,
-    "rankVar": 3
+    "rank": 12,
+    "rankVar": 4
   },
   {
     "id": 4737,
@@ -189,10 +175,10 @@
     "subscribe": "7.38萬",
     "score": "73,800",
     "videoTitle": "【香魚包水餃】內餡交給香魚決定？我會看到甚麼恐怖的餡料...嗎...？春魚工作室的大家，腸胃夠健壯嗎？( º﹃º )█熙歌Cygnus",
-    "videoViewCount": "4.12萬",
+    "videoViewCount": "4.13萬",
     "videoThumbnail": "https://i.ytimg.com/vi/RpY3NgdxzEI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSXgknPuH6G9UwuGQRANS1l6Nzhw",
     "videoUrl": "http://youtu.be/RpY3NgdxzEI",
-    "rank": 14,
+    "rank": 13,
     "rankVar": 4
   },
   {
@@ -203,53 +189,39 @@
     "subscribe": "7.36萬",
     "score": "73,600",
     "videoTitle": "🔴【COVER募資】03/10 21:00 歌名就叫做想捉I❤️金額到了會有12獎勵【香草奈若】",
-    "videoViewCount": "4.4萬",
+    "videoViewCount": "4.44萬",
     "videoThumbnail": "https://i.ytimg.com/vi/dZn3mIsV6p0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzlyMMJra_cmL6rn2lmYZtZxOGaw",
     "videoUrl": "http://youtu.be/dZn3mIsV6p0",
-    "rank": 15,
-    "rankVar": 2
+    "rank": 14,
+    "rankVar": 4
   },
   {
     "id": 44,
     "channelUrl": "https://www.youtube.com/channel/UCltL6Tvv1aKrrYt4tnkmNtw",
     "name": "帕豹",
     "thumbnail": "https://yt3.googleusercontent.com/kKvmRqml2KT-rVDXL9CArHu71pc4vy5SvN2wKiZtshnica1PgcDHQ6LVj892ZDKsqjwFcfQYCQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "6.96萬",
-    "score": "69,600",
+    "subscribe": "6.97萬",
+    "score": "69,700",
     "videoTitle": "【突擊歌雜】晚安!您好! 你們的肝還好嗎~? ♡  嗷嗚~ #vtuber",
     "videoViewCount": "2.91萬",
     "videoThumbnail": "https://i.ytimg.com/vi/nyY2nUsq0G8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBypJKszDoamoLA-O4p1aGhFwOhA",
     "videoUrl": "http://youtu.be/nyY2nUsq0G8",
-    "rank": 16,
-    "rankVar": 3
+    "rank": 15,
+    "rankVar": 4
   },
   {
     "id": 43,
     "channelUrl": "https://www.youtube.com/channel/UCKe1Q0YIwT-hzrZs_uxGb2g",
     "name": "稻乙緹",
     "thumbnail": "https://yt3.googleusercontent.com/nvSBGO4ynSJTgsCj4h1UQqhhEo_Al4tBZOH35QZwwSXNFvRk4zgV4rJ5fHIM6_a5LmH97Te9Tw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "6.53萬",
-    "score": "65,300",
+    "subscribe": "6.54萬",
+    "score": "65,400",
     "videoTitle": "稻米米新年牢飯特輯 feat. @9qoq9qoq  @sweetcampercs @kmomo0512  @tts2535 炎炎 | 特戰英豪",
-    "videoViewCount": "3.73萬",
+    "videoViewCount": "3.76萬",
     "videoThumbnail": "https://i.ytimg.com/vi/29kzxGdX04I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApuTPaGqq-biGGdrJXvGRyNG1Dgw",
     "videoUrl": "http://youtu.be/29kzxGdX04I",
-    "rank": 17,
-    "rankVar": 3
-  },
-  {
-    "id": 5604,
-    "channelUrl": "https://www.youtube.com/channel/UCFZnIzx5T0tGl0DMQb8yPjg",
-    "name": "裴妮",
-    "thumbnail": "https://yt3.googleusercontent.com/l57MSsuzaWSd7i0IE62Rt7Hdz2S9x7zl6O0_vtcpjjmd1Gg3Kb7HTeBSrFcXmaNiNm2ZyJqQYg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "5.65萬",
-    "score": "56,500",
-    "videoTitle": "女V外島生存意外曝光 中之人身份  #台灣vtuber  #裴妮 #vtuber",
-    "videoViewCount": "6.39萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/3bzEKCVndpk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfxF8TNFkDP0ZOjma3JTHjWMIwvw",
-    "videoUrl": "http://youtu.be/3bzEKCVndpk",
-    "rank": 18,
-    "rankVar": 3
+    "rank": 16,
+    "rankVar": 4
   },
   {
     "id": 3460,
@@ -262,8 +234,22 @@
     "videoViewCount": "1.11萬",
     "videoThumbnail": "https://i.ytimg.com/vi/8iFbubCLLRo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACVsZxHyOJwUWLfBx_6jWMDvonVw",
     "videoUrl": "http://youtu.be/8iFbubCLLRo",
-    "rank": 19,
-    "rankVar": 3
+    "rank": 17,
+    "rankVar": 5
+  },
+  {
+    "id": 656,
+    "channelUrl": "https://www.youtube.com/channel/UCt3sb-VzKeQtomYXqAqaKPw",
+    "name": "水羽ほむら",
+    "thumbnail": "https://yt3.googleusercontent.com/kBfMvZfNina1g1Rue6WeODwYcCq4HGquaMgoSIewY4LqnShJ8ZmmgBE299aYZBlFemhj4BKG2A=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "5.13萬",
+    "score": "51,300",
+    "videoTitle": "【貓咪研究室】超賢者敵人時代來臨！美女神迎來超本能！？13.2更新懶人包介紹！《水羽 ほむら》【貓咪大戰爭】",
+    "videoViewCount": "1.93萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/6ZhboxMIddA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUjvOJvTU7Eqw18KnFIYhSqbdkJQ",
+    "videoUrl": "http://youtu.be/6ZhboxMIddA",
+    "rank": 18,
+    "rankVar": 7
   },
   {
     "id": 5064,
@@ -276,8 +262,8 @@
     "videoViewCount": "2.5萬",
     "videoThumbnail": "https://i.ytimg.com/vi/FElFImtHHWc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwdvsDVRqK0AhSGtSw4YepkfmKSg",
     "videoUrl": "http://youtu.be/FElFImtHHWc",
-    "rank": 20,
-    "rankVar": 4
+    "rank": 18,
+    "rankVar": 6
   },
   {
     "id": 5440,
@@ -287,11 +273,11 @@
     "subscribe": "4.9萬",
     "score": "49,000",
     "videoTitle": "晴る - ヨルシカ / 澪Rei【Cover】",
-    "videoViewCount": "7.52萬",
+    "videoViewCount": "7.63萬",
     "videoThumbnail": "https://i.ytimg.com/vi/eTz5fzK_t0M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQt1cCfm9Kjl3T-1846X3TswW4iA",
     "videoUrl": "http://youtu.be/eTz5fzK_t0M",
-    "rank": 21,
-    "rankVar": 5
+    "rank": 20,
+    "rankVar": 6
   },
   {
     "id": 775,
@@ -301,24 +287,24 @@
     "subscribe": "4.44萬",
     "score": "44,400",
     "videoTitle": "這是你們想要的聖誕節嗎?",
-    "videoViewCount": "7296",
+    "videoViewCount": "7299",
     "videoThumbnail": "https://i.ytimg.com/vi/VnGPWkhBFyk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoHTAP&rs=AOn4CLDtHiQ3m4J4tg1GIGIHutrILLQAVA",
     "videoUrl": "http://youtu.be/VnGPWkhBFyk",
-    "rank": 22,
-    "rankVar": 5
+    "rank": 21,
+    "rankVar": 6
   },
   {
     "id": 5645,
     "channelUrl": "https://www.youtube.com/channel/UCZHa6yKnBnU34yRyvV3EXSA",
     "name": "瓦西瓦瓦",
     "thumbnail": "https://yt3.googleusercontent.com/GFI6xwO5ehTku60N35-74QKMynTzGUn4c6M04KgYEi0EGe3iTVDK4Nbif_bo22a26YuO_uPkra4=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4.2萬",
-    "score": "42,000",
-    "videoTitle": "【偷薪水】沒有吃到燒肉...心好痛...QQ，直式配信。【瓦西瓦瓦 / Vaswawa】",
-    "videoViewCount": "2.03萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/q-bGeS_Tb4M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTIIMzZPhd9jI_Ah_L05--pFuqnw",
-    "videoUrl": "http://youtu.be/q-bGeS_Tb4M",
-    "rank": 23,
+    "subscribe": "4.21萬",
+    "score": "42,100",
+    "videoTitle": "【官方歌回剪輯】獻給親愛的BO鼠，我在課金。【瓦西瓦瓦 / Vaswawa】",
+    "videoViewCount": "2.17萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/DaVpyOi5WyM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGb5HhZ_bXxPDH-a81X7SfyywBPA",
+    "videoUrl": "http://youtu.be/DaVpyOi5WyM",
+    "rank": 22,
     "rankVar": 12
   },
   {
@@ -329,11 +315,25 @@
     "subscribe": "4.08萬",
     "score": "40,800",
     "videoTitle": "🍜  【官方好料】喝著酒 唱著歌 塔就衝上來了 | 直播精華【白湯】",
-    "videoViewCount": "9238",
+    "videoViewCount": "9265",
     "videoThumbnail": "https://i.ytimg.com/vi/OkVfdPj1y4U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLxMka40yRh_38F5DjCXlPH2LE8g",
     "videoUrl": "http://youtu.be/OkVfdPj1y4U",
+    "rank": 23,
+    "rankVar": 6
+  },
+  {
+    "id": 3541,
+    "channelUrl": "https://www.youtube.com/channel/UCvUTCi2Ms1eP-bFnh0lfGHA",
+    "name": "夢寐愛姆",
+    "thumbnail": "https://yt3.googleusercontent.com/8BtOSh7rnX_D4-0LA-KkddabP-m2vAoke_aWwK9LheQB6MKfP-mxyD8_bBbZaenS09xvwBXd5w=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "4.02萬",
+    "score": "40,200",
+    "videoTitle": "【wootalk 吾聊】匿名交友軟體 女V挑戰釣男人騙訂閱 能成功裝綠茶還是妥妥直男魂❓ #雜談 #惡魔 #陪你工作 #閒聊 #夢寐愛姆 #姐姐 #台v #vtuber #挑戰 #詐騙 #耐久",
+    "videoViewCount": "1587",
+    "videoThumbnail": "https://i.ytimg.com/vi/B8tBGdqiMXU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABs5yyOjqbEGcttNjesXkHd54fvA",
+    "videoUrl": "http://youtu.be/B8tBGdqiMXU",
     "rank": 24,
-    "rankVar": 5
+    "rankVar": 6
   },
   {
     "id": 5441,
@@ -342,26 +342,12 @@
     "thumbnail": "https://yt3.googleusercontent.com/E81Htka2x9NB2rKlRp3Iju98nNIYvCn8fLittbUFryYEsAgO6Ze71RScm_nd-Lco8TqMquRj8XI=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "4.02萬",
     "score": "40,200",
-    "videoTitle": "FINNEAS - Let's Fall in Love for the Night｜煌Kirali【Cover】",
-    "videoViewCount": "2.03萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/t9Ua4U0qeXY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk-QTRZJImQDl1Up6FTVKuK8EeOA",
-    "videoUrl": "http://youtu.be/t9Ua4U0qeXY",
-    "rank": 25,
-    "rankVar": 6
-  },
-  {
-    "id": 3541,
-    "channelUrl": "https://www.youtube.com/channel/UCvUTCi2Ms1eP-bFnh0lfGHA",
-    "name": "夢寐愛姆",
-    "thumbnail": "https://yt3.googleusercontent.com/8BtOSh7rnX_D4-0LA-KkddabP-m2vAoke_aWwK9LheQB6MKfP-mxyD8_bBbZaenS09xvwBXd5w=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4.01萬",
-    "score": "40,100",
-    "videoTitle": "【wootalk 吾聊】匿名交友軟體 女V挑戰釣男人騙訂閱 能成功裝綠茶還是妥妥直男魂❓ #雜談 #惡魔 #陪你工作 #閒聊 #夢寐愛姆 #姐姐 #台v #vtuber #挑戰 #詐騙 #耐久",
-    "videoViewCount": "1583",
-    "videoThumbnail": "https://i.ytimg.com/vi/B8tBGdqiMXU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABs5yyOjqbEGcttNjesXkHd54fvA",
-    "videoUrl": "http://youtu.be/B8tBGdqiMXU",
-    "rank": 26,
-    "rankVar": 4
+    "videoTitle": "AMIT - 母系社會｜煌Kirali【Cover】feat.@ringbandtw",
+    "videoViewCount": "2.01萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/bSVz7Gg56dw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGatwo_0dDvAX0tRAHu2EyfhNe7A",
+    "videoUrl": "http://youtu.be/bSVz7Gg56dw",
+    "rank": 24,
+    "rankVar": 7
   },
   {
     "id": 186,
@@ -371,25 +357,25 @@
     "subscribe": "3.56萬",
     "score": "35,600",
     "videoTitle": "【GTA5實況】第一時間玩突襲噹噹鐘農場！",
-    "videoViewCount": "1.01萬",
+    "videoViewCount": "1.02萬",
     "videoThumbnail": "https://i.ytimg.com/vi/a_5qoA7mjrs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiuO64ozvp1HgfWtkjlxAhekqyaw",
     "videoUrl": "http://youtu.be/a_5qoA7mjrs",
-    "rank": 27,
-    "rankVar": 6
+    "rank": 26,
+    "rankVar": 7
   },
   {
     "id": 5132,
     "channelUrl": "https://www.youtube.com/channel/UCChAHq4kdRZ0FJ1Jfjvr9cw",
     "name": "帕蘿妮",
     "thumbnail": "https://yt3.googleusercontent.com/67hW6QrdObpCY-bPdzNPG9aE8IiXzsYJ_vZVtM79aerirxr5fgEk6U8tHdETzOKU_lwVKjpJauw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "3.4萬",
-    "score": "34,000",
+    "subscribe": "3.41萬",
+    "score": "34,100",
     "videoTitle": "【歌回】唱一些沒唱過的抖音歌🔹#帕蘿妮 #Paroniie",
     "videoViewCount": "1.71萬",
     "videoThumbnail": "https://i.ytimg.com/vi/rOBB1ENdwaQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiIYam295s_RX8P_umtIg-3Tq5Lg",
     "videoUrl": "http://youtu.be/rOBB1ENdwaQ",
-    "rank": 28,
-    "rankVar": 9
+    "rank": 27,
+    "rankVar": 10
   },
   {
     "id": 5691,
@@ -399,11 +385,11 @@
     "subscribe": "3.36萬",
     "score": "33,600",
     "videoTitle": "【你不知道這世界，是如何等你到來…】清醒記／黃詩扶【清音零零7100】",
-    "videoViewCount": "2.34萬",
+    "videoViewCount": "2.35萬",
     "videoThumbnail": "https://i.ytimg.com/vi/zDxdrSz-A7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBc6_u6D8XjVUWb2AQg9jzn4yE6Bg",
     "videoUrl": "http://youtu.be/zDxdrSz-A7E",
-    "rank": 29,
-    "rankVar": 10
+    "rank": 28,
+    "rankVar": 8
   },
   {
     "id": 5137,
@@ -412,12 +398,26 @@
     "thumbnail": "https://yt3.googleusercontent.com/jrd_YPm7EjaKxGNvQA6iA6Yg-R1tYeBGhp1n1EZTJFSsK2SEPh6OWC1ITbW5s3uvBYymuT2sag=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "3.2萬",
     "score": "32,000",
-    "videoTitle": "【出租女友】我喜歡你。",
-    "videoViewCount": "3248",
-    "videoThumbnail": "https://i.ytimg.com/vi/NX10kFzRr5c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZzCF_UlBXXWlf46pd1j3oYrN-EQ",
-    "videoUrl": "http://youtu.be/NX10kFzRr5c",
-    "rank": 30,
+    "videoTitle": "【一周年紀念】不是吧！我才....！",
+    "videoViewCount": "2375",
+    "videoThumbnail": "https://i.ytimg.com/vi/mhMj92a6ZpQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhh5t0XdFDHp7-nGU-QXGfENH16w",
+    "videoUrl": "http://youtu.be/mhMj92a6ZpQ",
+    "rank": 29,
     "rankVar": 6
+  },
+  {
+    "id": 3517,
+    "channelUrl": "https://www.youtube.com/channel/UCx_1ffdoE_L06OExQGhz6nw",
+    "name": "烟花蹦蹦蹦",
+    "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_n16NTo3hzGTOsvMqi9L8j1dh0VGmmBOtHZWUy0fQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "3.1萬",
+    "score": "31,000",
+    "videoTitle": "【烟花蹦蹦蹦】請給我更多可愛的烟花精華!",
+    "videoViewCount": "1.29萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/MCcE8UjlKWo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzmCZm10wMRu4OpBRMYePT1eTmWw",
+    "videoUrl": "http://youtu.be/MCcE8UjlKWo",
+    "rank": 30,
+    "rankVar": 9
   },
   {
     "id": 5644,
@@ -427,7 +427,7 @@
     "subscribe": "3.08萬",
     "score": "30,800",
     "videoTitle": "【MIKU日接力歌回#09】🦋VOCALOID SPECIAL EVENT! DONT MISS OUT! 🦋",
-    "videoViewCount": "2062",
+    "videoViewCount": "2061",
     "videoThumbnail": "https://i.ytimg.com/vi/AxIXcrftqRA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDUlx_3f_kTDIzbnmKbgYM_W8gRg",
     "videoUrl": "http://youtu.be/AxIXcrftqRA",
     "rank": 31,
@@ -454,12 +454,12 @@
     "thumbnail": "https://yt3.googleusercontent.com/_5dUW949W6TBJgKahWijvw0afYplEA4iUgYV5Nb2Ooq3rw3QSwxYD_0juD0Uxc8rj8apeP5wTQ=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "2.85萬",
     "score": "28,500",
-    "videoTitle": "⁑ Cover ⁑ 南拳媽媽 - 下雨天 (韓中 Ver.) / 艾絲梅亞 Esmea Evenid (推薦耳機收聽🎧)",
-    "videoViewCount": "5553",
-    "videoThumbnail": "https://i.ytimg.com/vi/pU7D49NXVSU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACjqTZ95z_VHmLL6_o6VQrrMN6Pw",
-    "videoUrl": "http://youtu.be/pU7D49NXVSU",
+    "videoTitle": "#縱型 輕鬆聊天 聊甜甜的東西夢也會是甜的吧【睡了梅】",
+    "videoViewCount": "3453",
+    "videoThumbnail": "https://i.ytimg.com/vi/4i-jERmMbYU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6Oo-mJ1adQcE7rg88YiRE6GnJnQ",
+    "videoUrl": "http://youtu.be/4i-jERmMbYU",
     "rank": 33,
-    "rankVar": 9
+    "rankVar": 8
   },
   {
     "id": 2456,
@@ -469,11 +469,11 @@
     "subscribe": "2.72萬",
     "score": "27,200",
     "videoTitle": "【闇影詩章】牌組分享➤羅蘭的秘密功用幫汎斯扛住，超高勝率中立體系風神單卡9傷超高輸出！➧中立皇T2 RL〈shadowverse/シャドウバース〉【台V/台灣Vtuber】",
-    "videoViewCount": "3507",
+    "videoViewCount": "3576",
     "videoThumbnail": "https://i.ytimg.com/vi/FuPZnS8qZCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmr_2H77uD0SznqRNiTRSt0B1NHA",
     "videoUrl": "http://youtu.be/FuPZnS8qZCQ",
     "rank": 34,
-    "rankVar": 7
+    "rankVar": 6
   },
   {
     "id": 593,
@@ -487,15 +487,15 @@
     "videoThumbnail": "https://i.ytimg.com/vi/DkmgAFq-52Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp8RM4D50xkUI3JEACFlV8rT7ZQg",
     "videoUrl": "http://youtu.be/DkmgAFq-52Y",
     "rank": 35,
-    "rankVar": 8
+    "rankVar": 7
   },
   {
     "id": 5650,
     "channelUrl": "https://www.youtube.com/channel/UCbgr8vvzFLElzIxHDr2xV5w",
     "name": "結月莉莉奈",
     "thumbnail": "https://yt3.googleusercontent.com/S_BuaVuubLU1CRu6TI6BaDPd6vGXOOPFrUW4nVKQPHX0W8xPF54IaWU10rCC0sFcVyb-vVDEFw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.59萬",
-    "score": "25,900",
+    "subscribe": "2.6萬",
+    "score": "26,000",
     "videoTitle": "【縱向朝活】快樂的時光總是過得好快，怎麼又到了星期一了呢QQ｜結月莉莉奈Ririna",
     "videoViewCount": "6104",
     "videoThumbnail": "https://i.ytimg.com/vi/4q_Cy8lV8Z8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdSrkRFOeOAU_RSezVxkGp3NZaTQ",
@@ -508,14 +508,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCjO_XiZ-OBHG6gbQRXzvaqw",
     "name": "瑪琋霓·索蕾",
     "thumbnail": "https://yt3.googleusercontent.com/0WwIfIoROkxVWq6bfvU_k312aDAZ9li1r0YyV-qjI0knTevrLYl_iw_1k6XljDkQVgSw4zRU=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.58萬",
-    "score": "25,800",
+    "subscribe": "2.59萬",
+    "score": "25,900",
     "videoTitle": "SAY SO - Doja Cat -cover by 瑪琋霓索蕾 Marcinee Soleil",
-    "videoViewCount": "2萬",
+    "videoViewCount": "2.01萬",
     "videoThumbnail": "https://i.ytimg.com/vi/NR5BEpNZSGY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnYMW7aotYdDViTO3lPrVXyUSwUA",
     "videoUrl": "http://youtu.be/NR5BEpNZSGY",
     "rank": 37,
-    "rankVar": 8
+    "rankVar": 7
   },
   {
     "id": 4938,
@@ -529,7 +529,7 @@
     "videoThumbnail": "https://i.ytimg.com/vi/6_R2orfxw3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBysTTSFh6H9bSz-pLR-sFXvbYQgA",
     "videoUrl": "http://youtu.be/6_R2orfxw3U",
     "rank": 38,
-    "rankVar": 14
+    "rankVar": 12
   },
   {
     "id": 5135,
@@ -539,11 +539,11 @@
     "subscribe": "2.46萬",
     "score": "24,600",
     "videoTitle": "【我回來啦！人神共憤的日本出差雜談╰(*°▽°*)╯ 】🦇🌕艾琳妮雅·裴利 Arrynia Vaeri",
-    "videoViewCount": "4829",
+    "videoViewCount": "4830",
     "videoThumbnail": "https://i.ytimg.com/vi/OXFVIpEYleM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOeMZsU5qeLSKq-84Mpj6-28nn9w",
     "videoUrl": "http://youtu.be/OXFVIpEYleM",
     "rank": 38,
-    "rankVar": 8
+    "rankVar": 7
   },
   {
     "id": 3526,
@@ -553,39 +553,25 @@
     "subscribe": "2.45萬",
     "score": "24,500",
     "videoTitle": "🔴 【 吧噗 🍦】02/23 輕語 助眠 ASMR live 💤 Ear Licking 耳舐め",
-    "videoViewCount": "1.12萬",
+    "videoViewCount": "1.13萬",
     "videoThumbnail": "https://i.ytimg.com/vi/z1PDOUtJras/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL46Fcs2z37StYbOoixNyJ_B4NlA",
     "videoUrl": "http://youtu.be/z1PDOUtJras",
     "rank": 40,
-    "rankVar": 4
+    "rankVar": 3
   },
   {
     "id": 5647,
     "channelUrl": "https://www.youtube.com/channel/UCVB6njJBYf-7Di03j8993AA",
     "name": "依可露",
     "thumbnail": "https://yt3.googleusercontent.com/S5yODWA63sBw9IkT0xxroT7VkQj2eyFtN7PfswAm3IZgeyxDEXxu9U_9TCVrM1ZVO01BiAy5_H8=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.43萬",
-    "score": "24,300",
+    "subscribe": "2.44萬",
+    "score": "24,400",
     "videoTitle": "【加班#3】早上想來唱唱歌！加班時間又要增加了嗎QAQ【依可露】#shorts #short",
     "videoViewCount": "1.71萬",
     "videoThumbnail": "https://i.ytimg.com/vi/EtHIvJX_pN4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwLhvYj_7z4aL4v6nYKZmB3c4bxw",
     "videoUrl": "http://youtu.be/EtHIvJX_pN4",
     "rank": 41,
-    "rankVar": 13
-  },
-  {
-    "id": 3571,
-    "channelUrl": "https://www.youtube.com/channel/UCgGso0vVI2wfXHeXcxn1sZA",
-    "name": "繆・索緹絲",
-    "thumbnail": "https://yt3.googleusercontent.com/RkqYm3gKMjADEdPqbRjMAf03cSBOxTZ73BuQlb3I1IIL0J50VIL_XAr9AYbpR5G0A3FhjwY42w=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.39萬",
-    "score": "23,900",
-    "videoTitle": "僕のヒーロー / そらる (covered by Myo Sotis)",
-    "videoViewCount": "7445",
-    "videoThumbnail": "https://i.ytimg.com/vi/yY15j396Xc4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC56sbbArd_SXzD0CU84paPv7JOrg",
-    "videoUrl": "http://youtu.be/yY15j396Xc4",
-    "rank": 42,
-    "rankVar": 6
+    "rankVar": 12
   },
   {
     "id": 5709,
@@ -595,25 +581,25 @@
     "subscribe": "2.38萬",
     "score": "23,800",
     "videoTitle": "【歌回】本寶寶滿月+1天🧡給寶寶的禮物準備好了嗎 ǀ 滿月歌回 ǀ 波比烏哩 Poppy Woolly",
-    "videoViewCount": "486",
+    "videoViewCount": "487",
     "videoThumbnail": "https://i.ytimg.com/vi/NSLbt_cP3Xw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvDeRRvg82jMkuCta-9ohiCvVaUQ",
     "videoUrl": "http://youtu.be/NSLbt_cP3Xw",
-    "rank": 43,
-    "rankVar": 6
+    "rank": 42,
+    "rankVar": 7
   },
   {
     "id": 592,
     "channelUrl": "https://www.youtube.com/channel/UCeIi12njfSExM8V6LGdTrFw",
     "name": "雪莉·啵啵",
     "thumbnail": "https://yt3.googleusercontent.com/rNyB4zzcyvARe43TJrFubhVOf-xjKfrISydeOFhg4CnlT6l__Xr9VGprRFOrLR4P43_xDpKPXQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.24萬",
-    "score": "22,400",
+    "subscribe": "2.25萬",
+    "score": "22,500",
     "videoTitle": "【情人節】你有一通雪莉啵啵的來電 !! #雪莉啵啵 #台灣vtuber #shorts #縦型配信",
     "videoViewCount": "4024",
     "videoThumbnail": "https://i.ytimg.com/vi/WYBnXKPT9c4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMVfo8u6x0pVT9x5P4z8JJhgWy4Q",
     "videoUrl": "http://youtu.be/WYBnXKPT9c4",
-    "rank": 44,
-    "rankVar": 13
+    "rank": 43,
+    "rankVar": 12
   },
   {
     "id": 5734,
@@ -623,11 +609,11 @@
     "subscribe": "2.24萬",
     "score": "22,400",
     "videoTitle": "ASMR×KU100 | 用口水慢慢地～融化你的雙耳 | 囁き声．耳舐め | Ear Licking 【音圧、密閉感、高音質】",
-    "videoViewCount": "5404",
+    "videoViewCount": "5443",
     "videoThumbnail": "https://i.ytimg.com/vi/PWNnFHdEK-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXo-0c2TFk3OXBjIhZAzC18uOt5Q",
     "videoUrl": "http://youtu.be/PWNnFHdEK-0",
     "rank": 44,
-    "rankVar": 6
+    "rankVar": 7
   },
   {
     "id": 5649,
@@ -640,7 +626,7 @@
     "videoViewCount": "6050",
     "videoThumbnail": "https://i.ytimg.com/vi/tTkNmSly_JQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCah8J140dctckTQ0bMjMJZlSEImQ",
     "videoUrl": "http://youtu.be/tTkNmSly_JQ",
-    "rank": 46,
+    "rank": 45,
     "rankVar": 10
   },
   {
@@ -648,13 +634,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCvgbuonmEURc7sGXLWPUYDQ",
     "name": "萊菈‧希格娜斯",
     "thumbnail": "https://yt3.googleusercontent.com/Ah7olO3S2qcCIAGLyNRYDW5M4UkOqpr3vRDJj9x6iUAa66cQiIIR8V2RVgMU7jWWiUzKAImC2UI=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.13萬",
-    "score": "21,300",
+    "subscribe": "2.14萬",
+    "score": "21,400",
     "videoTitle": "【ASMR】3Dio FS XLR ♡ 深度舔耳-回家後姐姐的一小時獎勵成為我的弟弟嗎? ♡ 口腔音【萊菈 希格娜斯】 ​#3dio",
-    "videoViewCount": "5940",
+    "videoViewCount": "7055",
     "videoThumbnail": "https://i.ytimg.com/vi/urBvM5v-BP8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDO5_YqLI_rwdL_i740yjzwcDzulw",
     "videoUrl": "http://youtu.be/urBvM5v-BP8",
-    "rank": 47,
+    "rank": 46,
     "rankVar": 8
   },
   {
@@ -668,21 +654,21 @@
     "videoViewCount": "1.44萬",
     "videoThumbnail": "https://i.ytimg.com/vi/x37b8x-KZjA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXJZsL9xGJT3iUCyG5iuH6BNn2Yg",
     "videoUrl": "http://youtu.be/x37b8x-KZjA",
-    "rank": 48,
-    "rankVar": 13
+    "rank": 47,
+    "rankVar": 11
   },
   {
     "id": 5689,
     "channelUrl": "https://www.youtube.com/channel/UCB2Zralw1SV2AozcMDEk6CA",
     "name": "森雨悠娜",
     "thumbnail": "https://yt3.googleusercontent.com/GF2z0DTdMoIRf6cnd3gsyGrTA-HyVsiZHC07NtuH0rmU5B-laKabEngmmyeYdTDmVnJ-LpGfKA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.09萬",
-    "score": "20,900",
+    "subscribe": "2.1萬",
+    "score": "21,000",
     "videoTitle": "【#8番出口】我感覺這裡怪怪的，難道初見即速通嗎 #森雨悠娜 #遊戲精華",
-    "videoViewCount": "5950",
+    "videoViewCount": "5955",
     "videoThumbnail": "https://i.ytimg.com/vi/tUdH0ItfMRQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6kWZYKShOU3srhsWvFfjUhFtq3g",
     "videoUrl": "http://youtu.be/tUdH0ItfMRQ",
-    "rank": 49,
+    "rank": 48,
     "rankVar": 15
   },
   {
@@ -690,14 +676,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCGGc-KmG4fxc8D03S-H0rbw",
     "name": "若櫻依兔",
     "thumbnail": "https://yt3.googleusercontent.com/wzdPu60Z8iJ0FvUotkFmyaSNN_fB0PBcwsDkYoDPEyXG8ln2YpkkSVphrYb1JGp-Vsfgoe2IiE0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2.06萬",
-    "score": "20,600",
+    "subscribe": "2.08萬",
+    "score": "20,800",
     "videoTitle": "【歌ってみた】Myuk - 愛の唄🌸Cover by 若櫻依兔",
     "videoViewCount": "2.84萬",
     "videoThumbnail": "https://i.ytimg.com/vi/HIkd72idfdE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcsab6EvWg7rbKhUlMjmfe4aDXVA",
     "videoUrl": "http://youtu.be/HIkd72idfdE",
-    "rank": 50,
-    "rankVar": 9
+    "rank": 49,
+    "rankVar": 11
   },
   {
     "id": 5605,
@@ -707,10 +693,10 @@
     "subscribe": "1.83萬",
     "score": "18,300",
     "videoTitle": "開工啦❗陪你當社畜👻兩萬訂閱拚一下🐌",
-    "videoViewCount": "9687",
+    "videoViewCount": "9688",
     "videoThumbnail": "https://i.ytimg.com/vi/hMMabUEI4uA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjnvHLDZiisuA5wD3tvHolUGmmHQ",
     "videoUrl": "http://youtu.be/hMMabUEI4uA",
-    "rank": 51,
+    "rank": 50,
     "rankVar": 11
   },
   {
@@ -718,13 +704,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCIHt5N62td1Nmh1wS3FVHgg",
     "name": "子蒼",
     "thumbnail": "https://yt3.googleusercontent.com/AtkDz_J2rbmhmL6TLQaX6dtIJVZAH2CDXPo7ImUoe-yNcxQ4A6nQGjBErnBswbg-xmHwwkZlBw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.74萬",
-    "score": "17,400",
+    "subscribe": "1.76萬",
+    "score": "17,600",
     "videoTitle": "高湯粉的介紹｜你也可以駕馭超越味精的絕對鮮味",
-    "videoViewCount": "891",
+    "videoViewCount": "907",
     "videoThumbnail": "https://i.ytimg.com/vi/RWXVpjdwQEA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz7GA-do1GDtn_vQZZrvp17eI5BQ",
     "videoUrl": "http://youtu.be/RWXVpjdwQEA",
-    "rank": 52,
+    "rank": 51,
     "rankVar": 26
   },
   {
@@ -738,22 +724,22 @@
     "videoViewCount": "5390",
     "videoThumbnail": "https://i.ytimg.com/vi/emndeM6M9AU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt4Vsx_cqL-LcN9sE1Lf7dl5MDcw",
     "videoUrl": "http://youtu.be/emndeM6M9AU",
-    "rank": 53,
-    "rankVar": 23
+    "rank": 52,
+    "rankVar": 25
   },
   {
     "id": 5740,
     "channelUrl": "https://www.youtube.com/channel/UC6CpUl2thiDslRorMhd00HA",
     "name": "露熙妲",
     "thumbnail": "https://yt3.googleusercontent.com/XcdjByLXQ01W-WvlPB6ahRd-W0qSv4C0jMLbFVmqYUKllSDTuIBYUKw9JnpkIRvGKG58eBr64w=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.69萬",
-    "score": "16,900",
+    "subscribe": "1.72萬",
+    "score": "17,200",
     "videoTitle": "【#縦型配信 】會員開通了！唱歌聊天跟感謝SuperChat✦歌いながら雑談【露熙妲 Luxida】#shorts #直式直播",
     "videoViewCount": "1.49萬",
     "videoThumbnail": "https://i.ytimg.com/vi/GlB3zsZR-do/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1V6yOSwkfw-eg4rDU_FPaJVgDxQ",
     "videoUrl": "http://youtu.be/GlB3zsZR-do",
-    "rank": 54,
-    "rankVar": 22
+    "rank": 52,
+    "rankVar": 21
   },
   {
     "id": 429,
@@ -766,7 +752,7 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 55,
+    "rank": 54,
     "rankVar": 8
   },
   {
@@ -777,11 +763,25 @@
     "subscribe": "1.64萬",
     "score": "16,400",
     "videoTitle": "【聊天】只開一下下就下播(｡･ω･｡)ﾉ",
-    "videoViewCount": "3094",
+    "videoViewCount": "3098",
     "videoThumbnail": "https://i.ytimg.com/vi/NRpr1TSDYkI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuU1XG9m2WrOu6Z0-KDcsIFWBVZg",
     "videoUrl": "http://youtu.be/NRpr1TSDYkI",
-    "rank": 56,
+    "rank": 55,
     "rankVar": 13
+  },
+  {
+    "id": 5694,
+    "channelUrl": "https://www.youtube.com/channel/UCwAwjl2S1rj9UklLjrObNAw",
+    "name": "愛鈴貝貝",
+    "thumbnail": "https://yt3.googleusercontent.com/7TtFkf5Z3tDfhqqqCfeDFuJcUJCGjIorgkwcU43dWf77OJuXdsYrujKN9yvfvoRCt5cHw0oZ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "1.64萬",
+    "score": "16,400",
+    "videoTitle": "整人綜藝 辦公室鬧鬼 工讀生當場嚇哭【貝我監視中】",
+    "videoViewCount": "1.02萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/HgRAVd-ECik/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrJlh8_7nHLIjjSXv0gws6de3XbQ",
+    "videoUrl": "http://youtu.be/HgRAVd-ECik",
+    "rank": 55,
+    "rankVar": 12
   },
   {
     "id": 3635,
@@ -791,25 +791,11 @@
     "subscribe": "1.63萬",
     "score": "16,300",
     "videoTitle": "アイドル cover 【Full Ver.】妮卡沃爾 #idol #YOASOBI #我推的孩子",
-    "videoViewCount": "9390",
+    "videoViewCount": "9398",
     "videoThumbnail": "https://i.ytimg.com/vi/8dVWPNYuD1c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3CiuYSUzt-Xk-MkYeES6EKTbQYw",
     "videoUrl": "http://youtu.be/8dVWPNYuD1c",
     "rank": 57,
-    "rankVar": 9
-  },
-  {
-    "id": 5694,
-    "channelUrl": "https://www.youtube.com/channel/UCwAwjl2S1rj9UklLjrObNAw",
-    "name": "愛鈴貝貝",
-    "thumbnail": "https://yt3.googleusercontent.com/7TtFkf5Z3tDfhqqqCfeDFuJcUJCGjIorgkwcU43dWf77OJuXdsYrujKN9yvfvoRCt5cHw0oZ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.63萬",
-    "score": "16,300",
-    "videoTitle": "整人綜藝 辦公室鬧鬼 工讀生當場嚇哭【貝我監視中】",
-    "videoViewCount": "1.02萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/HgRAVd-ECik/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrJlh8_7nHLIjjSXv0gws6de3XbQ",
-    "videoUrl": "http://youtu.be/HgRAVd-ECik",
-    "rank": 57,
-    "rankVar": 10
+    "rankVar": 8
   },
   {
     "id": 4850,
@@ -819,10 +805,10 @@
     "subscribe": "1.6萬",
     "score": "16,000",
     "videoTitle": "【真心話酒雜】說謊可是會被搔癢懲罰的喔~ft.黑銀夜烏【火野貝 hinokai】",
-    "videoViewCount": "1120",
+    "videoViewCount": "1131",
     "videoThumbnail": "https://i.ytimg.com/vi/e2qkCoQbeuY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBzhX7zoqQ3VmJTY1L-WvXL6BEpg",
     "videoUrl": "http://youtu.be/e2qkCoQbeuY",
-    "rank": 59,
+    "rank": 58,
     "rankVar": 6
   },
   {
@@ -830,13 +816,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCxYkBSXKRgbxVwwqBQ_sy0w",
     "name": "角蓮Caren",
     "thumbnail": "https://yt3.googleusercontent.com/_IZIm8Z4vI9yXNghU_axtp8dhIt1xZpoXfrZw5bEiNm9w71HFvSmaC-txuSKqREh-zhgkajtAA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.52萬",
-    "score": "15,200",
+    "subscribe": "1.53萬",
+    "score": "15,300",
     "videoTitle": "我深信，排行榜上不缺少好手遊，只缺少發現【角蓮Caren】#縱型配信",
     "videoViewCount": "2.39萬",
     "videoThumbnail": "https://i.ytimg.com/vi/FFttiKryadY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-as3Ozepdu9abj9OFVeC9CKvjJQ",
     "videoUrl": "http://youtu.be/FFttiKryadY",
-    "rank": 60,
+    "rank": 59,
     "rankVar": 13
   },
   {
@@ -844,14 +830,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCG3hBfZxzLixJPZQ9QUP_Lw",
     "name": "蘿貝塔",
     "thumbnail": "https://yt3.googleusercontent.com/F7EXLuBimBvgxvnh9iZEgJkrQRsVZbH3mAhkZboRhuFTttE3fzMcWn2E9sDQezGbWPqajjTk9Q=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.51萬",
-    "score": "15,100",
+    "subscribe": "1.52萬",
+    "score": "15,200",
     "videoTitle": "【歌枠】達成萬訂 & 收益化💧來唱唱跟魚有關的歌曲！",
-    "videoViewCount": "9668",
+    "videoViewCount": "9673",
     "videoThumbnail": "https://i.ytimg.com/vi/nsUiKXcmAyc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWsuSgcXBeIRGBxIQ_lEHC97e1_w",
     "videoUrl": "http://youtu.be/nsUiKXcmAyc",
-    "rank": 61,
-    "rankVar": 17
+    "rank": 60,
+    "rankVar": 16
   },
   {
     "id": 5688,
@@ -861,11 +847,11 @@
     "subscribe": "1.49萬",
     "score": "14,900",
     "videoTitle": "【#gettingoverit 】氣質挑戰!不氣質就讓你們給我穿新衣服做為逞罰! 開玩笑我是仙女耶 氣質甚麼的 根本輕鬆拿捏 ૮ ・ﻌ・ა【雪迎】",
-    "videoViewCount": "3930",
+    "videoViewCount": "4204",
     "videoThumbnail": "https://i.ytimg.com/vi/kgICjHdVnoM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxhxio04004aQusF7j7LhqVrYlrw",
     "videoUrl": "http://youtu.be/kgICjHdVnoM",
-    "rank": 62,
-    "rankVar": 13
+    "rank": 61,
+    "rankVar": 14
   },
   {
     "id": 839,
@@ -875,10 +861,10 @@
     "subscribe": "1.42萬",
     "score": "14,200",
     "videoTitle": "【腐朽之館 Fall into decay】2024第一款新恐怖RPG 又是一個館 少女能逃離這個洋館嗎！？【Vtuber 諳石】",
-    "videoViewCount": "1735",
+    "videoViewCount": "1747",
     "videoThumbnail": "https://i.ytimg.com/vi/Nk0ZRGtKrjE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1wG684d6eGSINPFxuqaQ2JgmAMg",
     "videoUrl": "http://youtu.be/Nk0ZRGtKrjE",
-    "rank": 63,
+    "rank": 62,
     "rankVar": 7
   },
   {
@@ -889,39 +875,25 @@
     "subscribe": "1.36萬",
     "score": "13,600",
     "videoTitle": "【廢棄之城RP精華】紅白姊弟入城第一天就遇到考驗記性的原住民 ft.鴨鴨二、哈瓜 - 遊戲│GTAV│台V #廢棄之城RP #abdcityrp",
-    "videoViewCount": "7795",
+    "videoViewCount": "8469",
     "videoThumbnail": "https://i.ytimg.com/vi/5Gu1JM-9yJ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4uvNxAu-0DuGAhC9gmjF5p7VhQg",
     "videoUrl": "http://youtu.be/5Gu1JM-9yJ4",
-    "rank": 64,
+    "rank": 63,
     "rankVar": 8
-  },
-  {
-    "id": 68,
-    "channelUrl": "https://www.youtube.com/channel/UClCygZk-T8H-Q2w-LDHlxQw",
-    "name": "焦兒",
-    "thumbnail": "https://yt3.googleusercontent.com/au4aZNtf5iJUU5yNCNCOjgyixkrAGRrA_CT6zfChpumqeB0WfGTSDeyrthadR_oEY04Bnu0IvtQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.34萬",
-    "score": "13,400",
-    "videoTitle": "重大告知，對不起各位我不忍了《焦兒》",
-    "videoViewCount": "1.06萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/Fod-GAFnfuk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiB9R98M00y_r-jdorgRKfiv73oQ",
-    "videoUrl": "http://youtu.be/Fod-GAFnfuk",
-    "rank": 65,
-    "rankVar": 6
   },
   {
     "id": 4391,
     "channelUrl": "https://www.youtube.com/channel/UCgNC_LzvmZdZqTn77JntMMg",
     "name": "亞璐",
     "thumbnail": "https://yt3.googleusercontent.com/wcdicCUXGHTVJhb5BoxTSL5P8ajNE7552XxvKMDuVN0klme1jvFzSKs8mMPFgAMrTDam0uFN4Nw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1.27萬",
-    "score": "12,700",
+    "subscribe": "1.28萬",
+    "score": "12,800",
     "videoTitle": "【#元宵台語歌回接力】樓頂鳩樓咖! 阿爸鳩阿嬤! 大家造輝來聽歌~【#亞璐出任務】",
-    "videoViewCount": "2018",
+    "videoViewCount": "2023",
     "videoThumbnail": "https://i.ytimg.com/vi/QeWEm8EB-Co/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEUajsUo2EHMjZnaQV9NCW-OUM9Q",
     "videoUrl": "http://youtu.be/QeWEm8EB-Co",
-    "rank": 66,
-    "rankVar": 14
+    "rank": 64,
+    "rankVar": 15
   },
   {
     "id": 3720,
@@ -934,8 +906,8 @@
     "videoViewCount": "369",
     "videoThumbnail": "https://i.ytimg.com/vi/qB1GorEPvuk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0WLMoxhMJ7N5ZYKM8IDmVBCjJ4w",
     "videoUrl": "http://youtu.be/qB1GorEPvuk",
-    "rank": 67,
-    "rankVar": 7
+    "rank": 65,
+    "rankVar": 8
   },
   {
     "id": 1181,
@@ -948,8 +920,8 @@
     "videoViewCount": "3363",
     "videoThumbnail": "https://i.ytimg.com/vi/hjWLlcp-rAY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCI3vD4USTS0-4j_wCzpA3HIKxoGw",
     "videoUrl": "http://youtu.be/hjWLlcp-rAY",
-    "rank": 68,
-    "rankVar": 15
+    "rank": 66,
+    "rankVar": 16
   },
   {
     "id": 5498,
@@ -959,11 +931,11 @@
     "subscribe": "1.19萬",
     "score": "11,900",
     "videoTitle": "【歌ってみた】Anytime Anywhere / Covered by 梨亞卓恩",
-    "videoViewCount": "2798",
+    "videoViewCount": "2817",
     "videoThumbnail": "https://i.ytimg.com/vi/kP5E-fEpf7s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQc2ElM7RDAIFEhzpTVuc_YNqOPw",
     "videoUrl": "http://youtu.be/kP5E-fEpf7s",
-    "rank": 68,
-    "rankVar": 14
+    "rank": 66,
+    "rankVar": 15
   },
   {
     "id": 5,
@@ -976,8 +948,8 @@
     "videoViewCount": "452",
     "videoThumbnail": "https://i.ytimg.com/vi/If0A3Yp2L0U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKf60z0QbzvXTsI7eVhrHxuUKCTw",
     "videoUrl": "http://youtu.be/If0A3Yp2L0U",
-    "rank": 70,
-    "rankVar": 14
+    "rank": 68,
+    "rankVar": 15
   },
   {
     "id": 3581,
@@ -986,12 +958,12 @@
     "thumbnail": "https://yt3.googleusercontent.com/3gxi1ahHd_FWh-DDIH_zt5odjnYOXqvzk9MsB5JFi7u0ruiomtfLhlQfENfuF64bsb9XISsU=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "1.1萬",
     "score": "11,000",
-    "videoTitle": "【朵璃安】 123我愛你【Cover】二週年紀念&情人節❤️為你唱的專屬情歌 要記得",
-    "videoViewCount": "9254",
-    "videoThumbnail": "https://i.ytimg.com/vi/d5deBuF9nt4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB00DBRk43ouXBJBWR3piqj5pUhcw",
-    "videoUrl": "http://youtu.be/d5deBuF9nt4",
-    "rank": 71,
-    "rankVar": 14
+    "videoTitle": "【#元宵台語歌回接力】元宵節來唱台語歌啦~~朵首次全台語歌回耶~【朵璃安Dorian】#台灣Vtuber",
+    "videoViewCount": "1942",
+    "videoThumbnail": "https://i.ytimg.com/vi/drtsC99olJg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgXO8y5V5prpcfp_w6lWWxmyMKaQ",
+    "videoUrl": "http://youtu.be/drtsC99olJg",
+    "rank": 69,
+    "rankVar": 15
   },
   {
     "id": 3690,
@@ -1004,8 +976,8 @@
     "videoViewCount": "1.17萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Xu20sEaOq48/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHa42pd2Jbzx4ee-sbZ9ndqszeiA",
     "videoUrl": "http://youtu.be/Xu20sEaOq48",
-    "rank": 72,
-    "rankVar": 17
+    "rank": 70,
+    "rankVar": 18
   },
   {
     "id": 5309,
@@ -1018,8 +990,8 @@
     "videoViewCount": "2535",
     "videoThumbnail": "https://i.ytimg.com/vi/biUz79Ckgk4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_91uvXoxFPj46K1OtK7sqQed9MA",
     "videoUrl": "http://youtu.be/biUz79Ckgk4",
-    "rank": 73,
-    "rankVar": 13
+    "rank": 71,
+    "rankVar": 14
   },
   {
     "id": 5551,
@@ -1029,25 +1001,39 @@
     "subscribe": "1.03萬",
     "score": "10,300",
     "videoTitle": "唱 / Ado | 波‧路譜 Pool Loop (Cover)",
-    "videoViewCount": "9718",
+    "videoViewCount": "9743",
     "videoThumbnail": "https://i.ytimg.com/vi/K7CZ9e2_sx8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3riQzFTbAFNfKgx24cQbqgtKVQg",
     "videoUrl": "http://youtu.be/K7CZ9e2_sx8",
-    "rank": 74,
-    "rankVar": 18
+    "rank": 72,
+    "rankVar": 19
+  },
+  {
+    "id": 3548,
+    "channelUrl": "https://www.youtube.com/channel/UCB55CHHE95ZJEX_jSDIAyjg",
+    "name": "晚安了",
+    "thumbnail": "https://yt3.googleusercontent.com/jtDobrB4SaGlDgJsokgkSpUjgeB8vHrWJH2ZGrxFiNZ1jaX-h0idFMEPWiDJctuiVrt2Ig59vC0=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "9850",
+    "score": "9,850",
+    "videoTitle": "【天下布魔】偶像高難!!02&04 蠻需要練度的一關 控好血量 小心拉防過關吧!",
+    "videoViewCount": "2476",
+    "videoThumbnail": "https://i.ytimg.com/vi/OI_wcFuzWPo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCF7z7GrLvasV6TmliD_7gp6GWLKA",
+    "videoUrl": "http://youtu.be/OI_wcFuzWPo",
+    "rank": 73,
+    "rankVar": 14
   },
   {
     "id": 5607,
     "channelUrl": "https://www.youtube.com/channel/UCwAUQdBH_rg9SYjrydUj-dQ",
     "name": "萊姆薄荷",
     "thumbnail": "https://yt3.googleusercontent.com/ksa2D5rEpSrZe_DUovneO7sThBh1mRcmUqYenVbpS5Im5I-n0IUzVsD7AJsoXd8mMbOGYQf1eQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "9270",
-    "score": "9,270",
+    "subscribe": "9380",
+    "score": "9,380",
     "videoTitle": "【5MA之歌 】  5200訂閱肯定是要來一點福利的吧",
-    "videoViewCount": "6859",
+    "videoViewCount": "6941",
     "videoThumbnail": "https://i.ytimg.com/vi/_AZVHDjBDVQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEIoVTAP&rs=AOn4CLAMgTdz4YV46Rv_uTPIXKpgzVkHhQ",
     "videoUrl": "http://youtu.be/_AZVHDjBDVQ",
-    "rank": 75,
-    "rankVar": 37
+    "rank": 74,
+    "rankVar": 36
   },
   {
     "id": 3519,
@@ -1057,11 +1043,25 @@
     "subscribe": "8910",
     "score": "8,910",
     "videoTitle": "菲フェイ【VLOG】搬家後的煮飯時間🍅Twitch聚會 | 出門吃吃走走☀️貓咪🐈",
-    "videoViewCount": "3309",
+    "videoViewCount": "3322",
     "videoThumbnail": "https://i.ytimg.com/vi/EDhBpXjT9k4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQferFyuEVitfrnprCv0pyDAi1OQ",
     "videoUrl": "http://youtu.be/EDhBpXjT9k4",
-    "rank": 76,
+    "rank": 75,
     "rankVar": 14
+  },
+  {
+    "id": 5695,
+    "channelUrl": "https://www.youtube.com/channel/UCVOjG32--UxKbiCkU48xOEg",
+    "name": "愛庫娃",
+    "thumbnail": "https://yt3.googleusercontent.com/-ulrAfZQFNrU6tE6UgEyPab1d998zEWgeLHbiDSK3_M2VXY1UnZa-ek0ZW-ie0SUzC08jHuzstI=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "8910",
+    "score": "8,910",
+    "videoTitle": "🐰【實寫化3D🔥】羊毛氈DIY愛心兔兔～%兔 #旗袍【愛庫娃ErosEkwa】",
+    "videoViewCount": "4271",
+    "videoThumbnail": "https://i.ytimg.com/vi/Gwa9-nlgKR4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa-aIdZcUSq4RD1sJnUv1jmZPOVg",
+    "videoUrl": "http://youtu.be/Gwa9-nlgKR4",
+    "rank": 75,
+    "rankVar": 23
   },
   {
     "id": 5477,
@@ -1071,53 +1071,25 @@
     "subscribe": "8880",
     "score": "8,880",
     "videoTitle": "【歌ってみた】Red:birthmark / Covered by 貝絲·提努多",
-    "videoViewCount": "2494",
+    "videoViewCount": "2510",
     "videoThumbnail": "https://i.ytimg.com/vi/l9xFhJVGLIg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhloTz7JEAwlByRqLFUy-o6Mk58Q",
     "videoUrl": "http://youtu.be/l9xFhJVGLIg",
     "rank": 77,
-    "rankVar": 14
-  },
-  {
-    "id": 3642,
-    "channelUrl": "https://www.youtube.com/channel/UCzL1z9Mnr9Oba5ZjAqfa3lw",
-    "name": "星間菖蒲＆紙野愛理",
-    "thumbnail": "https://yt3.googleusercontent.com/oYHlJLlyRJGjUSg8yWe-U3c6tEThRULnkMs-e2jmBnl1K6a5Sd7zpkwfG3HewqZLeZnk3FNmLA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "8740",
-    "score": "8,740",
-    "videoTitle": "【星間咖啡廳#28】一騎當千？！瘋女人小菖的騎馬機挑戰，沒有千人同接不下馬！【Seikan iris*】",
-    "videoViewCount": "1048",
-    "videoThumbnail": "https://i.ytimg.com/vi/ZkfPd2jnbDo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKHc-odW54KjTi8jeZ1EenrJzj6g",
-    "videoUrl": "http://youtu.be/ZkfPd2jnbDo",
-    "rank": 78,
-    "rankVar": 16
+    "rankVar": 13
   },
   {
     "id": 4860,
     "channelUrl": "https://www.youtube.com/channel/UCQLfrGPnx1Es7WCiRd7Iyeg",
     "name": "有・柚実",
     "thumbnail": "https://yt3.googleusercontent.com/QzqpUWN8Gvlc_orFN50rkYwg0HThmMidBFj2wIdnY-XVLsjuTkBDDqOB9d9b9L65E2Vby2P2=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "8730",
-    "score": "8,730",
+    "subscribe": "8740",
+    "score": "8,740",
     "videoTitle": "【回歸】200人打招呼挑戰！好久不見了嘞d(`･∀･)b | 有・柚実yuzzmi",
     "videoViewCount": "1388",
     "videoThumbnail": "https://i.ytimg.com/vi/OsFDdD37dPo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXUA0Z_8dZQ8zdidxYPh_D4bch0w",
     "videoUrl": "http://youtu.be/OsFDdD37dPo",
-    "rank": 79,
+    "rank": 78,
     "rankVar": 14
-  },
-  {
-    "id": 5474,
-    "channelUrl": "https://www.youtube.com/channel/UCLvywOIFoz0Cn2DjH20dvLQ",
-    "name": "阿莎莉亞",
-    "thumbnail": "https://yt3.googleusercontent.com/xh0JYqoGHtqlPeHB_cINee0B5X-EOgDe6hf0FN3namJL4P0DuBzLqBXP3hUGwO-Cb6tbYCMg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "8660",
-    "score": "8,660",
-    "videoTitle": "【午安莉鴨】大睡特睡．．．該起來做事了真的【MiroLive🦆阿莎莉亞】#初見歡迎 #阿嘎莉亞",
-    "videoViewCount": "3764",
-    "videoThumbnail": "https://i.ytimg.com/vi/2IGeqdARw88/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-YjHdAOEIqj0ke2ZIxc9QCzWOZg",
-    "videoUrl": "http://youtu.be/2IGeqdARw88",
-    "rank": 80,
-    "rankVar": 16
   },
   {
     "id": 3672,
@@ -1127,25 +1099,25 @@
     "subscribe": "8400",
     "score": "8,400",
     "videoTitle": "Poison | Hazbin Hotel【Female Version Covered by Batkiz蓓祈思】",
-    "videoViewCount": "6782",
+    "videoViewCount": "6788",
     "videoThumbnail": "https://i.ytimg.com/vi/WnArA6aS0dE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfmH1RBpFCQoLtIlOEI9Kz4G30Zw",
     "videoUrl": "http://youtu.be/WnArA6aS0dE",
-    "rank": 81,
-    "rankVar": 16
+    "rank": 79,
+    "rankVar": 17
   },
   {
     "id": 551,
     "channelUrl": "https://www.youtube.com/channel/UCsGOB7Yw1ZhThDs0Ytn45ZQ",
     "name": "K.T",
     "thumbnail": "https://yt3.googleusercontent.com/CktHCjNp2QVEBzNSLl5WwGJu-gTgqGiAW4ASg96moJ4Rexh7hHUtP3Tyo5-GmvySXS88CsgH=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "7890",
-    "score": "7,890",
+    "subscribe": "7920",
+    "score": "7,920",
     "videoTitle": "UMA327(卡嘎咪) 16強奪冠精華 台灣玩家奪得快打6首次卡普空盃冠軍！這就是轉動世界的風水引擎 // 卡普空盃K.T直播精華  #capcomcup #快打旋風6",
-    "videoViewCount": "20.5萬",
+    "videoViewCount": "20.55萬",
     "videoThumbnail": "https://i.ytimg.com/vi/n3YE0xpLu-k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw1eKsZjyJ8-mmCKhBSK1huuFh8A",
     "videoUrl": "http://youtu.be/n3YE0xpLu-k",
-    "rank": 82,
-    "rankVar": 19
+    "rank": 80,
+    "rankVar": 20
   },
   {
     "id": 3603,
@@ -1158,35 +1130,35 @@
     "videoViewCount": "1.87萬",
     "videoThumbnail": "https://i.ytimg.com/vi/3BOohe8yXCE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqX8o16pNo-d6fYxN_ksh2RLyTiQ",
     "videoUrl": "http://youtu.be/3BOohe8yXCE",
-    "rank": 83,
-    "rankVar": 15
+    "rank": 81,
+    "rankVar": 16
   },
   {
     "id": 5643,
     "channelUrl": "https://www.youtube.com/channel/UC0VEwRxFU3-_x1dSKrjqzGg",
     "name": "泠伊居",
     "thumbnail": "https://yt3.googleusercontent.com/01lC9dPS-JG8wTVe8hCe3h8wr1AQxfz1brjFX0dUAmWc8cFCszsGYU8b95s8NhV6-4qEcoi0TgY=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "7380",
-    "score": "7,380",
+    "subscribe": "7450",
+    "score": "7,450",
     "videoTitle": "【生日前夜祭】超過20人的合唱歌回！一起迎接準備到來的生日吧！ft.超多厲害V朋【泠伊居】",
-    "videoViewCount": "4930",
+    "videoViewCount": "5010",
     "videoThumbnail": "https://i.ytimg.com/vi/6u4te9sBF_I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjMQnsweoCDygCDxdeSTNWjjIktw",
     "videoUrl": "http://youtu.be/6u4te9sBF_I",
-    "rank": 84,
-    "rankVar": 22
+    "rank": 82,
+    "rankVar": 23
   },
   {
     "id": 5745,
     "channelUrl": "https://www.youtube.com/channel/UCx-G0TH8a5kxsTIwSvheWpw",
     "name": "涅菈",
     "thumbnail": "https://yt3.googleusercontent.com/Uy9v4czZ3oEflN5tk-900au6QDRbvjwNRouAzfez8OR_aQY8zcT9x44PIhUoPFl-xBVEqMcbwSg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "7380",
-    "score": "7,380",
+    "subscribe": "7400",
+    "score": "7,400",
     "videoTitle": "퀸카(Queencard) - 涅菈Nera 【Cover】",
     "videoViewCount": "1.12萬",
     "videoThumbnail": "https://i.ytimg.com/vi/2KnPlXGcQic/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjWbaXSNWlsNQ9PmXJKPkOj5jLXA",
     "videoUrl": "http://youtu.be/2KnPlXGcQic",
-    "rank": 84,
+    "rank": 83,
     "rankVar": 25
   },
   {
@@ -1194,28 +1166,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCIluhwUtoEKl_PrYbPR3eKw",
     "name": "砂糖楓梨",
     "thumbnail": "https://yt3.googleusercontent.com/JzgNFvlume2Voh3KQsksQpIRkUgD5gLUDFCpCIbTvfiP8igsQ5mSOaZFK--URPkRWRmXH4ME3w=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "7220",
-    "score": "7,220",
+    "subscribe": "7310",
+    "score": "7,310",
     "videoTitle": "SAY SO／Doja Cat (Japanese Version)【砂糖楓梨 cover】(中文CC字幕)",
     "videoViewCount": "1.02萬",
     "videoThumbnail": "https://i.ytimg.com/vi/2_Ia2Qu8mlk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaFPbHdZL4mytqK3aSl0hkeJatrQ",
     "videoUrl": "http://youtu.be/2_Ia2Qu8mlk",
-    "rank": 86,
+    "rank": 84,
     "rankVar": null
-  },
-  {
-    "id": 4770,
-    "channelUrl": "https://www.youtube.com/channel/UC_opn5hW43xcsM-UNW2gfmA",
-    "name": "林梅",
-    "thumbnail": "https://yt3.googleusercontent.com/b7MyWfZflzHLAM69Kp_omyxl4bLxIy9E2V0OUIbTD6NVW7qloH1KII_gVlWRni8RfmJ7edr5=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "7050",
-    "score": "7,050",
-    "videoTitle": "【Cover】桜流し【林梅LinMei】",
-    "videoViewCount": "1.31萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/2KDblRS8QWo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkLT0LBJA2p-DtGD04Le8P2VpgyQ",
-    "videoUrl": "http://youtu.be/2KDblRS8QWo",
-    "rank": 87,
-    "rankVar": 18
   },
   {
     "id": 1187,
@@ -1225,11 +1183,11 @@
     "subscribe": "6920",
     "score": "6,920",
     "videoTitle": "ボルテッカー-DECO*27 /covered by uiru 【VTuber】",
-    "videoViewCount": "1987",
+    "videoViewCount": "1995",
     "videoThumbnail": "https://i.ytimg.com/vi/KKjf-y03NyU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTPyd2pM75pXUWNaaq8bs81dQ3hA",
     "videoUrl": "http://youtu.be/KKjf-y03NyU",
-    "rank": 88,
-    "rankVar": 14
+    "rank": 85,
+    "rankVar": 16
   },
   {
     "id": 5366,
@@ -1242,64 +1200,78 @@
     "videoViewCount": "4956",
     "videoThumbnail": "https://i.ytimg.com/vi/swuRGea3g7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmbPw-0lcPQ2fb6g8dSbQ22E9vkA",
     "videoUrl": "http://youtu.be/swuRGea3g7E",
-    "rank": 89,
-    "rankVar": 18
+    "rank": 86,
+    "rankVar": 20
   },
   {
     "id": 1213,
     "channelUrl": "https://www.youtube.com/channel/UCtKyM4DA8CyCAm5LGsvUsag",
     "name": "雙命裂",
     "thumbnail": "https://yt3.googleusercontent.com/zcW-ikuQFsHqzQZjNBbjDlsmfoSyWurjPMvs19nEdhdvANZjsBFr3YX-k4Um8ufbJ87IPDtqmg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "6840",
-    "score": "6,840",
+    "subscribe": "6850",
+    "score": "6,850",
     "videoTitle": "【ACE Studio】千本YUMI （ace studio虛擬歌姬)  #90趴惡魔 #90パーセント悪魔",
     "videoViewCount": "85",
     "videoThumbnail": "https://i.ytimg.com/vi/n5P4xWZW0Ho/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLX4nMOtoUD7vjzXQPk2sBqepv5A",
     "videoUrl": "http://youtu.be/n5P4xWZW0Ho",
-    "rank": 90,
-    "rankVar": 14
-  },
-  {
-    "id": 5744,
-    "channelUrl": "https://www.youtube.com/channel/UCkiM6bCVlAGRkRm9R_CKbng",
-    "name": "星璃",
-    "thumbnail": "https://yt3.googleusercontent.com/GQsrsYuV1EkG2ah789PUnNJra4GPMIFRdyaHZidsU3EceJNHDTjoJhVrbqhIqwJn50aSCHnRug=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "6520",
-    "score": "6,520",
-    "videoTitle": "【彈唱歌回】首次嘗試縱型歌雜 手機黨有福了!!【星璃Seri Vtuber】#縦型配信 #直式直播 #shorts",
-    "videoViewCount": "4363",
-    "videoThumbnail": "https://i.ytimg.com/vi/82FECU9Fzxk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3_Sqc7VyZFGZVbOncT50Kwg0ugg",
-    "videoUrl": "http://youtu.be/82FECU9Fzxk",
-    "rank": 91,
-    "rankVar": 26
+    "rank": 87,
+    "rankVar": 16
   },
   {
     "id": 5431,
     "channelUrl": "https://www.youtube.com/channel/UCBZBcImIUt_-3BRktBs0qYQ",
     "name": "神貓大爛",
     "thumbnail": "https://yt3.googleusercontent.com/p9SO0yhG3503vVpDFtSxi7kFuLwLCZ7MW8tjYW3T4JthDQkCUhXcmFugq5O6KUGZNE1OO9xSrA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "6500",
-    "score": "6,500",
+    "subscribe": "6640",
+    "score": "6,640",
     "videoTitle": "【🔴雜談】開學日是個悲傷的日子😭｜神貓大爛",
     "videoViewCount": "1416",
     "videoThumbnail": "https://i.ytimg.com/vi/VGVfpDc634k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPLExAQg8-1VWhyJvFPN4AG4Asiw",
     "videoUrl": "http://youtu.be/VGVfpDc634k",
-    "rank": 92,
-    "rankVar": 126
+    "rank": 88,
+    "rankVar": 106
+  },
+  {
+    "id": 5744,
+    "channelUrl": "https://www.youtube.com/channel/UCkiM6bCVlAGRkRm9R_CKbng",
+    "name": "星璃",
+    "thumbnail": "https://yt3.googleusercontent.com/GQsrsYuV1EkG2ah789PUnNJra4GPMIFRdyaHZidsU3EceJNHDTjoJhVrbqhIqwJn50aSCHnRug=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "6530",
+    "score": "6,530",
+    "videoTitle": "【彈唱歌回】首次嘗試縱型歌雜 手機黨有福了!!【星璃Seri Vtuber】#縦型配信 #直式直播 #shorts",
+    "videoViewCount": "4364",
+    "videoThumbnail": "https://i.ytimg.com/vi/82FECU9Fzxk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3_Sqc7VyZFGZVbOncT50Kwg0ugg",
+    "videoUrl": "http://youtu.be/82FECU9Fzxk",
+    "rank": 89,
+    "rankVar": 27
   },
   {
     "id": 3683,
     "channelUrl": "https://www.youtube.com/channel/UCKH5aC_fRih812ZQaxeYfeQ",
     "name": "阿庫姆",
     "thumbnail": "https://yt3.googleusercontent.com/wwDHBHyXWpN56OBvwFejefcRzOshNuigkWYUEmD_DxEjoo_cAnj6DwJKsJNODk-CGeplUawe=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "6430",
-    "score": "6,430",
-    "videoTitle": "【雀聊】直式！開工壓力大，鏡像舒壓！ | 阿庫姆Akumu",
-    "videoViewCount": "621",
-    "videoThumbnail": "https://i.ytimg.com/vi/cy1XLhbMqDs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqjiU8OVSlV-wvdfR_Y64VmQ7yQA",
-    "videoUrl": "http://youtu.be/cy1XLhbMqDs",
-    "rank": 93,
-    "rankVar": 15
+    "subscribe": "6450",
+    "score": "6,450",
+    "videoTitle": "【雀繪】自己的周邊自己畫！歡迎一起發想 | 阿庫姆Akumu",
+    "videoViewCount": "553",
+    "videoThumbnail": "https://i.ytimg.com/vi/9j8IqGrLVe4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWgrYt3IwfHw1QGpqlMn1FvzWi_Q",
+    "videoUrl": "http://youtu.be/9j8IqGrLVe4",
+    "rank": 90,
+    "rankVar": 17
+  },
+  {
+    "id": 5388,
+    "channelUrl": "https://www.youtube.com/channel/UCC9vBKW03vqHVwJTRHcUj4Q",
+    "name": "心桃魅夢",
+    "thumbnail": "https://yt3.googleusercontent.com/mck37pLBEOUJs3qmu10QYjU0fjzx2lHNPHHeymBEeml9QmZf5mxBCqZDufge_IJB3dafeSIMvA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "6090",
+    "score": "6,090",
+    "videoTitle": "【#ASMR /3DIO】看來老師我找到了，讓你進步的方法｜心桃魅夢 MionKokomo 【劇情向】｜",
+    "videoViewCount": "1.05萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/lD50EyRWcLo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5Z2BqbrpZD9sm-WtXyI-rL36QEA",
+    "videoUrl": "http://youtu.be/lD50EyRWcLo",
+    "rank": 91,
+    "rankVar": 32
   },
   {
     "id": 3673,
@@ -1312,22 +1284,22 @@
     "videoViewCount": "405",
     "videoThumbnail": "https://i.ytimg.com/vi/wgCNSGaq8xQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9_8bJ5iPBMe3RsdOZN2SK9MDdnQ",
     "videoUrl": "http://youtu.be/wgCNSGaq8xQ",
-    "rank": 94,
-    "rankVar": 17
+    "rank": 92,
+    "rankVar": 18
   },
   {
     "id": 5458,
     "channelUrl": "https://www.youtube.com/channel/UCuUdD_1DfNlMNF-o2bxvO7Q",
     "name": "蕾米利亞",
     "thumbnail": "https://yt3.googleusercontent.com/S-NNErYZb24EKn5cZ8V5yex-vxdX1MtZTWj0X99rLDEc9WyLSJaiD7Vvu4MB7z5a2lrNHErVrA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "5900",
-    "score": "5,900",
+    "subscribe": "5920",
+    "score": "5,920",
     "videoTitle": "【萬千花蕊慈母悲哀】cover by 蕾米利亞 remiria #vsinger #vtuber #萬千花蕊慈母悲哀",
-    "videoViewCount": "5332",
+    "videoViewCount": "5404",
     "videoThumbnail": "https://i.ytimg.com/vi/ahHVYTLaYbU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_KTc5ltE21atO9wBWermZZgZMZA",
     "videoUrl": "http://youtu.be/ahHVYTLaYbU",
-    "rank": 95,
-    "rankVar": 20
+    "rank": 93,
+    "rankVar": 21
   },
   {
     "id": 577,
@@ -1340,63 +1312,91 @@
     "videoViewCount": "613",
     "videoThumbnail": "https://i.ytimg.com/vi/V8V7_Afwmt0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCajMtnT_AKw8zAvSSbDqh-xUvJ6Q",
     "videoUrl": "http://youtu.be/V8V7_Afwmt0",
-    "rank": 96,
-    "rankVar": 18
+    "rank": 94,
+    "rankVar": 19
   },
   {
     "id": 4854,
     "channelUrl": "https://www.youtube.com/channel/UC4b1QDTIo0g4LmnOrTB_ntw",
     "name": "西西莉",
     "thumbnail": "https://yt3.googleusercontent.com/MHEKhX_XkmWigtQdktJ4IODSbfLWE6YjolrRU_q-1ETUYqegjRjA5ZRGmJsX8fOyMWM5nA5w=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "5510",
-    "score": "5,510",
+    "subscribe": "5520",
+    "score": "5,520",
     "videoTitle": "【Cover】粛聖!! ロリ神レクイエム☆Cover by 西西莉【Cecily ch. 西西莉】",
-    "videoViewCount": "690",
+    "videoViewCount": "695",
     "videoThumbnail": "https://i.ytimg.com/vi/5ozrSaOy8Qk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwQ-hjkdW7rfR0OufsBUYsyvcEcA",
     "videoUrl": "http://youtu.be/5ozrSaOy8Qk",
-    "rank": 97,
-    "rankVar": 19
+    "rank": 95,
+    "rankVar": 20
   },
   {
     "id": 3804,
     "channelUrl": "https://www.youtube.com/channel/UCm2vXWmv429pqvbLTmA6azg",
     "name": "暖杏",
     "thumbnail": "https://yt3.googleusercontent.com/ZdabLGo0QxkmLGhHJE-D9jks2k-DYgfgeJAtBYnZaxOaMJY5cqMYGzjlsIl2v6w9y4fObz-dwg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "5240",
-    "score": "5,240",
+    "subscribe": "5270",
+    "score": "5,270",
     "videoTitle": "【家政課在幹嘛?】主啵長高了一百萬奈米!可喜可賀!",
-    "videoViewCount": "2487",
+    "videoViewCount": "2488",
     "videoThumbnail": "https://i.ytimg.com/vi/CeZ805_-EZg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7x8y5x36TjO5bKJ5Z8pyeKvmhBg",
     "videoUrl": "http://youtu.be/CeZ805_-EZg",
-    "rank": 98,
-    "rankVar": 30
+    "rank": 96,
+    "rankVar": 31
   },
   {
     "id": 4970,
     "channelUrl": "https://www.youtube.com/channel/UC-olUVM2eeEM5mbenNvXDVg",
     "name": "凌潮",
     "thumbnail": "https://yt3.googleusercontent.com/3Ak9mEyGS3ksDM62tt-l1v697Kc42uQHP-WCzKq-PDEa_cIWBo9WjewuBHgKxnekFuAKrq1U=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4930",
-    "score": "4,930",
+    "subscribe": "4940",
+    "score": "4,940",
     "videoTitle": "☕縱低音雜談☕ 一早就讓你愛睏  | 初見大歡迎  |",
     "videoViewCount": "1086",
     "videoThumbnail": "https://i.ytimg.com/vi/i1iTfxsf4to/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4lHK-QVZSDsNNx2GQywCMr88CYQ",
     "videoUrl": "http://youtu.be/i1iTfxsf4to",
-    "rank": 99,
-    "rankVar": 20
+    "rank": 97,
+    "rankVar": 21
   },
   {
     "id": 3688,
     "channelUrl": "https://www.youtube.com/channel/UClvxZ1pRfKcLDTdiP87k7aA",
     "name": "稻荷七櫻",
     "thumbnail": "https://yt3.googleusercontent.com/oNrSmECewmquYh9O7vKlJOFKIndvn2bqo5-6nRXGSX5wwz7CfjUeBXUVYxpIWclcbldtC8mr5g=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "4780",
-    "score": "4,780",
+    "subscribe": "4810",
+    "score": "4,810",
     "videoTitle": "【歌回】又到了月底點歌日啦~今天也會分享FF42遇到的有趣事情喔!!!聽說遇屎則發?! #縱型 #shorts【稻荷七櫻Nao】",
     "videoViewCount": "832",
     "videoThumbnail": "https://i.ytimg.com/vi/u-Jgv6uQoRk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCS39QvBpc0-rOivEBkCQ-8OIoYkA",
     "videoUrl": "http://youtu.be/u-Jgv6uQoRk",
+    "rank": 98,
+    "rankVar": 26
+  },
+  {
+    "id": 613,
+    "channelUrl": "https://www.youtube.com/channel/UCGXEKCaYAW0u0Cs2u6Wcchg",
+    "name": "菜姬",
+    "thumbnail": "https://yt3.googleusercontent.com/1pyX7qo-NjT4hx2sXIO_sHc4i83bcCaB9o7u_tTa9NflODavXGegX6P6wUfPmeaiG2s_T-Nk=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "4770",
+    "score": "4,770",
+    "videoTitle": "【直播】【雜談】男V二選一|菜姬視角來看男V,抱歉了各位要得罪人了【菜姬】",
+    "videoViewCount": "368",
+    "videoThumbnail": "https://i.ytimg.com/vi/4rS5ELwgVYk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKaXZ50BKJbyFUF1O5N5uiWLOOxQ",
+    "videoUrl": "http://youtu.be/4rS5ELwgVYk",
+    "rank": 99,
+    "rankVar": 20
+  },
+  {
+    "id": 3781,
+    "channelUrl": "https://www.youtube.com/channel/UCgWN4pwpwOmORhthFroc3Vg",
+    "name": "虎屋レイ",
+    "thumbnail": "https://yt3.googleusercontent.com/C-3VxpP8K-I4lSBYecR2asKLnEMyTBEy01duA9Eu6KlIDQcWL4BT98uIMGDM0XDYSuJn7MmNOQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "4720",
+    "score": "4,720",
+    "videoTitle": "【歌回+玩遊戲】忘記關轉盤現在還有46小時...來回饋虎糧們有我會的歌的話可以點喔！另外這周都突發居多！打龍麻將雜談同步視聽樣樣來！！ 2024 加班台 part.9【 虎屋レイ / Vtuber 】",
+    "videoViewCount": "1163",
+    "videoThumbnail": "https://i.ytimg.com/vi/vPh8dAS1-Gw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDns9AZKiAV76NdztAHhQcTP1chcQ",
+    "videoUrl": "http://youtu.be/vPh8dAS1-Gw",
     "rank": 100,
-    "rankVar": 25
+    "rankVar": 390
   }
 ]
