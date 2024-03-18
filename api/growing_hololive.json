@@ -1,19 +1,5 @@
 [
   {
-    "id": 1328,
-    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-    "name": "Hakos Baelz",
-    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "87萬",
-    "score": "0.58",
-    "videoTitle": "≪DREAMCATCHER 3D LIVE≫ Hakos Baelz Birthday Celebration 2024! #BaeDay2024",
-    "videoViewCount": "45.02萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/TQSikoeVXoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATCUFDcv6zauksJupo6HlJjlalCg",
-    "videoUrl": "http://youtu.be/TQSikoeVXoE",
-    "rank": 1,
-    "rankVar": 1
-  },
-  {
     "id": 1237,
     "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
     "name": "貓又小粥",
@@ -21,10 +7,10 @@
     "subscribe": "176萬",
     "score": "0.57",
     "videoTitle": "ネコカブリーナ / 猫又おかゆ( official )",
-    "videoViewCount": "187.72萬",
+    "videoViewCount": "191.01萬",
     "videoThumbnail": "https://i.ytimg.com/vi/HOmS6Kn0bn8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdmXr4P9f_ZPmbPTR3u5N_-qqNLQ",
     "videoUrl": "http://youtu.be/HOmS6Kn0bn8",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -35,9 +21,23 @@
     "subscribe": "211萬",
     "score": "0.48",
     "videoTitle": "アンノウン・マザーグース / Hoshimatic Project(Cover)",
-    "videoViewCount": "167.29萬",
+    "videoViewCount": "180.31萬",
     "videoThumbnail": "https://i.ytimg.com/vi/8bkICbOt1ck/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0kcFjiWPYg3wYQjsq-uqSGxnV2A",
     "videoUrl": "http://youtu.be/8bkICbOt1ck",
+    "rank": 2,
+    "rankVar": null
+  },
+  {
+    "id": 1225,
+    "channelUrl": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "name": "白上吹雪",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9yXgE7uEDk-7i1Gphyxd34NeopLClxUujOg-0OlQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "233萬",
+    "score": "0.43",
+    "videoTitle": "【Escape the Backrooms】前半：囮が二人も居て本当に助かるよ君たち＾＾【#フブみこあおくゆ】",
+    "videoViewCount": "41.33萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/L36w8m8C1JY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_1vz-UHaUqR0c2muteTTc7SZlEA",
+    "videoUrl": "http://youtu.be/L36w8m8C1JY",
     "rank": 3,
     "rankVar": null
   },
@@ -49,7 +49,7 @@
     "subscribe": "235萬",
     "score": "0.43",
     "videoTitle": "『MV』Overkill - Mori Calliope",
-    "videoViewCount": "40.06萬",
+    "videoViewCount": "41.21萬",
     "videoThumbnail": "https://i.ytimg.com/vi/J7tp_0lFI0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2gHtPXoyQgJVOKQR9hVAtlzsA1Q",
     "videoUrl": "http://youtu.be/J7tp_0lFI0I",
     "rank": 4,
@@ -63,11 +63,25 @@
     "subscribe": "245萬",
     "score": "0.41",
     "videoTitle": "#1【ELDEN RING】イチから始めるエルデンリングやるぞおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり",
-    "videoViewCount": "91.06萬",
+    "videoViewCount": "91.16萬",
     "videoThumbnail": "https://i.ytimg.com/vi/yiYH6pmNcHQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAp6ust3Kapq0z43Th3iiKxa_LIcA",
     "videoUrl": "http://youtu.be/yiYH6pmNcHQ",
     "rank": 5,
     "rankVar": null
+  },
+  {
+    "id": 1328,
+    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+    "name": "Hakos Baelz",
+    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "87.1萬",
+    "score": "0.23",
+    "videoTitle": "≪DREAMCATCHER 3D LIVE≫ Hakos Baelz Birthday Celebration 2024! #BaeDay2024",
+    "videoViewCount": "45.29萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/TQSikoeVXoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATCUFDcv6zauksJupo6HlJjlalCg",
+    "videoUrl": "http://youtu.be/TQSikoeVXoE",
+    "rank": 6,
+    "rankVar": -4
   },
   {
     "id": 1326,
@@ -75,12 +89,12 @@
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "89.1萬",
-    "score": "0.34",
+    "score": "0.22",
     "videoTitle": "絶対敵対メチャキライヤー - メドミア / Covered by  風真いろは×ラプラス・ダークネス",
-    "videoViewCount": "25.88萬",
+    "videoViewCount": "28.46萬",
     "videoThumbnail": "https://i.ytimg.com/vi/U9tSa1hxU0M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCKJk71p392dwpHh1t04-4Omy_8g",
     "videoUrl": "http://youtu.be/U9tSa1hxU0M",
-    "rank": 6,
-    "rankVar": -3
+    "rank": 7,
+    "rankVar": -4
   }
 ]
