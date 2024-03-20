@@ -1,19 +1,5 @@
 [
   {
-    "id": 1237,
-    "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-    "name": "貓又小粥",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-4v9u0XW29ThJHrutfQzTDSun8xJbi_d3HT12New=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "176萬",
-    "score": "0.57",
-    "videoTitle": "ネコカブリーナ / 猫又おかゆ( official )",
-    "videoViewCount": "194.18萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/HOmS6Kn0bn8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdmXr4P9f_ZPmbPTR3u5N_-qqNLQ",
-    "videoUrl": "http://youtu.be/HOmS6Kn0bn8",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 1225,
     "channelUrl": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
     "name": "白上吹雪",
@@ -21,10 +7,10 @@
     "subscribe": "233萬",
     "score": "0.43",
     "videoTitle": "【Escape the Backrooms】前半：囮が二人も居て本当に助かるよ君たち＾＾【#フブみこあおくゆ】",
-    "videoViewCount": "41.46萬",
+    "videoViewCount": "41.61萬",
     "videoThumbnail": "https://i.ytimg.com/vi/L36w8m8C1JY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_1vz-UHaUqR0c2muteTTc7SZlEA",
     "videoUrl": "http://youtu.be/L36w8m8C1JY",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -35,11 +21,11 @@
     "subscribe": "89.2萬",
     "score": "0.34",
     "videoTitle": "絶対敵対メチャキライヤー - メドミア / Covered by  風真いろは×ラプラス・ダークネス",
-    "videoViewCount": "30.74萬",
+    "videoViewCount": "32.79萬",
     "videoThumbnail": "https://i.ytimg.com/vi/U9tSa1hxU0M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCKJk71p392dwpHh1t04-4Omy_8g",
     "videoUrl": "http://youtu.be/U9tSa1hxU0M",
-    "rank": 3,
-    "rankVar": 2
+    "rank": 2,
+    "rankVar": 3
   },
   {
     "id": 1328,
@@ -49,10 +35,10 @@
     "subscribe": "87.1萬",
     "score": "0.23",
     "videoTitle": "≪DREAMCATCHER 3D LIVE≫ Hakos Baelz Birthday Celebration 2024! #BaeDay2024",
-    "videoViewCount": "45.55萬",
+    "videoViewCount": "45.8萬",
     "videoThumbnail": "https://i.ytimg.com/vi/TQSikoeVXoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATCUFDcv6zauksJupo6HlJjlalCg",
     "videoUrl": "http://youtu.be/TQSikoeVXoE",
-    "rank": 4,
-    "rankVar": -2
+    "rank": 3,
+    "rankVar": -1
   }
 ]
