@@ -1,33 +1,5 @@
 [
   {
-    "id": 1222,
-    "channelUrl": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-    "name": "森美聲",
-    "thumbnail": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "235萬",
-    "score": "2,350,000",
-    "videoTitle": "『MV』Overkill - Mori Calliope",
-    "videoViewCount": "53.72萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/J7tp_0lFI0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2gHtPXoyQgJVOKQR9hVAtlzsA1Q",
-    "videoUrl": "http://youtu.be/J7tp_0lFI0I",
-    "rank": 1,
-    "rankVar": 1
-  },
-  {
-    "id": 1225,
-    "channelUrl": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-    "name": "白上吹雪",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9yXgE7uEDk-7i1Gphyxd34NeopLClxUujOg-0OlQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "234萬",
-    "score": "2,340,000",
-    "videoTitle": "【#さくらみこ再テスト】さくらみこ、ホロライブ小学校卒業を賭けた再テスト。【ホロ小学力テスト】",
-    "videoViewCount": "35.01萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/yDZF3HvKXWE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9ULTnj657DftRpWoHRKRe7j9EsQ",
-    "videoUrl": "http://youtu.be/yDZF3HvKXWE",
-    "rank": 2,
-    "rankVar": 1
-  },
-  {
     "id": 1230,
     "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
     "name": "星街彗星",
@@ -35,11 +7,11 @@
     "subscribe": "217萬",
     "score": "2,170,000",
     "videoTitle": "ビビデバ / 星街すいせい(official)",
-    "videoViewCount": "814.24萬",
+    "videoViewCount": "873.44萬",
     "videoThumbnail": "https://i.ytimg.com/vi/8ZP5eqm4JqM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuIMNVAdsgMjSRmEvgtnF9BlFb0g",
     "videoUrl": "http://youtu.be/8ZP5eqm4JqM",
-    "rank": 3,
-    "rankVar": 1
+    "rank": 1,
+    "rankVar": 3
   },
   {
     "id": 1237,
@@ -49,11 +21,11 @@
     "subscribe": "177萬",
     "score": "1,770,000",
     "videoTitle": "ネコカブリーナ / 猫又おかゆ( official )",
-    "videoViewCount": "237.99萬",
+    "videoViewCount": "240.7萬",
     "videoThumbnail": "https://i.ytimg.com/vi/HOmS6Kn0bn8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdmXr4P9f_ZPmbPTR3u5N_-qqNLQ",
     "videoUrl": "http://youtu.be/HOmS6Kn0bn8",
-    "rank": 4,
-    "rankVar": 1
+    "rank": 2,
+    "rankVar": 3
   },
   {
     "id": 1238,
@@ -63,11 +35,11 @@
     "subscribe": "151萬",
     "score": "1,510,000",
     "videoTitle": "【OFFCOLLAB】KARAOKE to hype up the fes!!!!!!! #holomyth",
-    "videoViewCount": "26.12萬",
+    "videoViewCount": "26.16萬",
     "videoThumbnail": "https://i.ytimg.com/vi/TVWk8jQPQEI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCAZDmE21JBMoIF2VV_VEUswOfYfQ",
     "videoUrl": "http://youtu.be/TVWk8jQPQEI",
-    "rank": 5,
-    "rankVar": 1
+    "rank": 3,
+    "rankVar": 3
   },
   {
     "id": 1246,
@@ -77,11 +49,11 @@
     "subscribe": "151萬",
     "score": "1,510,000",
     "videoTitle": "鯨 / 角巻わため(Cover)",
-    "videoViewCount": "23.71萬",
+    "videoViewCount": "24.34萬",
     "videoThumbnail": "https://i.ytimg.com/vi/IQs-EXCo9Vs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfbMq-kSwyRTNFqrl99EGVoHDKiQ",
     "videoUrl": "http://youtu.be/IQs-EXCo9Vs",
-    "rank": 5,
-    "rankVar": 2
+    "rank": 3,
+    "rankVar": 4
   },
   {
     "id": 1260,
@@ -91,11 +63,11 @@
     "subscribe": "119萬",
     "score": "1,190,000",
     "videoTitle": "ホロメンのエイプリルフール2024💡見ていこうぜ・・・【尾丸ポルカ/ホロライブ】",
-    "videoViewCount": "20.83萬",
+    "videoViewCount": "21.15萬",
     "videoThumbnail": "https://i.ytimg.com/vi/SzcdKcWHvR0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQlpX5NrpkdJv-7cjwoY0oMLEY4g",
     "videoUrl": "http://youtu.be/SzcdKcWHvR0",
-    "rank": 7,
-    "rankVar": 2
+    "rank": 5,
+    "rankVar": 4
   },
   {
     "id": 1306,
@@ -105,25 +77,25 @@
     "subscribe": "110萬",
     "score": "1,100,000",
     "videoTitle": "【3D Live】勝手にDay0⁉こんこよアイランドへようこそ！🏝 #博衣こより生誕Live2024 【博衣こより/ホロライブ】",
-    "videoViewCount": "38.15萬",
+    "videoViewCount": "38.34萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_vzFNtQsqJI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAcmOA2CNKYPw2iK53bwT9EDxaSpg",
     "videoUrl": "http://youtu.be/_vzFNtQsqJI",
-    "rank": 8,
-    "rankVar": 2
+    "rank": 6,
+    "rankVar": 4
   },
   {
     "id": 1326,
     "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "90.6萬",
-    "score": "906,000",
+    "subscribe": "90.7萬",
+    "score": "907,000",
     "videoTitle": "絶対敵対メチャキライヤー - メドミア / Covered by  風真いろは×ラプラス・ダークネス",
-    "videoViewCount": "54.5萬",
+    "videoViewCount": "55.81萬",
     "videoThumbnail": "https://i.ytimg.com/vi/U9tSa1hxU0M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCKJk71p392dwpHh1t04-4Omy_8g",
     "videoUrl": "http://youtu.be/U9tSa1hxU0M",
-    "rank": 9,
-    "rankVar": 3
+    "rank": 7,
+    "rankVar": 5
   },
   {
     "id": 1287,
@@ -136,21 +108,49 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 10,
-    "rankVar": 1
+    "rank": 8,
+    "rankVar": 3
   },
   {
     "id": 1328,
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "87.6萬",
-    "score": "876,000",
+    "subscribe": "87.7萬",
+    "score": "877,000",
     "videoTitle": "≪5TH FES & holoEXPO AFTER TALK ≫ rat is alive... somewhat",
-    "videoViewCount": "5.58萬",
+    "videoViewCount": "5.59萬",
     "videoThumbnail": "https://i.ytimg.com/vi/feoTxSowrAk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCU1mZ7WQXI6RBU1lSQ1sZyF2dP4A",
     "videoUrl": "http://youtu.be/feoTxSowrAk",
-    "rank": 11,
-    "rankVar": 2
+    "rank": 9,
+    "rankVar": 4
+  },
+  {
+    "id": 1222,
+    "channelUrl": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+    "name": "森美聲",
+    "thumbnail": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "『MV』Overkill - Mori Calliope",
+    "videoViewCount": "54.43萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/J7tp_0lFI0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2gHtPXoyQgJVOKQR9hVAtlzsA1Q",
+    "videoUrl": "http://youtu.be/J7tp_0lFI0I",
+    "rank": 10,
+    "rankVar": -8
+  },
+  {
+    "id": 1225,
+    "channelUrl": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "name": "白上吹雪",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9yXgE7uEDk-7i1Gphyxd34NeopLClxUujOg-0OlQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "【#さくらみこ再テスト】さくらみこ、ホロライブ小学校卒業を賭けた再テスト。【ホロ小学力テスト】",
+    "videoViewCount": "35.09萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/yDZF3HvKXWE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9ULTnj657DftRpWoHRKRe7j9EsQ",
+    "videoUrl": "http://youtu.be/yDZF3HvKXWE",
+    "rank": 10,
+    "rankVar": -7
   }
 ]
