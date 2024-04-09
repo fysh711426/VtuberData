@@ -1,19 +1,5 @@
 [
   {
-    "id": 1459,
-    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
-    "name": "エルフのえる",
-    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "58.3萬",
-    "score": "1.04",
-    "videoTitle": "勇者 - YOASOBI covered by える",
-    "videoViewCount": "56.9萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/GwBj3xZRW1o/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhdIGUoTjAP&rs=AOn4CLBgVXQ-_FmedzLhvPSKvdCVVbDY_w",
-    "videoUrl": "http://youtu.be/GwBj3xZRW1o",
-    "rank": 1,
-    "rankVar": 1
-  },
-  {
     "id": 1255,
     "channelUrl": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA",
     "name": "叶",
@@ -21,11 +7,25 @@
     "subscribe": "128萬",
     "score": "0.79",
     "videoTitle": "MHW:IB #14 | 決戦の時！上位装備縛り極ベヒ！ 【にじさんじ/叶】",
-    "videoViewCount": "31.04萬",
+    "videoViewCount": "31.05萬",
     "videoThumbnail": "https://i.ytimg.com/vi/Di4TggxZ8Gc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvWR_-VQnAbn1xeMAxpzZbyen3rA",
     "videoUrl": "http://youtu.be/Di4TggxZ8Gc",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
+  },
+  {
+    "id": 3443,
+    "channelUrl": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg",
+    "name": "四季凪アキラ(しきなぎあきら)",
+    "thumbnail": "https://yt3.ggpht.com/fPcz-rWxhT5YfD6C4gRFMCXqK-mkk2ew1Qq9tijCZQ20cE-Rd2DMoE4SOVT0TNEgRLep-tcyEg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "33.2萬",
+    "score": "0.61",
+    "videoTitle": "【歌ってみた】吉原ラメント / 四季凪アキラ",
+    "videoViewCount": "26.28萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/DrGpUXfduvY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChFu0IFAsz-lQO58vXpGihxgpuSw",
+    "videoUrl": "http://youtu.be/DrGpUXfduvY",
+    "rank": 2,
+    "rankVar": 3
   },
   {
     "id": 3444,
@@ -33,13 +33,13 @@
     "name": "セラフ・ダズルガーデン / Seraph Dazzlegarden",
     "thumbnail": "https://yt3.ggpht.com/id0I-5r0K_4FsZsZPSHHDKviKvKfbb1yas8MDD_fLfyImFtDQXncul8G0aeEDifGq27xoMmtmw=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "25.7萬",
-    "score": "0.78",
+    "score": "0.39",
     "videoTitle": "青のすみか / キタニタツヤ （Covered by セラフ・ダズルガーデン）",
-    "videoViewCount": "33.65萬",
+    "videoViewCount": "33.98萬",
     "videoThumbnail": "https://i.ytimg.com/vi/EuBLZUzaeVM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1NoocfA24izr1hverrKxca79j_A",
     "videoUrl": "http://youtu.be/EuBLZUzaeVM",
     "rank": 3,
-    "rankVar": 1
+    "rankVar": -1
   },
   {
     "id": 1338,
@@ -47,9 +47,9 @@
     "name": "クロノワール(叶 葛葉)",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "88.5萬",
-    "score": "0.45",
+    "score": "0.34",
     "videoTitle": "【迷言？】くろのわが名言クイズであのライバーを偉人認定！？ #くろなん",
-    "videoViewCount": "56.13萬",
+    "videoViewCount": "57.09萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_Z8bHOZmv3s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8_WxGK4lQq0rJAb9wBKgqdPZtYw",
     "videoUrl": "http://youtu.be/_Z8bHOZmv3s",
     "rank": 4,
@@ -63,7 +63,7 @@
     "subscribe": "41.2萬",
     "score": "0.24",
     "videoTitle": "【MV】MIRROR/長尾景【オリジナル曲】",
-    "videoViewCount": "7.42萬",
+    "videoViewCount": "7.86萬",
     "videoThumbnail": "https://i.ytimg.com/vi/7LYGF4Np8YQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZbYvovskPChIMLDH_LBc3gd6o5g",
     "videoUrl": "http://youtu.be/7LYGF4Np8YQ",
     "rank": 5,
@@ -77,11 +77,11 @@
     "subscribe": "4.93萬",
     "score": "0.2",
     "videoTitle": "처음보는 투샷 (w. @Nam_Siwoo 님) 【니지산지 | 가온】",
-    "videoViewCount": "3626",
+    "videoViewCount": "3635",
     "videoThumbnail": "https://i.ytimg.com/vi/n3szvbFDP4Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuN3iPnDTjRiqppWNr2C8eXogjvw",
     "videoUrl": "http://youtu.be/n3szvbFDP4Q",
     "rank": 6,
-    "rankVar": 1
+    "rankVar": 0
   },
   {
     "id": 1380,
@@ -91,11 +91,11 @@
     "subscribe": "50.7萬",
     "score": "0.2",
     "videoTitle": "【みっちみち】リスナーの考えたバカすぎる水族館で溺れるジョー・力一【にじさんじ切り抜き/空昼ブランコ】",
-    "videoViewCount": "26.09萬",
+    "videoViewCount": "26.5萬",
     "videoThumbnail": "https://i.ytimg.com/vi/59CozfnUGj0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdwfrvKMQMO2HW-Jrm3gzM5uGQvQ",
     "videoUrl": "http://youtu.be/59CozfnUGj0",
     "rank": 7,
-    "rankVar": null
+    "rankVar": 0
   },
   {
     "id": 2191,
@@ -109,7 +109,7 @@
     "videoThumbnail": "https://i.ytimg.com/vi/z91azGslBhI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpL0BNMt9MpNmMNkWSVx_0j2Q2Jw",
     "videoUrl": "http://youtu.be/z91azGslBhI",
     "rank": 8,
-    "rankVar": -3
+    "rankVar": -4
   },
   {
     "id": 1352,
@@ -119,7 +119,7 @@
     "subscribe": "57.6萬",
     "score": "0.17",
     "videoTitle": "【歌ってみた】浴槽とネオンテトラ【健屋花那/にじさんじ】",
-    "videoViewCount": "10.92萬",
+    "videoViewCount": "11.01萬",
     "videoThumbnail": "https://i.ytimg.com/vi/geJJILYaoR4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCshuTdu4mw74VHiZ72JNnZR_hPyw",
     "videoUrl": "http://youtu.be/geJJILYaoR4",
     "rank": 9,
