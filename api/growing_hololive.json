@@ -7,11 +7,25 @@
     "subscribe": "221萬",
     "score": "0.91",
     "videoTitle": "ビビデバ / 星街すいせい(official)",
-    "videoViewCount": "1615.52萬",
+    "videoViewCount": "1671.93萬",
     "videoThumbnail": "https://i.ytimg.com/vi/8ZP5eqm4JqM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuIMNVAdsgMjSRmEvgtnF9BlFb0g",
     "videoUrl": "http://youtu.be/8ZP5eqm4JqM",
     "rank": 1,
     "rankVar": 0
+  },
+  {
+    "id": 1328,
+    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+    "name": "Hakos Baelz",
+    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "88.2萬",
+    "score": "0.46",
+    "videoTitle": "≪ VCR RUST ≫ New World, New Faces, NEW ADVENTURES!! #1",
+    "videoViewCount": "22.88萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/1OYCE5nZoek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhO94xtK3verztVBpGYJ2YYm502Q",
+    "videoUrl": "http://youtu.be/1OYCE5nZoek",
+    "rank": 2,
+    "rankVar": 3
   },
   {
     "id": 1225,
@@ -21,24 +35,10 @@
     "subscribe": "235萬",
     "score": "0.43",
     "videoTitle": "ブリにゃんモードはピピピのピ♡/ホワイトブリニャン(Original)",
-    "videoViewCount": "43.92萬",
+    "videoViewCount": "44.99萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UDY9uIHTWGw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoNBH0pafmUAeFVBs2avHj3SXV9g",
     "videoUrl": "http://youtu.be/UDY9uIHTWGw",
-    "rank": 2,
-    "rankVar": null
-  },
-  {
-    "id": 1328,
-    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-    "name": "Hakos Baelz",
-    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "88.1萬",
-    "score": "0.34",
-    "videoTitle": "≪ VCR RUST ≫ New World, New Faces, NEW ADVENTURES!! #1",
-    "videoViewCount": "22.79萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/1OYCE5nZoek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhO94xtK3verztVBpGYJ2YYm502Q",
-    "videoUrl": "http://youtu.be/1OYCE5nZoek",
     "rank": 3,
-    "rankVar": 1
+    "rankVar": null
   }
 ]
