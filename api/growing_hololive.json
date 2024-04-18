@@ -4,10 +4,10 @@
     "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
     "name": "星街彗星",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "221萬",
+    "subscribe": "222萬",
     "score": "0.91",
     "videoTitle": "ビビデバ / 星街すいせい(official)",
-    "videoViewCount": "1671.93萬",
+    "videoViewCount": "1728.64萬",
     "videoThumbnail": "https://i.ytimg.com/vi/8ZP5eqm4JqM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuIMNVAdsgMjSRmEvgtnF9BlFb0g",
     "videoUrl": "http://youtu.be/8ZP5eqm4JqM",
     "rank": 1,
@@ -21,11 +21,11 @@
     "subscribe": "88.2萬",
     "score": "0.46",
     "videoTitle": "≪ VCR RUST ≫ New World, New Faces, NEW ADVENTURES!! #1",
-    "videoViewCount": "22.88萬",
+    "videoViewCount": "22.97萬",
     "videoThumbnail": "https://i.ytimg.com/vi/1OYCE5nZoek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhO94xtK3verztVBpGYJ2YYm502Q",
     "videoUrl": "http://youtu.be/1OYCE5nZoek",
     "rank": 2,
-    "rankVar": 3
+    "rankVar": 1
   },
   {
     "id": 1225,
@@ -35,10 +35,24 @@
     "subscribe": "235萬",
     "score": "0.43",
     "videoTitle": "ブリにゃんモードはピピピのピ♡/ホワイトブリニャン(Original)",
-    "videoViewCount": "44.99萬",
+    "videoViewCount": "45.99萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UDY9uIHTWGw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoNBH0pafmUAeFVBs2avHj3SXV9g",
     "videoUrl": "http://youtu.be/UDY9uIHTWGw",
     "rank": 3,
     "rankVar": null
+  },
+  {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "91.2萬",
+    "score": "0.22",
+    "videoTitle": "にんじゃりばんばん - きゃりーぱみゅぱみゅ / Covered by  風真いろは",
+    "videoViewCount": "78.58萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/ykTqHWO9qUI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzDRA6g1IMbjr-0jFPY8N11O72uw",
+    "videoUrl": "http://youtu.be/ykTqHWO9qUI",
+    "rank": 4,
+    "rankVar": -2
   }
 ]
