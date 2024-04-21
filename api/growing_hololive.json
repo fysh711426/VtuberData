@@ -1,19 +1,5 @@
 [
   {
-    "id": 1230,
-    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-    "name": "星街彗星",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "222萬",
-    "score": "0.91",
-    "videoTitle": "ビビデバ / 星街すいせい(official)",
-    "videoViewCount": "1852.37萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/8ZP5eqm4JqM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuIMNVAdsgMjSRmEvgtnF9BlFb0g",
-    "videoUrl": "http://youtu.be/8ZP5eqm4JqM",
-    "rank": 1,
-    "rankVar": 0
-  },
-  {
     "id": 1237,
     "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
     "name": "貓又小粥",
@@ -21,24 +7,10 @@
     "subscribe": "178萬",
     "score": "0.56",
     "videoTitle": "【 いらっしゃいませ 】本気バイト、はじめました ――― ｜ PLATE UP！【 #スバおかおっぱっみー / ホロライブ 】",
-    "videoViewCount": "47.46萬",
+    "videoViewCount": "47.68萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_NZ1FljML7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNAIuvag3-1MSbHIQTrspl4hyqGg",
     "videoUrl": "http://youtu.be/_NZ1FljML7E",
-    "rank": 2,
-    "rankVar": null
-  },
-  {
-    "id": 1225,
-    "channelUrl": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-    "name": "白上吹雪",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9yXgE7uEDk-7i1Gphyxd34NeopLClxUujOg-0OlQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "235萬",
-    "score": "0.43",
-    "videoTitle": "ブリにゃんモードはピピピのピ♡/ホワイトブリニャン(Original)",
-    "videoViewCount": "48.03萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/UDY9uIHTWGw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoNBH0pafmUAeFVBs2avHj3SXV9g",
-    "videoUrl": "http://youtu.be/UDY9uIHTWGw",
-    "rank": 3,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -46,13 +18,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "88.3萬",
-    "score": "0.34",
+    "subscribe": "88.5萬",
+    "score": "0.45",
     "videoTitle": "≪ VCR RUST ≫ New World, New Faces, NEW ADVENTURES!! #1",
-    "videoViewCount": "23.13萬",
+    "videoViewCount": "23.19萬",
     "videoThumbnail": "https://i.ytimg.com/vi/1OYCE5nZoek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhO94xtK3verztVBpGYJ2YYm502Q",
     "videoUrl": "http://youtu.be/1OYCE5nZoek",
-    "rank": 4,
+    "rank": 2,
     "rankVar": -1
   },
   {
@@ -60,13 +32,13 @@
     "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "91.2萬",
-    "score": "0.11",
+    "subscribe": "91.3萬",
+    "score": "0.22",
     "videoTitle": "にんじゃりばんばん - きゃりーぱみゅぱみゅ / Covered by  風真いろは",
-    "videoViewCount": "82.49萬",
+    "videoViewCount": "84.49萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ykTqHWO9qUI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzDRA6g1IMbjr-0jFPY8N11O72uw",
     "videoUrl": "http://youtu.be/ykTqHWO9qUI",
-    "rank": 5,
-    "rankVar": null
+    "rank": 3,
+    "rankVar": 0
   }
 ]
