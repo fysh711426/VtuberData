@@ -1,31 +1,17 @@
 [
   {
-    "id": 1230,
-    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-    "name": "星街彗星",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "223萬",
-    "score": "0.9",
-    "videoTitle": "シュガーラッシュ / miComet(official)",
-    "videoViewCount": "189.53萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/gtgME6MJpk4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCASZGAHn9DQ9R3O0gHuN4qksnueQ",
-    "videoUrl": "http://youtu.be/gtgME6MJpk4",
-    "rank": 1,
-    "rankVar": 0
-  },
-  {
     "id": 1328,
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "88.7萬",
-    "score": "0.57",
+    "subscribe": "88.8萬",
+    "score": "0.68",
     "videoTitle": "≪ VCR RUST ≫ New World, New Faces, NEW ADVENTURES!! #1",
-    "videoViewCount": "23.33萬",
+    "videoViewCount": "23.36萬",
     "videoThumbnail": "https://i.ytimg.com/vi/1OYCE5nZoek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhO94xtK3verztVBpGYJ2YYm502Q",
     "videoUrl": "http://youtu.be/1OYCE5nZoek",
-    "rank": 2,
-    "rankVar": 0
+    "rank": 1,
+    "rankVar": 1
   },
   {
     "id": 1237,
@@ -35,11 +21,25 @@
     "subscribe": "178萬",
     "score": "0.56",
     "videoTitle": "【 いらっしゃいませ 】本気バイト、はじめました ――― ｜ PLATE UP！【 #スバおかおっぱっみー / ホロライブ 】",
-    "videoViewCount": "48.16萬",
+    "videoViewCount": "48.29萬",
     "videoThumbnail": "https://i.ytimg.com/vi/_NZ1FljML7E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNAIuvag3-1MSbHIQTrspl4hyqGg",
     "videoUrl": "http://youtu.be/_NZ1FljML7E",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
+  },
+  {
+    "id": 1230,
+    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+    "name": "星街彗星",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "223萬",
+    "score": "0.45",
+    "videoTitle": "シュガーラッシュ / miComet(official)",
+    "videoViewCount": "192.5萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/gtgME6MJpk4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCASZGAHn9DQ9R3O0gHuN4qksnueQ",
+    "videoUrl": "http://youtu.be/gtgME6MJpk4",
+    "rank": 3,
+    "rankVar": -2
   },
   {
     "id": 1222,
@@ -49,10 +49,24 @@
     "subscribe": "237萬",
     "score": "0.42",
     "videoTitle": "『MV』Overkill - Mori Calliope",
-    "videoViewCount": "65.35萬",
+    "videoViewCount": "65.81萬",
     "videoThumbnail": "https://i.ytimg.com/vi/J7tp_0lFI0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2gHtPXoyQgJVOKQR9hVAtlzsA1Q",
     "videoUrl": "http://youtu.be/J7tp_0lFI0I",
     "rank": 4,
     "rankVar": null
+  },
+  {
+    "id": 1326,
+    "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "name": "風真いろは(かざまいろは)",
+    "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "91.4萬",
+    "score": "0.22",
+    "videoTitle": "にんじゃりばんばん - きゃりーぱみゅぱみゅ / Covered by  風真いろは",
+    "videoViewCount": "91.71萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/ykTqHWO9qUI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzDRA6g1IMbjr-0jFPY8N11O72uw",
+    "videoUrl": "http://youtu.be/ykTqHWO9qUI",
+    "rank": 5,
+    "rankVar": -1
   }
 ]
