@@ -1,19 +1,5 @@
 [
   {
-    "id": 1230,
-    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-    "name": "星街彗星",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "224萬",
-    "score": "0.9",
-    "videoTitle": "シュガーラッシュ / miComet(official)",
-    "videoViewCount": "198.75萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/gtgME6MJpk4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCASZGAHn9DQ9R3O0gHuN4qksnueQ",
-    "videoUrl": "http://youtu.be/gtgME6MJpk4",
-    "rank": 1,
-    "rankVar": 0
-  },
-  {
     "id": 1260,
     "channelUrl": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
     "name": "尾丸波爾卡",
@@ -21,10 +7,10 @@
     "subscribe": "120萬",
     "score": "0.84",
     "videoTitle": "さくらんぼ - 尾丸ポルカ(cover)",
-    "videoViewCount": "31.89萬",
+    "videoViewCount": "34.83萬",
     "videoThumbnail": "https://i.ytimg.com/vi/6PSNhtD5Daw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbkbGvHX0HkPcOSPqiQGRESTHIqQ",
     "videoUrl": "http://youtu.be/6PSNhtD5Daw",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -35,25 +21,25 @@
     "subscribe": "152萬",
     "score": "0.66",
     "videoTitle": "【PLATE UP！】飲食バイトで稼ぎまくり！？！！？【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "29.18萬",
+    "videoViewCount": "29.3萬",
     "videoThumbnail": "https://i.ytimg.com/vi/oPip7P5Nhds/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmKr758iqDBUmOmpZ5HWQ4nCWLeg",
     "videoUrl": "http://youtu.be/oPip7P5Nhds",
-    "rank": 3,
+    "rank": 2,
     "rankVar": null
   },
   {
-    "id": 1328,
-    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-    "name": "Hakos Baelz",
-    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "88.8萬",
-    "score": "0.57",
-    "videoTitle": "≪ VCR RUST ≫ New World, New Faces, NEW ADVENTURES!! #1",
-    "videoViewCount": "23.39萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/1OYCE5nZoek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhO94xtK3verztVBpGYJ2YYm502Q",
-    "videoUrl": "http://youtu.be/1OYCE5nZoek",
-    "rank": 4,
-    "rankVar": 0
+    "id": 1230,
+    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+    "name": "星街彗星",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "224萬",
+    "score": "0.45",
+    "videoTitle": "シュガーラッシュ / miComet(official)",
+    "videoViewCount": "201.67萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/gtgME6MJpk4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCASZGAHn9DQ9R3O0gHuN4qksnueQ",
+    "videoUrl": "http://youtu.be/gtgME6MJpk4",
+    "rank": 3,
+    "rankVar": null
   },
   {
     "id": 1222,
@@ -63,24 +49,38 @@
     "subscribe": "237萬",
     "score": "0.42",
     "videoTitle": "『MV』Overkill - Mori Calliope",
-    "videoViewCount": "66.59萬",
+    "videoViewCount": "66.95萬",
     "videoThumbnail": "https://i.ytimg.com/vi/J7tp_0lFI0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2gHtPXoyQgJVOKQR9hVAtlzsA1Q",
     "videoUrl": "http://youtu.be/J7tp_0lFI0I",
-    "rank": 5,
+    "rank": 4,
     "rankVar": null
+  },
+  {
+    "id": 1328,
+    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+    "name": "Hakos Baelz",
+    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "88.8萬",
+    "score": "0.34",
+    "videoTitle": "≪ VCR RUST ≫ New World, New Faces, NEW ADVENTURES!! #1",
+    "videoViewCount": "23.4萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/1OYCE5nZoek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhO94xtK3verztVBpGYJ2YYm502Q",
+    "videoUrl": "http://youtu.be/1OYCE5nZoek",
+    "rank": 5,
+    "rankVar": -3
   },
   {
     "id": 1326,
     "channelUrl": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
     "name": "風真いろは(かざまいろは)",
     "thumbnail": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "91.5萬",
+    "subscribe": "91.6萬",
     "score": "0.33",
     "videoTitle": "にんじゃりばんばん - きゃりーぱみゅぱみゅ / Covered by  風真いろは",
-    "videoViewCount": "95.48萬",
+    "videoViewCount": "97.07萬",
     "videoThumbnail": "https://i.ytimg.com/vi/ykTqHWO9qUI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzDRA6g1IMbjr-0jFPY8N11O72uw",
     "videoUrl": "http://youtu.be/ykTqHWO9qUI",
     "rank": 6,
-    "rankVar": -1
+    "rankVar": -3
   }
 ]
