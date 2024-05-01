@@ -1,19 +1,5 @@
 [
   {
-    "id": 1269,
-    "channelUrl": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
-    "name": "月之美兔",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_5F67Gd0pbRC0H_Gusm_5STDsrLm9V-UqFwDyB4Q=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "120萬",
-    "score": "0.84",
-    "videoTitle": "最悪のデバフを決めろ！！【デバフクイズ大会】",
-    "videoViewCount": "62.64萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/qFzPCxDEGzU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLHd80NNQxM2CP1qEjmvywrhCHAQ",
-    "videoUrl": "http://youtu.be/qFzPCxDEGzU",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 2334,
     "channelUrl": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
     "name": "GAON",
@@ -21,10 +7,10 @@
     "subscribe": "4.95萬",
     "score": "0.2",
     "videoTitle": "[한글자막] 코 수술 환자에게 코 무너졌냐고 묻다  【니지산지 | 가온】",
-    "videoViewCount": "3838",
+    "videoViewCount": "3843",
     "videoThumbnail": "https://i.ytimg.com/vi/240Q0xAa8_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAopnxekJMqis5UyCuhmPKpUuWmiw",
     "videoUrl": "http://youtu.be/240Q0xAa8_c",
-    "rank": 2,
-    "rankVar": 3
+    "rank": 1,
+    "rankVar": null
   }
 ]
