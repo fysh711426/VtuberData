@@ -1,19 +1,5 @@
 [
   {
-    "id": 5792,
-    "channelUrl": "https://www.youtube.com/channel/UCycgrYk7peQOSCXlP7-7N2g",
-    "name": "希悠藍カナ",
-    "thumbnail": "https://yt3.googleusercontent.com/aBQtz5lWyA56yt3Bqs-wJgrQLL_o3fIFeYA1tDH62G0mAK9ekAjJcr-FtU_Llr0wAsUlG43GyA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "131",
-    "score": "131",
-    "videoTitle": "[ #初配信 Debut Stream ] 我悄悄的出現啦~ [ 希悠藍カナ Vtuber ]",
-    "videoViewCount": "265",
-    "videoThumbnail": "https://i.ytimg.com/vi/FWs3WOveNg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiRdIPL1Ch6ryqbL4ssJZUjxsBIA",
-    "videoUrl": "http://youtu.be/FWs3WOveNg8",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 5916,
     "channelUrl": "https://www.youtube.com/channel/UCipMjVd2JAzZgWnJ72477EQ",
     "name": "暮政 MuZheng",
@@ -21,9 +7,23 @@
     "subscribe": "82",
     "score": "82",
     "videoTitle": "【暮政 Master Duel 】打個遊戲嘛 等等 為什麽我沒有遊戲體驗 🥹🥹 #暮政 #masterduel #Vtuber",
-    "videoViewCount": "51",
+    "videoViewCount": "52",
     "videoThumbnail": "https://i.ytimg.com/vi/1Zos8L8ai90/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1wZvZPeZiJo9YGxtBDhQzDy6x7Q",
     "videoUrl": "http://youtu.be/1Zos8L8ai90",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 5792,
+    "channelUrl": "https://www.youtube.com/channel/UCycgrYk7peQOSCXlP7-7N2g",
+    "name": "希悠藍カナ",
+    "thumbnail": "https://yt3.googleusercontent.com/aBQtz5lWyA56yt3Bqs-wJgrQLL_o3fIFeYA1tDH62G0mAK9ekAjJcr-FtU_Llr0wAsUlG43GyA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "[ #初配信 Debut Stream ] 我悄悄的出現啦~ [ 希悠藍カナ Vtuber ]",
+    "videoViewCount": "266",
+    "videoThumbnail": "https://i.ytimg.com/vi/FWs3WOveNg8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiRdIPL1Ch6ryqbL4ssJZUjxsBIA",
+    "videoUrl": "http://youtu.be/FWs3WOveNg8",
     "rank": 2,
     "rankVar": null
   }
