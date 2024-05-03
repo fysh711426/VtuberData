@@ -1,17 +1,45 @@
 [
   {
+    "id": 1331,
+    "channelUrl": "https://www.youtube.com/channel/UCt5-0i4AVHXaWJrL8Wql3mw",
+    "name": "綠仙",
+    "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "70萬",
+    "score": "0.57",
+    "videoTitle": "スロウダウナー / ろくろ (covered by 緑仙、甲斐田晴)",
+    "videoViewCount": "37.86萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/Sgj9RmT8Lxk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDckFs--zZ0Y51RWAjg_X9J1u1AdQ",
+    "videoUrl": "http://youtu.be/Sgj9RmT8Lxk",
+    "rank": 1,
+    "rankVar": 5
+  },
+  {
+    "id": 1459,
+    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+    "name": "エルフのえる",
+    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "59.7萬",
+    "score": "0.51",
+    "videoTitle": "フィクサー - ぬゆり covered by える",
+    "videoViewCount": "16.7萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/5CC-AfAd7J8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPU_gcRlK5v0Y3SzNAu0bW_NeC4g",
+    "videoUrl": "http://youtu.be/5CC-AfAd7J8",
+    "rank": 2,
+    "rankVar": -1
+  },
+  {
     "id": 1338,
     "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
     "name": "クロノワール(叶 葛葉)",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "89.7萬",
-    "score": "0.56",
+    "score": "0.45",
     "videoTitle": "【咎人参戦】剣持＆伏見とシャトレーゼの人気商品トップ10当てるまで帰れません！ #くろなん",
-    "videoViewCount": "67.18萬",
+    "videoViewCount": "71.93萬",
     "videoThumbnail": "https://i.ytimg.com/vi/yXru1jwfxv8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhEHbNj61wHZbRnlHt6Pvq8m9PDw",
     "videoUrl": "http://youtu.be/yXru1jwfxv8",
-    "rank": 1,
-    "rankVar": 1
+    "rank": 3,
+    "rankVar": -1
   },
   {
     "id": 2334,
@@ -21,10 +49,10 @@
     "subscribe": "4.95萬",
     "score": "0.2",
     "videoTitle": "[한글자막] 코 수술 환자에게 코 무너졌냐고 묻다  【니지산지 | 가온】",
-    "videoViewCount": "3844",
+    "videoViewCount": "3854",
     "videoThumbnail": "https://i.ytimg.com/vi/240Q0xAa8_c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAopnxekJMqis5UyCuhmPKpUuWmiw",
     "videoUrl": "http://youtu.be/240Q0xAa8_c",
-    "rank": 2,
+    "rank": 4,
     "rankVar": null
   },
   {
@@ -35,24 +63,10 @@
     "subscribe": "51萬",
     "score": "0.2",
     "videoTitle": "【ヤクルト生ジョッキ缶】バカ監督と化したリスナーのヤバい采配を集めるジョー・力一【にじさんじ切り抜き/空昼ブランコ】",
-    "videoViewCount": "10.89萬",
+    "videoViewCount": "11萬",
     "videoThumbnail": "https://i.ytimg.com/vi/CpNAMm96DKY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA3GrwzurGKefSCcpkclNHnhlbCg",
     "videoUrl": "http://youtu.be/CpNAMm96DKY",
-    "rank": 3,
-    "rankVar": null
-  },
-  {
-    "id": 1352,
-    "channelUrl": "https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ",
-    "name": "健屋花那",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8LJ2FjXNATnhclWrn1EQYf9ZXW4BqsCFrADGWKNw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "57.7萬",
-    "score": "0.17",
-    "videoTitle": "【歌ってみた】浴槽とネオンテトラ【健屋花那/にじさんじ】",
-    "videoViewCount": "12.95萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/geJJILYaoR4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCshuTdu4mw74VHiZ72JNnZR_hPyw",
-    "videoUrl": "http://youtu.be/geJJILYaoR4",
-    "rank": 4,
-    "rankVar": null
+    "rank": 5,
+    "rankVar": 0
   }
 ]
