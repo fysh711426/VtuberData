@@ -1,5 +1,19 @@
 [
   {
+    "id": 1222,
+    "channelUrl": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+    "name": "森美聲",
+    "thumbnail": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "237萬",
+    "score": "2,370,000",
+    "videoTitle": "『MV』Overkill - Mori Calliope",
+    "videoViewCount": "71.63萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/J7tp_0lFI0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2gHtPXoyQgJVOKQR9hVAtlzsA1Q",
+    "videoUrl": "http://youtu.be/J7tp_0lFI0I",
+    "rank": 1,
+    "rankVar": 0
+  },
+  {
     "id": 1230,
     "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
     "name": "星街彗星",
@@ -7,11 +21,25 @@
     "subscribe": "228萬",
     "score": "2,280,000",
     "videoTitle": "【歌枠】帰ってきたからカラオケするぞ～～～🎤✨【ホロライブ / 星街すいせい 】",
-    "videoViewCount": "59.54萬",
+    "videoViewCount": "60.52萬",
     "videoThumbnail": "https://i.ytimg.com/vi/nVKsV6bozwM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc3AOyxME33G7_RYfjYlLFR3ehlw",
     "videoUrl": "http://youtu.be/nVKsV6bozwM",
-    "rank": 1,
-    "rankVar": 2
+    "rank": 2,
+    "rankVar": 1
+  },
+  {
+    "id": 1237,
+    "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+    "name": "貓又小粥",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-4v9u0XW29ThJHrutfQzTDSun8xJbi_d3HT12New=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "178萬",
+    "score": "1,780,000",
+    "videoTitle": "【 バニーガーデン 】妹と一緒に楽園へ行こう🌽🍙【 #にゃんぐこーん /ホロライブ 】",
+    "videoViewCount": "45.43萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/a2erpcvzKts/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9FC9pV4sc_u4BKLmaW-bWFjgaeg",
+    "videoUrl": "http://youtu.be/a2erpcvzKts",
+    "rank": 3,
+    "rankVar": 1
   },
   {
     "id": 1306,
@@ -21,53 +49,25 @@
     "subscribe": "112萬",
     "score": "1,120,000",
     "videoTitle": "【トランスフォーマー コンボイの謎】開始2秒で〇ぬらしい神鬼畜ゲーに挑戦してみる・・・！！！！！【博衣こより/ホロライブ】",
-    "videoViewCount": "34.9萬",
+    "videoViewCount": "35.09萬",
     "videoThumbnail": "https://i.ytimg.com/vi/bOoUeAC8KxY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAkgwwK50RFfWd7UqY_BbFoeOjGw",
     "videoUrl": "http://youtu.be/bOoUeAC8KxY",
-    "rank": 2,
-    "rankVar": 9
+    "rank": 4,
+    "rankVar": 4
   },
   {
     "id": 1328,
     "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
     "name": "Hakos Baelz",
     "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "89.3萬",
-    "score": "893,000",
+    "subscribe": "90萬",
+    "score": "900,000",
     "videoTitle": "≪BUNNY GARDEN≫ Purple Bae is back. 【SPOILER WARNING】",
-    "videoViewCount": "24.72萬",
+    "videoViewCount": "24.76萬",
     "videoThumbnail": "https://i.ytimg.com/vi/65qIhvkE92g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhg8iQcjjywNAIbzXskR8Qz_fe9A",
     "videoUrl": "http://youtu.be/65qIhvkE92g",
-    "rank": 3,
-    "rankVar": 7
-  },
-  {
-    "id": 1287,
-    "channelUrl": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
-    "name": "夜空梅露",
-    "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "88.3萬",
-    "score": "883,000",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 4,
-    "rankVar": 5
-  },
-  {
-    "id": 1222,
-    "channelUrl": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-    "name": "森美聲",
-    "thumbnail": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "『MV』Overkill - Mori Calliope",
-    "videoViewCount": "71.36萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/J7tp_0lFI0I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2gHtPXoyQgJVOKQR9hVAtlzsA1Q",
-    "videoUrl": "http://youtu.be/J7tp_0lFI0I",
     "rank": 5,
-    "rankVar": -4
+    "rankVar": 5
   },
   {
     "id": 1225,
@@ -77,25 +77,11 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "ブリにゃんモードはピピピのピ♡/ホワイトブリニャン(Original)",
-    "videoViewCount": "64.34萬",
+    "videoViewCount": "64.89萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UDY9uIHTWGw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoNBH0pafmUAeFVBs2avHj3SXV9g",
     "videoUrl": "http://youtu.be/UDY9uIHTWGw",
-    "rank": 5,
-    "rankVar": -3
-  },
-  {
-    "id": 1237,
-    "channelUrl": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-    "name": "貓又小粥",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-4v9u0XW29ThJHrutfQzTDSun8xJbi_d3HT12New=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "【 バニーガーデン 】妹と一緒に楽園へ行こう🌽🍙【 #にゃんぐこーん /ホロライブ 】",
-    "videoViewCount": "45.21萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/a2erpcvzKts/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9FC9pV4sc_u4BKLmaW-bWFjgaeg",
-    "videoUrl": "http://youtu.be/a2erpcvzKts",
-    "rank": 5,
-    "rankVar": -1
+    "rank": 6,
+    "rankVar": -4
   },
   {
     "id": 1238,
@@ -105,11 +91,11 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "CHIMERA - Takanashi Kiara (Official Music Video)",
-    "videoViewCount": "120.89萬",
+    "videoViewCount": "122.21萬",
     "videoThumbnail": "https://i.ytimg.com/vi/6L4NNkF2Knc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaNi9nmlWNaaqPyO_eKoZyrIEhSg",
     "videoUrl": "http://youtu.be/6L4NNkF2Knc",
-    "rank": 5,
-    "rankVar": 0
+    "rank": 6,
+    "rankVar": -1
   },
   {
     "id": 1246,
@@ -119,11 +105,11 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "【PLATE UP！】飲食バイトで稼ぎまくり！？！！？【角巻わため/ホロライブ４期生】",
-    "videoViewCount": "30.18萬",
+    "videoViewCount": "30.26萬",
     "videoThumbnail": "https://i.ytimg.com/vi/oPip7P5Nhds/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmKr758iqDBUmOmpZ5HWQ4nCWLeg",
     "videoUrl": "http://youtu.be/oPip7P5Nhds",
-    "rank": 5,
-    "rankVar": 0
+    "rank": 6,
+    "rankVar": -1
   },
   {
     "id": 1260,
@@ -133,11 +119,25 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "さくらんぼ - 尾丸ポルカ(cover)",
-    "videoViewCount": "64.64萬",
+    "videoViewCount": "66.19萬",
     "videoThumbnail": "https://i.ytimg.com/vi/6PSNhtD5Daw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbkbGvHX0HkPcOSPqiQGRESTHIqQ",
     "videoUrl": "http://youtu.be/6PSNhtD5Daw",
-    "rank": 5,
-    "rankVar": 2
+    "rank": 6,
+    "rankVar": 1
+  },
+  {
+    "id": 1287,
+    "channelUrl": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
+    "name": "夜空梅露",
+    "thumbnail": "https://yt3.ggpht.com/I6f2LiL5tEL4ECQhPNJPvBkrf6WrKAS8nheCpTyyQSNKzCwBL2XJSGKxBMc6UNcUr1AR7hrjXw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
+    "rank": 6,
+    "rankVar": 5
   },
   {
     "id": 1326,
@@ -147,10 +147,10 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "右肩の蝶 - のりP / Covered by  風真いろは×鷹嶺ルイ",
-    "videoViewCount": "48.98萬",
+    "videoViewCount": "49.69萬",
     "videoThumbnail": "https://i.ytimg.com/vi/oDIsQ6U71Po/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMt7zkT5FKuCAUCo0gD7wHoFi8ZQ",
     "videoUrl": "http://youtu.be/oDIsQ6U71Po",
-    "rank": 5,
+    "rank": 6,
     "rankVar": 3
   }
 ]
