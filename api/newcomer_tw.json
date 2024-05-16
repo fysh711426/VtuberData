@@ -7,10 +7,38 @@
     "subscribe": "1180",
     "score": "1,180",
     "videoTitle": "【初配信】身上帶著罌粟花的赤鬼向您報到！您好，我是茉門。",
-    "videoViewCount": "1391",
+    "videoViewCount": "1399",
     "videoThumbnail": "https://i.ytimg.com/vi/MAB656eiaMU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCysEkVUTsK4pRPnZzoBfJ9YXrcgA",
     "videoUrl": "http://youtu.be/MAB656eiaMU",
     "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 5914,
+    "channelUrl": "https://www.youtube.com/channel/UCxjjLvAS8VeAOzP400EDx_g",
+    "name": "劉離",
+    "thumbnail": "https://yt3.googleusercontent.com/EMV70U9J7SSmoQL_x2Q7J5Pw9jYh13KKa8DF8W1Jvf0vNk7gEnYsj9OjZTbtIT1GnZqARL1Fqg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "551",
+    "score": "551",
+    "videoTitle": "【酒雜】無主題，請推薦我好喝超商酒",
+    "videoViewCount": "606",
+    "videoThumbnail": "https://i.ytimg.com/vi/tf4lCboZMAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD07Q8LKd5Y6YSncefLz_02Tf0hgw",
+    "videoUrl": "http://youtu.be/tf4lCboZMAU",
+    "rank": 2,
+    "rankVar": null
+  },
+  {
+    "id": 5983,
+    "channelUrl": "https://www.youtube.com/channel/UCB6C9cnNZ2qyE_tRBwWqBog",
+    "name": "歆西亞",
+    "thumbnail": "https://yt3.googleusercontent.com/GFTZ1JAFustlrH1Y-9EbzjwkBu76zWpKo6ShIaXlPRrBWEHyZS0G_dG2SidRzELDFWvvMi2K=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "125",
+    "score": "125",
+    "videoTitle": "早安工作臺~ #Lofi #SpiritCityLofiSessions #Vtuber #台V #台灣Vtuber #歆西亞 #音欠西亞 #新人Vtuber",
+    "videoViewCount": "14",
+    "videoThumbnail": "https://i.ytimg.com/vi/B5cj9d05IJk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBbvJ6B7BQQQmiRVNdkjQ1VJAr4A",
+    "videoUrl": "http://youtu.be/B5cj9d05IJk",
+    "rank": 3,
     "rankVar": null
   },
   {
@@ -24,35 +52,7 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 2,
-    "rankVar": null
-  },
-  {
-    "id": 5914,
-    "channelUrl": "https://www.youtube.com/channel/UCxjjLvAS8VeAOzP400EDx_g",
-    "name": "劉離",
-    "thumbnail": "https://yt3.googleusercontent.com/EMV70U9J7SSmoQL_x2Q7J5Pw9jYh13KKa8DF8W1Jvf0vNk7gEnYsj9OjZTbtIT1GnZqARL1Fqg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "【酒雜】無主題，請推薦我好喝超商酒",
-    "videoViewCount": "607",
-    "videoThumbnail": "https://i.ytimg.com/vi/tf4lCboZMAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD07Q8LKd5Y6YSncefLz_02Tf0hgw",
-    "videoUrl": "http://youtu.be/tf4lCboZMAU",
-    "rank": 3,
-    "rankVar": null
-  },
-  {
-    "id": 5983,
-    "channelUrl": "https://www.youtube.com/channel/UCB6C9cnNZ2qyE_tRBwWqBog",
-    "name": "歆西亞",
-    "thumbnail": "https://yt3.googleusercontent.com/GFTZ1JAFustlrH1Y-9EbzjwkBu76zWpKo6ShIaXlPRrBWEHyZS0G_dG2SidRzELDFWvvMi2K=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "新人Vtuber跟你說早安~ #Lofi #SpiritCityLofiSessions #Vtuber #台V #台灣Vtuber #歆西亞 #音欠西亞 #新人Vtuber",
-    "videoViewCount": "152",
-    "videoThumbnail": "https://i.ytimg.com/vi/QYnqQPRfrjg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0QpUPAjLh40qBZtH0PgIJebCnbg",
-    "videoUrl": "http://youtu.be/QYnqQPRfrjg",
-    "rank": 3,
+    "rank": 4,
     "rankVar": null
   }
 ]
