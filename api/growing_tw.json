@@ -1,27 +1,27 @@
 [
   {
-    "id": 5844,
-    "channelUrl": "https://www.youtube.com/channel/UC8ldmN1z2EW_LnHFsJvlDsg",
-    "name": "Ubi chan",
-    "thumbnail": "https://yt3.googleusercontent.com/e-LF6yYvJXoxKTlGFXiT93l5neoOa2NLC9Aa0LVBrOGWcGjEK2TkGvVMyPibPZ5Tl7FW4m1aQys=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "430",
-    "score": "4.37",
-    "videoTitle": "【AI Vtuber】今天5月1號勞動節，讓我們來談談加薪的說話藝術!!😎  #直式配信 #縱型配信   #aivtuber #ai #Vtuber #加薪 #勞動節 #勞工",
-    "videoViewCount": "351",
-    "videoThumbnail": "https://i.ytimg.com/vi/P3STw3wbdmo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2mDh5WjxYF7CDqaCjghJHFZjI5Q",
-    "videoUrl": "http://youtu.be/P3STw3wbdmo",
+    "id": 5957,
+    "channelUrl": "https://www.youtube.com/channel/UCOHK3Ro-EOc8075CdmOKLmQ",
+    "name": "吧噗",
+    "thumbnail": "https://yt3.googleusercontent.com/G1f1e1qUAY0hoKkJyVvVR53pQdJUPNMXON5Seaqt4BhJgtytdsvMVnLU8tZ9f7jOUznnc9fZb6E=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "2390",
+    "score": "3.91",
+    "videoTitle": "【 吧噗 🍦】 05/05 💤  助眠向 話語多，摩擦音、彈舌音、奇怪的聲音居多",
+    "videoViewCount": "2400",
+    "videoThumbnail": "https://i.ytimg.com/vi/9_V6l_BsTwI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_oUD_ZPoW0r7orZgW_Ls7RrC2UQ",
+    "videoUrl": "http://youtu.be/9_V6l_BsTwI",
     "rank": 1,
-    "rankVar": 6
+    "rankVar": null
   },
   {
     "id": 5862,
     "channelUrl": "https://www.youtube.com/channel/UCrTIAz6m9b5kXW8nY_X-KRQ",
     "name": "艾弗爾",
     "thumbnail": "https://yt3.googleusercontent.com/VaAvZesAFxEPyPbfv_vBCJUarvYLb3XkwA-P4nqO-ngLrul0AnOkuczAVCPPGYf6Bxl0O1JLW0w=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1830",
-    "score": "2.81",
+    "subscribe": "1840",
+    "score": "2.79",
     "videoTitle": "循風之際 - 艾弗爾 Aiverr〖原創曲〗",
-    "videoViewCount": "1882",
+    "videoViewCount": "1885",
     "videoThumbnail": "https://i.ytimg.com/vi/ZxBZBqRopIQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw3RuX39MdCGzVw1pdinf9sA_z0Q",
     "videoUrl": "http://youtu.be/ZxBZBqRopIQ",
     "rank": 2,
@@ -35,10 +35,24 @@
     "subscribe": "99",
     "score": "2.06",
     "videoTitle": "[和聲共鳴]天使にふれたよ by霓奈 七小汐 長河曉星[以心傳心]",
-    "videoViewCount": "171",
+    "videoViewCount": "174",
     "videoThumbnail": "https://i.ytimg.com/vi/xnPfnuB7_bQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhLID8ofzAP&rs=AOn4CLAng1mWJUK2063bcP97Sw1bdzo_8w",
     "videoUrl": "http://youtu.be/xnPfnuB7_bQ",
     "rank": 3,
-    "rankVar": 0
+    "rankVar": null
+  },
+  {
+    "id": 5726,
+    "channelUrl": "https://www.youtube.com/channel/UCIwo1Wnk1rpshiiiV91fFPA",
+    "name": "司鳳",
+    "thumbnail": "https://yt3.googleusercontent.com/ASZe-NBz0WqR8e-ZrwvTh4IfpIaxFFh_tC8opBoT0s-8160r-YMgZU-2GV6Isv-R0rXXN1vc=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "670",
+    "score": "1.21",
+    "videoTitle": "【隆中漫才】馬桶之歌【隆中閣_極度鳳晨(司鳳、葛晨)】",
+    "videoViewCount": "351",
+    "videoThumbnail": "https://i.ytimg.com/vi/LaFaGxFwKqs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVbwukX8L70BNu1cK31NMLu55j7w",
+    "videoUrl": "http://youtu.be/LaFaGxFwKqs",
+    "rank": 4,
+    "rankVar": 2
   }
 ]
