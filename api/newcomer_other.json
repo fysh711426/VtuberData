@@ -4,27 +4,13 @@
     "channelUrl": "https://www.youtube.com/channel/UCmq0RLem7LMEnsgSL62H8XA",
     "name": "縷奈娜",
     "thumbnail": "https://yt3.googleusercontent.com/QxbEB7djySIs9uqEINXOAbPJsfLzfWjDYY99QZpgFcyzLqfKFCsbtrNxubIZQeLNQnHBFXJbsFM=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "974",
-    "score": "974",
+    "subscribe": "975",
+    "score": "975",
     "videoTitle": "[900訂] 3D化吹水 初黎YT報到 請多多關照。￼初見掛台大歡迎。",
     "videoViewCount": "164",
     "videoThumbnail": "https://i.ytimg.com/vi/2Tjd1Fs1ohU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZnvok-qaeN2RWnNb0rVYXm4IGIA",
     "videoUrl": "http://youtu.be/2Tjd1Fs1ohU",
     "rank": 1,
-    "rankVar": null
-  },
-  {
-    "id": 6014,
-    "channelUrl": "https://www.youtube.com/channel/UC5fyHWvgBNHmq3XjcH2ILRA",
-    "name": "宅佩佩豬",
-    "thumbnail": "https://yt3.googleusercontent.com/BDotB5ZHeZf0B9LRsvFkW0c4id_G-x8MlmfTDLM7BA8popGrOk-thHI6DC7_4GKZqTJLtAgX=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "117",
-    "score": "117",
-    "videoTitle": "【Vtuber精華】不小心教了台灣小學生說廣東話髒話 ｜宅佩佩豬｜hkvtuber｜香港vtuber",
-    "videoViewCount": "157",
-    "videoThumbnail": "https://i.ytimg.com/vi/jMyQ0guGemY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIGUoZDAP&rs=AOn4CLBhwv7XE-orpNQeZFJs1yyLDltpsg",
-    "videoUrl": "http://youtu.be/jMyQ0guGemY",
-    "rank": 2,
     "rankVar": null
   },
   {
@@ -35,10 +21,24 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "【粵語翻唱 by Himeno Guome】泡沫花火（原曲：うたかた花火 《火影忍者疾風傳》ED14）",
-    "videoViewCount": "774",
+    "videoViewCount": "777",
     "videoThumbnail": "https://i.ytimg.com/vi/xeZ6wdHg8eI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzqqeEJn_MZ7D32OhMy1ceZqOqQQ",
     "videoUrl": "http://youtu.be/xeZ6wdHg8eI",
-    "rank": 3,
+    "rank": 2,
+    "rankVar": null
+  },
+  {
+    "id": 6014,
+    "channelUrl": "https://www.youtube.com/channel/UC5fyHWvgBNHmq3XjcH2ILRA",
+    "name": "宅佩佩豬",
+    "thumbnail": "https://yt3.googleusercontent.com/BDotB5ZHeZf0B9LRsvFkW0c4id_G-x8MlmfTDLM7BA8popGrOk-thHI6DC7_4GKZqTJLtAgX=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "【Vtuber精華】不小心教了台灣小學生說廣東話髒話 ｜宅佩佩豬｜hkvtuber｜香港vtuber",
+    "videoViewCount": "156",
+    "videoThumbnail": "https://i.ytimg.com/vi/jMyQ0guGemY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIGUoZDAP&rs=AOn4CLBhwv7XE-orpNQeZFJs1yyLDltpsg",
+    "videoUrl": "http://youtu.be/jMyQ0guGemY",
+    "rank": 2,
     "rankVar": null
   }
 ]
