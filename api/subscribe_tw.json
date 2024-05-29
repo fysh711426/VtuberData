@@ -1,101 +1,31 @@
 [
   {
+    "id": 577,
+    "channelUrl": "https://www.youtube.com/channel/UCgYobGgRQSOS2NMbNAGKtuw",
+    "name": "夜見愛夢",
+    "thumbnail": "https://yt3.googleusercontent.com/4geecnPDmTaC8ka_4M88QCyna3pk23HCOQUdn2mMlFTAA8wWt7oGrHRoPWzHdCjSQERmUoaBTA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "5840",
+    "score": "5,840",
+    "videoTitle": "【歌雜配信】520我愛你日主題歌回 記憶中的張韶涵【夜見愛夢】#台V #Vtuber #TWvtuber",
+    "videoViewCount": "926",
+    "videoThumbnail": "https://i.ytimg.com/vi/qSrIOFRlllY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYaEVRJxDYYrwiVrVK9s_AkK0D_Q",
+    "videoUrl": "http://youtu.be/qSrIOFRlllY",
+    "rank": 1,
+    "rankVar": 44
+  },
+  {
     "id": 5957,
     "channelUrl": "https://www.youtube.com/channel/UCOHK3Ro-EOc8075CdmOKLmQ",
     "name": "吧噗",
     "thumbnail": "https://yt3.googleusercontent.com/G1f1e1qUAY0hoKkJyVvVR53pQdJUPNMXON5Seaqt4BhJgtytdsvMVnLU8tZ9f7jOUznnc9fZb6E=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2460",
-    "score": "2,460",
+    "subscribe": "2470",
+    "score": "2,470",
     "videoTitle": "【 吧噗 🍦】 05/05 💤  助眠向 話語多，摩擦音、彈舌音、奇怪的聲音居多",
-    "videoViewCount": "2569",
+    "videoViewCount": "2606",
     "videoThumbnail": "https://i.ytimg.com/vi/9_V6l_BsTwI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_oUD_ZPoW0r7orZgW_Ls7RrC2UQ",
     "videoUrl": "http://youtu.be/9_V6l_BsTwI",
-    "rank": 1,
-    "rankVar": 82
-  },
-  {
-    "id": 5970,
-    "channelUrl": "https://www.youtube.com/channel/UCaLl5PjVvFBAqzn5WsfWsDA",
-    "name": "茉門",
-    "thumbnail": "https://yt3.googleusercontent.com/NOLdJ2gS7LADC_sXBXeGmO0yGbxaHGp_KBmiL4A6PGeCFnaTxRUt0A4bVWvXlmsboxfvM4xtKCA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1260",
-    "score": "1,260",
-    "videoTitle": "chAngE - miwa  / 茉門 Mormo 【Cover】",
-    "videoViewCount": "966",
-    "videoThumbnail": "https://i.ytimg.com/vi/wWXtUIPWyfw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJRfz1ZHUZDPEDfa6BpjvzD_6fpA",
-    "videoUrl": "http://youtu.be/wWXtUIPWyfw",
     "rank": 2,
-    "rankVar": 114
-  },
-  {
-    "id": 3867,
-    "channelUrl": "https://www.youtube.com/channel/UCA8nSxy_JxyD2unvgCAB6Qg",
-    "name": "糰糰熊比",
-    "thumbnail": "https://yt3.googleusercontent.com/bk7OLvM_MU5e5p4r2xli0TTlXqBlgl_mG4XTu-txNsoAfIGkTEzl7phGhLOehbllT3HDSosxuA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "1050",
-    "score": "1,050",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 3,
-    "rankVar": 262
-  },
-  {
-    "id": 5016,
-    "channelUrl": "https://www.youtube.com/channel/UCl7QieEU50Y0PW5YwbscX2A",
-    "name": "菲緹&卡波爾",
-    "thumbnail": "https://yt3.googleusercontent.com/wsYnK5nTXiQNTxUKSIyropNAjGHpYaOXoLN6omc9kvzNEBWSm3oti9Sy8-9SG8UzD8dyM6R-2w=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "774",
-    "score": "774",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 4,
-    "rankVar": 261
-  },
-  {
-    "id": 648,
-    "channelUrl": "https://www.youtube.com/channel/UCJyuFJycDpsv_i8nldpgy9Q",
-    "name": "狼桃琴蕾",
-    "thumbnail": "https://yt3.googleusercontent.com/uvtzBhFWfVSZ1U9Wgfype2q4s9t55mXCVTGHVsUAdL75GNSk9_3N53SDosqIOhmqYtww1X9wRA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "671",
-    "score": "671",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 5,
-    "rankVar": 126
-  },
-  {
-    "id": 4235,
-    "channelUrl": "https://www.youtube.com/channel/UCgcsXpelBL91q0UYn8CNG3w",
-    "name": "星波",
-    "thumbnail": "https://yt3.googleusercontent.com/n55VHfyGMYWj_sahgVqjRn3FCcpYmZL7oxEOCMbxqOQvvDb9AmD9w1KqB68dQgpxUQ4DjKz2dw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "370",
-    "score": "370",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 6,
-    "rankVar": 164
-  },
-  {
-    "id": 5186,
-    "channelUrl": "https://www.youtube.com/channel/UCjqbfaSPsWyQCx-EsXBXGwA",
-    "name": "哈卡彌悠希",
-    "thumbnail": "https://yt3.googleusercontent.com/ytc/AOPolaQNuk271Y_J36kNtTwbawr5qNaUcLTPVKzeNAORs3UDUVHpt83JIKVtIoDutr0k=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "316",
-    "score": "316",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 7,
-    "rankVar": 258
+    "rankVar": 73
   },
   {
     "id": 6008,
@@ -108,7 +38,7 @@
     "videoViewCount": "155",
     "videoThumbnail": "https://i.ytimg.com/vi/pti86mB0-V0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJUL1Rk2rAFOtqdPmMnEjimMY-8Q",
     "videoUrl": "http://youtu.be/pti86mB0-V0",
-    "rank": 8,
+    "rank": 3,
     "rankVar": null
   },
   {
@@ -116,14 +46,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCsfOggTlMU4bPxT67WeTkqA",
     "name": "森星祈",
     "thumbnail": "https://yt3.googleusercontent.com/XZ5mhOaiBY4yywldWwRDZhhKxp2jeygnfyPWCSxCvkv8AweMTLz6Kaxl5vaElLEdx__7p4zaoA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "190",
-    "score": "190",
+    "subscribe": "192",
+    "score": "192",
     "videoTitle": "【作業】一起作業吧【Projectvb所屬/森星祈】",
-    "videoViewCount": "265",
+    "videoViewCount": "270",
     "videoThumbnail": "https://i.ytimg.com/vi/zhMhHi-DUhQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCztx9d7g-gdpMbYteZVogjx1ANRQ",
     "videoUrl": "http://youtu.be/zhMhHi-DUhQ",
-    "rank": 9,
-    "rankVar": 215
+    "rank": 4,
+    "rankVar": 201
   },
   {
     "id": 5994,
@@ -136,7 +66,7 @@
     "videoViewCount": "393",
     "videoThumbnail": "https://i.ytimg.com/vi/R3JOLTTdVB0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBm86RLNVHkyoA7FOIzgKxEGQkXg",
     "videoUrl": "http://youtu.be/R3JOLTTdVB0",
-    "rank": 10,
+    "rank": 5,
     "rankVar": null
   },
   {
@@ -147,10 +77,24 @@
     "subscribe": "158",
     "score": "158",
     "videoTitle": "【初配信】「能告訴我更多有關這世界的事嗎？」",
-    "videoViewCount": "342",
+    "videoViewCount": "347",
     "videoThumbnail": "https://i.ytimg.com/vi/r2gucV58acg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnbh6aRArs5fqpaIBNrDvq42Djdg",
     "videoUrl": "http://youtu.be/r2gucV58acg",
-    "rank": 11,
+    "rank": 6,
+    "rankVar": null
+  },
+  {
+    "id": 6010,
+    "channelUrl": "https://www.youtube.com/channel/UCKRhqPprPtp6bBla0WJc91Q",
+    "name": "星婉",
+    "thumbnail": "https://yt3.googleusercontent.com/F_THFd2uYyeySy_csg6Nv6qJSBshs0k53sO47cU_4gthYACXX9P9uOSAeqdMEcwOkXQRt6O3Sg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "140",
+    "score": "140",
+    "videoTitle": "初配信超pon!! 叛逆不出來的聊天室vs不算聽話有出來的轉場!",
+    "videoViewCount": "59",
+    "videoThumbnail": "https://i.ytimg.com/vi/52PYygW0zAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0Se45y8JFGwwOlCiazfIqEqJw7g",
+    "videoUrl": "http://youtu.be/52PYygW0zAA",
+    "rank": 7,
     "rankVar": null
   },
   {
@@ -164,8 +108,22 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 12,
-    "rankVar": 210
+    "rank": 8,
+    "rankVar": 194
+  },
+  {
+    "id": 4360,
+    "channelUrl": "https://www.youtube.com/channel/UCsbCCK4-Z8J3PSjpk8AY3_Q",
+    "name": "鬼崎魁",
+    "thumbnail": "https://yt3.googleusercontent.com/ytc/AOPolaRWH5tZhCViIuiEXgLBv4Cs117C_13-9ukUI8fD=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "99",
+    "score": "99",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
+    "rank": 9,
+    "rankVar": 197
   },
   {
     "id": 4682,
@@ -178,8 +136,8 @@
     "videoViewCount": "44",
     "videoThumbnail": "https://i.ytimg.com/vi/riRP7Ms86B8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAGx_zzEDiswEe1v8iZDPmPXVqXg",
     "videoUrl": "http://youtu.be/riRP7Ms86B8",
-    "rank": 13,
-    "rankVar": 215
+    "rank": 10,
+    "rankVar": 199
   },
   {
     "id": 5884,
@@ -192,8 +150,22 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 14,
-    "rankVar": 221
+    "rank": 11,
+    "rankVar": 204
+  },
+  {
+    "id": 4445,
+    "channelUrl": "https://www.youtube.com/channel/UCK4EiRVVboFthoF8y9RS2RQ",
+    "name": "若炎夏安",
+    "thumbnail": "https://yt3.googleusercontent.com/ba82tC9p21H2N3Dqmzf99HeUO0U3gxbLM--1DIkDIo29CMF0MsVLXsxDeH_RctETseyOurGZXA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "56",
+    "score": "56",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
+    "rank": 12,
+    "rankVar": 207
   },
   {
     "id": 5042,
@@ -206,22 +178,8 @@
     "videoViewCount": "1",
     "videoThumbnail": "https://i.ytimg.com/vi/7zKgNhwYiS0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEgoQzAP&rs=AOn4CLANfquvq3-AJTNWkjl2IfSwprAupw",
     "videoUrl": "http://youtu.be/7zKgNhwYiS0",
-    "rank": 15,
-    "rankVar": 238
-  },
-  {
-    "id": 5374,
-    "channelUrl": "https://www.youtube.com/channel/UCdR-3-NBwv9LDfwybGuEA0Q",
-    "name": "雨沫",
-    "thumbnail": "https://yt3.googleusercontent.com/1pdKrqjUaJgpkGuzh7eZv1h6NCqUKXMRzPg9gARJc-tODcGGOb4Sxf_i-qVj8MspcPnf55xHFA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "37",
-    "score": "37",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 16,
-    "rankVar": 239
+    "rank": 13,
+    "rankVar": 217
   },
   {
     "id": 5906,
@@ -234,8 +192,22 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 17,
-    "rankVar": 248
+    "rank": 14,
+    "rankVar": 218
+  },
+  {
+    "id": 5887,
+    "channelUrl": "https://www.youtube.com/channel/UC2rWXNv_HlXlENDgQK89m3w",
+    "name": "飛凡雷厲",
+    "thumbnail": "https://yt3.googleusercontent.com/e_Wga2STmPKqMI8ero19ADjSC2TBuF9MiW3_OrKuAbV3MJWLD3RKtXA9iKmb87ciQfk7Xc16JYY=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "31",
+    "score": "31",
+    "videoTitle": "【飛凡雷厲】P的謊言#6 我快把遊戲打完了對吧?對嗎?",
+    "videoViewCount": "13",
+    "videoThumbnail": "https://i.ytimg.com/vi/I_HiRAE9uRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTkAkNezU_eaYhy2xZsMbPxZepew",
+    "videoUrl": "http://youtu.be/I_HiRAE9uRU",
+    "rank": 15,
+    "rankVar": 222
   },
   {
     "id": 5342,
@@ -248,50 +220,22 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 18,
-    "rankVar": 239
+    "rank": 16,
+    "rankVar": 218
   },
   {
-    "id": 5887,
-    "channelUrl": "https://www.youtube.com/channel/UC2rWXNv_HlXlENDgQK89m3w",
-    "name": "飛凡雷厲",
-    "thumbnail": "https://yt3.googleusercontent.com/e_Wga2STmPKqMI8ero19ADjSC2TBuF9MiW3_OrKuAbV3MJWLD3RKtXA9iKmb87ciQfk7Xc16JYY=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "30",
-    "score": "30",
-    "videoTitle": "【飛凡雷厲】P的謊言#6 我快把遊戲打完了對吧?對嗎?",
-    "videoViewCount": "13",
-    "videoThumbnail": "https://i.ytimg.com/vi/I_HiRAE9uRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTkAkNezU_eaYhy2xZsMbPxZepew",
-    "videoUrl": "http://youtu.be/I_HiRAE9uRU",
-    "rank": 18,
-    "rankVar": 242
-  },
-  {
-    "id": 4504,
-    "channelUrl": "https://www.youtube.com/channel/UC4PuDjmoOaXMuHjE1dBBuvw",
-    "name": "瀧崎 Takizaki",
-    "thumbnail": "https://yt3.googleusercontent.com/v05DPwjNGrv-MWEQeBsd5Hfz-SX4OoQ3Sn9uaX-KmRuwEoq0I2StMOdJ31pz5Ps9hyGRMBKz07o=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "22",
-    "score": "22",
+    "id": 6023,
+    "channelUrl": "https://www.youtube.com/channel/UCMeY1HL23pH-LiDt91pZHZw",
+    "name": "犬丸曦羅",
+    "thumbnail": "https://yt3.googleusercontent.com/_YEwqyDcdz1YG7_Eg_5moUMYcSw-6yaCsAEbZMFiARUSRu_sdtZh7YYrs5WjINLY8LFUl1fL=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "28",
+    "score": "28",
     "videoTitle": "",
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 20,
-    "rankVar": 242
-  },
-  {
-    "id": 5771,
-    "channelUrl": "https://www.youtube.com/channel/UCL0ppNHOThk49y17etcIcgg",
-    "name": "大山水澤",
-    "thumbnail": "https://yt3.googleusercontent.com/bqgZMLQ5bfKVVlnvBggs_9LA_CMFolZyi2Ki4-YV_ZQiSr2QNM5qR3OBWlFjvM9-tQcgUm0XaDw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "10",
-    "score": "10",
-    "videoTitle": "5/19【Fate Grand Order】 FGO七周年 抽福袋與月姬公主   特別來賓-幽穆伊里",
-    "videoViewCount": "268",
-    "videoThumbnail": "https://i.ytimg.com/vi/UZUSoXNSfSI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQsLctm-sU_SUmW0pe2BW4LnMLCw",
-    "videoUrl": "http://youtu.be/UZUSoXNSfSI",
-    "rank": 21,
-    "rankVar": 243
+    "rank": 17,
+    "rankVar": null
   },
   {
     "id": 228,
@@ -304,50 +248,64 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 22,
-    "rankVar": 56
+    "rank": 18,
+    "rankVar": 53
   },
   {
-    "id": 577,
-    "channelUrl": "https://www.youtube.com/channel/UCgYobGgRQSOS2NMbNAGKtuw",
-    "name": "夜見愛夢",
-    "thumbnail": "https://yt3.googleusercontent.com/4geecnPDmTaC8ka_4M88QCyna3pk23HCOQUdn2mMlFTAA8wWt7oGrHRoPWzHdCjSQERmUoaBTA=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "【歌雜配信】520我愛你日主題歌回 記憶中的張韶涵【夜見愛夢】#台V #Vtuber #TWvtuber",
-    "videoViewCount": "925",
-    "videoThumbnail": "https://i.ytimg.com/vi/qSrIOFRlllY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYaEVRJxDYYrwiVrVK9s_AkK0D_Q",
-    "videoUrl": "http://youtu.be/qSrIOFRlllY",
-    "rank": 22,
-    "rankVar": 27
-  },
-  {
-    "id": 4360,
-    "channelUrl": "https://www.youtube.com/channel/UCsbCCK4-Z8J3PSjpk8AY3_Q",
-    "name": "鬼崎魁",
-    "thumbnail": "https://yt3.googleusercontent.com/ytc/AOPolaRWH5tZhCViIuiEXgLBv4Cs117C_13-9ukUI8fD=s176-c-k-c0x00ffffff-no-rj",
+    "id": 648,
+    "channelUrl": "https://www.youtube.com/channel/UCJyuFJycDpsv_i8nldpgy9Q",
+    "name": "狼桃琴蕾",
+    "thumbnail": "https://yt3.googleusercontent.com/uvtzBhFWfVSZ1U9Wgfype2q4s9t55mXCVTGHVsUAdL75GNSk9_3N53SDosqIOhmqYtww1X9wRA=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "0",
     "score": "0",
     "videoTitle": "",
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 22,
-    "rankVar": 203
+    "rank": 18,
+    "rankVar": 102
   },
   {
-    "id": 4445,
-    "channelUrl": "https://www.youtube.com/channel/UCK4EiRVVboFthoF8y9RS2RQ",
-    "name": "若炎夏安",
-    "thumbnail": "https://yt3.googleusercontent.com/ba82tC9p21H2N3Dqmzf99HeUO0U3gxbLM--1DIkDIo29CMF0MsVLXsxDeH_RctETseyOurGZXA=s176-c-k-c0x00ffffff-no-rj",
+    "id": 3867,
+    "channelUrl": "https://www.youtube.com/channel/UCA8nSxy_JxyD2unvgCAB6Qg",
+    "name": "糰糰熊比",
+    "thumbnail": "https://yt3.googleusercontent.com/bk7OLvM_MU5e5p4r2xli0TTlXqBlgl_mG4XTu-txNsoAfIGkTEzl7phGhLOehbllT3HDSosxuA=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "0",
     "score": "0",
     "videoTitle": "",
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 22,
-    "rankVar": 218
+    "rank": 18,
+    "rankVar": 86
+  },
+  {
+    "id": 4235,
+    "channelUrl": "https://www.youtube.com/channel/UCgcsXpelBL91q0UYn8CNG3w",
+    "name": "星波",
+    "thumbnail": "https://yt3.googleusercontent.com/n55VHfyGMYWj_sahgVqjRn3FCcpYmZL7oxEOCMbxqOQvvDb9AmD9w1KqB68dQgpxUQ4DjKz2dw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
+    "rank": 18,
+    "rankVar": 137
+  },
+  {
+    "id": 4504,
+    "channelUrl": "https://www.youtube.com/channel/UC4PuDjmoOaXMuHjE1dBBuvw",
+    "name": "瀧崎 Takizaki",
+    "thumbnail": "https://yt3.googleusercontent.com/v05DPwjNGrv-MWEQeBsd5Hfz-SX4OoQ3Sn9uaX-KmRuwEoq0I2StMOdJ31pz5Ps9hyGRMBKz07o=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
+    "rank": 18,
+    "rankVar": 221
   },
   {
     "id": 4535,
@@ -360,8 +318,8 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 22,
-    "rankVar": 243
+    "rank": 18,
+    "rankVar": 224
   },
   {
     "id": 4859,
@@ -374,8 +332,36 @@
     "videoViewCount": "120",
     "videoThumbnail": "https://i.ytimg.com/vi/YB9lUtcz1Qc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4ApLMjjf2pcnpTveBSsFWZfQyPQ",
     "videoUrl": "http://youtu.be/YB9lUtcz1Qc",
-    "rank": 22,
-    "rankVar": 181
+    "rank": 18,
+    "rankVar": 168
+  },
+  {
+    "id": 5016,
+    "channelUrl": "https://www.youtube.com/channel/UCl7QieEU50Y0PW5YwbscX2A",
+    "name": "菲緹&卡波爾",
+    "thumbnail": "https://yt3.googleusercontent.com/wsYnK5nTXiQNTxUKSIyropNAjGHpYaOXoLN6omc9kvzNEBWSm3oti9Sy8-9SG8UzD8dyM6R-2w=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
+    "rank": 18,
+    "rankVar": 95
+  },
+  {
+    "id": 5186,
+    "channelUrl": "https://www.youtube.com/channel/UCjqbfaSPsWyQCx-EsXBXGwA",
+    "name": "哈卡彌悠希",
+    "thumbnail": "https://yt3.googleusercontent.com/ytc/AOPolaQNuk271Y_J36kNtTwbawr5qNaUcLTPVKzeNAORs3UDUVHpt83JIKVtIoDutr0k=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
+    "rank": 18,
+    "rankVar": 224
   },
   {
     "id": 5346,
@@ -388,8 +374,22 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 22,
-    "rankVar": 222
+    "rank": 18,
+    "rankVar": 205
+  },
+  {
+    "id": 5374,
+    "channelUrl": "https://www.youtube.com/channel/UCdR-3-NBwv9LDfwybGuEA0Q",
+    "name": "雨沫",
+    "thumbnail": "https://yt3.googleusercontent.com/1pdKrqjUaJgpkGuzh7eZv1h6NCqUKXMRzPg9gARJc-tODcGGOb4Sxf_i-qVj8MspcPnf55xHFA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
+    "rank": 18,
+    "rankVar": 213
   },
   {
     "id": 5407,
@@ -402,8 +402,8 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 22,
-    "rankVar": 166
+    "rank": 18,
+    "rankVar": 155
   },
   {
     "id": 5546,
@@ -416,8 +416,22 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 22,
-    "rankVar": 243
+    "rank": 18,
+    "rankVar": 224
+  },
+  {
+    "id": 5771,
+    "channelUrl": "https://www.youtube.com/channel/UCL0ppNHOThk49y17etcIcgg",
+    "name": "大山水澤",
+    "thumbnail": "https://yt3.googleusercontent.com/bqgZMLQ5bfKVVlnvBggs_9LA_CMFolZyi2Ki4-YV_ZQiSr2QNM5qR3OBWlFjvM9-tQcgUm0XaDw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "5/19【Fate Grand Order】 FGO七周年 抽福袋與月姬公主   特別來賓-幽穆伊里",
+    "videoViewCount": "277",
+    "videoThumbnail": "https://i.ytimg.com/vi/UZUSoXNSfSI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQsLctm-sU_SUmW0pe2BW4LnMLCw",
+    "videoUrl": "http://youtu.be/UZUSoXNSfSI",
+    "rank": 18,
+    "rankVar": 223
   },
   {
     "id": 5844,
@@ -430,8 +444,8 @@
     "videoViewCount": "352",
     "videoThumbnail": "https://i.ytimg.com/vi/P3STw3wbdmo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2mDh5WjxYF7CDqaCjghJHFZjI5Q",
     "videoUrl": "http://youtu.be/P3STw3wbdmo",
-    "rank": 22,
-    "rankVar": 149
+    "rank": 18,
+    "rankVar": 138
   },
   {
     "id": 5862,
@@ -441,11 +455,11 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "循風之際 - 艾弗爾 Aiverr〖原創曲〗",
-    "videoViewCount": "1912",
+    "videoViewCount": "1924",
     "videoThumbnail": "https://i.ytimg.com/vi/ZxBZBqRopIQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBw3RuX39MdCGzVw1pdinf9sA_z0Q",
     "videoUrl": "http://youtu.be/ZxBZBqRopIQ",
-    "rank": 22,
-    "rankVar": 69
+    "rank": 18,
+    "rankVar": 65
   },
   {
     "id": 5892,
@@ -455,10 +469,10 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "MOJOY Live 進軍Vtuber市場！台V最大箱？！水餃好吃嗎？有興趣的趕快去應徵！ #台灣vtuber",
-    "videoViewCount": "1523",
+    "videoViewCount": "1527",
     "videoThumbnail": "https://i.ytimg.com/vi/sWidVaQPaZ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0H3wXbKh66K83bdiPzigxTzYxxg",
     "videoUrl": "http://youtu.be/sWidVaQPaZ4",
-    "rank": 22,
+    "rank": 18,
     "rankVar": 36
   },
   {
@@ -472,8 +486,22 @@
     "videoViewCount": "67",
     "videoThumbnail": "https://i.ytimg.com/vi/AtA3kNHlHrU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjpKCOak51kYoyqEAm4EJ__U6VRQ",
     "videoUrl": "http://youtu.be/AtA3kNHlHrU",
-    "rank": 22,
-    "rankVar": 213
+    "rank": 18,
+    "rankVar": 197
+  },
+  {
+    "id": 5970,
+    "channelUrl": "https://www.youtube.com/channel/UCaLl5PjVvFBAqzn5WsfWsDA",
+    "name": "茉門",
+    "thumbnail": "https://yt3.googleusercontent.com/NOLdJ2gS7LADC_sXBXeGmO0yGbxaHGp_KBmiL4A6PGeCFnaTxRUt0A4bVWvXlmsboxfvM4xtKCA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "chAngE - miwa  / 茉門 Mormo 【Cover】",
+    "videoViewCount": "968",
+    "videoThumbnail": "https://i.ytimg.com/vi/wWXtUIPWyfw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJRfz1ZHUZDPEDfa6BpjvzD_6fpA",
+    "videoUrl": "http://youtu.be/wWXtUIPWyfw",
+    "rank": 18,
+    "rankVar": 88
   },
   {
     "id": 5983,
@@ -486,36 +514,8 @@
     "videoViewCount": "14",
     "videoThumbnail": "https://i.ytimg.com/vi/B5cj9d05IJk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBbvJ6B7BQQQmiRVNdkjQ1VJAr4A",
     "videoUrl": "http://youtu.be/B5cj9d05IJk",
-    "rank": 22,
-    "rankVar": 195
-  },
-  {
-    "id": 6010,
-    "channelUrl": "https://www.youtube.com/channel/UCKRhqPprPtp6bBla0WJc91Q",
-    "name": "星婉",
-    "thumbnail": "https://yt3.googleusercontent.com/F_THFd2uYyeySy_csg6Nv6qJSBshs0k53sO47cU_4gthYACXX9P9uOSAeqdMEcwOkXQRt6O3Sg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "初配信超pon!! 叛逆不出來的聊天室vs不算聽話有出來的轉場!",
-    "videoViewCount": "56",
-    "videoThumbnail": "https://i.ytimg.com/vi/52PYygW0zAA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0Se45y8JFGwwOlCiazfIqEqJw7g",
-    "videoUrl": "http://youtu.be/52PYygW0zAA",
-    "rank": 22,
-    "rankVar": null
-  },
-  {
-    "id": 6023,
-    "channelUrl": "https://www.youtube.com/channel/UCMeY1HL23pH-LiDt91pZHZw",
-    "name": "犬丸曦羅",
-    "thumbnail": "https://yt3.googleusercontent.com/_YEwqyDcdz1YG7_Eg_5moUMYcSw-6yaCsAEbZMFiARUSRu_sdtZh7YYrs5WjINLY8LFUl1fL=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 22,
-    "rankVar": null
+    "rank": 18,
+    "rankVar": 181
   },
   {
     "id": 6024,
@@ -528,7 +528,7 @@
     "videoViewCount": "37",
     "videoThumbnail": "https://i.ytimg.com/vi/t0fWkYHWDTM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJqMqDpy88A1aFEsGLcr_N-Sh5dQ",
     "videoUrl": "http://youtu.be/t0fWkYHWDTM",
-    "rank": 22,
+    "rank": 18,
     "rankVar": null
   }
 ]
