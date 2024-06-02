@@ -1,31 +1,45 @@
 [
   {
+    "id": 1255,
+    "channelUrl": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA",
+    "name": "叶",
+    "thumbnail": "https://yt3.ggpht.com/dfCsIDvqaK7K1yIzVFGEq5-1cBAdERky6P4qwqcyXFNLVW1cV-rx7J-Gaj6dUSl2ZaRNPdl0gg=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "130萬",
+    "score": "1,300,000",
+    "videoTitle": "心予報/歌わせていただきました。",
+    "videoViewCount": "60.49萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/OPzbUoLxYyE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRtRMxJcO8IGz84G-wo0psUesF5g",
+    "videoUrl": "http://youtu.be/OPzbUoLxYyE",
+    "rank": 1,
+    "rankVar": 14
+  },
+  {
+    "id": 1269,
+    "channelUrl": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
+    "name": "月之美兔",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_5F67Gd0pbRC0H_Gusm_5STDsrLm9V-UqFwDyB4Q=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "121萬",
+    "score": "1,210,000",
+    "videoTitle": "好きなラーメンを食う 【一蘭】",
+    "videoViewCount": "58.68萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/p6xWbMg4B_0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCIblI6fBQb62_Zj3ctOlx9h7tLw",
+    "videoUrl": "http://youtu.be/p6xWbMg4B_0",
+    "rank": 2,
+    "rankVar": 13
+  },
+  {
     "id": 1338,
     "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
     "name": "クロノワール(叶 葛葉)",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "91萬",
-    "score": "910,000",
+    "subscribe": "91.1萬",
+    "score": "911,000",
     "videoTitle": "【k4sen&ボドカ襲来】ストリーマーに再びひっかけクイズ出してみた結果… #くろなん",
-    "videoViewCount": "82.73萬",
+    "videoViewCount": "83.08萬",
     "videoThumbnail": "https://i.ytimg.com/vi/zh4JxMX5sSk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM4be2b23WnR4w1TE9mmlRdKQIcg",
     "videoUrl": "http://youtu.be/zh4JxMX5sSk",
-    "rank": 1,
-    "rankVar": 2
-  },
-  {
-    "id": 1313,
-    "channelUrl": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
-    "name": "勇氣千尋",
-    "thumbnail": "https://yt3.googleusercontent.com/HC0inff8QxW-ez4Wl7ItCqgkmdJmJn2H8ch26-yw0NMXO4soVmU39R8O2dszyS-vRpNkKeouQzU=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "64.9萬",
-    "score": "649,000",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 2,
-    "rankVar": 2
+    "rank": 3,
+    "rankVar": -2
   },
   {
     "id": 1432,
@@ -34,26 +48,12 @@
     "thumbnail": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "62.1萬",
     "score": "621,000",
-    "videoTitle": "【VR CHAT】I'm bringing back #RenKi【NIJISANJI EN | Uki Violeta】",
-    "videoViewCount": "3.38萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/hgY69gd9OCM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-e3ksIaiacaGXiB7nY7GxIPQW9w",
-    "videoUrl": "http://youtu.be/hgY69gd9OCM",
-    "rank": 3,
-    "rankVar": 8
-  },
-  {
-    "id": 1459,
-    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
-    "name": "エルフのえる",
-    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "60.3萬",
-    "score": "603,000",
-    "videoTitle": "フィクサー - ぬゆり covered by える",
-    "videoViewCount": "21.72萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/5CC-AfAd7J8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPU_gcRlK5v0Y3SzNAu0bW_NeC4g",
-    "videoUrl": "http://youtu.be/5CC-AfAd7J8",
+    "videoTitle": "【HELLDIVERS 2】dick knocking in hell【NIJISANJI EN | Uki Violeta】",
+    "videoViewCount": "2.32萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/nreu89kVVzY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf0COA2RD1YfM_grhuQVbnjtuDLg",
+    "videoUrl": "http://youtu.be/nreu89kVVzY",
     "rank": 4,
-    "rankVar": 7
+    "rankVar": -1
   },
   {
     "id": 1380,
@@ -63,11 +63,39 @@
     "subscribe": "51.3萬",
     "score": "513,000",
     "videoTitle": "【#にじさんじスマブラ杯】出場ライバーのキャラ選択音声収録配信2024【にじさんじ/ジョー・力一】",
-    "videoViewCount": "24.46萬",
+    "videoViewCount": "25.87萬",
     "videoThumbnail": "https://i.ytimg.com/vi/TkmzMNcX5h4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxRhD9BEyVwZQQ2HXVcsmyi6G6ww",
     "videoUrl": "http://youtu.be/TkmzMNcX5h4",
     "rank": 5,
-    "rankVar": 1
+    "rankVar": 0
+  },
+  {
+    "id": 3505,
+    "channelUrl": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
+    "name": "マリアマリネット",
+    "thumbnail": "https://yt3.googleusercontent.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "42.2萬",
+    "score": "422,000",
+    "videoTitle": "【Moonlight Destiny - りすこ from STAR☆ANIS 】Cover by Maria Marionette & Elira Pendora ♡ NIJISANJI EＮ",
+    "videoViewCount": "4.23萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/V0m7bsAqWzQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM12PSDBT2FWuKhh27ag5tPcuzWQ",
+    "videoUrl": "http://youtu.be/V0m7bsAqWzQ",
+    "rank": 6,
+    "rankVar": 0
+  },
+  {
+    "id": 1442,
+    "channelUrl": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
+    "name": "長尾景",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_TOPZT9GmdmXkUwpCWw-R83yEPT7mOt7rgR4T5=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "41.5萬",
+    "score": "415,000",
+    "videoTitle": "【＃にじさんじスマブラ杯】おれは...だれだ。。。ここはけっしょう。。。【長尾景/にじさんじ】",
+    "videoViewCount": "5.6萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/U70CKNASItk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1KR8kPhCaLJ2SjngHLXAPWiYuJg",
+    "videoUrl": "http://youtu.be/U70CKNASItk",
+    "rank": 7,
+    "rankVar": 0
   },
   {
     "id": 1367,
@@ -80,8 +108,8 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 6,
-    "rankVar": 1
+    "rank": 8,
+    "rankVar": 7
   },
   {
     "id": 3443,
@@ -91,25 +119,11 @@
     "subscribe": "33.8萬",
     "score": "338,000",
     "videoTitle": "渡会雲雀を人生初のコストコに連れていこう！【Vlog?/四季凪アキラ/渡会雲雀/風楽奏斗/セラフ・ダズルガーデン/VOLTACTION/にじさんじ】",
-    "videoViewCount": "34.65萬",
+    "videoViewCount": "34.75萬",
     "videoThumbnail": "https://i.ytimg.com/vi/DLz_DLf3WXM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNzGXPx3byABCgLPjgrCjCV1bIuA",
     "videoUrl": "http://youtu.be/DLz_DLf3WXM",
-    "rank": 7,
-    "rankVar": 4
-  },
-  {
-    "id": 1451,
-    "channelUrl": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw",
-    "name": "夢追翔",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8gugJg3MtiqBIxbnvoCr0mJDKH4S4Jb4DV5Ys3=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "32.8萬",
-    "score": "328,000",
-    "videoTitle": "ジェヘナ(Gehenna) / wotaku (Covered by 夢追翔)【歌ってみた/にじさんじ】",
-    "videoViewCount": "56.02萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/zEUybWru-sU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoD0Ue-m90fcFNalNy_kTbJVnXnA",
-    "videoUrl": "http://youtu.be/zEUybWru-sU",
-    "rank": 8,
-    "rankVar": 3
+    "rank": 9,
+    "rankVar": 0
   },
   {
     "id": 3444,
@@ -119,39 +133,25 @@
     "subscribe": "26.3萬",
     "score": "263,000",
     "videoTitle": "2つのヴァイオリンのための協奏曲ニ短調 第1楽章 / J.S.バッハ(演奏：Seraph Dazzlegarden)",
-    "videoViewCount": "26.61萬",
+    "videoViewCount": "26.72萬",
     "videoThumbnail": "https://i.ytimg.com/vi/14sfFjTjWtc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdZ0YJkUlkk0B0i8SyFED0uJpUFA",
     "videoUrl": "http://youtu.be/14sfFjTjWtc",
-    "rank": 9,
-    "rankVar": 2
+    "rank": 10,
+    "rankVar": 5
   },
   {
-    "id": 1255,
-    "channelUrl": "https://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA",
-    "name": "叶",
-    "thumbnail": "https://yt3.ggpht.com/dfCsIDvqaK7K1yIzVFGEq5-1cBAdERky6P4qwqcyXFNLVW1cV-rx7J-Gaj6dUSl2ZaRNPdl0gg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "浴槽とネオンテトラ/歌わせていただきました。",
-    "videoViewCount": "127.66萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/Y6QQk9Yukpg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDa4XQbL9JRnlLDf25rTxjgICcUVQ",
-    "videoUrl": "http://youtu.be/Y6QQk9Yukpg",
-    "rank": 10,
-    "rankVar": -8
-  },
-  {
-    "id": 1269,
-    "channelUrl": "https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A",
-    "name": "月之美兔",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_5F67Gd0pbRC0H_Gusm_5STDsrLm9V-UqFwDyB4Q=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "好きなラーメンを食う 【一蘭】",
-    "videoViewCount": "56.92萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/p6xWbMg4B_0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCIblI6fBQb62_Zj3ctOlx9h7tLw",
-    "videoUrl": "http://youtu.be/p6xWbMg4B_0",
-    "rank": 10,
-    "rankVar": 1
+    "id": 2334,
+    "channelUrl": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
+    "name": "GAON",
+    "thumbnail": "https://yt3.ggpht.com/nt93BUDwRGz68y1qE9klz3rNpHsUqQPniggUngnQqqIwaxmaIAKeDkLh5tBrahfz2n_8YarUQw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "5萬",
+    "score": "50,000",
+    "videoTitle": "Cosmo Spice / Cover by Gaon & NaSera 【NIJISANJI】",
+    "videoViewCount": "7576",
+    "videoThumbnail": "https://i.ytimg.com/vi/0d7JTeaQ5Dw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhMba164qkR7lw5vL6HOuNLkfq5A",
+    "videoUrl": "http://youtu.be/0d7JTeaQ5Dw",
+    "rank": 11,
+    "rankVar": 3
   },
   {
     "id": 1281,
@@ -161,11 +161,25 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "ハッピーシンセサイザ／covered by星川サラ×憩居ももあ",
-    "videoViewCount": "38.61萬",
+    "videoViewCount": "38.89萬",
     "videoThumbnail": "https://i.ytimg.com/vi/og7UWM65nOU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAiezz_we56hszkchpQfXGTVhyW5A",
     "videoUrl": "http://youtu.be/og7UWM65nOU",
-    "rank": 10,
-    "rankVar": 1
+    "rank": 12,
+    "rankVar": 3
+  },
+  {
+    "id": 1313,
+    "channelUrl": "https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ",
+    "name": "勇氣千尋",
+    "thumbnail": "https://yt3.googleusercontent.com/HC0inff8QxW-ez4Wl7ItCqgkmdJmJn2H8ch26-yw0NMXO4soVmU39R8O2dszyS-vRpNkKeouQzU=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
+    "rank": 12,
+    "rankVar": 3
   },
   {
     "id": 1331,
@@ -174,12 +188,12 @@
     "thumbnail": "https://yt3.ggpht.com/oeFiPfvbizpVTzE5FVOF1fNPFwUvu4CukNEk0PVmyLoIBbNAbtCyuYt1Z1P9cE7XoBBslJlp=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "0",
     "score": "0",
-    "videoTitle": "【#にじさんじスマブラ杯】エンジョイ‼にじさんじスマブラ杯トーナメント抽選会【2024】",
-    "videoViewCount": "20.49萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/ynm_aKp1i8c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKAlGoC8rVzSo3keQH9tQeS7xYqw",
-    "videoUrl": "http://youtu.be/ynm_aKp1i8c",
-    "rank": 10,
-    "rankVar": 1
+    "videoTitle": "【#にじさんじスマブラ杯】エンジョイ‼にじさんじスマブラ杯 本配信【2024】",
+    "videoViewCount": "172.01萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/qwTpIsDHr4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBztq6plSpfUaUZpt8zX1oA51C2Iw",
+    "videoUrl": "http://youtu.be/qwTpIsDHr4g",
+    "rank": 12,
+    "rankVar": -10
   },
   {
     "id": 1352,
@@ -189,25 +203,39 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "【ストグラ】#スコの観測記録　DAY1※鳩禁止※【健屋花那/にじさんじ】",
-    "videoViewCount": "21.09萬",
+    "videoViewCount": "21.11萬",
     "videoThumbnail": "https://i.ytimg.com/vi/zB2h7kUTFTY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDAZuvDtUQcJu-Qp-GUFQZddGot8g",
     "videoUrl": "http://youtu.be/zB2h7kUTFTY",
-    "rank": 10,
-    "rankVar": -5
+    "rank": 12,
+    "rankVar": 3
   },
   {
-    "id": 1442,
-    "channelUrl": "https://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg",
-    "name": "長尾景",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_TOPZT9GmdmXkUwpCWw-R83yEPT7mOt7rgR4T5=s176-c-k-c0x00ffffff-no-rj",
+    "id": 1451,
+    "channelUrl": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw",
+    "name": "夢追翔",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8gugJg3MtiqBIxbnvoCr0mJDKH4S4Jb4DV5Ys3=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "0",
     "score": "0",
-    "videoTitle": "【あつまれどうぶつの森】あ　さ　か　つ　か　い　し【長尾景/にじさんじ】",
-    "videoViewCount": "4.39萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/G3GSqjTNfBw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAF3Kh19z7bey6qX2lNvC_SDczZxg",
-    "videoUrl": "http://youtu.be/G3GSqjTNfBw",
-    "rank": 10,
+    "videoTitle": "ジェヘナ(Gehenna) / wotaku (Covered by 夢追翔)【歌ってみた/にじさんじ】",
+    "videoViewCount": "56.37萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/zEUybWru-sU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoD0Ue-m90fcFNalNy_kTbJVnXnA",
+    "videoUrl": "http://youtu.be/zEUybWru-sU",
+    "rank": 12,
     "rankVar": -2
+  },
+  {
+    "id": 1459,
+    "channelUrl": "https://www.youtube.com/channel/UCYKP16oMX9KKPbrNgo_Kgag",
+    "name": "エルフのえる",
+    "thumbnail": "https://yt3.ggpht.com/26R8XFV99jxPzHJ_2dYD6yXFtU9tEvgoZaMJpEchRoqDX1ds1Jq7DjKrKhkXxvXKnWKdTem_=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "フィクサー - ぬゆり covered by える",
+    "videoViewCount": "21.83萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/5CC-AfAd7J8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPU_gcRlK5v0Y3SzNAu0bW_NeC4g",
+    "videoUrl": "http://youtu.be/5CC-AfAd7J8",
+    "rank": 12,
+    "rankVar": -8
   },
   {
     "id": 1462,
@@ -220,8 +248,8 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 10,
-    "rankVar": 1
+    "rank": 12,
+    "rankVar": -4
   },
   {
     "id": 1545,
@@ -234,8 +262,8 @@
     "videoViewCount": "0",
     "videoThumbnail": "",
     "videoUrl": "",
-    "rank": 10,
-    "rankVar": 1
+    "rank": 12,
+    "rankVar": -1
   },
   {
     "id": 2191,
@@ -245,25 +273,11 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "【歌ってみたよ】異星にいこうね「???」",
-    "videoViewCount": "8843",
+    "videoViewCount": "8871",
     "videoThumbnail": "https://i.ytimg.com/vi/Kwl1RtDhXew/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJajUA2IwWEygjFLvFTANjTeJV5g",
     "videoUrl": "http://youtu.be/Kwl1RtDhXew",
-    "rank": 10,
+    "rank": 12,
     "rankVar": 1
-  },
-  {
-    "id": 2334,
-    "channelUrl": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
-    "name": "GAON",
-    "thumbnail": "https://yt3.ggpht.com/nt93BUDwRGz68y1qE9klz3rNpHsUqQPniggUngnQqqIwaxmaIAKeDkLh5tBrahfz2n_8YarUQw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "Cosmo Spice / Cover by Gaon & NaSera 【NIJISANJI】",
-    "videoViewCount": "7423",
-    "videoThumbnail": "https://i.ytimg.com/vi/0d7JTeaQ5Dw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhMba164qkR7lw5vL6HOuNLkfq5A",
-    "videoUrl": "http://youtu.be/0d7JTeaQ5Dw",
-    "rank": 10,
-    "rankVar": 0
   },
   {
     "id": 3501,
@@ -273,24 +287,10 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "SCARLE YONAGUNI NEW OUTFIT REVEAL ANNOUNCEMENT #OyasuScarle 💋",
-    "videoViewCount": "4.08萬",
+    "videoViewCount": "4.39萬",
     "videoThumbnail": "https://i.ytimg.com/vi/AEB-s_C-eR0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTdb-XAuDpoIQimEtB8xzFy0-v0w",
     "videoUrl": "http://youtu.be/AEB-s_C-eR0",
-    "rank": 10,
-    "rankVar": -1
-  },
-  {
-    "id": 3505,
-    "channelUrl": "https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg",
-    "name": "マリアマリネット",
-    "thumbnail": "https://yt3.googleusercontent.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "0",
-    "score": "0",
-    "videoTitle": "【Moonlight Destiny - りすこ from STAR☆ANIS 】Cover by Maria Marionette & Elira Pendora ♡ NIJISANJI EＮ",
-    "videoViewCount": "4.2萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/V0m7bsAqWzQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAM12PSDBT2FWuKhh27ag5tPcuzWQ",
-    "videoUrl": "http://youtu.be/V0m7bsAqWzQ",
-    "rank": 10,
-    "rankVar": 1
+    "rank": 12,
+    "rankVar": 3
   }
 ]

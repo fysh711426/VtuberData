@@ -1,45 +1,31 @@
 [
   {
-    "id": 1451,
-    "channelUrl": "https://www.youtube.com/channel/UCTIE7LM5X15NVugV7Krp9Hw",
-    "name": "夢追翔",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8gugJg3MtiqBIxbnvoCr0mJDKH4S4Jb4DV5Ys3=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "32.8萬",
-    "score": "0.61",
-    "videoTitle": "ジェヘナ(Gehenna) / wotaku (Covered by 夢追翔)【歌ってみた/にじさんじ】",
-    "videoViewCount": "56.02萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/zEUybWru-sU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoD0Ue-m90fcFNalNy_kTbJVnXnA",
-    "videoUrl": "http://youtu.be/zEUybWru-sU",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
-    "id": 3443,
-    "channelUrl": "https://www.youtube.com/channel/UCcDDxnoQcezyTUzHg5uHaKg",
-    "name": "四季凪アキラ(しきなぎあきら)",
-    "thumbnail": "https://yt3.ggpht.com/fPcz-rWxhT5YfD6C4gRFMCXqK-mkk2ew1Qq9tijCZQ20cE-Rd2DMoE4SOVT0TNEgRLep-tcyEg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "33.8萬",
-    "score": "0.3",
-    "videoTitle": "渡会雲雀を人生初のコストコに連れていこう！【Vlog?/四季凪アキラ/渡会雲雀/風楽奏斗/セラフ・ダズルガーデン/VOLTACTION/にじさんじ】",
-    "videoViewCount": "34.65萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/DLz_DLf3WXM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNzGXPx3byABCgLPjgrCjCV1bIuA",
-    "videoUrl": "http://youtu.be/DLz_DLf3WXM",
-    "rank": 2,
-    "rankVar": null
-  },
-  {
     "id": 1338,
     "channelUrl": "https://www.youtube.com/channel/UCz6vnIbgiqFT9xUcD6Bp65Q",
     "name": "クロノワール(叶 葛葉)",
     "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9pQ_r_dSnQPNT04DTXDaOAMf3ggG6BjEQY5VA0=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "91萬",
+    "subscribe": "91.1萬",
     "score": "0.22",
     "videoTitle": "【k4sen&ボドカ襲来】ストリーマーに再びひっかけクイズ出してみた結果… #くろなん",
-    "videoViewCount": "82.73萬",
+    "videoViewCount": "83.08萬",
     "videoThumbnail": "https://i.ytimg.com/vi/zh4JxMX5sSk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDM4be2b23WnR4w1TE9mmlRdKQIcg",
     "videoUrl": "http://youtu.be/zh4JxMX5sSk",
-    "rank": 3,
-    "rankVar": -2
+    "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 2334,
+    "channelUrl": "https://www.youtube.com/channel/UCpRXCTyNNa-MnjhK6gisnRw",
+    "name": "GAON",
+    "thumbnail": "https://yt3.ggpht.com/nt93BUDwRGz68y1qE9klz3rNpHsUqQPniggUngnQqqIwaxmaIAKeDkLh5tBrahfz2n_8YarUQw=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "5萬",
+    "score": "0.2",
+    "videoTitle": "Cosmo Spice / Cover by Gaon & NaSera 【NIJISANJI】",
+    "videoViewCount": "7576",
+    "videoThumbnail": "https://i.ytimg.com/vi/0d7JTeaQ5Dw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhMba164qkR7lw5vL6HOuNLkfq5A",
+    "videoUrl": "http://youtu.be/0d7JTeaQ5Dw",
+    "rank": 2,
+    "rankVar": null
   },
   {
     "id": 1380,
@@ -49,10 +35,10 @@
     "subscribe": "51.3萬",
     "score": "0.2",
     "videoTitle": "【#にじさんじスマブラ杯】出場ライバーのキャラ選択音声収録配信2024【にじさんじ/ジョー・力一】",
-    "videoViewCount": "24.46萬",
+    "videoViewCount": "25.87萬",
     "videoThumbnail": "https://i.ytimg.com/vi/TkmzMNcX5h4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxRhD9BEyVwZQQ2HXVcsmyi6G6ww",
     "videoUrl": "http://youtu.be/TkmzMNcX5h4",
-    "rank": 4,
-    "rankVar": null
+    "rank": 3,
+    "rankVar": -2
   }
 ]
