@@ -1,30 +1,44 @@
 [
   {
+    "id": 5957,
+    "channelUrl": "https://www.youtube.com/channel/UCOHK3Ro-EOc8075CdmOKLmQ",
+    "name": "吧噗",
+    "thumbnail": "https://yt3.googleusercontent.com/G1f1e1qUAY0hoKkJyVvVR53pQdJUPNMXON5Seaqt4BhJgtytdsvMVnLU8tZ9f7jOUznnc9fZb6E=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "2560",
+    "score": "3.64",
+    "videoTitle": "【 吧噗 🍦】 05/12 💤  不助眠向，吸腦隨 ! 來回通道聲音 ! 舔舔舔 !",
+    "videoViewCount": "2944",
+    "videoThumbnail": "https://i.ytimg.com/vi/Ax9gl_lbOK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA58jc_Yngh6m1cPPtm5Os0ddhOQA",
+    "videoUrl": "http://youtu.be/Ax9gl_lbOK0",
+    "rank": 1,
+    "rankVar": 1
+  },
+  {
+    "id": 577,
+    "channelUrl": "https://www.youtube.com/channel/UCgYobGgRQSOS2NMbNAGKtuw",
+    "name": "夜見愛夢",
+    "thumbnail": "https://yt3.googleusercontent.com/4geecnPDmTaC8ka_4M88QCyna3pk23HCOQUdn2mMlFTAA8wWt7oGrHRoPWzHdCjSQERmUoaBTA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "6020",
+    "score": "3.08",
+    "videoTitle": "【雜談配信】我們做得到！今天6000訂閱再下播！【夜見愛夢】#台V #Vtuber #TWvtuber",
+    "videoViewCount": "1123",
+    "videoThumbnail": "https://i.ytimg.com/vi/jVi07dSIjTI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkOEr5EjC24ebhX2sHCK12o1vKuA",
+    "videoUrl": "http://youtu.be/jVi07dSIjTI",
+    "rank": 2,
+    "rankVar": null
+  },
+  {
     "id": 4914,
     "channelUrl": "https://www.youtube.com/channel/UCFW2f74gc_LYjilkurMEBGA",
     "name": "-Jii-",
     "thumbnail": "https://yt3.googleusercontent.com/qotpPUSGRnDZd8nIoSSH7u9GQ2v5Rlhm1ZsQLnaxHswEgmiec40VHDiu5yDKLJ4aCbcIaf8RlLA=s176-c-k-c0x00ffffff-no-rj",
     "subscribe": "13萬",
-    "score": "1.56",
+    "score": "0.78",
     "videoTitle": "SEVENTEEN 'MAESTRO' 中文版 Chinese Cover",
-    "videoViewCount": "5.16萬",
+    "videoViewCount": "5.2萬",
     "videoThumbnail": "https://i.ytimg.com/vi/4z494hRTan4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf6LSo-XH9UxWjKEZxLlGSb7EW_w",
     "videoUrl": "http://youtu.be/4z494hRTan4",
-    "rank": 1,
-    "rankVar": 2
-  },
-  {
-    "id": 4235,
-    "channelUrl": "https://www.youtube.com/channel/UCgcsXpelBL91q0UYn8CNG3w",
-    "name": "星波",
-    "thumbnail": "https://yt3.googleusercontent.com/n55VHfyGMYWj_sahgVqjRn3FCcpYmZL7oxEOCMbxqOQvvDb9AmD9w1KqB68dQgpxUQ4DjKz2dw=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "371",
-    "score": "0.27",
-    "videoTitle": "",
-    "videoViewCount": "0",
-    "videoThumbnail": "",
-    "videoUrl": "",
-    "rank": 2,
+    "rank": 3,
     "rankVar": null
   }
 ]

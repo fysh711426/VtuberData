@@ -1,19 +1,5 @@
 [
   {
-    "id": 6035,
-    "channelUrl": "https://www.youtube.com/channel/UCs5FNYPHeZz5f7N1BDExxfg",
-    "name": "玖玖巴",
-    "thumbnail": "https://yt3.googleusercontent.com/fx7HBUvSAuCWPx1ImQiceTXtaXnwwBpnr8i1glkTH7YBzXoEqN43Rd5Slnb09D9grFyR_0r5bhM=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "2330",
-    "score": "2,330",
-    "videoTitle": "【玖玖巴🍺】2023/07/29 圖奇精華｜有沒有看過用繪圖板玩星鐵的 #原神 #崩壞:星穹鐵道",
-    "videoViewCount": "1952",
-    "videoThumbnail": "https://i.ytimg.com/vi/RIUg7Ig319w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsJCrXnRj9_pZlwWOTEyjbKprkOg",
-    "videoUrl": "http://youtu.be/RIUg7Ig319w",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
     "id": 6024,
     "channelUrl": "https://www.youtube.com/channel/UCDnyGqm_0uQwaTRD93XPfVQ",
     "name": "貓目ネロ",
@@ -21,10 +7,10 @@
     "subscribe": "35",
     "score": "35",
     "videoTitle": "無修音注意！Cover【貓目ネロNero.】10cm-봄이 좋냐?? /喜歡春天嗎？？",
-    "videoViewCount": "40",
+    "videoViewCount": "42",
     "videoThumbnail": "https://i.ytimg.com/vi/t0fWkYHWDTM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJqMqDpy88A1aFEsGLcr_N-Sh5dQ",
     "videoUrl": "http://youtu.be/t0fWkYHWDTM",
-    "rank": 2,
+    "rank": 1,
     "rankVar": null
   },
   {
@@ -35,10 +21,24 @@
     "subscribe": "0",
     "score": "0",
     "videoTitle": "初配信後日談｜今天總不可能繼續PON了吧！！！！ ◊· 菲芮絲 ·◊",
-    "videoViewCount": "101",
+    "videoViewCount": "102",
     "videoThumbnail": "https://i.ytimg.com/vi/yi4kJPHjuO4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf4jgjvyueqPRQw66FZMoF2Jf5lQ",
     "videoUrl": "http://youtu.be/yi4kJPHjuO4",
-    "rank": 3,
+    "rank": 2,
+    "rankVar": null
+  },
+  {
+    "id": 6035,
+    "channelUrl": "https://www.youtube.com/channel/UCs5FNYPHeZz5f7N1BDExxfg",
+    "name": "玖玖巴",
+    "thumbnail": "https://yt3.googleusercontent.com/fx7HBUvSAuCWPx1ImQiceTXtaXnwwBpnr8i1glkTH7YBzXoEqN43Rd5Slnb09D9grFyR_0r5bhM=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "0",
+    "score": "0",
+    "videoTitle": "【玖玖巴🍺】2023/07/29 圖奇精華｜有沒有看過用繪圖板玩星鐵的 #原神 #崩壞:星穹鐵道",
+    "videoViewCount": "1982",
+    "videoThumbnail": "https://i.ytimg.com/vi/RIUg7Ig319w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsJCrXnRj9_pZlwWOTEyjbKprkOg",
+    "videoUrl": "http://youtu.be/RIUg7Ig319w",
+    "rank": 2,
     "rankVar": null
   }
 ]
