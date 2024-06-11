@@ -1,5 +1,19 @@
 [
   {
+    "id": 6035,
+    "channelUrl": "https://www.youtube.com/channel/UCs5FNYPHeZz5f7N1BDExxfg",
+    "name": "玖玖巴",
+    "thumbnail": "https://yt3.googleusercontent.com/fx7HBUvSAuCWPx1ImQiceTXtaXnwwBpnr8i1glkTH7YBzXoEqN43Rd5Slnb09D9grFyR_0r5bhM=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "2770",
+    "score": "18.88",
+    "videoTitle": "【玖玖巴🍺】2023/07/29 圖奇精華｜有沒有看過用繪圖板玩星鐵的 #原神 #崩壞:星穹鐵道",
+    "videoViewCount": "2121",
+    "videoThumbnail": "https://i.ytimg.com/vi/RIUg7Ig319w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsJCrXnRj9_pZlwWOTEyjbKprkOg",
+    "videoUrl": "http://youtu.be/RIUg7Ig319w",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
     "id": 6024,
     "channelUrl": "https://www.youtube.com/channel/UCDnyGqm_0uQwaTRD93XPfVQ",
     "name": "貓目ネロ",
@@ -7,10 +21,10 @@
     "subscribe": "37",
     "score": "5.71",
     "videoTitle": "無修音注意！Cover【貓目ネロNero.】10cm-봄이 좋냐?? /喜歡春天嗎？？",
-    "videoViewCount": "44",
+    "videoViewCount": "45",
     "videoThumbnail": "https://i.ytimg.com/vi/t0fWkYHWDTM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJqMqDpy88A1aFEsGLcr_N-Sh5dQ",
     "videoUrl": "http://youtu.be/t0fWkYHWDTM",
-    "rank": 1,
+    "rank": 2,
     "rankVar": null
   },
   {
@@ -18,13 +32,41 @@
     "channelUrl": "https://www.youtube.com/channel/UC8ldmN1z2EW_LnHFsJvlDsg",
     "name": "Ubi chan",
     "thumbnail": "https://yt3.googleusercontent.com/e-LF6yYvJXoxKTlGFXiT93l5neoOa2NLC9Aa0LVBrOGWcGjEK2TkGvVMyPibPZ5Tl7FW4m1aQys=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "482",
-    "score": "3.66",
+    "subscribe": "481",
+    "score": "3.44",
     "videoTitle": "【AI Vtuber】六月啦~ 這個月運勢如何呢? 讓優必醬幫大家算算吧~~   #直式配信 #縱型配信   #aivtuber #ai #Vtuber #Friday #運勢占い  #運勢 #六月",
-    "videoViewCount": "413",
+    "videoViewCount": "415",
     "videoThumbnail": "https://i.ytimg.com/vi/gn1XZt1kZSQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRa-OKH4ZCBn-ikPGxjUM97Yixbg",
     "videoUrl": "http://youtu.be/gn1XZt1kZSQ",
-    "rank": 2,
-    "rankVar": -1
+    "rank": 3,
+    "rankVar": null
+  },
+  {
+    "id": 5906,
+    "channelUrl": "https://www.youtube.com/channel/UCdV1xzAvNvj-6VePNhmnAAQ",
+    "name": "哩糯",
+    "thumbnail": "https://yt3.googleusercontent.com/eC0xozoBSK--Tjd6Te53L1agGuNzRW7ooLzjPiG7dYPrUph2JNCprSVk6NCCgjHvIj1-IvHLMnQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "36",
+    "score": "2.86",
+    "videoTitle": "",
+    "videoViewCount": "0",
+    "videoThumbnail": "",
+    "videoUrl": "",
+    "rank": 4,
+    "rankVar": null
+  },
+  {
+    "id": 4914,
+    "channelUrl": "https://www.youtube.com/channel/UCFW2f74gc_LYjilkurMEBGA",
+    "name": "-Jii-",
+    "thumbnail": "https://yt3.googleusercontent.com/qotpPUSGRnDZd8nIoSSH7u9GQ2v5Rlhm1ZsQLnaxHswEgmiec40VHDiu5yDKLJ4aCbcIaf8RlLA=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "13.1萬",
+    "score": "0.77",
+    "videoTitle": "IVE- Accendio 中文版 Chinese Version",
+    "videoViewCount": "4.68萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/f3PhnliIGK0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAF25EKzma0nWdrtMm9sYE20okmTQ",
+    "videoUrl": "http://youtu.be/f3PhnliIGK0",
+    "rank": 5,
+    "rankVar": -4
   }
 ]
