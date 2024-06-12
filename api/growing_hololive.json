@@ -1,33 +1,5 @@
 [
   {
-    "id": 1238,
-    "channelUrl": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-    "name": "小鳥遊琪亞拉",
-    "thumbnail": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "152萬",
-    "score": "0.66",
-    "videoTitle": "CHIMERA - Takanashi Kiara (Official Music Video)",
-    "videoViewCount": "159.26萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/6L4NNkF2Knc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaNi9nmlWNaaqPyO_eKoZyrIEhSg",
-    "videoUrl": "http://youtu.be/6L4NNkF2Knc",
-    "rank": 1,
-    "rankVar": null
-  },
-  {
-    "id": 1230,
-    "channelUrl": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-    "name": "星街彗星",
-    "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0m7dbn-y21dl-MfaM8t36EbRRwib1hnHzCMkwbg=s176-c-k-c0x00ffffff-no-rj",
-    "subscribe": "234萬",
-    "score": "0.43",
-    "videoTitle": "【 ロケVTR 】 300人前カレーを作る⁉️🍛社員さんにごちそうしてみた✨",
-    "videoViewCount": "59.94萬",
-    "videoThumbnail": "https://i.ytimg.com/vi/xk9IwOX3yjQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtKpCi5oIOT3puiQgfnAu7Um0xLA",
-    "videoUrl": "http://youtu.be/xk9IwOX3yjQ",
-    "rank": 2,
-    "rankVar": 0
-  },
-  {
     "id": 1225,
     "channelUrl": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
     "name": "白上吹雪",
@@ -35,10 +7,24 @@
     "subscribe": "237萬",
     "score": "0.42",
     "videoTitle": "ブリにゃんモードはピピピのピ♡/ホワイトブリニャン(Original)",
-    "videoViewCount": "77.8萬",
+    "videoViewCount": "78.27萬",
     "videoThumbnail": "https://i.ytimg.com/vi/UDY9uIHTWGw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoNBH0pafmUAeFVBs2avHj3SXV9g",
     "videoUrl": "http://youtu.be/UDY9uIHTWGw",
-    "rank": 3,
+    "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 1328,
+    "channelUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+    "name": "Hakos Baelz",
+    "thumbnail": "https://yt3.ggpht.com/7gFSRIM3_DhczV8AYjeP4EaS0OL-u_xLvIh9JhG9zJhPYEfVwsoUOK61L6eBlLjnPHN-EDvytQ=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "91.3萬",
+    "score": "0.11",
+    "videoTitle": "【MV】Los! Los! Los! || HAKOS BAELZ COVER",
+    "videoViewCount": "69.84萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/oCOGTtxq24k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb1j3CmOJdRr9noTc2h8KrRCAVjg",
+    "videoUrl": "http://youtu.be/oCOGTtxq24k",
+    "rank": 2,
     "rankVar": null
   }
 ]
