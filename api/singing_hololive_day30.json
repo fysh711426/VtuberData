@@ -1,17 +1,59 @@
 [
   {
+    "id": 1261,
+    "channelUrl": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+    "name": "時乃空",
+    "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s160-c-k-c0x00ffffff-no-rj",
+    "subscribe": "122萬",
+    "score": "172,746",
+    "videoTitle": "【そらポル歌枠】ポルカおらぬ？待ちつつ歌う？【ホロライブ/ときのそら/尾丸ポルカ】",
+    "videoViewCount": "17.27萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/tr-nW5t2z1Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0Fu7TkRjvgeXuWlBc4noUiRzxRQ",
+    "videoUrl": "http://youtu.be/tr-nW5t2z1Y",
+    "rank": 1,
+    "rankVar": null
+  },
+  {
+    "id": 1304,
+    "channelUrl": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+    "name": "AZKi",
+    "thumbnail": "https://yt3.googleusercontent.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s160-c-k-c0x00ffffff-no-rj",
+    "subscribe": "110萬",
+    "score": "134,536",
+    "videoTitle": "【歌枠】ホロなつビンゴ歌枠！歌って全部ビンゴする！！！！！Singing Stream【ホロライブ / AZKi】",
+    "videoViewCount": "13.45萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/TjMwQS5K6Ts/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_GsVUnPqJsQP-QlMYo6eG-IwVSA",
+    "videoUrl": "http://youtu.be/TjMwQS5K6Ts",
+    "rank": 2,
+    "rankVar": null
+  },
+  {
+    "id": 1258,
+    "channelUrl": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+    "name": "大神澪",
+    "thumbnail": "https://yt3.googleusercontent.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s160-c-k-c0x00ffffff-no-rj",
+    "subscribe": "122萬",
+    "score": "111,986",
+    "videoTitle": "【バラード歌枠】お久しぶりのお歌です【ホロライブ/大神ミオ】",
+    "videoViewCount": "11.2萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/KLU1Zn6_u_w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFRQcInj22zEoF5QAZLLktdOysZw",
+    "videoUrl": "http://youtu.be/KLU1Zn6_u_w",
+    "rank": 3,
+    "rankVar": null
+  },
+  {
     "id": 1246,
     "channelUrl": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
     "name": "角卷綿芽",
     "thumbnail": "https://yt3.googleusercontent.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s160-c-k-c0x00ffffff-no-rj",
     "subscribe": "158萬",
-    "score": "97,203",
+    "score": "97,221",
     "videoTitle": "【歌枠】角巻わためは歌って告知がしたい！！！Singing Stream🎤【角巻わため/ホロライブ４期生】",
     "videoViewCount": "9.72萬",
     "videoThumbnail": "https://i.ytimg.com/vi/gTtRTrxw9oA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfEK2gSR2YRwGQxWZqDigLixX2Ew",
     "videoUrl": "http://youtu.be/gTtRTrxw9oA",
-    "rank": 1,
-    "rankVar": 0
+    "rank": 4,
+    "rankVar": -3
   },
   {
     "id": 1306,
@@ -24,7 +66,35 @@
     "videoViewCount": "7.16萬",
     "videoThumbnail": "https://i.ytimg.com/vi/aF_PTFCvXyc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCpOx-3xKZHE9YT-xmZjguwoHjG4w",
     "videoUrl": "http://youtu.be/aF_PTFCvXyc",
-    "rank": 2,
-    "rankVar": 0
+    "rank": 5,
+    "rankVar": -3
+  },
+  {
+    "id": 1245,
+    "channelUrl": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+    "name": "夏色祭",
+    "thumbnail": "https://yt3.googleusercontent.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s160-c-k-c0x00ffffff-no-rj",
+    "subscribe": "144萬",
+    "score": "71,460",
+    "videoTitle": "【歌枠】君の好きな歌を歌う～！【ホロライブ/夏色まつり】",
+    "videoViewCount": "7.15萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/3vpPUcplpGc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCioZKtuqgInCNYK93kkK0yEYm27w",
+    "videoUrl": "http://youtu.be/3vpPUcplpGc",
+    "rank": 6,
+    "rankVar": null
+  },
+  {
+    "id": 1305,
+    "channelUrl": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+    "name": "Pavolia Reine",
+    "thumbnail": "https://yt3.ggpht.com/sG7Yb1kCxTEP9ft03E-1Tr2Rho8GhMZ0_Kq9rf5MojWY9pf8vSL24xPG8e8GaE4jOxQKYlSvaL0=s176-c-k-c0x00ffffff-no-rj",
+    "subscribe": "80.7萬",
+    "score": "26,635",
+    "videoTitle": "【✨SING/歌枠✨】Karaoke with New Outfit!! Thank You For 800k!!! 【Pavolia Reine/hololiveID】",
+    "videoViewCount": "2.66萬",
+    "videoThumbnail": "https://i.ytimg.com/vi/vEq9ijIHWdU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ2R3mF7Pbns2DFOdHFWJpWnbatA",
+    "videoUrl": "http://youtu.be/vEq9ijIHWdU",
+    "rank": 7,
+    "rankVar": null
   }
 ]
